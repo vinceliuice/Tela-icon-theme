@@ -83,36 +83,50 @@ Type=Fixed
 [symbolic/categories]
 Context=Categories
 Size=16
-Type=Fixed
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [symbolic/devices]
 Context=Devices
 Size=16
-Type=Fixed
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [symbolic/emblems]
 Context=Emblems
 Size=16
-Type=Fixed
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [symbolic/emotes]
 Context=Emotes
 Size=16
-Type=Fixed
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [symbolic/mimetypes]
 Context=Mimetypes
 Size=16
-Type=Fixed
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [symbolic/places]
 Context=Places
 Size=16
-Type=Fixed
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [symbolic/status]
 Context=Status
 Size=16
-Type=Fixed
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 
