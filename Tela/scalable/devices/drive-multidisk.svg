@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1"
+   id="svg34"
+   sodipodi:docname="drive-multidisk.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient856">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop852" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop854" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient856"
+       id="linearGradient858"
+       x1="40.777344"
+       y1="18"
+       x2="60"
+       y2="18"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient856"
+       id="linearGradient862"
+       gradientUnits="userSpaceOnUse"
+       x1="40.777344"
+       y1="18"
+       x2="60"
+       y2="18"
+       gradientTransform="translate(0,24)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview36"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:zoom="7.3750001"
+     inkscape:cx="-14.543757"
+     inkscape:cy="43.276349"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34">
+    <inkscape:grid
+       type="xygrid"
+       id="grid864" />
+  </sodipodi:namedview>
+  <g
+     id="g32">
+    <rect
+       style="fill:#333333"
+       width="6"
+       height="4"
+       x="48"
+       y="52"
+       id="rect18" />
+    <rect
+       style="fill:#333333"
+       width="6"
+       height="4"
+       x="10"
+       y="52"
+       id="rect20" />
+    <rect
+       style="fill:#666666"
+       width="20"
+       height="56"
+       x="-52"
+       y="-60"
+       rx="4"
+       ry="4"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="rect24" />
+    <circle
+       style="fill:#9eee5a;fill-opacity:1"
+       cx="13"
+       cy="42"
+       r="3"
+       id="circle28" />
+  </g>
+  <rect
+     id="rect2"
+     y="28"
+     x="48"
+     height="4"
+     width="6"
+     style="fill:#333333" />
+  <rect
+     id="rect4"
+     y="28"
+     x="10"
+     height="4"
+     width="6"
+     style="fill:#333333" />
+  <rect
+     id="rect8"
+     transform="matrix(0,-1,-1,0,0,0)"
+     ry="4"
+     rx="4"
+     y="-60"
+     x="-28"
+     height="56"
+     width="20"
+     style="fill:#666666" />
+  <circle
+     id="circle12"
+     r="3"
+     cy="18"
+     cx="13"
+     style="fill:#9eee5a;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="rect847"
+     d="M 53.353516,8 A 30.983051,30.983051 0 0 1 40.777344,28 H 56 c 2.216,0 4,-1.784 4,-4 V 12 C 60,9.784 58.216,8 56,8 Z"
+     style="opacity:0.25;fill:url(#linearGradient858);fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.25;fill:url(#linearGradient862);fill-opacity:1"
+     d="M 53.353516,32 A 30.983051,30.983051 0 0 1 40.777344,52 H 56 c 2.216,0 4,-1.784 4,-4 V 36 c 0,-2.216 -1.784,-4 -4,-4 z"
+     id="path860" />
+</svg>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="unity-webapps-google-calendar.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="-9.4131442"
+     inkscape:cy="45.404717"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,15.345833"
+       orientation="1,0"
+       id="guide826"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.5875,8.4666665"
+       orientation="0,1"
+       id="guide828"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49581587;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       id="rect822"
+       width="13.758333"
+       height="13.758333"
+       x="1.5874999"
+       y="281.65417"
+       ry="0.52916181" />
+    <rect
+       ry="0.52916181"
+       y="281.65417"
+       x="1.5874999"
+       height="13.758333"
+       width="13.758333"
+       id="rect831"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49581587;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
+    <path
+       style="opacity:0.06;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87394977;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       d="M 8 6 C 6.8920101 6 6 6.8920101 6 8 L 6 32 L 58 32 L 58 8 C 58 6.8920101 57.10799 6 56 6 L 8 6 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="rect850" />
+    <g
+       aria-label="7"
+       style="font-style:normal;font-weight:normal;font-size:7.45688009px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.18642199"
+       id="text857">
+      <path
+         d="m 7.447171,292.7861 2.0681191,-4.7188 H 6.7480885 v -0.6117 h 3.4371555 v 0.52431 l -2.0389904,4.80619 z"
+         style="fill:#333333;stroke-width:0.18642199"
+         id="path863" />
+    </g>
+    <g
+       aria-label="星期五"
+       style="font-style:normal;font-weight:normal;font-size:2.93219209px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5f8fd3;fill-opacity:1;stroke:none;stroke-width:0.0733048"
+       id="text861">
+      <path
+         d="m 4.5551683,283.31038 h 2.0044281 v 1.05376 H 5.7005558 v 0.27489 h 1.007941 v 0.20617 h -1.007941 v 0.26344 h 0.91631 v 0.20617 h -0.91631 v 0.27489 h 1.1110259 v 0.21763 H 4.2917291 v -0.21763 h 1.1682953 v -0.27489 H 4.5666221 v -0.20617 H 5.4600244 V 284.8452 H 4.7040686 q -0.1145387,0.18326 -0.2634391,0.32071 l -0.2061698,-0.16036 q 0.2978008,-0.27489 0.4352473,-0.6185 l 0.2176236,0.0802 -0.068723,0.17181 h 0.641417 v -0.27489 H 4.5551683 Z m 0.2290775,0.43525 h 1.5462731 v -0.22908 H 4.7842458 Z m 0,0.41234 h 1.5462731 v -0.22908 H 4.7842458 Z"
+         style="fill:#5f8fd3;stroke-width:0.0733048;fill-opacity:1"
+         id="path866" />
+      <path
+         d="m 9.6979583,283.33329 v 2.2106 q 0,0.16035 -0.068723,0.24053 -0.068723,0.0802 -0.2061697,0.0802 -0.1030849,0 -0.274893,-0.0229 l -0.057269,-0.24053 q 0.183262,0.0344 0.2863469,0.0344 0.091631,0 0.091631,-0.16036 v -0.54978 H 8.9420025 q -0.057269,0.52688 -0.2863469,0.95067 l -0.2061697,-0.1489 q 0.274893,-0.48106 0.274893,-1.06521 v -1.32865 z m -0.733048,0.69869 h 0.5039705 v -0.48107 H 8.9649103 Z m 0,0.68723 h 0.5039705 v -0.48107 H 8.9649103 Z M 7.2010135,283.58527 H 7.430091 v -0.34361 h 0.2290775 v 0.34361 h 0.4810627 v -0.34361 h 0.2290775 v 0.34361 h 0.2290776 v 0.20617 H 8.3693087 v 1.24848 h 0.2176237 v 0.20617 H 7.1666518 v -0.20617 H 7.430091 v -1.24848 H 7.2010135 Z m 0.458155,0.49252 h 0.4810627 v -0.28635 H 7.6591685 Z m 0,0.48106 h 0.4810627 v -0.28634 H 7.6591685 Z m 0,0.48107 h 0.4810627 v -0.28635 H 7.6591685 Z m -0.034362,0.26344 0.1947159,0.12599 q -0.1947159,0.28634 -0.4467011,0.45815 l -0.1718081,-0.19471 q 0.2634391,-0.17181 0.4237933,-0.38943 z m 0.5497861,0 q 0.1489003,0.1718 0.2405313,0.36652 l -0.183262,0.10308 q -0.091631,-0.18326 -0.2405313,-0.35507 z"
+         style="fill:#5f8fd3;stroke-width:0.0733048;fill-opacity:1"
+         id="path868" />
+      <path
+         d="m 10.247744,283.40201 h 2.336591 v 0.21763 h -1.191203 l -0.160354,0.68723 h 1.099572 v 1.22556 h 0.366524 v 0.21763 h -2.565668 v -0.21763 h 0.607055 l 0.217624,-1.00794 h -0.607056 v -0.21762 H 11.0037 l 0.160354,-0.68723 h -0.91631 z m 0.721594,2.13042 h 1.133934 v -1.00794 h -0.91631 z"
+         style="fill:#5f8fd3;stroke-width:0.0733048;fill-opacity:1"
+         id="path870" />
+    </g>
+  </g>
+</svg>

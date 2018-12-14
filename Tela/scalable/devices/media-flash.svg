@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1"
+   id="svg30"
+   sodipodi:docname="media-memory-sd.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient862">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop858" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop860" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient862"
+       id="linearGradient864"
+       x1="40.005859"
+       y1="56"
+       x2="40.005859"
+       y2="4"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview32"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="54.232017"
+     inkscape:cy="9.9523937"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#4f4f4f"
+     d="M 20,4 10,14 v 40 c 0,1.385 0.615,2 2,2 h 40 c 1.385,0 2,-0.615 2,-2 V 6.5 C 54,5.115 52.885,4 51.5,4 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccssssssc" />
+  <rect
+     style="opacity:0.4"
+     width="34"
+     height="20"
+     x="15"
+     y="-53"
+     rx="2.5"
+     ry="2.5"
+     transform="scale(1,-1)"
+     id="rect6" />
+  <g
+     style="fill:#f8c44e"
+     id="g26">
+    <rect
+       width="3"
+       height="8"
+       x="47"
+       y="9"
+       id="rect8" />
+    <rect
+       width="3"
+       height="8"
+       x="43"
+       y="9"
+       id="rect10" />
+    <rect
+       width="3"
+       height="8"
+       x="39"
+       y="9"
+       id="rect12" />
+    <rect
+       width="3"
+       height="8"
+       x="35"
+       y="9"
+       id="rect14" />
+    <rect
+       width="3"
+       height="8"
+       x="31"
+       y="9"
+       id="rect16" />
+    <rect
+       width="3"
+       height="8"
+       x="27"
+       y="9"
+       id="rect18" />
+    <rect
+       width="3"
+       height="8"
+       x="23"
+       y="9"
+       id="rect20" />
+    <rect
+       width="3"
+       height="8"
+       x="19"
+       y="9"
+       id="rect22" />
+    <rect
+       width="3"
+       height="4"
+       x="15"
+       y="13"
+       id="rect24" />
+  </g>
+  <path
+     style="fill:url(#linearGradient864);opacity:0.25;fill-opacity:1"
+     d="M 47.71875 4 A 52.5 52.5 0 0 1 48.5 13 A 52.5 52.5 0 0 1 26.011719 56 L 52 56 C 53.385 56 54 55.385 54 54 L 54 6.5 C 54 5.115 52.885 4 51.5 4 L 47.71875 4 z "
+     id="path845" />
+</svg>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1"
+   id="svg22"
+   sodipodi:docname="drive-harddisk-ieee1394.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient834"
+       id="linearGradient836"
+       x1="30.65625"
+       y1="48.703125"
+       x2="53"
+       y2="48.703125"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient834">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop830" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop832" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview24"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="2.9176311"
+     inkscape:cy="44.641113"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#666666;stroke-width:0.94146883"
+     width="52"
+     height="42"
+     x="-58"
+     y="-53"
+     rx="3"
+     ry="3"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect4" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.25;fill:url(#linearGradient836);fill-opacity:1;stroke-width:0.94146883"
+     d="M 53,39.40625 A 37.5,37.5 0 0 1 30.65625,58 H 50 c 1.662,0 3,-1.338 3,-3 z"
+     id="rect825" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.03225803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:markers stroke fill"
+     id="path822"
+     cx="32"
+     cy="31"
+     r="16" />
+  <circle
+     r="14"
+     cy="31"
+     cx="32"
+     id="circle824"
+     style="opacity:1;fill:#537bbc;fill-opacity:1;stroke:none;stroke-width:0.90322578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:markers stroke fill" />
+  <g
+     style="opacity:1;fill:#ffffff"
+     id="g20"
+     transform="matrix(0.67343503,0,0,0.67343503,10.452381,10.547619)">
+    <rect
+       width="8"
+       height="3"
+       x="28"
+       y="40"
+       id="rect8"
+       style="fill:#ffffff" />
+    <rect
+       width="8"
+       height="3"
+       x="28"
+       y="45"
+       id="rect10"
+       style="fill:#ffffff" />
+    <path
+       d="m 32,24 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,3 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <rect
+       width="8"
+       height="8"
+       x="-48.5"
+       y="9.75"
+       transform="rotate(-135)"
+       id="rect14"
+       style="fill:#ffffff" />
+    <rect
+       width="8"
+       height="3"
+       x="-4.75"
+       y="-35.5"
+       transform="rotate(135)"
+       id="rect16"
+       style="fill:#ffffff" />
+    <rect
+       width="8"
+       height="3"
+       x="-4.75"
+       y="-30.5"
+       transform="rotate(135)"
+       id="rect18"
+       style="fill:#ffffff" />
+  </g>
+</svg>

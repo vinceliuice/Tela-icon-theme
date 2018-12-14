@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="voice.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath904">
+      <circle
+         style="opacity:1;fill:#d86eb0;fill-opacity:1;stroke:none;stroke-width:0.49136904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+         id="circle906"
+         cx="8.4666672"
+         cy="288.53333"
+         r="6.8791666" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="22.672151"
+     inkscape:cy="10.485687"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="0,1"
+       id="guide822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="1,0"
+       id="guide824"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <circle
+       r="6.8791666"
+       cy="288.53333"
+       cx="8.4666662"
+       id="circle884"
+       style="opacity:1;fill:#d86eb0;fill-opacity:1;stroke:none;stroke-width:0.49136901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55269653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       id="rect832"
+       width="3.175"
+       height="5.2916665"
+       x="6.8791666"
+       y="285.35834"
+       ry="1.5874991"
+       rx="1.5875" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.38415813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       d="M 23.5 33.5 A 0.49902403 0.49903028 0 0 0 23 34 A 0.49902403 0.49903028 0 0 0 23.005859 34.0625 A 9.0000009 8.9999998 0 0 0 32 43 A 9.0000009 8.9999998 0 0 0 40.996094 34.050781 A 0.49902403 0.49903028 0 0 0 40.998047 34.013672 A 9.0000009 8.9999998 0 0 0 40.998047 34 A 0.49902403 0.49903028 0 0 1 40.998047 33.998047 A 0.49902403 0.49903028 0 0 0 40.498047 33.5 A 0.49902403 0.49903028 0 0 0 40 33.998047 L 39.998047 33.998047 A 7.9982568 7.998256 0 0 1 32 41.998047 A 7.9982568 7.998256 0 0 1 24.003906 33.998047 L 23.998047 33.998047 A 0.49902403 0.49903028 0 0 0 23.5 33.5 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="path834" />
+    <g
+       id="g876"
+       transform="translate(-6.7529297e-7,-0.00272159)"
+       clip-path="url(#clipPath904)">
+      <path
+         sodipodi:nodetypes="csssc"
+         inkscape:connector-curvature="0"
+         id="path867"
+         d="m 0,287.73959 c 0,0 2.2837192,-0.73323 3.4676196,1.97766 0.6743132,1.54404 1.6231366,2.22869 2.7726928,2.28322 1.4799019,0.0702 2.672279,-1.22623 3.45853,-2.38507 1.6025206,-2.36193 4.1887126,-1.8677 6.2439576,-0.97001"
+         style="opacity:0.35;fill:none;stroke:#ffffff;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.93670888" />
+      <path
+         style="opacity:0.35;fill:none;stroke:#ffffff;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.93670888"
+         d="m 0,289.10975 c 0,0 2.7856621,-2.64951 4.365313,-0.14846 0.7215602,1.14244 1.5758897,2.86653 4.0483625,2.70845 1.478547,-0.0945 2.9559765,-0.71049 3.7183885,-2.14883 1.387806,-2.61819 3.338267,-2.52917 4.165089,-1.39524"
+         id="path869"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssc" />
+      <path
+         sodipodi:nodetypes="csssc"
+         inkscape:connector-curvature="0"
+         id="path871"
+         d="m 0.73232886,291.0705 c 0,0 2.33681544,-2.20066 5.23938294,-1.35326 1.2970805,0.37868 2.9372253,1.84723 6.0563612,1.50365 0.823431,-0.0907 1.52221,-0.56281 2.18286,-1.46375 0.957376,-1.30559 2.015351,-1.37161 3.385513,-1.11175"
+         style="opacity:0.35;fill:none;stroke:#ffffff;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.93670888" />
+    </g>
+  </g>
+</svg>

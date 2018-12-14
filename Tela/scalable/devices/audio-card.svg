@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1"
+   id="svg54"
+   sodipodi:docname="audio-card.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs58">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient876">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop872" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop874" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient876"
+       id="linearGradient878"
+       x1="35.814453"
+       y1="32"
+       x2="60"
+       y2="32"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="38.119423"
+     inkscape:cy="23.33584"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg54" />
+  <path
+     style="fill:#419d45"
+     d="M 14.667,14.001 C 13.189,14.001 12,15.236 12,16.77 V 47.23 C 12,48.764 13.189,50 14.667,50 H 20 V 44 H 32 V 50 H 57.334 C 58.81,50 60,48.764 60,47.23 V 16.77 C 60,15.235 58.81,14 57.334,14 Z"
+     id="path4" />
+  <rect
+     style="fill:#4e4e4e"
+     width="12"
+     height="12"
+     x="30"
+     y="24"
+     rx="2.4"
+     ry="2.4"
+     id="rect6" />
+  <path
+     style="fill:none;stroke:#b7b7b7;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 6.0233,10.024 H 10.005 V 52.005"
+     id="path10" />
+  <g
+     id="g30">
+    <rect
+       style="fill:#f8c44e"
+       width="4"
+       height="8"
+       x="34"
+       y="44"
+       id="rect22" />
+    <rect
+       style="fill:#f8c44e"
+       width="4"
+       height="8"
+       x="40"
+       y="44"
+       id="rect24" />
+    <rect
+       style="fill:#f8c44e"
+       width="4"
+       height="8"
+       x="46"
+       y="44"
+       id="rect26" />
+    <rect
+       style="fill:#f8c44e"
+       width="4"
+       height="8"
+       x="52"
+       y="44"
+       id="rect28" />
+  </g>
+  <g
+     id="g48">
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="32"
+       y="21"
+       id="rect32" />
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="38"
+       y="21"
+       id="rect34" />
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="32"
+       y="35"
+       id="rect36" />
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="38"
+       y="35"
+       id="rect38" />
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="26"
+       y="-45"
+       transform="rotate(90)"
+       id="rect40" />
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="32"
+       y="-45"
+       transform="rotate(90)"
+       id="rect42" />
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="26"
+       y="-31"
+       transform="rotate(90)"
+       id="rect44" />
+    <rect
+       style="fill:#ffffff"
+       width="2"
+       height="4"
+       x="32"
+       y="-31"
+       transform="rotate(90)"
+       id="rect46" />
+  </g>
+  <path
+     style="fill:url(#linearGradient878);opacity:0.25;fill-opacity:1"
+     d="M 51.332031 14 A 37.201008 37.201008 0 0 1 51.775391 19.511719 A 37.201008 37.201008 0 0 1 35.814453 50 L 57.333984 50 C 58.809984 50 60 48.764469 60 47.230469 L 60 16.769531 C 60 15.234531 58.809984 14 57.333984 14 L 51.332031 14 z "
+     id="path867" />
+</svg>
