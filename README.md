@@ -11,4 +11,4 @@ Run
 Or double-click to open that script files and select "run at the terminal" at nautilus.
 
 ## Preview
-![Tela](../master/Preview.png)
+![Tela](../master/Preview.jpeg)
