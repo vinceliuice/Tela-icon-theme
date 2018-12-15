@@ -15,7 +15,7 @@
    version="1.1"
    id="svg4572"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="preferences-desktop-accessibility.svg">
+   sodipodi:docname="gnome-settings-accessibility-keyboard.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="51.216282"
-     inkscape:cy="23.370381"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="21.025782"
+     inkscape:cy="6.1602446"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,9 +38,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -122,7 +122,7 @@
      id="layer1"
      transform="translate(0,-280.06667)">
     <rect
-       style="fill:#3e50b4;stroke-width:0.2456845"
+       style="fill:#5767bf;stroke-width:0.2456845;fill-opacity:1"
        width="13.758333"
        height="13.758333"
        x="-295.41251"
@@ -140,7 +140,7 @@
        x="-294.35419"
        height="11.641684"
        width="11.641684"
-       style="opacity:0.15;fill:#000000;stroke-width:0.20788719" />
+       style="opacity:0.15;fill:#ffffff;stroke-width:0.20788719" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;stroke-width:0.26458332"
