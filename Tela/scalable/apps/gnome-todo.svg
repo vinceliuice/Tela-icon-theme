@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-5.6965213"
-     inkscape:cy="78.968095"
+     inkscape:cx="9.6855579"
+     inkscape:cy="31.522442"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,9 +38,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -121,11 +121,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06667)">
-    <path
-       style="opacity:1;fill:#32a3d7;fill-opacity:1;stroke:none;stroke-width:0.53822327;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:markers stroke fill"
-       d="m 13.330972,283.66903 a 6.8791666,6.8791666 0 0 0 -9.7286108,0 6.8791666,6.8791666 0 0 0 0,9.72861 6.8791666,6.8791666 0 0 0 1.1809972,0.93545 h 7.3731936 a 6.8791666,6.8791666 0 0 0 1.17442,-0.93545 6.8791666,6.8791666 0 0 0 0,-9.72861 z"
-       id="path828"
-       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:#32a3d7;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+       id="path826"
+       cx="8.4666662"
+       cy="288.53333"
+       r="6.8791666" />
     <path
        style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41577384;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:markers stroke fill"
        d="m 12.582617,284.41739 a 5.8208338,5.8208338 0 0 0 -8.2319011,0 5.8208338,5.8208338 0 0 0 0,8.2319 5.8208338,5.8208338 0 0 0 0.1538366,0.1436 h 1.304505 a 5.0270835,5.0270835 0 0 0 5.3181415,0 h 1.296466 a 5.8208338,5.8208338 0 0 0 0.158952,-0.1436 5.8208338,5.8208338 0 0 0 0,-8.2319 z"
