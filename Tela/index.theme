@@ -49,28 +49,28 @@ Type=Fixed
 [scalable/apps]
 Context=Applications
 Size=64
-MinSize=32
+MinSize=22
 MaxSize=512
 Type=Scalable
 
 [scalable/devices]
 Context=Devices
 Size=64
-MinSize=32
+MinSize=22
 MaxSize=512
 Type=Scalable
 
 [scalable/places]
 Context=Places
 Size=64
-MinSize=32
+MinSize=22
 MaxSize=512
 Type=Scalable
 
 [scalable/mimetypes]
 Context=Mimetypes
-Size=64
-MinSize=32
+Size=48
+MinSize=22
 MaxSize=512
 Type=Scalable
 

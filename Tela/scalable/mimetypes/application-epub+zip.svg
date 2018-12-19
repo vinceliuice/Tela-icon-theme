@@ -1,8 +1,128 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
- <g>
-  <path d="m 10.672 0 c -1.375 0 -2.672 1.355 -2.672 2.789 l 0 58.42 c 0 1.355 1.375 2.789 2.672 2.789 l 42.656 0 c 1.297 0 2.672 -1.434 2.672 -2.789 l 0 -43.21 l -18 -18 m -27.328 0" style="fill:#7c9c35;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <path d="m 42 18 l 14 14 l 0 -14 m -14 0" style="fill:#000;fill-opacity:0.196;stroke:none;fill-rule:nonzero"/>
-  <path d="m 38 0 l 17.984 18 l -15.227 0 c -1.348 0 -2.758 -1.426 -2.758 -2.773 m 0 -15.227" style="fill:#fff;fill-opacity:0.392;stroke:none;fill-rule:nonzero"/>
-  <path d="m 32 43.773 l -9.109 -9.109 l 9.109 -9.102 l 3.039 3.03 l -6.078 6.07 l 3.039 3.039 l 9.109 -9.109 l -7.938 -7.93 c -0.645 -0.645 -1.699 -0.645 -2.344 0 l -12.828 12.828 c -0.652 0.645 -0.652 1.699 0 2.352 l 12.828 12.828 c 0.645 0.645 1.699 0.645 2.344 0 l 12.828 -12.828 c 0.652 -0.652 0.652 -1.707 0 -2.352 l -1.859 -1.859 m -12.141 12.141" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="application-epub+zip.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="21.152542"
+     inkscape:cy="24"
+     inkscape:window-x="937"
+     inkscape:window-y="322"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">application-epub+zip</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g829">
+    <rect
+       rx="2"
+       ry="1.9047618"
+       y="4"
+       x="6"
+       height="40"
+       width="36"
+       id="rect834"
+       style="opacity:1;fill:#32a3d7;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect866"
+       d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+       style="opacity:0.15;fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+  </g>
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="90.7002767%"
+       y1="6.56534831%"
+       x2="35.3271484%"
+       y2="64.1438802%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#93DEF2"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#5ABADF"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="application-epub+zip">
+      <path
+         d="M23.8578998,20.2670001 L23.8578998,19.0068422 C23.8578998,18.448124 23.4104184,18 22.8584221,18 L15.9948931,18 C14.8922094,18 14,18.8980535 14,20.0058587 L14,29.9941413 C14,31.1029399 14.8940169,32 15.9968427,32 L22.8670793,32 C23.4179053,32 23.8675337,31.5558138 23.8675337,31.0078824 L23.8675337,29.9213421 C23.6136041,29.969103 23.3571957,29.9958838 23.1007873,29.999425 C20.2009329,30.0479882 19.1962589,27.0127834 20.6804363,23.880452 C21.5800485,21.9818359 22.7900544,20.7701421 23.8578998,20.2670001 Z M24.8516378,20.0011768 L24.8516378,19.0068422 C24.8516378,18.4507786 25.2928823,18 25.8480879,18 L31.9923531,18 C33.1011459,18 34,18.8970601 34,20.0058587 L34,29.9941413 C34,31.1019465 33.0998988,32 31.9931473,32 L25.9596396,32 C25.4061014,32 24.9573699,31.5462116 24.9573699,31.0078824 L24.9573699,29.5845032 C26.0183413,29.1262279 26.9614296,28.3264444 27.5761532,27.377008 C27.9871562,26.7456854 28.0556567,26.0657995 27.9643227,25.8715464 C27.8729887,25.6530116 27.6903207,25.6530116 27.5761532,25.8472647 C26.5943127,27.4498529 24.9274672,29.392384 23.0322868,29.2952574 C21.8221113,29.2224125 21.2741073,27.6926693 22.0047793,25.4587585 C23.6031243,26.8428119 25.1329687,26.2114893 26.2518102,24.754591 C27.2108172,23.5162274 27.3934852,22.0350475 26.9824822,21.4522881 C26.6171462,20.9180921 26.2061432,20.5538675 25.6353057,20.1896429 C25.4138232,20.0530359 25.1476548,19.9904502 24.8516378,20.0011768 L24.8516378,20.0011768 Z"
+         id="Combined-Shape"
+         fill="#FFFFFF" />
+      <path
+         d="M22,24.7477752 C22.0489902,24.6290802 22.1224755,24.4866462 22.1959608,24.3442122 C23.3472302,22.0890067 25.380323,20.6646664 25.89472,21.0682295 C26.2376513,21.3293585 25.6987592,22.5637868 24.9149162,23.560825 C24.2045585,24.4629072 23.2002596,25.4836844 22,24.7477752 L22,24.7477752 L22,24.7477752 Z"
+         id="e-"
+         fill="#FFFFFF" />
+    </g>
+  </g>
 </svg>

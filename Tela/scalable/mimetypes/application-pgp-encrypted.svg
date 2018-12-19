@@ -1,1 +1,114 @@
-encrypted.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="application-pgp-encrypted.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="691"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="3.4766083"
+     inkscape:cx="16.673359"
+     inkscape:cy="21.211314"
+     inkscape:window-x="994"
+     inkscape:window-y="271"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">application-pgp-encrypted</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g829">
+    <rect
+       rx="2"
+       ry="1.9047618"
+       y="4"
+       x="6"
+       height="40"
+       width="36"
+       id="rect834"
+       style="opacity:1;fill:#66bb6a;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect866"
+       d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+       style="opacity:0.15;fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+  </g>
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="90.7002767%"
+       y1="6.56534831%"
+       x2="35.3271484%"
+       y2="64.1438802%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#93DEF2"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#5ABADF"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     d="M 24 16 A 8.0921049 7.875 0 0 0 15.908203 23.875 A 8.0921049 7.875 0 0 0 24 31.75 A 8.0921049 7.875 0 0 0 32.091797 23.875 A 8.0921049 7.875 0 0 0 24 16 z M 23.986328 19.15625 C 25.438493 19.15625 26.615234 20.221006 26.615234 21.535156 C 26.615234 22.415516 26.088091 23.184148 25.302734 23.595703 L 25.302734 26.990234 C 25.302734 27.271508 25.077714 27.5 24.794922 27.5 L 23.179688 27.5 C 22.899695 27.5 22.671875 27.269991 22.671875 26.990234 L 22.671875 23.597656 C 21.885386 23.186365 21.357422 22.416283 21.357422 21.535156 C 21.357422 20.221006 22.534162 19.15625 23.986328 19.15625 z "
+     id="Oval-104" />
+</svg>

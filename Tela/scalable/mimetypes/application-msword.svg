@@ -1,1 +1,128 @@
-wps-office-doc.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="application-msword.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="993"
+     inkscape:window-height="676"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-0.91525424"
+     inkscape:cy="24"
+     inkscape:window-x="833"
+     inkscape:window-y="172"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">application-msword</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g829">
+    <rect
+       rx="2"
+       ry="1.9047618"
+       y="4"
+       x="6"
+       height="40"
+       width="36"
+       id="rect834"
+       style="opacity:1;fill:#32a3d7;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect866"
+       d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+       style="opacity:0.15;fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+  </g>
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="90.7002767%"
+       y1="6.56534831%"
+       x2="35.3271484%"
+       y2="64.1438802%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#93DEF2"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#5ABADF"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="application-msword">
+      <path
+         d="M26,26.5 L26,24.5 L31,24.5 C31.2761424,24.5 31.5,24.2761424 31.5,24 C31.5,23.7238576 31.2761424,23.5 31,23.5 L26,23.5 L26,21.5 L31,21.5 C31.2761424,21.5 31.5,21.2761424 31.5,21 C31.5,20.7238576 31.2761424,20.5 31,20.5 L26,20.5 L26,17.9209046 C26,17.3649851 25.5529553,16.9594498 25.0014977,17.0006466 L13.9985023,17.8226297 C13.4474894,17.8637933 13,18.3444149 13,18.8960538 L13,29.1039331 C13,29.6538867 13.4470447,30.1361604 13.9985023,30.1773572 L25.0014977,30.9993403 C25.5525106,31.0405039 26,30.6285236 26,30.0790823 L26,27.5 L31,27.5 C31.2761424,27.5 31.5,27.2761424 31.5,27 C31.5,26.7238576 31.2761424,26.5 31,26.5 L26,26.5 Z M20.4697266,26.8720703 L19.3125,22.5800781 L18.140625,26.8720703 C18.0494787,27.1975928 17.977051,27.4311516 17.9233398,27.5727539 C17.8696286,27.7143562 17.7760423,27.841308 17.6425781,27.9536133 C17.5091139,28.0659185 17.3317068,28.1220703 17.1103516,28.1220703 C16.9313142,28.1220703 16.7840175,28.0887048 16.668457,28.0219727 C16.5528966,27.9552406 16.4593103,27.8608405 16.3876953,27.7387695 C16.3160804,27.6166986 16.2574872,27.4718433 16.2119141,27.3041992 C16.1663409,27.1365552 16.1256512,26.9811205 16.0898438,26.8378906 L14.8984375,22.0185547 C14.8268226,21.7386054 14.7910156,21.5253914 14.7910156,21.3789062 C14.7910156,21.1933584 14.8561191,21.03711 14.9863281,20.9101562 C15.1165371,20.7832025 15.2776683,20.7197266 15.4697266,20.7197266 C15.7333998,20.7197266 15.9108068,20.8043611 16.0019531,20.9736328 C16.0930994,21.1429045 16.1728512,21.3886703 16.2412109,21.7109375 L17.1787109,25.890625 L18.2285156,21.9794922 C18.306641,21.6800115 18.3766273,21.4521492 18.4384766,21.2958984 C18.5003258,21.1396477 18.6012363,21.0045579 18.7412109,20.890625 C18.8811856,20.7766921 19.0716134,20.7197266 19.3125,20.7197266 C19.5566418,20.7197266 19.7462558,20.7791335 19.8813477,20.8979492 C20.0164395,21.0167649 20.1100258,21.1461582 20.1621094,21.2861328 C20.214193,21.4261075 20.2841792,21.657225 20.3720703,21.9794922 L21.4316406,25.890625 L22.3691406,21.7109375 C22.4147138,21.4928375 22.4578448,21.3219407 22.4985352,21.1982422 C22.5392255,21.0745437 22.6092117,20.9638677 22.7084961,20.8662109 C22.8077804,20.7685542 22.951822,20.7197266 23.140625,20.7197266 C23.329428,20.7197266 23.4897454,20.7823887 23.621582,20.9077148 C23.7534186,21.033041 23.8193359,21.1901032 23.8193359,21.3789062 C23.8193359,21.5123705 23.783529,21.7255845 23.7119141,22.0185547 L22.5205078,26.8378906 C22.4391272,27.1634131 22.3715823,27.4018547 22.3178711,27.5532227 C22.2641599,27.7045906 22.173015,27.837239 22.0444336,27.9511719 C21.9158522,28.0651047 21.7343762,28.1220703 21.5,28.1220703 C21.2786447,28.1220703 21.1012376,28.0667323 20.9677734,27.9560547 C20.8343092,27.8453771 20.7415367,27.7208666 20.6894531,27.5825195 C20.6373695,27.4441725 20.5641281,27.2073584 20.4697266,26.8720703 Z"
+         id="Combined-Shape"
+         fill="#FFFFFF" />
+      <path
+         d="M32,19.0024733 C32,19.0034901 24.9984457,19 24.9984457,19 C24.9998954,19.0000186 25,28.9975267 25,28.9975267 C25,28.9965099 32.0015543,29 32.0015543,29 C32.0001046,28.9999814 32,19.0024733 32,19.0024733 Z M24,19.0024733 C24,18.4488226 24.4463114,18 24.9975446,18 L32.0024554,18 C32.553384,18 33,18.455761 33,19.0024733 L33,28.9975267 C33,29.5511774 32.5536886,30 32.0024554,30 L24.9975446,30 C24.446616,30 24,29.544239 24,28.9975267 L24,19.0024733 Z"
+         id="Rectangle-233"
+         fill="#FFFFFF" />
+    </g>
+  </g>
+</svg>

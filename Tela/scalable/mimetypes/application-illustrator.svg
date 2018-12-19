@@ -1,1 +1,119 @@
-application-vestor.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="application-illustrator.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1517"
+     inkscape:window-height="713"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-14.790308"
+     inkscape:cy="38.511467"
+     inkscape:window-x="336"
+     inkscape:window-y="181"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg21" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">application-illustrator</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g851">
+    <rect
+       style="opacity:1;fill:#f88e45;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+       id="rect846"
+       width="36"
+       height="40"
+       x="6"
+       y="4"
+       ry="1.9047618"
+       rx="2" />
+    <path
+       style="opacity:0.15;fill:url(#linearGradient853);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+       d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+       id="path848"
+       inkscape:connector-curvature="0" />
+  </g>
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="90.7002767%"
+       y1="6.56534831%"
+       x2="35.3271484%"
+       y2="64.1438802%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#93DEF2"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#5ABADF"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient853"
+       gradientUnits="userSpaceOnUse"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 20,31 c 0,0.552285 0.453036,1 0.99703,1 h 6.00594 C 27.553614,32 28,31.556135 28,31 v 0 c 0,-0.552285 -0.453037,-1 -0.99703,-1 H 20.99703 C 20.446386,30 20,30.443865 20,31 Z"
+     id="Rectangle-227"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     d="M 23.5 14.787109 L 19.269531 21.46875 C 19.121065 21.703111 19.0613 22.112848 19.136719 22.380859 L 20.863281 28.511719 C 20.939202 28.781517 21.22711 29 21.490234 29 L 26.509766 29 C 26.78094 29 27.0613 28.779731 27.136719 28.511719 L 28.863281 22.380859 C 28.939201 22.111062 28.875693 21.697995 28.730469 21.46875 L 24.5 14.787109 L 24.5 20.080078 A 1.5424993 1.5424993 0 0 1 25.53125 21.533203 A 1.5424993 1.5424993 0 0 1 23.988281 23.076172 A 1.5424993 1.5424993 0 0 1 22.445312 21.533203 A 1.5424993 1.5424993 0 0 1 23.5 20.070312 L 23.5 14.787109 z "
+     id="Rectangle-228" />
+</svg>

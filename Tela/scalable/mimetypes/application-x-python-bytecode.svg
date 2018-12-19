@@ -1,9 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
- <g>
-  <path d="m 10.672 0 c -1.375 0 -2.672 1.355 -2.672 2.789 l 0 58.42 c 0 1.355 1.375 2.789 2.672 2.789 l 42.656 0 c 1.297 0 2.672 -1.434 2.672 -2.789 l 0 -43.21 l -18 -18 m -27.328 0" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <path d="m 42 18 l 14 14 l 0 -14 m -14 0" style="fill:#000;fill-opacity:0.196;stroke:none;fill-rule:nonzero"/>
-  <path d="m 38 0 l 17.984 18 l -15.227 0 c -1.348 0 -2.758 -1.426 -2.758 -2.773 m 0 -15.227" style="fill:#fff;fill-opacity:0.392;stroke:none;fill-rule:nonzero"/>
- </g>
- <path d="m 40 29 0 8 -14 0 0 13 12 0 0 -6 -7 0 0 -2 14 0 0 -13 z m -8 16 3 0 0 3 -3 0 z" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <path d="m 26 22 0 6 7 0 0 2 -14 0 0 13 5 0 0 -8 14 0 0 -13 z m 3 2 3 0 0 3 -3 0 z" style="fill:#fff;fill-opacity:1;stroke:none"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="application-x-python-bytecode.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1325"
+     inkscape:window-height="807"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="719"
+     inkscape:window-y="208"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg20" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">application-x-python-bytecode</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g829">
+    <rect
+       rx="2"
+       ry="1.9047618"
+       y="4"
+       x="6"
+       height="40"
+       width="36"
+       id="rect834"
+       style="opacity:1;fill:#f9a825;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect866"
+       d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+       style="opacity:0.15;fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+  </g>
+  <defs
+     id="defs11">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     transform="translate(0.015227,0.054852)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="application-x-python-bytecode">
+      <path
+         d="m 21.630136,15.38856 c 1.180251,-0.203998 2.693583,-0.229497 4.10502,0 1.114846,0.181498 2.053266,1.000491 2.053266,2.08798 v 3.820461 c 0,1.120489 -0.911042,2.03848 -2.053266,2.03848 l -3.722845,0.202951 c -1.393179,0 -2.699811,0.887082 -2.699811,2.211568 v 0.912364 c 0,0.553429 -0.453916,1.002073 -1.004617,1.002073 h -0.656529 c -1.193937,0 -1.889006,-0.848991 -2.181028,-2.036979 -0.393922,-1.595984 -0.377193,-2.546974 0,-4.075459 0.327003,-1.333488 1.371889,-2.03698 2.565825,-2.03698 h 1.540714 V 17.47654 c 0,-1.157989 0.314835,-1.787982 2.053271,-2.08798 z M 22,19 c 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 z"
+         id="Combined-Shape"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         d="m 26.630136,20.38856 c 1.180251,-0.203998 2.693583,-0.229497 4.10502,0 1.114846,0.181498 2.053266,1.000491 2.053266,2.08798 v 3.820461 c 0,1.120489 -0.911042,2.03848 -2.053266,2.03848 l -3.722845,0.202951 c -1.393179,0 -2.699811,0.887082 -2.699811,2.211568 v 0.912364 c 0,0.553429 -0.453916,1.002073 -1.004617,1.002073 h -0.656529 c -1.193937,0 -1.889007,-0.848991 -2.181028,-2.036979 -0.393922,-1.595984 -0.377193,-2.546974 0,-4.075459 0.327003,-1.333488 1.371889,-2.03698 2.565825,-2.03698 h 1.540714 V 22.47654 c 0,-1.157989 0.314835,-1.787982 2.053271,-2.08798 z M 27,24 c 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 z"
+         id="path16"
+         transform="rotate(180,26.484773,26.445148)"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
 </svg>

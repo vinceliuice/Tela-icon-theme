@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="52.655777"
-     inkscape:cy="44.69476"
+     inkscape:zoom="16"
+     inkscape:cx="0.471628"
+     inkscape:cy="28.22073"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,9 +38,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -140,20 +140,21 @@
          height="4.7624998"
          width="6.8791666"
          id="rect826"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:markers stroke fill" />
-    </g>
-    <g
-       style="stroke:none;stroke-opacity:0.03921569"
-       transform="translate(-3.7985229e-7,5.8208346)"
-       id="g915">
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
+         rx="0.26458335" />
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:markers stroke fill"
-         id="rect913"
+         rx="0.26458335"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
+         id="rect828"
          width="6.8791666"
          height="4.7624998"
          x="1.322917"
          y="283.24167"
          ry="0.26458457" />
     </g>
+    <g
+       style="stroke:none;stroke-opacity:0.03921569"
+       transform="translate(-3.7985229e-7,5.8208346)"
+       id="g915" />
   </g>
 </svg>

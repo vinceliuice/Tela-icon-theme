@@ -16,7 +16,7 @@
    version="1.1"
    id="svg4572"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="cs-workspaces.svg">
+   sodipodi:docname="workspace-switcher.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -50,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254835"
-     inkscape:cx="46.748024"
-     inkscape:cy="46.4637"
+     inkscape:zoom="32.000001"
+     inkscape:cx="15.813716"
+     inkscape:cy="43.749309"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -61,9 +61,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -153,25 +153,27 @@
        ry="0.26458049"
        rx="0.26458311" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:markers stroke fill"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
        id="rect826"
        width="6.8791666"
        height="4.7624998"
        x="1.3229166"
        y="283.24167"
-       ry="0.26458457" />
+       ry="0.26458457"
+       rx="0.26458374" />
     <path
        style="opacity:0.15;fill:url(#linearGradient842);fill-opacity:1;stroke:none;stroke-width:1.8784492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:markers stroke fill"
        d="M 58 39.371094 A 30.500001 30.500001 0 0 1 45.123047 51 L 57 51 C 57.553994 51 58 50.553994 58 50 L 58 39.371094 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
        id="rect828" />
     <rect
+       rx="0.26458374"
        ry="0.26458457"
        y="283.24167"
        x="1.3229166"
        height="4.7624998"
        width="6.8791666"
-       id="rect827"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:markers stroke fill" />
+       id="rect831"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill" />
   </g>
 </svg>

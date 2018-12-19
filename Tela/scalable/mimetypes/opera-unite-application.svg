@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="opera-unite-application.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="3.4766083"
+     inkscape:cx="38.768949"
+     inkscape:cy="20.679052"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">opera-unite-application</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g829">
+    <rect
+       rx="2"
+       ry="1.9047618"
+       y="4"
+       x="6"
+       height="40"
+       width="36"
+       id="rect834"
+       style="opacity:1;fill:#3f51b5;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect866"
+       d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+       style="opacity:0.15;fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+  </g>
+  <defs
+     id="defs11">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g17"
+     transform="translate(0.99999997,-0.51533501)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="opera-unite-application">
+      <path
+         d="m 25.557144,25.847592 c 0,0 -0.833374,2.610189 -2.977817,2.574653 -2.145073,-0.03617 -2.674029,-1.323963 -3.085684,-2.036891 -1.379312,-2.389424 -3.247642,-1.947578 -4.36279,-1.304151 -1.114833,0.643742 -2.250737,2.352315 -1.055082,4.42317 1.194712,2.07054 4.651168,3.269655 8.469906,1.055397 3.189463,-1.831535 3.011467,-4.712178 3.011467,-4.712178 m 2.944482,-7.441555 c 0,-1.287483 -0.909793,-3.125622 -3.300789,-3.125622 -2.390996,0 -5.157482,2.388794 -5.149306,6.802844 -0.0082,3.678166 2.574653,4.967536 2.574653,4.967536 0,0 -1.842856,-2.01928 -0.739344,-3.858363 1.103513,-1.839397 2.483768,-1.660457 3.307393,-1.660457 2.758624,0 3.307393,-1.838454 3.307393,-3.125938 m 3.932265,11.58924 c 0.02673,-1.937829 -1.107915,-4.240456 -3.858362,-5.821665 -3.181601,-1.846001 -5.58612,-0.255358 -5.58612,-0.255358 0,0 2.67623,-0.584305 3.717161,1.290628 1.040931,1.875563 0.190261,2.977503 -0.221709,3.690745 -1.379312,2.389109 -0.05944,3.786032 1.055397,4.429774 1.114834,0.643742 3.160216,0.779912 4.355871,-1.290629 0.33618,-0.582418 0.527384,-1.285282 0.537762,-2.043495"
+         id="Page-1"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
