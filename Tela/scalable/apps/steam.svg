@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="0.36669307"
-     inkscape:cy="42.815606"
+     inkscape:cx="21.328655"
+     inkscape:cy="48.635541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -67,7 +67,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -162,8 +162,8 @@
          id="path17" />
       <path
          id="path894"
-         style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.88461536"
-         d="M 24,3.6538464 C 35.237269,3.6538464 44.346154,12.762731 44.346154,24 44.346154,35.237269 35.237269,44.346154 24,44.346154 12.762731,44.346154 3.6538464,35.237269 3.6538464,24 3.6538464,12.762731 12.762731,3.6538464 24,3.6538464 Z"
+         style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.83999944"
+         d="M 24,4.6800127 C 34.670513,4.6800127 43.319988,13.329487 43.319988,24 43.319988,34.670513 34.670513,43.319988 24,43.319988 13.329487,43.319988 4.6800127,34.670513 4.6800127,24 4.6800127,13.329487 13.329487,4.6800127 24,4.6800127 Z"
          inkscape:connector-curvature="0" />
     </g>
     <g

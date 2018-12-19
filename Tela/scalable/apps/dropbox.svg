@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   viewBox="0 0 64 64"
+   width="64"
+   version="1.1"
+   id="svg69"
+   sodipodi:docname="dropbox.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata73">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Template icons dark</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     id="namedview71"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="9.2830631"
+     inkscape:cy="53.680995"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg69" />
+  <title
+     id="title2">Template icons dark</title>
+  <defs
+     id="defs47" />
+  <g
+     id="g892"
+     transform="matrix(0.86666667,0,0,0.86666667,4.2796666,4.3827999)">
+    <path
+       id="path51"
+       d="M 31.864,15.055 49.676,26.08 31.985,37.178 14.085,26.08 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#7ed6fb" />
+    <path
+       style="fill:#7ed6fb;fill-opacity:1"
+       id="path53"
+       transform="translate(-48,-48)"
+       d="M 49.985,64.093 67.797,53.068 79.894,63.027 62.086,74.08 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#7ed6fb;fill-opacity:1"
+       id="path55"
+       transform="translate(-48,-48)"
+       d="m 79.867,63.047 17.85,11.048 12.188,-9.914 -17.9,-11.099 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#62c8f7;fill-opacity:1"
+       id="path57"
+       transform="translate(-48,-48)"
+       d="M 79.864,63.055 79.863,81.975 62.173,93.073 62.086,74.08 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#1f97cf;fill-opacity:1"
+       id="path59"
+       transform="translate(-48,-48)"
+       d="m 79.864,63.055 v 18.92 l 17.69,11.098 0.087,-18.993 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#62c8f7;fill-opacity:1"
+       id="path61"
+       transform="translate(-48,-48)"
+       d="M 97.641,74.08 V 95.55 L 79.95,106.65 79.863,85.106 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#7ed6fb;fill-opacity:1"
+       transform="translate(-48,-48)"
+       id="path63"
+       d="m 79.985,85.12 17.812,-11.025 12.188,9.913 -17.9,11.099 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#1581ce;fill-opacity:1"
+       transform="translate(-48,-48)"
+       id="path65"
+       d="M 62.086,74.08 V 95.55 L 79.944,106.664 79.863,85.105 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#7ed6fb;fill-opacity:1"
+       id="path67"
+       transform="translate(-48,-48)"
+       d="M 49.985,84.067 67.797,95.092 79.985,85.178 62.085,74.08 Z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

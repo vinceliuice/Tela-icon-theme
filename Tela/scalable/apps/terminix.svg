@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="3.0221279"
+     inkscape:cx="-16.86525"
      inkscape:cy="42.422177"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -38,9 +38,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -121,7 +121,7 @@
      id="layer1"
      transform="translate(0,-280.06667)">
     <path
-       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49499005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:stroke markers fill"
+       style="opacity:1;fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.49499005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:stroke markers fill"
        d="M 1.8520885,282.97708 H 15.081244 c 0.146583,0 0.264589,0.11801 0.264589,0.26459 v 10.58332 c 0,0.14658 -0.118006,0.26459 -0.264589,0.26459 H 1.8520885 c -0.1465821,0 -0.2645886,-0.11801 -0.2645886,-0.26459 v -10.58332 c 0,-0.14658 0.1180065,-0.26459 0.2645886,-0.26459 z"
        id="rect821" />
     <path
