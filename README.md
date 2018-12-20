@@ -12,3 +12,4 @@ Or double-click to open that script files and select "run at the terminal" at na
 
 ## Preview
 ![Tela](../master/Preview.jpeg)
+![Tela](../master/Preview.png)
