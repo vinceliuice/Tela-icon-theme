@@ -43,7 +43,9 @@ Type=Fixed
 [other/emblems]
 Context=Emblems
 Size=48
-Type=Fixed
+MinSize=16
+MaxSize=48
+Type=Scalable
 
 [other/notifications]
 Context=Status
