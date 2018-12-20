@@ -42,7 +42,7 @@ Type=Fixed
 
 [other/emblems]
 Context=Emblems
-Size=48
+Size=22
 MinSize=16
 MaxSize=48
 Type=Scalable
