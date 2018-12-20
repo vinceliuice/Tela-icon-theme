@@ -15,7 +15,7 @@
    version="1.1"
    id="svg4572"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="gcalculator.svg">
+   sodipodi:docname="calc.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="21.271807"
-     inkscape:cy="33.048475"
+     inkscape:cx="28.595944"
+     inkscape:cy="39.079828"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,7 +38,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -120,27 +120,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06667)">
-    <rect
-       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:#000000;stroke-width:0.49581587;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
-       id="rect822"
-       width="13.758333"
-       height="13.758333"
-       x="1.5874999"
-       y="281.65417"
-       ry="0.52916181"
-       rx="0.52916646" />
-    <rect
-       rx="0.52916646"
-       ry="0.52916181"
-       y="281.65417"
-       x="1.5874999"
-       height="13.758333"
-       width="13.758333"
-       id="rect829"
-       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.49581587;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
+    <path
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1.87394977;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       d="M 6 32 L 6 56 C 6 57.10799 6.8920004 58 8 58 L 32 58 L 32 32 L 6 32 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="rect822" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87394977;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
-       d="M 8 6 C 6.8920101 6 6 6.8920101 6 8 L 6 32 L 58 32 L 58 8 C 58 6.8920101 57.10799 6 56 6 L 8 6 z "
+       d="M 8 6 C 6.8920101 6 6 6.8920101 6 8 L 6 32 L 32 32 L 32 6 L 8 6 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
        id="rect833" />
     <path
