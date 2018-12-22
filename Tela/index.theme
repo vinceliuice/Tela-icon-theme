@@ -22,34 +22,51 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 # Directory list
-Directories=other/actions,other/animations,other/panel,other/emblems,other/notifications,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,symbolic/panel
+Directories=16/actions,16/panel,22/actions,22/panel,22/emblems,24/actions,24/panel,24/animations,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
-# Other
-[other/actions]
+# 16x16
+[16/actions]
 Context=Actions
-Size=24
+Size=16
 Type=Fixed
 
-[other/animations]
-Context=Animations
-Size=24
+[16/panel]
+Context=Status
+Size=16
 Type=Fixed
 
-[other/panel]
+# 22x22
+[22/actions]
+Context=Actions
+Size=22
+Type=Fixed
+
+[22/panel]
 Context=Status
 Size=22
 Type=Fixed
 
-[other/emblems]
+[22/emblems]
 Context=Emblems
 Size=22
 MinSize=16
 MaxSize=48
 Type=Scalable
 
-[other/notifications]
+# 24x24
+[24/actions]
+Context=Actions
+Size=24
+Type=Fixed
+
+[24/panel]
 Context=Status
-Size=48
+Size=24
+Type=Fixed
+
+[24/animations]
+Context=Animations
+Size=24
 Type=Fixed
 
 # Scalable

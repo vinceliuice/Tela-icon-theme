@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="python.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient853">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop849" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop851" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient853"
+       id="linearGradient855"
+       x1="42.165039"
+       y1="58"
+       x2="42.165039"
+       y2="18.298828"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="-52.561833"
+     inkscape:cy="53.361843"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <g
+       id="g842"
+       transform="matrix(1.245509,0,0,1.245509,-2.3313428,-71.79154)">
+      <g
+         id="g4309"
+         style="display:inline;enable-background:new"
+         transform="matrix(0.26458333,0,0,0.26458333,-35.780444,220.50763)">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3776ab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="m 166.625,239.125 c -5.33225,0 -9.625,3.06625 -9.625,6.875 v 3 h -3 c -3.80875,0 -6.875,4.29275 -6.875,9.625 v 2.75 c 0,5.33225 3.06625,9.625 6.875,9.625 h 3 22 v -22 -3 c 0,-3.80875 -4.29275,-6.875 -9.625,-6.875 z"
+           id="path4268-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sscsssscccsss" />
+        <path
+           sodipodi:nodetypes="sscsssscsscccsss"
+           inkscape:connector-curvature="0"
+           id="path4270-0"
+           d="m 169.375,280.875 c 5.33225,0 9.625,-3.06625 9.625,-6.875 v -3 h 3 c 3.80875,0 6.875,-4.29275 6.875,-9.625 v -2.75 C 188.875,253.29275 185.80875,249 182,249 h -3 v 5.5 c 0,3.047 -2.453,5.5 -5.5,5.5 h -11 c 0,0 -5.5,0 -5.5,5.5 v 5.5 3 c 0,3.80875 4.29275,6.875 9.625,6.875 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd343;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           clip-path="none" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient855);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.49101806;marker:none;enable-background:accumulate;opacity:0.25"
+           clip-path="none"
+           d="M 47.011719 18.298828 A 25.190679 30.304576 0 0 1 48.234375 27.507812 A 25.190679 30.304576 0 0 1 26.330078 57.517578 C 27.569639 57.825699 28.89693 58 30.287109 58 L 33.712891 58 C 40.354256 58 45.701172 54.181332 45.701172 49.4375 L 45.701172 45.701172 L 49.4375 45.701172 C 54.181332 45.701172 58 40.354256 58 33.712891 L 58 30.287109 C 58 23.645744 54.181332 18.298828 49.4375 18.298828 L 47.011719 18.298828 z "
+           transform="matrix(0.8028846,0,0,0.8028846,142.30769,234.30769)"
+           id="path844" />
+      </g>
+      <circle
+         r="0.52916664"
+         cy="285.33054"
+         cx="7.6112213"
+         id="path4280-9"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;marker:none;enable-background:accumulate" />
+      <circle
+         r="0.54570311"
+         cy="293.51608"
+         cx="9.7444248"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;marker:none;enable-background:accumulate"
+         id="path4282" />
+    </g>
+  </g>
+</svg>

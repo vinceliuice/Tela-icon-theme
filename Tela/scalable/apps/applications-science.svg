@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="applications-science.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566">
+    <linearGradient
+       id="c"
+       gradientUnits="userSpaceOnUse"
+       x1="18.245573"
+       x2="16.811239"
+       y1="29.791063"
+       y2="1.104376"
+       gradientTransform="matrix(0.16591513,0,0,0.16591513,6.8409668,285.90912)">
+      <stop
+         offset="0"
+         stop-color="#d3d3d3"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#fcf9f9"
+         id="stop14" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="36.568359"
+     inkscape:cy="42.091392"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1390"
+     inkscape:window-height="818"
+     inkscape:window-x="699"
+     inkscape:window-y="588"
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="0,1"
+       id="guide822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="1,0"
+       id="guide824"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <circle
+       style="opacity:1;fill:#48cd7c;fill-opacity:1;stroke:none;stroke-width:0.49136901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       id="path13"
+       cx="8.4666662"
+       cy="288.53333"
+       r="6.8791666" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ffffff;stroke-width:0.2322813"
+       id="path19"
+       d="m 12.153817,285.77566 c -0.072,-0.2727 -0.350977,-0.43552 -0.623675,-0.36376 -0.273163,0.0718 -0.435992,0.35098 -0.364217,0.62391 0.03391,0.12796 0.113358,0.23135 0.216718,0.29826 -0.02485,0.3749 -0.136584,0.83155 -0.466653,1.23085 -0.9302875,-1.06129 -1.3230745,-1.4945 -1.5049515,-1.66987 0.09709,-0.0616 0.17909,-0.0998 0.233211,-0.12152 0.122878,0.1022 0.291281,0.14612 0.4575955,0.1022 0.272465,-0.0718 0.435527,-0.35121 0.363519,-0.62367 -0.07224,-0.27294 -0.351673,-0.436 -0.6241395,-0.36446 -0.20464,0.0539 -0.347261,0.22439 -0.375832,0.42113 -0.384657,0.1633 -1.6977432,0.89011 -1.5019307,3.15485 -1.4380526,0.0419 -2.1943609,0.42252 -2.538369,0.67106 -0.088494,-0.0279 -0.1853615,-0.0323 -0.2817572,-0.007 -0.2726991,0.0725 -0.4355275,0.35121 -0.3639847,0.62437 0.072002,0.27293 0.3512083,0.43599 0.6239075,0.36353 0.2248484,-0.0589 0.3749019,-0.25946 0.3802443,-0.48059 l 1.5033248,1.57812 c -0.035308,0.0218 -0.069916,0.042 -0.1036,0.0596 -0.1198541,-0.0874 -0.2764147,-0.12194 -0.4311148,-0.082 -0.2726977,0.072 -0.43576,0.35144 -0.3639847,0.62437 0.072002,0.27293 0.3512097,0.43599 0.6241398,0.36375 0.2127693,-0.0557 0.3579452,-0.23832 0.3779218,-0.44551 0.7033477,-0.34936 1.2856765,-1.2074 1.1337639,-2.77228 0.451324,-0.001 0.86734,-0.0529 1.24108,-0.15121 0.5588695,-0.14705 1.0234315,-0.3986 1.3753385,-0.75004 0.443888,-0.4439 0.697308,-1.02529 0.740512,-1.69357 0.216486,-0.10402 0.336576,-0.34982 0.27293,-0.59069 z m -4.6667642,5.28416 -1.5685956,-1.64641 c 0.100576,-0.0546 0.2253133,-0.11312 0.3790837,-0.16933 l 1.4694112,1.46408 c -0.084084,0.1447 -0.1804824,0.25991 -0.2798993,0.35166 z m 0.395111,-0.58976 -1.316338,-1.31169 c 0.2023169,-0.0567 0.4417996,-0.1071 0.7223947,-0.14215 l 0.7530562,0.71867 c -0.022064,0.29291 -0.079436,0.53518 -0.1591129,0.73517 z m -0.2666595,-1.48799 c 0.128212,-0.01 0.2636397,-0.0168 0.4067254,-0.02 0.016954,0.1547 0.025788,0.29942 0.028112,0.43483 z M 8.4656546,288.462 c -0.032746,-0.34379 -0.027636,-0.64598 0.00434,-0.91055 l 0.7351699,0.86223 c -0.231352,0.0335 -0.4784994,0.0497 -0.7395841,0.0483 z m 1.0245919,-0.0993 -0.9648958,-1.13122 c 0.051562,-0.22368 0.12334,-0.41508 0.2071945,-0.5786 0.3133483,0.33843 0.8954453,0.99509 1.3560598,1.51911 -0.1830385,0.0799 -0.3830325,0.14356 -0.5983585,0.19071 z m 0.8297095,-0.30568 c -0.8167005,-0.93169 -1.2334135,-1.39649 -1.4557072,-1.6276 0.1112577,-0.16329 0.2315837,-0.29034 0.3463307,-0.38721 0.196744,0.19442 0.9602525,1.05386 1.5335225,1.70611 -0.124278,0.11662 -0.266658,0.21973 -0.424146,0.3087 z" />
+  </g>
+</svg>
