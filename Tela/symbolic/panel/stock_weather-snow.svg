@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='weather-snow.svg' height='16' id='svg6530' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r' viewBox='0 0 16.000017 16' width='16.000017' xmlns='http://www.w3.org/2000/svg'>
+  <defs id='defs6532'/>
+  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1.0' inkscape:current-layer='layer1' inkscape:cx='39.351307' inkscape:cy='259.80068' inkscape:document-units='px' id='base' inkscape:object-nodes='true' inkscape:object-paths='true' pagecolor='#dddddd' inkscape:pageopacity='0' inkscape:pageshadow='2' showgrid='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:snap-smooth-nodes='true' units='px' inkscape:window-height='417' inkscape:window-maximized='0' inkscape:window-width='462' inkscape:window-x='0' inkscape:window-y='0' inkscape:zoom='1'>
+    <inkscape:grid empspacing='4' id='grid8845' originx='-111.99971' originy='-100.03076' type='xygrid'/>
+  </sodipodi:namedview>
+  <metadata id='metadata6535'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-111.99971,-936.3314)'>
+    <path inkscape:connector-curvature='0' d='m 119.99973,936.3314 c -2.07107,0 -3.83471,1.26792 -4.59375,3.0625 -1.92783,0.2866 -3.40625,1.92992 -3.40625,3.9375 0,2.20914 1.79086,4 4,4 l 8.5,0 c 1.933,0 3.5,-1.567 3.5,-3.5 0,-1.79654 -1.35079,-3.2687 -3.09375,-3.46875 -0.45457,-2.29339 -2.47938,-4.03125 -4.90625,-4.03125 z' id='path6913' style='fill:#dfdfdf;fill-opacity:1;stroke:none'/>
+    
+    <path inkscape:connector-curvature='0' d='m 114.99973,948.3314 0,1.13281 -0.98242,-0.5664 -0.5,0.86718 0.98047,0.56641 -0.98047,0.56641 0.5,0.86718 0.98242,-0.5664 0,1.13281 1,0 0,-1.13281 0.98242,0.5664 0.5,-0.86718 -0.98047,-0.56641 0.98047,-0.56641 -0.5,-0.86718 -0.98242,0.5664 0,-1.13281 -1,0 z' id='rect6932' style='opacity:0.35;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+    <path inkscape:connector-curvature='0' d='m 119.99973,948.3314 0,1.13281 -0.98242,-0.5664 -0.5,0.86718 0.98047,0.56641 -0.98047,0.56641 0.5,0.86718 0.98242,-0.5664 0,1.13281 1,0 0,-1.13281 0.98242,0.5664 0.5,-0.86718 -0.98047,-0.56641 0.98047,-0.56641 -0.5,-0.86718 -0.98242,0.5664 0,-1.13281 -1,0 z' id='path6939' style='opacity:0.35;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+    <path inkscape:connector-curvature='0' d='m 124.99973,948.3314 0,1.13281 -0.98242,-0.5664 -0.5,0.86718 0.98047,0.56641 -0.98047,0.56641 0.5,0.86718 0.98242,-0.5664 0,1.13281 1,0 0,-1.13281 0.98242,0.5664 0.5,-0.86718 -0.98047,-0.56641 0.98047,-0.56641 -0.5,-0.86718 -0.98242,0.5664 0,-1.13281 -1,0 z' id='path6941' style='opacity:0.35;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+  </g>
+</svg>

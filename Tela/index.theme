@@ -22,7 +22,7 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 # Directory list
-Directories=other/actions,other/animations,other/panel,other/emblems,other/notifications,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=other/actions,other/animations,other/panel,other/emblems,other/notifications,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,symbolic/panel
 
 # Other
 [other/actions]
@@ -37,7 +37,7 @@ Type=Fixed
 
 [other/panel]
 Context=Status
-Size=24
+Size=22
 Type=Fixed
 
 [other/emblems]
@@ -56,28 +56,28 @@ Type=Fixed
 [scalable/apps]
 Context=Applications
 Size=64
-MinSize=22
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable/devices]
 Context=Devices
 Size=64
-MinSize=22
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable/places]
 Context=Places
 Size=64
-MinSize=22
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable/mimetypes]
 Context=Mimetypes
 Size=48
-MinSize=22
+MinSize=24
 MaxSize=512
 Type=Scalable
 
@@ -138,4 +138,8 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
+[symbolic/panel]
+Context=Status
+Size=16
+Type=Fixed
 
