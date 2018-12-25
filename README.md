@@ -1,14 +1,21 @@
 ## Tela Icon Theme
-    A flat colorful Design icon theme
+A flat colorful Design icon theme
 
-numix-icon-theme-circle: https://github.com/numixproject/numix-icon-theme-circle
+## Install tips
 
-## Install Or Uninstall
-Run
+Usage:  `./Install`  **[OPTIONS...]**
 
-    ./Installer.sh
+|  OPTIONS:           | |
+|:--------------------|:-------------|
+|-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
+|-n, --name           | Specify theme name (Default: Tela)|
+|-c, --color          | Specify theme color variant(s) **[Default/black/blue/~]** (Default: All variants)|
+|-h, --help           | Show this help|
 
-Or double-click to open that script files and select "run at the terminal" at nautilus.
+#### OPTION: -c/--color
+
+Supported colors:  `default` `black` `blue` `brown` `green` `grey` `orange`
+`pink` `purple` `red` `yellow`
 
 ## Preview
 ![Tela](../master/Preview.jpeg)
