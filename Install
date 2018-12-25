@@ -1,0 +1,153 @@
+#!/bin/bash
+
+ROOT_UID=0
+DEST_DIR=
+
+# Destination directory
+if [ "$UID" -eq "$ROOT_UID" ]; then
+  DEST_DIR="/usr/share/icons"
+else
+  DEST_DIR="$HOME/.icons"
+fi
+
+SRC_DIR=$(cd $(dirname $0) && pwd)
+
+THEME_NAME=Tela
+COLOR_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-yellow' '-orange' '-brown' '-grey' '-black')
+
+usage() {
+  printf "%s\n" "Usage: $0 [OPTIONS...]"
+  printf "\n%s\n" "OPTIONS:"
+  printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
+  printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
+  printf "  %-25s%s\n" "-c, --color VARIANTS..." "Specify theme color variant(s) [standard|red|pink|purple|blue|green|yellow|orange|brown|grey|black] (Default: All variants)"
+  printf "  %-25s%s\n" "-h, --help" "Show this help"
+}
+
+install() {
+  local dest=${1}
+  local name=${2}
+  local color=${3}
+
+  local THEME_DIR=${dest}/${name}${color}
+  local DARK_DIR=${dest}/${name}-Dark
+
+  [[ -d ${THEME_DIR} ]] && rm -rf ${THEME_DIR}
+
+  echo "Installing '${THEME_DIR}'..."
+
+  mkdir -p                                                                           ${THEME_DIR}
+  cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
+  cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
+  cp -ur ${SRC_DIR}/src/{16,22,24,scalable,symbolic,index.theme}                     ${THEME_DIR}
+
+  [[ ${color} == '' ]] && \
+  [[ -d ${DARK_DIR} ]] && rm -rf ${DARK_DIR} && \
+  mkdir -p                                                                           ${DARK_DIR} && \
+  cp -ur ${SRC_DIR}/{COPYING,AUTHORS}                                                ${DARK_DIR} && \
+  cp -ur ${SRC_DIR}/src/index-Dark.theme                                             ${DARK_DIR}/index.theme && \
+  cp -ur ${SRC_DIR}/src/Dark/{16,22,24}                                              ${DARK_DIR} && \
+  cd $DEST_DIR && \
+  gtk-update-icon-cache ${name}-Dark
+
+  cp -ur ${SRC_DIR}/src/{16,22,24,scalable,symbolic,index.theme}                     ${THEME_DIR}
+
+  [[ ${color} != '' ]] && \
+  cp -r ${SRC_DIR}/src/colors/color${color}/*.svg                                    ${THEME_DIR}/scalable/places/
+
+  cd $DEST_DIR
+  gtk-update-icon-cache ${name}${color}
+}
+
+while [[ $# -gt 0 ]]; do
+  case "${1}" in
+    -d|--dest)
+      dest="${2}"
+      if [[ ! -d "${dest}" ]]; then
+        echo "ERROR: Destination directory does not exist."
+        exit 1
+      fi
+      shift 2
+      ;;
+    -n|--name)
+      name="${2}"
+      shift 2
+      ;;
+    -c|--color)
+      shift
+      for color in "${@}"; do
+        case "${color}" in
+          standard)
+            colors+=("${COLOR_VARIANTS[0]}")
+            shift 1
+            ;;
+          red)
+            colors+=("${COLOR_VARIANTS[1]}")
+            shift 1
+            ;;
+          pink)
+            colors+=("${COLOR_VARIANTS[2]}")
+            shift 1
+            ;;
+          purple)
+            colors+=("${COLOR_VARIANTS[3]}")
+            shift 1
+            ;;
+          blue)
+            colors+=("${COLOR_VARIANTS[4]}")
+            shift 1
+            ;;
+          green)
+            colors+=("${COLOR_VARIANTS[5]}")
+            shift 1
+            ;;
+          yellow)
+            colors+=("${COLOR_VARIANTS[6]}")
+            shift 1
+            ;;
+          orange)
+            colors+=("${COLOR_VARIANTS[7]}")
+            shift 1
+            ;;
+          brown)
+            colors+=("${COLOR_VARIANTS[8]}")
+            shift 1
+            ;;
+          grey)
+            colors+=("${COLOR_VARIANTS[9]}")
+            shift 1
+            ;;
+          pink)
+            colors+=("${COLOR_VARIANTS[10]}")
+            shift 1
+            ;;
+          black)
+            colors+=("${COLOR_VARIANTS[11]}")
+            shift 1
+            ;;
+          -*|--*)
+            break
+            ;;
+          *)
+            echo "ERROR: Unrecognized color variant '$1'."
+            echo "Try '$0 --help' for more information."
+            exit 1
+            ;;
+        esac
+      done
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    *)
+      echo "ERROR: Unrecognized installation option '$1'."
+      echo "Try '$0 --help' for more information."
+      exit 1
+      ;;
+  esac
+done
+
+for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
+  install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+done

@@ -1,0 +1,43 @@
+[Icon Theme]
+Name=Tela-Dark
+Comment=Flat and colorful personality icon theme
+Inherits=Tela,Numix-Circle,Numix,Adwaita,gnome,hicolor
+Example=folder
+
+# KDE/Plasma Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,72,96,128
+ToolbarDefault=16
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16
+PanelDefault=22
+PanelSizes=16,22,32,48,64,72,96,128
+FollowsColorScheme=true
+
+# Directory list
+Directories=16/actions,22/actions,24/actions
+
+# 16x16
+[16/actions]
+Context=Actions
+Size=16
+Type=Fixed
+
+# 22x22
+[22/actions]
+Context=Actions
+Size=22
+Type=Fixed
+
+# 24x24
+[24/actions]
+Context=Actions
+Size=24
+Type=Fixed
