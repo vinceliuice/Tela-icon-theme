@@ -15,7 +15,7 @@
    version="1.1"
    id="svg4572"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="qt.svg">
+   sodipodi:docname="assistant-qt4.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-13.664107"
-     inkscape:cy="39.917465"
+     inkscape:zoom="7.919596"
+     inkscape:cx="24.5271"
+     inkscape:cy="43.727635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -53,9 +53,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -153,8 +153,8 @@
        style="fill:#000000;opacity:0.15">
       <path
          id="path67"
-         style="fill:#000000;fill-opacity:1"
-         d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.95652229"
+         d="M 24,1.9999872 C 36.150703,1.9999872 46.000013,11.849297 46.000013,24 46.000013,36.150703 36.150703,46.000013 24,46.000013 11.849297,46.000013 1.9999872,36.150703 1.9999872,24 1.9999872,11.849297 11.849297,1.9999872 24,1.9999872 Z"
          inkscape:connector-curvature="0" />
     </g>
     <g
