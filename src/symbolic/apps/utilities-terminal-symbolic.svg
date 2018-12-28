@@ -1,27 +1,3 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='utilities-terminal-symbolic.svg' inkscape:export-filename='/home/sam/source-symbolic.png' inkscape:export-xdpi='270' inkscape:export-ydpi='270' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r13725' width='16.000002' xmlns='http://www.w3.org/2000/svg'>
-  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='g6058' inkscape:cx='28.16142' inkscape:cy='-3.1413059' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#f7f7f7' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='false' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='false' inkscape:snap-midpoints='false' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='false' inkscape:snap-to-guides='true' inkscape:window-height='1023' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1'>
-    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-160' originy='-656' snapvisiblegridlinesonly='true' spacingx='0.25px' spacingy='0.25px' type='xygrid' visible='true'/>
-  </sodipodi:namedview>
-  <metadata id='metadata90'>
-    <rdf:RDF>
-      <cc:Work rdf:about=''>
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title id='title8473'>Paper Symbolic Icon Theme</title>
-  <defs id='defs7386'>
-    <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
-    </linearGradient>
-  </defs>
-  <g inkscape:groupmode='layer' id='g6058' inkscape:label='apps' style='display:inline' transform='translate(-160,-28.000004)'>
-    
-    <path inkscape:connector-curvature='0' d='m 162,29 c -1.108,0 -2,0.892 -2,2 l 0,10 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-10 c 0,-1.108 -0.892,-2 -2,-2 z m 2,2 1,0 0,1 c 0.65424,0 1.2022,0.41808 1.4082,1 L 165,33 l 0,1 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 l 0,1 -1,0 0,-1 c -0.65424,0 -1.20221,-0.41808 -1.4082,-1 l 1.4082,0 0,-1 c -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z m 0,2 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 z m 1,2 0,1 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 3,2 4,0 0,1 -4,0 z' id='rect3516' sodipodi:nodetypes='sssssssssccccccscccccccscccsccccscccccc' style='display:inline;opacity:1;fill:#555555;fill-opacity:1;stroke:none;enable-background:new'/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#444444" d="M 2 1 C 0.892 1 0 1.892 0 3 L 0 13 C 0 14.108 0.892 15 2 15 L 14 15 C 15.108 15 16 14.108 16 13 L 16 3 C 16 1.892 15.108 1 14 1 L 2 1 z M 4 3 L 5 3 L 5 4 L 5.5 4 C 6.154 4 6.7022 4.418 6.9082 5 L 5 5 L 5 6 L 5.5 6 C 6.331 6 7 6.669 7 7.5 C 7 8.331 6.331 9 5.5 9 L 5 9 L 5 10 L 4 10 L 4 9 L 3.5 9 C 2.8458 9 2.2978 8.582 2.0918 8 L 4 8 L 4 7 L 3.5 7 C 2.669 7 2 6.331 2 5.5 C 2 4.669 2.669 4 3.5 4 L 4 4 L 4 3 z M 3.5 5 C 3.223 5 3 5.223 3 5.5 C 3 5.777 3.223 6 3.5 6 L 4 6 L 4 5 L 3.5 5 z M 5 7 L 5 8 L 5.5 8 C 5.7767 8.0129 6 7.777 6 7.5 C 6 7.223 5.777 7 5.5 7 L 5 7 z M 8 9 L 12 9 L 12 10 L 8 10 L 8 9 z"/>
 </svg>
