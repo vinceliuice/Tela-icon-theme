@@ -7,13 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
+   width="16"
+   height="16"
    version="1.1"
-   id="svg6"
-   sodipodi:docname="folder-symbolic.svg"
+   id="svg8"
+   sodipodi:docname="package-installed-outdated.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
-     id="metadata12">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,22 +36,41 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.54237288"
-     inkscape:cy="8"
+     inkscape:window-height="1026"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="4.9032747"
+     inkscape:cy="12.746856"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <path
-     d="M 0,2 0,15 16,15 16,8 15,3 10,3 9,1 1,1 C 0.5,1 0,1.5 0,2 Z"
-     style="fill:#555555;opacity:0.5;fill-opacity:1;stroke:none"
-     id="path2" />
-  <path
-     d="M 16,4 16,15 0,15 0,5 7,5 8,3 15,3 c 0.5,0 1,0.5 1,1 z"
-     style="fill:#555555;fill-opacity:1;stroke:none"
-     id="path4" />
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821" />
+  </sodipodi:namedview>
+  <rect
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     rx="3"
+     ry="3"
+     style="fill:#3f83d6"
+     id="rect2" />
+  <rect
+     style="fill:#ffffff"
+     width="2"
+     height="7"
+     x="7"
+     y="3"
+     id="rect4" />
+  <rect
+     style="fill:#ffffff"
+     width="2"
+     height="2"
+     x="7"
+     y="11"
+     id="rect6" />
 </svg>

@@ -7,10 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
+   width="16"
+   height="16"
    version="1.1"
    id="svg6"
-   sodipodi:docname="folder-symbolic.svg"
+   sodipodi:docname="package-purge.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata12">
@@ -35,22 +36,31 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1026"
      id="namedview8"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.54237288"
-     inkscape:cy="8"
+     showgrid="true"
+     inkscape:zoom="59"
+     inkscape:cx="12.122456"
+     inkscape:cy="13.619041"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid822" />
+  </sodipodi:namedview>
+  <rect
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     rx="3"
+     ry="3"
+     style="fill:#db3c30"
+     id="rect2" />
   <path
-     d="M 0,2 0,15 16,15 16,8 15,3 10,3 9,1 1,1 C 0.5,1 0,1.5 0,2 Z"
-     style="fill:#555555;opacity:0.5;fill-opacity:1;stroke:none"
-     id="path2" />
-  <path
-     d="M 16,4 16,15 0,15 0,5 7,5 8,3 15,3 c 0.5,0 1,0.5 1,1 z"
-     style="fill:#555555;fill-opacity:1;stroke:none"
+     d="M 3.5,4.5 7,8 3.5,11.5 5,13 8.5,9.5 12,13 13.5,11.5 10,8 13.5,4.5 12,3 8.5,6.5 5,3 Z"
+     style="fill:#ffffff"
      id="path4" />
 </svg>

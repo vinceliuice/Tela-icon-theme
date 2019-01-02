@@ -43,28 +43,6 @@
        y2="280.06668"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.92857144,0,0,1.1304348,0.60476198,-37.634787)" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath874">
-      <rect
-         ry="6.8791666"
-         y="281.65417"
-         x="1.5874999"
-         height="13.758333"
-         width="13.758333"
-         id="rect876"
-         style="opacity:1;fill:url(#linearGradient878);fill-opacity:1;stroke:none;stroke-width:0.54814512;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient827"
-       id="linearGradient878"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92857144,0,0,1.1304348,0.60476198,-37.634777)"
-       x1="13.229166"
-       y1="297"
-       x2="2.1166666"
-       y2="280.06668" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,7 +52,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="-5.0360752"
+     inkscape:cx="-26.501817"
      inkscape:cy="50.461813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -84,9 +62,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -216,11 +194,11 @@
        id="rect856"
        style="opacity:1;fill:#ccdfff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
     <path
-       style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55379206;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
-       d="m 1.0583332,281.65417 c -0.14658662,0 -0.26458333,0.118 -0.26458333,0.26458 v 0.79375 H 16.66875 v -0.79375 c 0,-0.14658 -0.117997,-0.26458 -0.264584,-0.26458 z"
-       id="rect839"
-       inkscape:connector-curvature="0"
-       clip-path="url(#clipPath874)" />
+       style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.09307241;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       clip-path="none"
+       d="M 32 6 C 26.88436 6 22.126873 7.4683675 18.113281 10 L 45.886719 10 C 41.873127 7.4683675 37.11564 6 32 6 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="rect839" />
     <rect
        ry="0.26458803"
        y="281.91876"
