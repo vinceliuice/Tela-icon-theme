@@ -50,7 +50,9 @@ install() {
   cp -ur ${SRC_DIR}/{COPYING,AUTHORS}                                                ${DARK_DIR} && \
   cp -ur ${SRC_DIR}/src/index-Dark.theme                                             ${DARK_DIR}/index.theme && \
   cp -ur ${SRC_DIR}/src/Dark/{16,22,24}                                              ${DARK_DIR} && \
-  cd $DEST_DIR && \
+  cd ${dest} && \
+  ln -s ../${name}/scalable ${name}-Dark/scalable && \
+  ln -s ../${name}/symbolic ${name}-Dark/symbolic && \
   gtk-update-icon-cache ${name}-Dark
 
   cp -ur ${SRC_DIR}/src/{16,22,24,scalable,symbolic,index.theme}                     ${THEME_DIR}
@@ -58,7 +60,7 @@ install() {
   [[ ${color} != '' ]] && \
   cp -r ${SRC_DIR}/src/colors/color${color}/*.svg                                    ${THEME_DIR}/scalable/places/
 
-  cd $DEST_DIR
+  cd ${dest}
   gtk-update-icon-cache ${name}${color}
 }
 
