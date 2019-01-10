@@ -40,7 +40,9 @@ Type=Scalable
 [16/panel]
 Context=Status
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 # 22x22
 [22/actions]
@@ -51,7 +53,9 @@ Type=Fixed
 [22/panel]
 Context=Status
 Size=22
-Type=Fixed
+MinSize=22
+MaxSize=512
+Type=Scalable
 
 [22/emblems]
 Context=Emblems
@@ -69,7 +73,9 @@ Type=Fixed
 [24/panel]
 Context=Status
 Size=24
-Type=Fixed
+MinSize=24
+MaxSize=512
+Type=Scalable
 
 [24/animations]
 Context=Animations

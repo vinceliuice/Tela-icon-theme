@@ -16,7 +16,7 @@
    version="1.1"
    id="svg4572"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="gnome-photos.svg">
+   sodipodi:docname="multimedia-photo-viewer.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -55,40 +55,18 @@
        fy="291.62808"
        r="7.2760415"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3136364,0,0,1.3136364,-2.0974115,-88.844349)" />
+       gradientTransform="matrix(4.9649251,0,0,4.9649251,-6.9272248,-1394.3094)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5166"
        id="radialGradient5172"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3136364,0,0,1.3136364,11.131755,-87.058412)"
+       gradientTransform="matrix(4.9649251,0,0,4.9649251,41.072777,-1387.5594)"
        cx="4.0622945"
        cy="291.62808"
        fx="4.0622945"
        fy="291.62808"
        r="7.2760415" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath840">
-      <rect
-         style="opacity:1;fill:#ef746d;fill-opacity:1;stroke:none;stroke-width:0.4242771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
-         id="rect842"
-         width="12.170833"
-         height="9.5249929"
-         x="2.645833"
-         y="283.77084" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath846">
-      <rect
-         style="opacity:1;fill:#ef746d;fill-opacity:1;stroke:none;stroke-width:0.4242771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
-         id="rect848"
-         width="12.170833"
-         height="9.5249929"
-         x="2.1166666"
-         y="283.77084" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -97,9 +75,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="34.494034"
-     inkscape:cy="37.660599"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="33.598425"
+     inkscape:cy="17.40565"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -108,9 +86,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true">
@@ -200,22 +178,18 @@
        width="12.170833"
        id="rect5158"
        style="opacity:1;fill:#ef746d;fill-opacity:1;stroke:none;stroke-width:0.4242771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill" />
-    <circle
-       style="opacity:1;fill:url(#radialGradient5168);fill-opacity:1;stroke:none;stroke-width:0.69513255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
-       id="path5160"
-       cx="3.089884"
-       cy="296.50452"
-       r="9.558073"
-       clip-path="url(#clipPath846)"
-       transform="translate(0.2645833)" />
-    <circle
-       r="9.558073"
-       cy="298.29047"
-       cx="16.31905"
-       id="circle5170"
-       style="opacity:1;fill:url(#radialGradient5172);fill-opacity:1;stroke:none;stroke-width:0.69513255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
-       clip-path="url(#clipPath840)"
-       transform="translate(-0.26458298)" />
+    <path
+       style="opacity:1;fill:url(#radialGradient5168);fill-opacity:1;stroke:none;stroke-width:2.62727261;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
+       clip-path="none"
+       d="M 12.677734 26.001953 A 36.125001 36.125001 0 0 0 9 26.230469 L 9 50 L 46.667969 50 A 36.125001 36.125001 0 0 0 12.677734 26.001953 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="path5160" />
+    <path
+       style="opacity:1;fill:url(#radialGradient5172);fill-opacity:1;stroke:none;stroke-width:2.62727261;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
+       clip-path="none"
+       d="M 55 33.220703 A 36.125001 36.125001 0 0 0 29.931641 50 L 55 50 L 55 33.220703 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="circle5170" />
     <circle
        style="opacity:1;fill:#ffdb8a;fill-opacity:1;stroke:none;stroke-width:0.62716043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
        id="path5184"
