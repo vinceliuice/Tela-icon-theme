@@ -42,7 +42,10 @@ install() {
   cp -ur ${SRC_DIR}/src/{16,22,24,scalable,symbolic,index.theme}                     ${THEME_DIR}
 
   [[ ${color} == '' ]] && \
-  [[ -d ${DARK_DIR} ]] && rm -rf ${DARK_DIR} && \
+  [[ -d ${DARK_DIR} ]] && rm -rf ${DARK_DIR}
+
+  [[ ${color} == '' ]] && \
+  echo "Installing '${DARK_DIR}'..." && \
   mkdir -p                                                                           ${DARK_DIR} && \
   cp -ur ${SRC_DIR}/{COPYING,AUTHORS}                                                ${DARK_DIR} && \
   cp -ur ${SRC_DIR}/src/index-Dark.theme                                             ${DARK_DIR}/index.theme && \
