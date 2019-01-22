@@ -53,7 +53,8 @@
        y1="283.50626"
        x2="10.583333"
        y2="294.61874"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.79375,0.2645865)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient876"
@@ -82,9 +83,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -164,25 +165,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06667)">
-    <g
-       id="g828"
-       transform="translate(-0.79375,0.2645865)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path13"
-         d="M 7.9374999,281.91875 A 5.5562364,5.5562364 0 0 0 2.38125,287.475 v 5.55625 H 7.9374999 A 5.5562364,5.5562364 0 0 0 13.49375,287.475 5.5562364,5.5562364 0 0 0 7.9374999,281.91875 Z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52916666;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916666;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
-         d="M 7.9374999,281.91875 A 5.5562364,5.5562364 0 0 0 2.38125,287.475 v 5.55625 H 7.9374999 A 5.5562364,5.5562364 0 0 0 13.49375,287.475 5.5562364,5.5562364 0 0 0 7.9374999,281.91875 Z"
-         id="path837"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.65;fill:url(#linearGradient840);fill-opacity:1;stroke:none;stroke-width:0.39687401;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
-         d="m 10.583333,283.50625 a 5.556236,5.556236 0 0 1 5.55625,5.55625 v 5.55625 h -5.55625 a 5.556236,5.556236 0 0 1 -5.5562497,-5.55625 5.556236,5.556236 0 0 1 5.5562497,-5.55625 z"
-         id="path824"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       d="M 27 8 A 20.999949 20.999949 0 0 0 6 29 L 6 50 L 22.332031 50 A 20.999947 20.999947 0 0 1 16 35 A 20.999947 20.999947 0 0 1 37 14 A 20.999947 20.999947 0 0 1 42.365234 14.722656 A 20.999949 20.999949 0 0 0 27 8 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="path13" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path837"
+       d="M 7.1437499,282.18334 A 5.5562364,5.5562364 0 0 0 1.5875,287.73959 v 5.55625 H 7.1437499 A 5.5562364,5.5562364 0 0 0 12.7,287.73959 5.5562364,5.5562364 0 0 0 7.1437499,282.18334 Z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path824"
+       d="m 9.789583,283.77084 a 5.556236,5.556236 0 0 1 5.55625,5.55625 v 5.55625 h -5.55625 a 5.556236,5.556236 0 0 1 -5.5562497,-5.55625 5.556236,5.556236 0 0 1 5.5562497,-5.55625 z"
+       style="opacity:0.65;fill:url(#linearGradient840);fill-opacity:1;stroke:none;stroke-width:0.39687401;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
     <path
        style="opacity:1;fill:url(#linearGradient878);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
        d="M 37 14 A 20.999947 20.999947 0 0 0 16 35 A 20.999947 20.999947 0 0 0 22.332031 50 L 27 50 A 20.999949 20.999949 0 0 0 48 29 A 20.999949 20.999949 0 0 0 42.365234 14.722656 A 20.999947 20.999947 0 0 0 37 14 z "
