@@ -15,7 +15,7 @@
    version="1.1"
    id="svg4572"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="disk-burner.svg">
+   sodipodi:docname="goa-account-todoist.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="10.87473"
-     inkscape:cy="28.699638"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-6.2398341"
+     inkscape:cy="49.721143"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,13 +38,13 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1221"
-     inkscape:window-height="714"
-     inkscape:window-x="469"
-     inkscape:window-y="98"
+     inkscape:window-height="715"
+     inkscape:window-x="538"
+     inkscape:window-y="357"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid4582" />
@@ -67,6 +67,16 @@
        position="1.0583333,1.0583333"
        orientation="0,1"
        id="guide4590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="0,1"
+       id="guide822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="1,0"
+       id="guide824"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -110,48 +120,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06667)">
-    <g
-       id="g868">
-      <circle
-         r="6.8791666"
-         cy="288.53333"
-         cx="8.4666662"
-         id="path13"
-         style="opacity:1;fill:#cecece;fill-opacity:1;stroke:none;stroke-width:0.49136901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill" />
-      <circle
-         r="4.7624888"
-         cy="288.53333"
-         cx="8.4666662"
-         id="circle822"
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2267857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill" />
-      <circle
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.18898806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
-         id="circle824"
-         cx="8.4666662"
-         cy="288.53333"
-         r="3.9687386" />
-      <circle
-         r="1.5875002"
-         cy="288.53333"
-         cx="8.4666662"
-         id="circle845"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18898806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill" />
-    </g>
-    <g
-       id="g843"
-       transform="matrix(1.5000001,0,0,1.5000001,-6.9817059,-146.78027)"
-       style="stroke-width:0.66666663">
-      <circle
-         id="circle10"
-         r="2.1166666"
-         cy="293.03128"
-         cx="13.121137"
-         style="fill:#ff5722;stroke-width:0.17638887;enable-background:new" />
-      <path
-         id="path12"
-         d="m 13.366405,291.97292 c -0.649287,0.26458 -1.039017,0.88476 -1.039017,1.32291 0,0.43323 0.340888,0.78476 0.764301,0.79299 -0.211582,-0.004 -0.382032,-0.17958 -0.382032,-0.39611 0,-0.21919 0.194815,-0.52917 0.519509,-0.66146 0,0.46302 0.348615,0.52996 0.259752,0.79375 -0.05038,0.14958 -0.173283,0.2631 -0.386344,0.26432 0.0013,1e-5 0.0027,1.6e-4 0.004,1.6e-4 0.430371,0 0.677941,-0.22839 0.77925,-0.52917 0.177721,-0.52761 -0.519509,-0.66146 -0.519509,-1.5875 z"
-         style="fill:#ffffff;stroke-width:0.17638887"
-         inkscape:connector-curvature="0" />
-    </g>
+    <circle
+       style="opacity:1;fill:#c2352a;fill-opacity:1;stroke:none;stroke-width:0.49136901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       id="path13"
+       cx="8.4666662"
+       cy="288.53333"
+       r="6.8791666" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.99999994"
+       d="M 35.361328 17.6875 A 1.683222 1.683222 0 0 0 34.447266 17.931641 L 15.039062 29.251953 L 6.9355469 25.203125 A 26 26 0 0 0 6.2480469 28.623047 L 14.349609 32.671875 A 1.683222 1.683222 0 0 0 15.947266 32.621094 L 36.142578 20.837891 A 1.683222 1.683222 0 0 0 35.361328 17.689453 L 35.361328 17.6875 z M 35.361328 24.419922 A 1.683222 1.683222 0 0 0 34.447266 24.664062 L 15.039062 35.984375 L 6.0253906 31.480469 A 26 26 0 0 0 6 32 A 26 26 0 0 0 6.2480469 35.353516 L 14.349609 39.404297 A 1.683222 1.683222 0 0 0 15.947266 39.353516 L 36.142578 27.570312 A 1.683222 1.683222 0 0 0 35.361328 24.421875 L 35.361328 24.419922 z M 35.361328 31.152344 A 1.683222 1.683222 0 0 0 34.447266 31.394531 L 15.039062 42.71875 L 6.8769531 38.638672 A 26 26 0 0 0 8.5878906 43.255859 L 14.349609 46.134766 A 1.683222 1.683222 0 0 0 15.947266 46.083984 L 36.142578 34.302734 A 1.683222 1.683222 0 0 0 35.361328 31.152344 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="path4" />
   </g>
 </svg>
