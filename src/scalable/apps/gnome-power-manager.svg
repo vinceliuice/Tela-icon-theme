@@ -11,8 +11,8 @@
    height="64"
    version="1"
    id="svg16"
-   sodipodi:docname="battery.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   sodipodi:docname="gnome-power-manager.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      id="namedview18"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="5.2149125"
-     inkscape:cx="39.263223"
-     inkscape:cy="46.29219"
+     inkscape:zoom="1.84375"
+     inkscape:cx="-6.0420701"
+     inkscape:cy="70.900235"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16">
     <inkscape:grid
@@ -58,20 +58,15 @@
      cx="32"
      cy="32"
      r="26" />
-  <circle
-     r="22"
-     cy="32"
-     cx="32"
-     id="circle815"
-     style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.28907955;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
   <path
      style="fill:#ffffff;stroke-width:0.42257714"
-     d="M 26 20.427734 L 26 23 L 24 23 C 23.446 23 23 23.446 23 24 L 23 42 C 23 42.554 23.446 43 24 43 L 40 43 C 40.554 43 41 42.554 41 42 L 41 24 C 41 23.446 40.554 23 40 23 L 38 23 L 38 20.427734 L 26 20.427734 z "
-     id="rect4" />
+     d="m 24,16.951823 v 3.429688 H 21.333333 C 20.594667,20.381511 20,20.976178 20,21.714844 v 24 c 0,0.738666 0.594667,1.333333 1.333333,1.333333 H 42.666666 C 43.405333,47.048177 44,46.45351 44,45.714844 v -24 c 0,-0.738666 -0.594667,-1.333333 -1.333334,-1.333333 H 40 v -3.429688 z"
+     id="rect4"
+     inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#c0f957;stroke-width:0.42857143"
-     d="m 25,25 v 4 h 14 v -4 z m 0,6 v 4 h 14 v -4 z m 0,6 v 4 h 14 v -4 z"
+     style="fill:#c0f957;stroke-width:0.4285714"
+     d="m 22.666667,22.666668 v 5.333333 h 18.666666 v -5.333333 z m 0,7.999999 V 36 h 18.666666 v -5.333333 z m 0,8 V 44 h 18.666666 v -5.333333 z"
      id="path10"
      sodipodi:nodetypes="ccccccccccccccc" />
 </svg>
