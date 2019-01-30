@@ -14,7 +14,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg4572"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="system-log-out.svg">
   <title
      id="title4611">Canvas icon theme</title>
@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-75.28861"
-     inkscape:cy="56.233312"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="28.543065"
+     inkscape:cy="38.29328"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,10 +52,10 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -145,13 +145,7 @@
     <g
        id="g1055"
        transform="matrix(0.23007265,0,0,0.23007265,2.944923,283.0116)"
-       style="fill:#000000;opacity:0.15">
-      <path
-         id="path1053"
-         style="fill:#000000;fill-opacity:1;stroke-width:1.10000038"
-         d="M 24,-1.3000099 C 37.973305,-1.3000099 49.30001,10.026695 49.30001,24 49.30001,37.973305 37.973305,49.30001 24,49.30001 10.026695,49.30001 -1.3000099,37.973305 -1.3000099,24 -1.3000099,10.026695 10.026695,-1.3000099 24,-1.3000099 Z"
-         inkscape:connector-curvature="0" />
-    </g>
+       style="fill:#000000;opacity:0.15" />
     <g
        transform="matrix(0.26458333,0,0,0.26458333,2.1166666,282.44792)"
        id="g33">
@@ -171,23 +165,27 @@
       </g>
     </g>
     <g
-       transform="matrix(0,-0.26458333,0.26458333,0,2.1167989,294.88334)"
-       id="g43">
+       transform="matrix(0,-0.28222222,0.28222222,0,1.6934743,295.30667)"
+       id="g43"
+       style="stroke-width:0.9375">
       <g
-         id="g41">
+         id="g41"
+         style="stroke-width:0.9375">
         <!-- color: #68ac39 -->
         <g
-           id="g39">
+           id="g39"
+           style="stroke-width:0.9375">
           <g
-             id="g840">
+             id="g840"
+             style="stroke-width:0.9375">
             <path
                id="path35"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9375"
                d="m 26,9 h -4 v 15 h 4 M 26,9"
                inkscape:connector-curvature="0" />
             <path
                id="path37"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9375"
                d="m 20,9.5 c -6.359,1.766 -11,7.617 -11,14.469 0,8.23 6.715,15.03 15,15.03 8.285,0 15,-6.801 15,-15.03 C 39,17.117 34.359,11.266 28,9.5 v 3.875 c 4.184,1.645 7.25,5.75 7.25,10.594 0,6.313 -5.04,11.375 -11.25,11.375 -6.203,0 -11.25,-5.063 -11.25,-11.375 0,-4.895 3.01,-9.05 7.25,-10.656 M 20,9.5"
                inkscape:connector-curvature="0" />
           </g>

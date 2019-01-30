@@ -14,7 +14,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg4572"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="preferences-system-parental-controls.svg">
   <title
      id="title4611">Canvas icon theme</title>
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0000002"
-     inkscape:cx="11.4202"
-     inkscape:cy="40.466301"
+     inkscape:cx="43.345279"
+     inkscape:cy="30.1335"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -37,11 +37,11 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="654"
-     inkscape:window-height="477"
-     inkscape:window-x="803"
-     inkscape:window-y="440"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -122,7 +122,7 @@
      id="layer1"
      transform="translate(0,-280.06667)">
     <rect
-       style="fill:#fecd38;stroke-width:0.2456845;fill-opacity:1"
+       style="fill:#f0bb24;stroke-width:0.2456845;fill-opacity:1"
        width="13.758333"
        height="13.758333"
        x="-295.41251"
@@ -131,34 +131,24 @@
        ry="6.8791666"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect2" />
-    <rect
-       id="rect903"
-       transform="matrix(0,-1,-1,0,0,0)"
-       ry="5.8208418"
-       rx="5.8208418"
-       y="-14.287508"
-       x="-294.35419"
-       height="11.641684"
-       width="11.641684"
-       style="opacity:0.15;fill:#000000;stroke-width:0.20788719" />
     <g
        id="g43"
-       transform="translate(-14.022916,-2.1166535)"
-       style="fill:#f9f9f9">
+       transform="matrix(1.142853,0,0,1.142853,-17.23562,-43.636877)"
+       style="fill:#f9f9f9;stroke-width:0.87500316">
       <path
          id="path8"
          d="m 21.159737,286.94581 c -0.511439,0 -0.926041,0.4146 -0.926041,0.92604 0,0.51144 0.414602,0.92604 0.926041,0.92604 0.51144,0 0.926042,-0.4146 0.926042,-0.92604 0,-0.51144 -0.414602,-0.92604 -0.926042,-0.92604 z"
-         style="fill:#f9f9f9;stroke-width:0.26458332"
+         style="fill:#f9f9f9;stroke-width:0.23151124"
          inkscape:connector-curvature="0" />
       <path
          id="path10"
          d="m 20.427635,289.06248 c -0.149489,0 -0.23151,0.0899 -0.289189,0.22807 l -0.926042,1.90492 c -0.204756,0.46175 0.499771,0.75549 0.683683,0.28506 0.107157,-0.27993 0.218811,-0.55854 0.345017,-0.83053 v 3.33375 c 0,0.20521 0.165206,0.37042 0.370417,0.37042 h 0.0015 c 0.20521,0 0.426561,-0.16523 0.423465,-0.37042 l -0.0015,-1.74625 h 0.256382 l 0.0015,1.74625 c 1.74e-4,0.20521 0.2262,0.37042 0.431403,0.37042 0.20521,0 0.370416,-0.16521 0.370416,-0.37042 l -0.0015,-3.33375 h -0.01374 l 0.413835,0.83034 c 0.08262,0.21078 0.333322,0.2988 0.52959,0.18594 l 0.672253,0.39303 c -0.0049,0.0242 -0.01448,0.0467 -0.01448,0.0723 v 2.03729 c 0,0.10261 0.154692,0.18521 0.257297,0.18521 0.102605,0 0.281146,-0.084 0.264583,-0.18521 v -0.87312 h 0.264584 v 0.87312 c 0,0.10261 0.161978,0.18521 0.264583,0.18521 0.102605,0 0.273394,-0.0826 0.273394,-0.18521 v -1.85208 l 0.476197,0.39552 c 0.174562,0.18179 0.44368,-0.0873 0.261901,-0.2619 l -0.792348,-0.68778 c -0.03475,-0.0347 -0.08183,-0.0543 -0.130945,-0.0543 h -0.902652 l -0.708449,-0.36269 c 3.4e-5,-0.0518 -0.01082,-0.1031 -0.03182,-0.15048 l -0.92657,-1.90412 c -0.05742,-0.13785 -0.192088,-0.2278 -0.341577,-0.22807 z"
-         style="fill:#f9f9f9;stroke-width:0.26458332"
+         style="fill:#f9f9f9;stroke-width:0.23151124"
          inkscape:connector-curvature="0" />
       <path
          id="path12"
          d="m 24.334737,290.12081 c -0.364066,0 -0.661458,0.29739 -0.661458,0.66146 0,0.36406 0.297392,0.66146 0.661458,0.66146 0.364067,0 0.661459,-0.2974 0.661459,-0.66146 0,-0.36407 -0.297392,-0.66146 -0.661459,-0.66146 z"
-         style="fill:#f9f9f9;stroke-width:0.26458332"
+         style="fill:#f9f9f9;stroke-width:0.23151124"
          inkscape:connector-curvature="0" />
     </g>
   </g>

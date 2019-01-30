@@ -14,8 +14,8 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg4572"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="system-restart.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="system-reboot.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="-37.59518"
-     inkscape:cy="46.287971"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="14.039354"
+     inkscape:cy="36.126507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,11 +52,11 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="721"
-     inkscape:window-height="459"
-     inkscape:window-x="1291"
-     inkscape:window-y="583"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true">
@@ -145,13 +145,7 @@
     <g
        id="g1055"
        transform="matrix(0.23007265,0,0,0.23007265,2.944923,283.0116)"
-       style="fill:#000000;opacity:0.15">
-      <path
-         id="path1053"
-         style="fill:#000000;fill-opacity:1;stroke-width:1.10000038"
-         d="M 24,-1.3000099 C 37.973305,-1.3000099 49.30001,10.026695 49.30001,24 49.30001,37.973305 37.973305,49.30001 24,49.30001 10.026695,49.30001 -1.3000099,37.973305 -1.3000099,24 -1.3000099,10.026695 10.026695,-1.3000099 24,-1.3000099 Z"
-         inkscape:connector-curvature="0" />
-    </g>
+       style="fill:#000000;opacity:0.15" />
     <g
        transform="matrix(0.26458333,0,0,0.26458333,2.1166666,282.44792)"
        id="g33">
@@ -172,17 +166,18 @@
     </g>
     <g
        id="g865"
-       transform="matrix(0.94206127,0,0,0.94206127,0.49054785,16.717657)">
+       transform="matrix(0.94206127,0,0,0.94175568,0.49054785,16.80583)"
+       style="stroke-width:1.00016224">
       <path
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
          id="circle821"
          d="m 8.3178384,284.04007 c -1.1405317,0.0371 -2.2243302,0.5063 -3.0318562,1.31258 -1.5992279,1.6037 -1.7566341,4.14633 -0.3674195,5.93504 l 0.9451618,-0.94516 c -0.8762775,-1.26025 -0.7255171,-2.96691 0.3581177,-4.05402 0.8659977,-0.86326 2.1507726,-1.15249 3.3031576,-0.74362 v 1.13636 l 0.7534422,-0.75344 0.36897,-0.36897 0.574642,-0.57464 c -0.828345,-0.64377 -1.8556632,-0.97774 -2.9042156,-0.94413 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32127973;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32133186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32127973;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32133186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
          d="m 12.01477,285.77898 -0.945162,0.94516 c 0.876278,1.26025 0.725518,2.96691 -0.358117,4.05402 -0.865998,0.86326 -2.1507728,1.15249 -3.3031578,0.74362 v -1.13636 l -1.1224123,1.12241 -0.5746417,0.57464 c 1.7891464,1.38956 4.3324968,1.23169 5.9360718,-0.36845 1.599228,-1.6037 1.756634,-4.14633 0.367419,-5.93504 z"
          id="path842" />
     </g>
