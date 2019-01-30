@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="multimedia-volume-control.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="5.2824923"
+     inkscape:cy="7.7783208"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="737"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76667)">
+    <g
+       id="g851"
+       transform="matrix(0.46667053,0,0,0.46667053,-1.834477,160.23333)"
+       style="stroke-width:2.14283943">
+      <g
+         transform="translate(-23.812632,1.3230515)"
+         id="g886"
+         style="stroke-width:2.14283943">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 29.10443,284.03542 c -1.058465,2.3813 -1.058465,3.96848 0,6.34973 2.116905,1.05847 4.233863,1.05847 6.349736,0 1.058466,-2.3813 1.058466,-3.96848 0,-6.34973 -2.116905,-1.05847 -4.233863,-1.05847 -6.349736,0 z"
+           style="fill:#ececec;stroke-width:0.56695956"
+           id="path23" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 35.718749,287.21042 a 3.4395835,3.4395835 0 1 1 -6.879167,0 3.4395835,3.4395835 0 1 1 6.879167,0 z"
+           style="fill:#666666;stroke-width:0.56695956"
+           id="path25" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 34.924999,287.21042 a 2.6458335,2.6458335 0 1 1 -5.291667,0 2.6458335,2.6458335 0 1 1 5.291667,0 z"
+           style="fill:#ffbd55;fill-opacity:1;stroke-width:0.56695956"
+           id="path27" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 29.897916,284.3 a 0.529167,0.529167 0 1 1 -1.058334,0 0.529167,0.529167 0 1 1 1.058334,0 z"
+           style="fill:#ececec;stroke-width:0.56695956"
+           id="path29" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 29.897916,290.12083 a 0.529167,0.529167 0 1 1 -1.058334,0 0.529167,0.529167 0 1 1 1.058334,0 z"
+           style="fill:#ececec;stroke-width:0.56695956"
+           id="path31" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 35.718749,290.12083 a 0.52916666,0.52916666 0 1 1 -1.058333,0 0.52916666,0.52916666 0 1 1 1.058333,0 z"
+           style="fill:#ececec;stroke-width:0.56695956"
+           id="path33" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 35.718749,284.3 a 0.52916666,0.52916666 0 1 1 -1.058333,0 0.52916666,0.52916666 0 1 1 1.058333,0 z"
+           style="fill:#ececec;stroke-width:0.56695956"
+           id="path35" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 34.131249,287.21042 a 1.8520835,1.8520835 0 1 1 -3.704167,0 1.8520835,1.8520835 0 1 1 3.704167,0 z"
+           style="fill:#4d4d4d;stroke-width:0.56695956"
+           id="path37" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 33.337632,286.68112 a 0.52916666,0.52916666 0 1 1 -1.058333,0 0.52916666,0.52916666 0 1 1 1.058333,0 z"
+           style="fill:#ffffff;stroke-width:0.56695956"
+           id="path39" />
+      </g>
+    </g>
+  </g>
+</svg>

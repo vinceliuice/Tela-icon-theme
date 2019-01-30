@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="folder-symbolic.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -34,21 +34,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="-0.54237288"
+     inkscape:cx="-8.4067797"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
-  <path
-     d="M 0,2 0,15 16,15 16,8 15,3 10,3 9,1 1,1 C 0.5,1 0,1.5 0,2 Z"
-     style="fill:#555555;opacity:0.5;fill-opacity:1;stroke:none"
-     id="path2" />
+  <rect
+     style="display:inline;opacity:0.5;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
+     id="rect23"
+     width="14"
+     height="5"
+     x="0.99980003"
+     y="1"
+     rx="1"
+     ry="1" />
   <path
      d="M 16,4 16,15 0,15 0,5 7,5 8,3 15,3 c 0.5,0 1,0.5 1,1 z"
      style="fill:#555555;fill-opacity:1;stroke:none"

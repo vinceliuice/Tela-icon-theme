@@ -18,7 +18,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer1"
-     inkscape:cx="6.372126"
-     inkscape:cy="6.534336"
+     inkscape:cx="3.8088639"
+     inkscape:cy="11.837637"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -57,11 +57,11 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1051"
+     inkscape:window-height="708"
      inkscape:window-maximized="1"
-     inkscape:window-width="1920"
+     inkscape:window-width="1366"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="30"
      inkscape:zoom="45.254834">
     <inkscape:grid
        color="#000000"
@@ -133,11 +133,15 @@
      inkscape:label="places"
      style="display:inline"
      transform="translate(-584.0002,-182)">
-    <path
-       style="opacity:0.5;fill:#555555;fill-opacity:1;stroke:none"
-       d="M 1 1 C 0.5 1 0 1.5 0 2 L 0 15 L 16 15 L 16 8 L 15 3 L 10 3 L 9 1 L 1 1 z M 11 7 C 12.30915 7 13.48761 7.46868 14.46875 8.1875 L 11 12 L 7.53125 8.21875 C 8.51619 7.49185 9.68073 7 11 7 z "
-       transform="translate(584.0002,182)"
-       id="path2" />
+    <rect
+       style="display:inline;opacity:0.5;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
+       id="rect23"
+       width="14"
+       height="5"
+       x="585"
+       y="183"
+       rx="1"
+       ry="1" />
     <path
        style="fill:#555555;fill-opacity:1;stroke:none"
        d="M 8 3 L 7 5 L 0 5 L 0 15 L 16 15 L 16 4 C 16 3.5 15.5 3 15 3 L 8 3 z M 11 7 C 12.30915 7 13.48761 7.46868 14.46875 8.1875 L 11 12 L 7.53125 8.21875 C 8.51619 7.49185 9.68073 7 11 7 z "
