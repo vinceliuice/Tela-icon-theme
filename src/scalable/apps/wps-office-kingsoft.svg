@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
@@ -20,30 +19,7 @@
   <title
      id="title4611">Canvas icon theme</title>
   <defs
-     id="defs4566">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient868">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop864" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop866" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,5.5624997e-8,280.06666)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient868"
-       id="linearGradient840"
-       x1="46.167969"
-       y1="57"
-       x2="46.167969"
-       y2="27.345703"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs4566" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -51,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="-13.021039"
-     inkscape:cy="29.172451"
+     inkscape:zoom="2"
+     inkscape:cx="28.369419"
+     inkscape:cy="41.791459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -61,14 +37,15 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="717"
-     inkscape:window-height="456"
-     inkscape:window-x="434"
-     inkscape:window-y="205"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid4582" />
@@ -144,25 +121,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06667)">
-    <rect
-       style="opacity:1;fill:#fb4250;fill-opacity:1;stroke:none;stroke-width:0.2362351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
-       id="rect841-3"
-       width="13.229166"
-       height="13.229166"
-       x="1.8520834"
-       y="281.91876"
-       rx="0.79374945"
-       ry="0.79374105" />
+    <circle
+       style="opacity:1;fill:#5984eb;fill-opacity:1;stroke:none;stroke-width:0.49136898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       id="path13"
+       cx="8.4666662"
+       cy="288.53333"
+       r="6.8791666" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.94073039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       d="m 4.703745,285.71453 v 5.64437 l 3.762922,-3.29254 3.762921,3.29254 v -5.64437"
-       id="path4468-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.25;fill:url(#linearGradient840);fill-opacity:1;stroke:none;stroke-width:0.2362351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
-       d="m 15.081249,287.30187 a 11.90625,11.90625 0 0 1 -5.7319487,7.84604 h 4.9381987 c 0.439738,0 0.79375,-0.35402 0.79375,-0.79375 z"
-       id="rect829" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 3.6959979,285.64603 c -0.2736322,0 -0.4485249,0.24549 -0.3337841,0.49391 l 2.7209181,5.89139 0.24455,0.52962 c 0.1136887,0.24614 0.3067035,0.48851 0.5764043,0.49295 0.2697015,-0.005 0.4627158,-0.24681 0.5764043,-0.49295 l 1.3809591,-2.99007 h 4.825e-4 l 1.0905868,-2.36061 c 0.076492,-0.16561 0.2536171,-0.32944 0.4360411,-0.32944 h 0.125411 1.02354 c 0.0027,10e-6 0.005,8.8e-4 0.0077,9.3e-4 0.02083,5.8e-4 0.04108,0.003 0.05981,0.007 0.0049,9.3e-4 0.0091,0.004 0.01399,0.006 0.01587,0.005 0.03126,0.0107 0.04534,0.0183 0.102229,0.0554 0.151316,0.17572 0.09502,0.29761 l -0.864848,1.87198 -0.108528,0.23443 -0.108046,0.23393 -0.108046,0.23394 -0.108045,0.23394 -0.108045,0.23394 -0.108528,0.23442 -0.05547,0.12059 -0.05258,0.11335 c -0.01951,0.0506 -0.04169,0.11079 -0.108047,0.11046 -0.067746,3.9e-4 -0.089914,-0.0666 -0.1080461,-0.11046 l -0.1079885,-0.23388 -0.1085281,-0.23442 -0.1080455,-0.23394 -0.1080455,-0.23394 -0.1080464,-0.23394 -0.052093,-0.11286 -0.6603324,1.42389 0.7847786,1.6993 c 0.1136879,0.24615 0.3067024,0.48829 0.5764049,0.49296 0.269702,-0.005 0.462716,-0.24681 0.576405,-0.49296 l 0.244549,-0.52962 2.720919,-5.89138 c 0.11474,-0.24842 -0.06015,-0.49392 -0.333784,-0.49392 H 11.667295 11.08655 9.7808363 c -0.2736349,0 -0.539322,0.2455 -0.6540628,0.49392 l -1.5845093,3.43094 h 0.00145 l -0.098881,0.21367 -0.1080457,0.23394 -0.1080457,0.23394 -0.108528,0.23442 -0.1080457,0.23394 c -0.018129,0.0438 -0.040304,0.11085 -0.1080457,0.11046 -0.066365,3.3e-4 -0.088537,-0.0598 -0.1080456,-0.11046 l -0.052576,-0.11335 -0.05547,-0.12059 -0.108528,-0.23442 -0.1080457,-0.23394 -0.1080456,-0.23394 -0.1080458,-0.23394 -0.1080457,-0.23393 -0.1085279,-0.23443 -0.8648478,-1.87198 c -0.076492,-0.16561 0.040426,-0.32944 0.222844,-0.32944 h 0.5194876 0.6294625 c 0.1824244,0 0.3595477,0.16383 0.4360415,0.32944 l 0.6670856,1.44463 0.6612978,-1.4263 -0.5026387,-1.08912 c -0.1147437,-0.24842 -0.3804312,-0.49391 -0.654065,-0.49391 H 5.91624 Z"
+       id="rect838"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
