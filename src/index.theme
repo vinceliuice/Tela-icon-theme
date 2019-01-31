@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Tela
 Comment=Flat and colorful personality icon theme
-Inherits=Numix-Circle,Numix,Adwaita,gnome,hicolor
+Inherits=Numix-Circle,Adwaita,gnome,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
@@ -22,7 +22,7 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 # Directory list
-Directories=16/actions,16/apps,16/devices,16/panel,16/status,16/places,22/actions,22/panel,22/emblems,24/actions,24/panel,24/animations,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16/actions,16/apps,16/devices,16/panel,16/status,16/places,22/actions,22/panel,22/emblems,24/actions,24/panel,24/animations,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 # 16x16
 [16/actions]

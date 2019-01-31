@@ -34,28 +34,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="678"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:cx="-2.3050847"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg7" />
   <defs
      id="defs3">
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   </defs>
   <path
      inkscape:connector-curvature="0"
      d="M 9,1 A 7,7 0 0 0 2,8 H 0 L 3,12 6,8 H 4 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 v 2 A 7,7 0 0 0 16,8 7,7 0 0 0 9,1 Z M 8,4.5 v 4.267578 l 3.22266,2.148438 0.55468,-0.832032 L 9,8.232422 V 4.5 Z"
      id="path6366-7"
-     style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;enable-background:new" />
+     style="display:inline;fill:#727272;fill-opacity:1;stroke:none;enable-background:new" />
 </svg>

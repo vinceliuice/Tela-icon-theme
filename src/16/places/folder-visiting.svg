@@ -38,9 +38,9 @@
      inkscape:window-height="708"
      id="namedview11"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="-10.388674"
-     inkscape:cy="10.820623"
+     inkscape:zoom="29.5"
+     inkscape:cx="-0.61724376"
+     inkscape:cy="6.8023892"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -54,11 +54,11 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   </defs>
   <rect
-     style="display:inline;opacity:0.5;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
+     style="display:inline;opacity:0.5;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
      id="rect23"
      width="14"
      height="5"
@@ -69,7 +69,7 @@
   <path
      inkscape:connector-curvature="0"
      d="M 16,4 V 15 H 0 V 5 H 7 L 8,3 h 7 c 0.5,0 1,0.5 1,1 z"
-     style="fill:#555555;fill-opacity:1;stroke:none"
+     style="fill:#5294e2;fill-opacity:1;stroke:none"
      id="path4" />
   <path
      style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"

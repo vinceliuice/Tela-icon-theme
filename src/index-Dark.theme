@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Tela-Dark
-Comment=Flat and colorful personality icon theme
-Inherits=Tela,Numix-Circle,Numix,Adwaita,gnome,hicolor
+Comment=Flat and colorful personality dark version icon theme
+Inherits=Tela,Numix-Circle,Adwaita,gnome,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
@@ -22,11 +22,21 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 # Directory list
-Directories=16/actions,22/actions,24/actions,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16/actions,16/devices,16/places,22/actions,24/actions,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 # 16x16
 [16/actions]
 Context=Actions
+Size=16
+Type=Fixed
+
+[16/devices]
+Context=Devices
+Size=16
+Type=Fixed
+
+[16/places]
+Context=Places
 Size=16
 Type=Fixed
 
@@ -72,6 +82,13 @@ MaxSize=512
 Type=Scalable
 
 # Symbolic
+[symbolic/actions]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
 [symbolic/apps]
 Context=Applications
 Size=16
