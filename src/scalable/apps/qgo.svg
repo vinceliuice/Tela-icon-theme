@@ -34,7 +34,7 @@
          id="stop866" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,5.5624997e-8,280.06666)"
+       gradientTransform="matrix(0.27516666,0,0,0.27516666,-0.33866656,279.72798)"
        inkscape:collect="always"
        xlink:href="#linearGradient868"
        id="linearGradient840"
@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-10.022153"
-     inkscape:cy="25.034447"
+     inkscape:zoom="5.6"
+     inkscape:cx="-7.7560403"
+     inkscape:cy="25.542498"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -61,11 +61,11 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="732"
-     inkscape:window-height="473"
-     inkscape:window-x="725"
-     inkscape:window-y="331"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -149,12 +149,12 @@
     <rect
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.2362351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
        id="rect841-3"
-       width="13.229166"
-       height="13.229166"
-       x="1.8520834"
-       y="281.91876"
-       rx="0.79374945"
-       ry="0.79374105" />
+       width="13.758332"
+       height="13.758332"
+       x="1.5875002"
+       y="281.65417"
+       rx="0.82549942"
+       ry="0.82549071" />
     <g
        id="g6"
        transform="matrix(0.26458333,0,0,0.26458333,2.1103165,282.17646)">
@@ -213,7 +213,7 @@
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.25;fill:url(#linearGradient840);fill-opacity:1;stroke:none;stroke-width:0.2362351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
-       d="m 15.081249,287.30187 a 11.90625,11.90625 0 0 1 -5.7319487,7.84604 h 4.9381987 c 0.439738,0 0.79375,-0.35402 0.79375,-0.79375 z"
+       d="m 15.345832,287.2526 a 12.3825,12.3825 0 0 1 -5.9612263,8.15988 h 5.1357263 c 0.457328,0 0.8255,-0.36818 0.8255,-0.8255 z"
        id="rect829" />
   </g>
 </svg>

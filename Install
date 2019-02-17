@@ -7,7 +7,7 @@ DEST_DIR=
 if [ "$UID" -eq "$ROOT_UID" ]; then
   DEST_DIR="/usr/share/icons"
 else
-  DEST_DIR="$HOME/.icons"
+  DEST_DIR="$HOME/.local/share/icons"
 fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
@@ -54,6 +54,14 @@ install() {
   cd ${dest} && \
   ln -s ../${name}/scalable ${name}-Dark/scalable && \
   ln -s ../${name}/symbolic ${name}-Dark/symbolic && \
+  ln -s ../../${name}/16/apps ${name}-Dark/16/apps && \
+  ln -s ../../${name}/16/mimetypes ${name}-Dark/16/mimetypes && \
+  ln -s ../../${name}/16/panel ${name}-Dark/16/panel && \
+  ln -s ../../${name}/16/status ${name}-Dark/16/status && \
+  ln -s ../../${name}/22/emblems ${name}-Dark/22/emblems && \
+  ln -s ../../${name}/22/panel ${name}-Dark/22/panel && \
+  ln -s ../../${name}/24/animations ${name}-Dark/24/animations && \
+  ln -s ../../${name}/24/panel ${name}-Dark/24/panel && \
   gtk-update-icon-cache ${name}-Dark
 
   cp -ur ${SRC_DIR}/src/{16,22,24,scalable,symbolic,index.theme}                     ${THEME_DIR}

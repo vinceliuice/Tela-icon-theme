@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="application-certificate.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>application-atom+xml</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1221"
+     inkscape:window-height="687"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="6.9532168"
+     inkscape:cx="15.48114"
+     inkscape:cy="26.708277"
+     inkscape:window-x="506"
+     inkscape:window-y="511"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg21" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">application-atom+xml</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g1185">
+    <rect
+       style="opacity:1;fill:#cf000f;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+       id="rect1181"
+       width="36"
+       height="40"
+       x="6"
+       y="4"
+       ry="1.9047618"
+       rx="2" />
+    <path
+       style="opacity:0.15;fill:url(#linearGradient1187);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+       d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+       id="path1183"
+       inkscape:connector-curvature="0" />
+  </g>
+  <defs
+     id="defs11">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient1187"
+       gradientUnits="userSpaceOnUse"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:1"
+     d="m 24,15 c -2.992254,0 -5.39985,2.409095 -5.39985,5.39985 0,1.744982 0.82302,3.287583 2.100275,4.272508 V 33 L 24,30.5999 27.299575,33 V 24.672358 C 28.57683,23.685934 29.39985,22.144832 29.39985,20.39985 29.39985,17.407596 26.990755,15 24,15"
+     id="path2" />
+</svg>

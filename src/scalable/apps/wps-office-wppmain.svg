@@ -15,7 +15,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg4572"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="wps-office-wppmain.svg">
   <title
      id="title4611">Canvas icon theme</title>
@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="46.614928"
-     inkscape:cy="43.862604"
+     inkscape:zoom="44.8"
+     inkscape:cx="50.170114"
+     inkscape:cy="54.913971"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -61,10 +61,10 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -144,25 +144,30 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06667)">
-    <rect
-       style="opacity:1;fill:#f57c00;fill-opacity:1;stroke:none;stroke-width:0.2362351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
-       id="rect841-3"
-       width="13.229166"
-       height="13.229166"
-       x="1.8520834"
-       y="281.91876"
-       rx="0.79374945"
-       ry="0.79374105" />
+    <g
+       id="g24"
+       transform="matrix(1.04,0,0,1.04,-0.33866662,-11.541343)"
+       style="stroke-width:0.96153843">
+      <rect
+         ry="0.76322138"
+         rx="0.76322073"
+         y="281.91876"
+         x="1.8520834"
+         height="13.229166"
+         width="13.229166"
+         id="rect841-3"
+         style="opacity:1;fill:#f57c00;fill-opacity:1;stroke:none;stroke-width:0.22714913;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill" />
+      <path
+         id="rect829"
+         d="m 15.081249,287.30187 a 11.90625,11.90625 0 0 1 -5.7319487,7.84604 h 4.9381987 c 0.439738,0 0.79375,-0.35402 0.79375,-0.79375 z"
+         style="opacity:0.25;fill:url(#linearGradient840);fill-opacity:1;stroke:none;stroke-width:0.22714913;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
+         inkscape:connector-curvature="0" />
+    </g>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path4638"
        d="m 4.7380163,291.52423 v -2.99089 h 5.9715997 c 0,0 1.492788,0 1.492788,-1.49279 0,-1.49278 -1.492788,-1.49278 -1.492788,-1.49278 H 4.7380163"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99519259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.25;fill:url(#linearGradient840);fill-opacity:1;stroke:none;stroke-width:0.2362351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922;paint-order:markers stroke fill"
-       d="m 15.081249,287.30187 a 11.90625,11.90625 0 0 1 -5.7319487,7.84604 h 4.9381987 c 0.439738,0 0.79375,-0.35402 0.79375,-0.79375 z"
-       id="rect829" />
   </g>
 </svg>

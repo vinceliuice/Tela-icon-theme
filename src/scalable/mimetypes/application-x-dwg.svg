@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="application-x-dwg.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>application-epub+zip</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="678"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="true"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-14.328576"
+     inkscape:cy="17.185475"
+     inkscape:window-x="688"
+     inkscape:window-y="258"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">application-epub+zip</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <rect
+     style="opacity:1;fill:#3a539b;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+     id="rect834"
+     width="36"
+     height="40"
+     x="6"
+     y="4"
+     ry="1.9047618"
+     rx="2" />
+  <defs
+     id="defs11">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="32.74707"
+       y1="44"
+       x2="32.74707"
+       y2="17.242188"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#ffffff;stroke-width:1"
+     d="M 16.4,3.9872882 V 23.987288 H 9.1999998 v 7.2 H 6 v 2.4 h 3.1999998 v 7.2 H 16.4 v 3.2 h 2.4 v -3.2 H 26 v -7.2 h 16 v -2.4 H 26 v -7.2 H 18.8 V 3.9872882 Z M 11.6,38.387288 v -12 h 12 v 12 m -7.2,-7.2 v 2.4 h 2.4 v -2.4 z"
+     id="path12"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+  <path
+     style="opacity:0.15;fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+     d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
+     id="rect866"
+     inkscape:connector-curvature="0" />
+</svg>
