@@ -22,7 +22,7 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 # Directory list
-Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/status,16/places,22/actions,22/emblems,22/mimetypes,22/panel,24/actions,24/panel,24/animations,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/status,16/places,22/actions,22/emblems,22/mimetypes,22/panel,24/actions,24/panel,24/animations,32/devices,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 # 16x16
 [16/actions]
@@ -107,6 +107,12 @@ Type=Scalable
 [24/animations]
 Context=Animations
 Size=24
+Type=Fixed
+
+# 32x32
+[32/devices]
+Context=Devices
+Size=32
 Type=Fixed
 
 # Scalable
@@ -206,4 +212,3 @@ Type=Scalable
 Context=Status
 Size=16
 Type=Fixed
-

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1"
+   id="svg18"
+   sodipodi:docname="scanner.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient829">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop825" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop827" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient850">
+      <stop
+         style="stop-color:#388dd4;stop-opacity:1;"
+         offset="0"
+         id="stop846" />
+      <stop
+         style="stop-color:#388dd4;stop-opacity:0;"
+         offset="1"
+         id="stop848" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient850"
+       id="linearGradient852"
+       x1="-55"
+       y1="-32"
+       x2="-22"
+       y2="-32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(77)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient829"
+       id="linearGradient831"
+       x1="39.634766"
+       y1="58"
+       x2="39.634766"
+       y2="6"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     id="namedview20"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="-32.86701"
+     inkscape:cy="20.158097"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18">
+    <inkscape:grid
+       type="xygrid"
+       id="grid834" />
+  </sodipodi:namedview>
+  <g
+     id="g833"
+     transform="matrix(0.52631579,0,0,0.52631579,-0.84210528,-0.84210528)"
+     style="stroke-width:1.89999998">
+    <rect
+       id="rect4"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="2.8"
+       rx="2.7857144"
+       y="-53"
+       x="-58"
+       height="42"
+       width="52"
+       style="fill:#4f4f4f;stroke-width:1.76880372" />
+    <rect
+       id="rect6"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="0"
+       rx="0"
+       y="-50"
+       x="-55"
+       height="36"
+       width="46"
+       style="fill:#ffffff;stroke-width:2.1427834" />
+    <path
+       id="rect820"
+       d="M 43.261719,6 A 50,50 0 0 1 45,19 50,50 0 0 1 26.269531,58 H 50.199219 C 51.750419,58 53,56.75813 53,55.214844 V 8.7851562 C 53,7.2418705 51.750419,6 50.199219,6 Z"
+       style="opacity:0.25;fill:url(#linearGradient831);fill-opacity:1;stroke-width:1.76880372"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0.5;fill:url(#linearGradient852);fill-opacity:1;stroke-width:1.8149153"
+       width="33"
+       height="36"
+       x="22"
+       y="-50"
+       rx="0"
+       ry="0"
+       transform="rotate(90)"
+       id="rect836" />
+    <rect
+       id="rect10"
+       ry="1.0056819"
+       rx="1"
+       y="21"
+       x="3.5"
+       height="3"
+       width="57"
+       style="fill:#388dd4;fill-opacity:1;fill-rule:evenodd;stroke-width:1.343503" />
+  </g>
+</svg>

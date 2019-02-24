@@ -39,7 +39,7 @@ install() {
   mkdir -p                                                                           ${THEME_DIR}
   cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
-  cp -ur ${SRC_DIR}/src/{16,22,24,scalable,symbolic}                                 ${THEME_DIR}
+  cp -ur ${SRC_DIR}/src/{16,22,24,32,scalable,symbolic}                              ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/index${color}.theme                                          ${THEME_DIR}/index.theme
 
   [[ ${color} == '' ]] && \
@@ -62,9 +62,9 @@ install() {
   ln -s ../../${name}/22/panel ${name}-Dark/22/panel && \
   ln -s ../../${name}/24/animations ${name}-Dark/24/animations && \
   ln -s ../../${name}/24/panel ${name}-Dark/24/panel && \
+  mkdir -p ${name}-Dark/32 && \
+  ln -s ../../${name}/32/devices ${name}-Dark/32/devices && \
   gtk-update-icon-cache ${name}-Dark
-
-  cp -ur ${SRC_DIR}/src/{16,22,24,scalable,symbolic,index.theme}                     ${THEME_DIR}
 
   [[ ${color} != '' ]] && \
   cp -r ${SRC_DIR}/src/colors/color${color}/16/*.svg                                 ${THEME_DIR}/16/places/ && \
