@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
-   version="1.1"
    viewBox="0 0 16 16"
-   id="svg8"
-   sodipodi:docname="package-install.svg"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="network-wired.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
-     id="metadata14">
+     id="metadata11">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,8 +25,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,41 +35,27 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     id="namedview10"
-     showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="-10.13773"
-     inkscape:cy="7.5941044"
+     inkscape:window-height="1025"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.54237288"
+     inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid814" />
-  </sodipodi:namedview>
-  <g
-     transform="translate(0,-1036.3622)"
-     id="g6">
-    <rect
-       style="fill:#8fb629;fill-opacity:1"
-       width="16"
-       height="16"
-       x="-1052.36"
-       y="-16"
-       rx="3.0022147"
-       ry="3"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="rect2" />
-    <path
-       style="fill:#ffffff;fill-opacity:1"
-       d="M 12.658205,1039.8778 7,1045.5341 l -2.828125,-2.8281 -1.4140625,1.414 2.828125,2.8281 L 7,1048.3622 l 1.4140625,-1.4141 5.6582035,-5.6562 z"
-       id="path4"
-       inkscape:connector-curvature="0" />
-  </g>
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  </defs>
+  <path
+     style="fill:#dfdfdf;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 2 2 C 2 2 1 2 1 3 L 1 12 C 1 13 2 13 2 13 L 4 13 L 5 14 L 11 14 L 12 13 L 14 13 C 14 13 15 13.12994 15 12 L 15 3 C 15 2 14 2 14 2 L 2 2 z M 3 4 L 13 4 L 13 11 L 11 11 L 10 12 L 6 12 L 5 11 L 3 11 L 3 4 z"
+     id="path5" />
 </svg>

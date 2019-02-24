@@ -7,15 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="24"
+   height="24"
    version="1.1"
-   viewBox="0 0 16 16"
-   id="svg6"
-   sodipodi:docname="package-available.svg"
+   id="svg9"
+   sodipodi:docname="network-wired.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
-     id="metadata12">
+     id="metadata13">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,8 +24,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,33 +33,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="819"
-     inkscape:window-height="476"
-     id="namedview8"
-     showgrid="true"
-     inkscape:zoom="5.2149125"
-     inkscape:cx="-9.2016023"
-     inkscape:cy="8.2426904"
-     inkscape:window-x="886"
-     inkscape:window-y="274"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid812" />
-  </sodipodi:namedview>
-  <rect
-     style="fill:#e4e4e4"
-     width="16"
-     height="16"
-     x="-16"
-     y="-16"
-     rx="3"
-     ry="3"
-     transform="matrix(0,-1,-1,0,0,0)"
-     id="rect2" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="6.5084746"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path5"
+     d="M 6,6 C 6,6 5,6 5,7 v 9 c 0,1 1,1 1,1 h 2 l 1,1 h 6 l 1,-1 h 2 c 0,0 1,0.12994 1,-1 V 7 C 19,6 18,6 18,6 Z m 1,2 h 10 v 7 h -2 l -1,1 H 10 L 9,15 H 7 Z"
+     class="ColorScheme-Text"
+     style="color:#ffffff;fill:#dfdfdf;fill-opacity:1" />
 </svg>
