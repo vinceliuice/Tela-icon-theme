@@ -14,8 +14,8 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg4572"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="software-properties.svg">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="x-system-software-sources.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-81.056739"
-     inkscape:cy="75.974123"
+     inkscape:zoom="11.2"
+     inkscape:cx="21.873748"
+     inkscape:cy="34.002281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -37,11 +37,11 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="689"
-     inkscape:window-height="455"
-     inkscape:window-x="967"
-     inkscape:window-y="388"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true">
@@ -110,24 +110,30 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06667)">
-    <rect
-       style="opacity:1;fill:#549bff;fill-opacity:1;stroke:none;stroke-width:0.61102897;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
-       id="rect822"
-       width="12.7"
-       height="13.229166"
-       x="2.1166666"
-       y="281.91876"
-       ry="0.52915776" />
-    <path
-       style="opacity:0.1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="M 10 7 C 8.8920186 7 8 7.8920186 8 9 L 8 28.068359 A 35.000002 35.000002 0 0 0 40 49 A 35.000002 35.000002 0 0 0 56 45.119141 L 56 9 C 56 7.8920186 55.107981 7 54 7 L 10 7 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
-       id="path827" />
-    <path
-       style="opacity:0.1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="M 10 7 C 8.8920186 7 8 7.8920186 8 9 L 8 55 C 8 56.107981 8.8920186 57 10 57 L 32.332031 57 A 40 40 0 0 0 56 36.320312 L 56 9 C 56 7.8920186 55.107981 7 54 7 L 10 7 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
-       id="path822" />
+    <g
+       id="g22"
+       transform="matrix(1,0,0,1.0399993,0,-11.541136)">
+      <rect
+         ry="0.52915776"
+         y="281.91876"
+         x="2.1166666"
+         height="13.229166"
+         width="12.7"
+         id="rect822"
+         style="opacity:1;fill:#549bff;fill-opacity:1;stroke:none;stroke-width:0.61102897;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill" />
+      <path
+         id="path827"
+         transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+         d="M 10,7 C 8.8920186,7 8,7.8920186 8,9 V 28.068359 A 35.000002,35.000002 0 0 0 40,49 35.000002,35.000002 0 0 0 56,45.119141 V 9 C 56,7.8920186 55.107981,7 54,7 Z"
+         style="opacity:0.1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path822"
+         transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+         d="M 10,7 C 8.8920186,7 8,7.8920186 8,9 v 46 c 0,1.107981 0.8920186,2 2,2 H 32.332031 A 40,40 0 0 0 56,36.320312 V 9 C 56,7.8920186 55.107981,7 54,7 Z"
+         style="opacity:0.1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         inkscape:connector-curvature="0" />
+    </g>
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.77531552;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03821656;paint-order:stroke markers fill"
        d="M 20 15 A 12 12 0 0 0 32 27 A 12 12 0 0 0 44 15 L 41 15 A 9.0000009 9.0000009 0 0 1 32 24 A 9.0000009 9.0000009 0 0 1 23 15 L 20 15 z "
