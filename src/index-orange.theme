@@ -207,8 +207,3 @@ Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
-
-[symbolic/panel]
-Context=Status
-Size=16
-Type=Fixed
