@@ -14,7 +14,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg4572"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="onboard.svg">
   <title
      id="title4611">Canvas icon theme</title>
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="26.309205"
-     inkscape:cy="30.296566"
+     inkscape:zoom="2.8"
+     inkscape:cx="-42.908923"
+     inkscape:cy="44.279516"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -37,11 +37,11 @@
      width="64px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="730"
-     inkscape:window-height="468"
-     inkscape:window-x="557"
-     inkscape:window-y="181"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1300"
+     inkscape:window-height="711"
+     inkscape:window-x="66"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -123,23 +123,23 @@
      id="layer1"
      transform="translate(0,-280.06667)">
     <rect
-       rx="0.5291664"
-       ry="0.52916992"
-       y="282.44791"
-       x="1.8520833"
-       height="9.5249996"
-       width="9.5249996"
+       rx="0.52915275"
+       ry="0.52917606"
+       y="282.71249"
+       x="2.1166801"
+       height="8.9958057"
+       width="8.9958057"
        id="rect826"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:stroke markers fill" />
+       style="opacity:0.15;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:stroke markers fill"
-       id="rect835"
-       width="9.5249996"
-       height="9.5249996"
-       x="1.8520833"
-       y="282.44791"
-       ry="0.52916992"
-       rx="0.5291664" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect827"
+       width="8.9958057"
+       height="8.9958057"
+       x="2.1166801"
+       y="282.71249"
+       ry="0.52917606"
+       rx="0.52915275" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.35526276px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -152,14 +152,14 @@
          y="290.27679"
          style="fill:#cccccc;fill-opacity:1;stroke-width:0.26458332">O</tspan></text>
     <rect
-       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.38130516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:stroke markers fill"
+       style="opacity:1;fill:#5596ff;fill-opacity:1;stroke:none;stroke-width:0.38130516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:stroke markers fill"
        id="rect821"
-       width="9.5249996"
-       height="9.5249996"
-       x="6.0854168"
-       y="286.1521"
-       ry="0.52915776"
-       rx="0.5291667" />
+       width="8.9958591"
+       height="8.9958591"
+       x="6.349987"
+       y="286.41666"
+       ry="0.52918005"
+       rx="0.52917981" />
     <text
        id="text833"
        y="293.97681"
