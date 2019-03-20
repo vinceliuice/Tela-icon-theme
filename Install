@@ -40,7 +40,7 @@ install() {
   cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/{16,22,24,32,scalable,symbolic}                              ${THEME_DIR}
-  cp -ur ${SRC_DIR}/src/index${color}.theme                                          ${THEME_DIR}/index.theme
+  cp -ur ${SRC_DIR}/src/index/index${color}.theme                                    ${THEME_DIR}/index.theme
 
   [[ ${color} != '' ]] && \
   cp -r ${SRC_DIR}/src/colors/color${color}/16/*.svg                                 ${THEME_DIR}/16/places/ && \
@@ -52,8 +52,8 @@ install() {
   mkdir -p                                                                           ${DARK_DIR}
   mkdir -p                                                                           ${DARK_DIR}/32
   cp -ur ${SRC_DIR}/{COPYING,AUTHORS}                                                ${DARK_DIR}
-  cp -ur ${SRC_DIR}/src/index-Dark.theme                                             ${DARK_DIR}/index.theme
   cp -ur ${SRC_DIR}/src/Dark/{16,22,24}                                              ${DARK_DIR}
+  cp -ur ${SRC_DIR}/src/index/index${color}-Dark.theme                               ${DARK_DIR}/index.theme
 
   cd ${dest}
   ln -s ../${name}${color}/scalable ${name}${color}-Dark/scalable
