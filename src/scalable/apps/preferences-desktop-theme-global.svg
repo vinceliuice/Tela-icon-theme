@@ -1,0 +1,78 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="m" x1="13.229" x2="2.117" y1="297" y2="280.07" gradientTransform="matrix(1.0714 0 0 1 -.605 0)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#66bcff" offset="0"/>
+   <stop stop-color="#b29aff" offset="1"/>
+  </linearGradient>
+  <clipPath id="l">
+   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#g)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
+  </clipPath>
+  <clipPath id="k">
+   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#f)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
+  </clipPath>
+  <clipPath id="j">
+   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#e)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
+  </clipPath>
+  <clipPath id="i">
+   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#d)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
+  </clipPath>
+  <clipPath id="h">
+   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#c)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
+  </clipPath>
+  <clipPath id="a">
+   <rect x="1.058" y="282.45" width="14.817" height="12.171" ry=".265" fill="url(#b)" stroke-opacity=".039" stroke-width=".535" style="paint-order:stroke markers fill"/>
+  </clipPath>
+ </defs>
+ <linearGradient id="b">
+  <stop stop-color="#e51561" offset="0"/>
+  <stop stop-color="#e4156c" offset=".3125"/>
+  <stop stop-color="#e71e2c" offset=".5625"/>
+  <stop stop-color="#e8301e" offset=".75"/>
+  <stop stop-color="#e6320e" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c">
+  <stop stop-color="#bec900" offset="0"/>
+  <stop stop-color="#9ec80a" offset=".3125"/>
+  <stop stop-color="#71b93d" offset=".5625"/>
+  <stop stop-color="#35a48f" offset=".75"/>
+  <stop stop-color="#018fca" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d">
+  <stop stop-color="#c1cc00" offset="0"/>
+  <stop stop-color="#dfcd00" offset=".3125"/>
+  <stop stop-color="#f0cc00" offset=".5625"/>
+  <stop stop-color="#fd8c08" offset=".75"/>
+  <stop stop-color="#f25c13" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e" x1="8" x2="24" y1="24" y2="8" gradientTransform="matrix(-.40404 -1.5079 1.5079 -.40404 34.508 61.886)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+ <linearGradient id="f" x1="394.57" x2="408.57" y1="523.8" y2="537.8" gradientTransform="translate(-442.1 -483.22)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#292c2f" offset="0"/>
+  <stop stop-color="#292c2f" stop-opacity=".035714" offset="1"/>
+ </linearGradient>
+ <linearGradient id="g" x1="400.57" x2="400.57" y1="536.8" y2="522.8" gradientTransform="matrix(.99946 0 0 .99953 -366.33 -499.08)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#eff0f1" offset="0"/>
+  <stop stop-color="#fcfcfc" offset="1"/>
+ </linearGradient>
+ <g transform="matrix(3.7796 0 0 3.7796 2.7607e-8 -1058.5)">
+  <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#m)" style="paint-order:stroke markers fill"/>
+  <path d="m0.553 283.51h2.887v11.113h-2.887" clip-path="url(#l)" fill="#9ab9dd"/>
+  <path d="m3.44 283.51h2.886v11.113h-2.886" clip-path="url(#k)" fill="#9add9c"/>
+  <path d="m6.326 283.51h4.33v11.113h-4.33" clip-path="url(#j)" fill="#f3f284"/>
+  <path d="m10.655 283.51h2.887v11.113h-2.887" clip-path="url(#i)" fill="#edb968"/>
+  <path d="m13.542 283.51h2.886v11.113h-2.886" clip-path="url(#h)" fill="#ed8e68"/>
+  <rect x="1.587" y="282.71" width="1.058" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="7.144" y="282.71" width="2.646" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="15.081" y="282.71" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="14.023" y="282.71" width=".794" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="13.229" y="282.71" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <g fill="#fff">
+   <rect x="3.44" y="293.56" width="10.054" height="2.646" ry=".529" clip-path="url(#a)" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="4.498" y="292.77" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="6.703" y="292.77" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="8.908" y="292.77" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="11.113" y="292.77" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+  </g>
+  <path d="m0.794 282.45a0.264 0.264 0 0 0-0.265 0.265v0.793h15.875v-0.793a0.264 0.264 0 0 0-0.264-0.265z" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+ <path d="m40.452 23.008a2.25 10.125 44.998 0 0-8.3756 5.735 2.25 10.125 44.998 0 0-3.9857 4.6275c1.2105 0.38547 2.1545 1.3295 2.5399 2.5401a2.25 10.125 44.998 0 0 4.6272-3.986 2.25 10.125 44.998 0 0 5.5676-8.7497 2.25 10.125 44.998 0 0-0.37351-0.16701m-12.952 11.989c-4.4998 1.2058-1.125 4.0545-4.4998 6.0031 4.5036 0 6.7497-2.251 6.7497-3.753 0-0.74802 0.07599-2.1257-2.2499-2.2501z" fill="#fff"/>
+</svg>

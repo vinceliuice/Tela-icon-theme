@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1"><defs><linearGradient id="b"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient id="a"><stop offset="0" stop-color="#7332a6"/><stop offset="1" stop-color="#4a79d3"/></linearGradient><linearGradient xlink:href="#a" id="c" x1="14" y1="16.288" x2="50" y2="39" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#b" id="d" x1="26.984" y1="27" x2="50" y2="27" gradientUnits="userSpaceOnUse"/></defs><g transform="matrix(.51852 0 0 .51852 -.593 -.593)" stroke-width="1.929"><rect transform="matrix(0 -1 -1 0 0 0)" ry="3" rx="3" y="-53" x="-53" height="42" width="48" fill="#333"/><rect transform="matrix(0 -1 -1 0 0 0)" ry="11" rx="8" y="-53" x="-59" height="42" width="48" fill="#333"/><rect ry="2" rx="2" y="8" x="14" height="38" width="36" fill="url(#c)"/><circle r="2" cy="51" cx="20" opacity=".5" fill="#fff"/><circle r="2" cy="51" cx="44" opacity=".5" fill="#fff"/><circle r="3" cy="52" cx="32" opacity=".75" fill="#fff"/><path d="M44.5 8a37.5 37.5 0 0 1 .5 6 37.5 37.5 0 0 1-18.016 32H48c1.108 0 2-.892 2-2V10c0-1.108-.892-2-2-2z" opacity=".25" fill="url(#d)"/></g></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="d" x1="26.984" x2="50" y1="27" y2="27" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.51852 0 0 .51852 -.593 -.593)" stroke-width="1.929">
+  <rect transform="matrix(0 -1 -1 0 0 0)" x="-53" y="-53" width="48" height="42" rx="3" ry="3" fill="#333"/>
+  <rect transform="matrix(0 -1 -1 0 0 0)" x="-59" y="-53" width="48" height="42" rx="8" ry="11" fill="#333"/>
+  <rect x="14" y="8" width="36" height="38" rx="2" ry="2" fill="#5294e2"/>
+  <g fill="#fff">
+   <circle cx="20" cy="51" r="2" opacity=".5"/>
+   <circle cx="44" cy="51" r="2" opacity=".5"/>
+   <circle cx="32" cy="52" r="3" opacity=".75"/>
+  </g>
+  <path d="M44.5 8a37.5 37.5 0 0 1 .5 6 37.5 37.5 0 0 1-18.016 32H48c1.108 0 2-.892 2-2V10c0-1.108-.892-2-2-2z" fill="url(#d)" opacity=".25"/>
+ </g>
+</svg>

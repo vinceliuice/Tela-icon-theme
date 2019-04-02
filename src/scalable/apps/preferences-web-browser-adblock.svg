@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-384.57 -483.8)">
+  <g stroke-width="3.7796">
+   <path d="m386.57 501.8v35.997c0 0.5556 0.44221 1.0016 0.99781 1.0016h58.002a0.99781 0.99781 0 0 0 0.99781-1.0016v-36.001h-59.997z" fill="#fff" style="paint-order:markers stroke fill"/>
+   <path d="m386.57 501.8v35.997c0 0.5556 0.44221 1.0016 0.99781 1.0016h58.002a0.99781 0.99781 0 0 0 0.99781-1.0016v-36.001h-0.99781v35.044c0 0.52914-0.43466 0.95624-0.96758 0.95624h-56.067a0.96002 0.96002 0 0 1-0.96758-0.95624v-35.044h-1.0016z" opacity=".1" style="paint-order:markers stroke fill"/>
+   <path d="m387.57 492.8a0.99781 0.99781 0 0 0-1.0016 1.0016v7.9976h60.001v-7.9976a0.99781 0.99781 0 0 0-0.99781-1.0016z" fill="#666" style="paint-order:stroke markers fill"/>
+   <rect x="440.57" y="495.8" width="3.001" height="3.001" ry="1.5005" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="434.57" y="495.8" width="3.001" height="3.001" ry="1.5005" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="428.57" y="495.8" width="3.001" height="3.001" ry="1.5005" opacity=".35" style="paint-order:stroke markers fill"/>
+   <path d="m446.57 526.09a36.303 36.303 0 0 1-12.828 12.707h11.83a0.99781 0.99781 0 0 0 0.99781-1.0016z" opacity=".05" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m391.57 505.8v2h40v-2zm0 6v2h14v-2zm28 0v24h24v-24zm2 2h20v20h-20v-2zm0 18h4l4-4-2-2zm20 0-6-6-6 6zm-15-16c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3zm-35 2v2h24v-2zm0 6v2h18v-2zm0 6v2h24v-2z" color="#000000" fill="#ccc" stroke-width="2"/>
+  <path d="m431.57 511.8c-6.6274 0-12 5.3726-12 12s5.3726 12 12 12 12-5.3726 12-12-5.3726-12-12-12zm0 2c5.5228 0 10 4.4772 10 10 0 2.4102-0.88842 4.5897-2.3086 6.3164l-14.008-14.008c1.7267-1.4202 3.9062-2.3086 6.3164-2.3086zm-7.6914 3.6836 14.008 14.008c-1.7267 1.4202-3.9062 2.3086-6.3164 2.3086-5.5228 0-10-4.4772-10-10 0-2.4102 0.88844-4.5897 2.3086-6.3164z" color="#000000" fill="#ff8080" stroke-width="2"/>
+ </g>
+</svg>

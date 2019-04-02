@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="13.229" x2="2.117" y1="297" y2="280.07" gradientTransform="matrix(4.0496,0,0,3.7796,382.28,-574.74)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#66bcff" offset="0"/>
+   <stop stop-color="#b29aff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-384.57,-483.8)" stroke-width="3.7796">
+  <path d="m387.57 492.8h58.002c0.55182 0 0.99781 0.44599 0.99781 0.99781v44.002a0.99781 0.99781 0 0 1-0.99781 1.0016h-58.002a0.99781 0.99781 0 0 1-1.0016-1.0016v-44.002c0-0.55182 0.44599-0.99781 1.0016-0.99781z" fill="url(#a)" style="paint-order:stroke markers fill"/>
+  <rect x="390.57" y="493.8" width="3.9988" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="411.57" y="493.8" width="10.001" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="441.57" y="493.8" width="1.9994" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="437.57" y="493.8" width="3.001" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="434.57" y="493.8" width="1.9994" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
+  <path d="m387.57 492.8a0.99781 0.99781 0 0 0-1.0016 1.0016v2.9972h60.001v-2.9972a0.99781 0.99781 0 0 0-0.99781-1.0016z" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+ <path d="m6 15h18v2h-18zm0 34h8v2h-8zm12 0h24v2h-24zm-12-4h8v2h-8zm12 0h28v2h-28zm-12-4h8v2h-8zm12 0h24v2h-24zm-12-4h8v2h-8zm12 0h28v2h-28zm-12-4h8v2h-8zm12 0h20v2h-20zm-12-4h8v2h-8zm12 0h32v2h-32zm-12-4h8v2h-8zm12 0h36v2h-36zm-12-4h8v2h-8zm12 0h24v2h-24z" fill="#fff" opacity=".5"/>
+</svg>

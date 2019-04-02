@@ -37,10 +37,10 @@ install() {
 
   echo "Installing '${THEME_DIR}'..."
 
-  mkdir -p                                                                           ${THEME_DIR}
-  cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
-  cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
-  cp -ur ${SRC_DIR}/src/index/index${color}${bright}.theme                           ${THEME_DIR}/index.theme
+  mkdir -p                                                                             ${THEME_DIR}
+  cp -ur ${SRC_DIR}/COPYING                                                            ${THEME_DIR}
+  cp -ur ${SRC_DIR}/AUTHORS                                                            ${THEME_DIR}
+  cp -ur ${SRC_DIR}/src/index/index${color}${bright}.theme                             ${THEME_DIR}/index.theme
 
   if [[ ${bright} != '-Dark' ]]; then
     cp -ur ${SRC_DIR}/src/{16,22,24,32,scalable,symbolic}                              ${THEME_DIR}

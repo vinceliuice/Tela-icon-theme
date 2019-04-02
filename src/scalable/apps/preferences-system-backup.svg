@@ -1,0 +1,34 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a">
+  <stop stop-color="#292c2f" offset="0"/>
+  <stop stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x1="388.42" x2="388.42" y1="557.8" y2="505.8" gradientTransform="matrix(.58696 0 0 .53846 -271.92 -233.34)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7f8c8d" offset="0"/>
+  <stop stop-color="#afb0b3" offset="1"/>
+ </linearGradient>
+ <path d="m54 53c0 2.991-2.121 5-5 5h-34c-2.878 0-5-2.009-5-5v-42c0-2.991 2.122-5 5-5h34c2.878 0 5 2.009 5 5z" fill="#cacbcf"/>
+ <path d="m51 11a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
+ <path d="m50 11a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
+ <path d="m17 11a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
+ <path d="m16 11a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
+ <path d="m14 39h-4v14c0 2.873 2.169 5 5 5h18v-9c-7.752-0.5-14.611-4.25-19-10z" fill="#949496"/>
+ <g fill-rule="evenodd">
+  <path d="m48 27.122c0 8.715-7.163 15.878-16 15.878s-16-7.163-16-15.878c0-8.958 7.163-16.122 16-16.122s16 7.164 16 16.122" fill="#fff"/>
+  <use transform="translate(27,22)" width="100%" height="100%" fill="#1a1a1a" xlink:href="#a"/>
+  <use transform="translate(27.003,22.007)" width="100%" height="100%" fill="#ffffff" opacity=".1" xlink:href="#b"/>
+ </g>
+ <path d="m32 10c-9.388 0-17 7.61-17 17 0 9.388 7.612 17 17 17s17-7.612 17-17c0-9.39-7.612-17-17-17zm10.417 27.418a14.714 14.714 0 0 1-4.683 3.159 14.646 14.646 0 0 1-5.734 1.155c-1.99 0-3.92-0.388-5.734-1.155a14.714 14.714 0 0 1-4.683-3.16 14.67 14.67 0 0 1-4.317-10.417 14.676 14.676 0 0 1 4.316-10.417 14.658 14.658 0 0 1 4.684-3.16 14.632 14.632 0 0 1 5.734-1.155c1.99 0 3.92 0.39 5.734 1.157a14.655 14.655 0 0 1 4.683 3.158 14.676 14.676 0 0 1 4.317 10.417 14.673 14.673 0 0 1-4.316 10.418z" fill="#808080"/>
+ <g transform="matrix(-1,0,0,1,44.75,49.25)" fill="#949496" fill-rule="evenodd">
+  <rect width="1" height="7" rx=".5"/>
+  <rect x="2" width="1" height="7" rx=".5"/>
+  <rect x="4" width="1" height="7" rx=".5"/>
+  <rect x="6" width="1" height="7" rx=".5"/>
+  <rect x="8" width="1" height="7" rx=".5"/>
+ </g>
+ <path d="m51 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
+ <path d="m50 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
+ <path d="m17 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#6a6a6a"/>
+ <path d="m16 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
+ <path d="m32 15c-6.648 0-12 5.352-12 12 0 6.648 5.352 12 12 12s12-5.352 12-12-5.352-12-12-12m0 1.5c5.817 0 10.5 4.683 10.5 10.5s-4.683 10.5-10.5 10.5-10.5-4.683-10.5-10.5 4.683-10.5 10.5-10.5m-1.5 1.5v10.5h9v-1.5h-7.5v-9z" fill="#f6b44d"/>
+</svg>

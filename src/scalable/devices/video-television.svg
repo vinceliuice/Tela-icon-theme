@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1"><defs><linearGradient id="b"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient id="a"><stop offset="0" stop-color="#7332a6"/><stop offset="1" stop-color="#4a79d3"/></linearGradient><linearGradient xlink:href="#a" id="c" x1="-20.237" y1="-8.678" x2="-47.898" y2="-48.271" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#b" id="d" x1="34.393" y1="30" x2="55" y2="30" gradientUnits="userSpaceOnUse"/></defs><rect width="40" height="28" x="-53" y="-46" rx="2.5" ry="2.5" transform="matrix(0 -1 -1 0 0 0)" fill="#8e8e8e"/><rect width="38" height="52" x="-49" y="-58" rx="2.5" ry="2.5" transform="matrix(0 -1 -1 0 0 0)" fill="#333"/><rect width="32" height="46" x="-46" y="-55" rx="0" ry="0" transform="matrix(0 -1 -1 0 0 0)" fill="url(#c)"/><path d="M47.979 14a37.297 37.297 0 0 1 .152 3.115A37.297 37.297 0 0 1 34.393 46H55V14h-7.021z" opacity=".25" fill="url(#d)"/></svg>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="d" x1="34.393" x2="55" y1="30" y2="30" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-53" y="-46" width="40" height="28" rx="2.5" ry="2.5" fill="#8e8e8e"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-49" y="-58" width="38" height="52" rx="2.5" ry="2.5" fill="#333"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-46" y="-55" width="32" height="46" rx="0" ry="0" fill="#5294e2"/>
+ <path d="M47.979 14a37.297 37.297 0 0 1 .152 3.115A37.297 37.297 0 0 1 34.393 46H55V14h-7.021z" fill="url(#d)" opacity=".25"/>
+</svg>

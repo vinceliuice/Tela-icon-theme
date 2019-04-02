@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="6" y="6" width="52" height="52" rx="2" ry="2" fill="#3e4245" style="paint-order:stroke markers fill"/>
+ <path d="m12 15h24v2h-24z" fill="#fff"/>
+ <circle cx="43" cy="16" r="2" fill="#72d406"/>
+ <circle cx="51" cy="16" r="2" fill="#72d406"/>
+ <g fill="#fff">
+  <path d="m12 31h24v2h-24z"/>
+  <circle cx="43" cy="32" r="2"/>
+  <circle cx="51" cy="32" r="2"/>
+  <path d="m12 47h24v2h-24z"/>
+ </g>
+ <g fill-rule="evenodd">
+  <rect x="6" y="22" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
+  <rect x="6" y="38" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
+  <circle cx="46" cy="46" r="18" fill="#5687e3" style="paint-order:fill markers stroke"/>
+ </g>
+ <path d="m36 34c-1.108 0-2 0.892-2 2v4 1 5 3 7c0 1.108 0.892 2 2 2h20c1.108 0 2-0.892 2-2v-7-3-8h-9.9844l-4-4-0.015625 0.015625v-0.015625h-3-1-4zm1 2h3 3 0.18359l2.0039 2h-1.1875v0.015625l-0.015625-0.015625-4 4h-3.9844v-2-3c0-0.554 0.446-1 1-1zm-1 8h20v5 6c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1v-6-5z" fill="#fff"/>
+</svg>
