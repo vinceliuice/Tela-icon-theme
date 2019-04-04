@@ -1,8 +1,29 @@
 [Icon Theme]
 Name=Tela-brown-Dark
 Comment=Flat and colorful personality icon theme
-Inherits=Numix-Circle,Adwaita,gnome,hicolor
+Inherits=breeze-dark,hicolor
 Example=folder
+
+# KDE/Plasma Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,96,128,256
+ToolbarDefault=16
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=22
+PanelSizes=16,22,32,48,64,72,96,128
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+FollowsColorScheme=true
+
+KDE-Extensions=.svg
 
 # Directory list
 Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/status,16/places,22/actions,22/emblems,22/mimetypes,22/panel,24/actions,24/panel,24/animations,32/devices,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
@@ -26,7 +47,7 @@ Size=16
 Type=Fixed
 
 [16/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=16
 Type=Fixed
 
@@ -63,7 +84,7 @@ MaxSize=48
 Type=Scalable
 
 [22/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=22
 Type=Fixed
 
@@ -121,7 +142,7 @@ MaxSize=512
 Type=Scalable
 
 [scalable/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=48
 MinSize=24
 MaxSize=512
@@ -171,7 +192,7 @@ MaxSize=512
 Type=Scalable
 
 [symbolic/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=16
 MinSize=16
 MaxSize=512
