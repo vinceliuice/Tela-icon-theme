@@ -68,9 +68,7 @@ Type=Scalable
 [16/places]
 Context=Places
 Size=16
-MinSize=16
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 # 22x22
 [22/actions]
@@ -139,7 +137,7 @@ Type=Scalable
 [scalable/places]
 Context=Places
 Size=64
-MinSize=32
+MinSize=16
 MaxSize=512
 Type=Scalable
 
