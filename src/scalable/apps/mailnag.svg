@@ -1,9 +1,0 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)">
-  <path d="M2.381 284.83h12.171c.44 0 .794.353.794.793v8.467c0 .44-.354.793-.794.793H2.382a.792.792 0 0 1-.795-.793v-8.467c0-.44.355-.794.794-.794z" fill="#2f8dac" paint-order="markers stroke fill"/>
-  <rect x="2.646" y="282.18" width="11.642" height="8.996" ry=".794" fill="#fff" stroke="#000" stroke-opacity=".098039" stroke-width=".265" paint-order="markers stroke fill"/>
-  <path d="M15.181 285.143a.788.788 0 0 1 .165.48v8.467c0 .44-.354.793-.794.793H2.382a.788.788 0 0 1-.531-.206z" fill="#26a4ca" paint-order="markers stroke fill"/>
-  <path d="M1.752 285.143a.788.788 0 0 0-.165.48v8.467c0 .44.355.793.794.793h12.171c.205 0 .39-.08.53-.206z" fill="#49bde3" paint-order="markers stroke fill"/>
-  <path d="M11.359 289.988l1.076-.396.309-1.052.704.867 1.171.05-.61.9.309 1.058-1.033-.283-1.038.73.007-1.12m-.895-.754" fill="#ffe236"/>
- </g>
-</svg>

@@ -1,6 +1,0 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <rect transform="scale(-1 1)" x="-53" y="6" width="42" height="52" rx="2.625" ry="2.6" fill="#4d4d4d"/>
- <rect x="13" y="8" width="38" height="21" rx="0" ry="1.581" fill="#5294e2" fill-rule="evenodd"/>
- <circle cx="32" cy="44" r="12" fill="#fff"/>
- <circle cx="32" cy="44" r="6" fill="#666"/>
-</svg>
