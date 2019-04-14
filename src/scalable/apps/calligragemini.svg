@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="46.168" x2="46.168" y1="57" y2="27.346" gradientTransform="matrix(.27516 0 0 .27516 -.339 -.33832)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="1.587" y="1.587" width="13.758" height="13.758" rx=".7932" ry=".7942" fill="#fff" stroke="#000" stroke-opacity=".098039" stroke-width=".26458" style="paint-order:markers stroke fill"/>
+ <rect x="1.587" y="1.587" width="13.758" height="13.758" rx=".7932" ry=".7942" fill="#fff" style="paint-order:markers stroke fill"/>
+ <g transform="translate(.18257 .13934)">
+  <path transform="matrix(.26458 0 0 .26458 -17.005 .21525)" d="m94.581 38.458c2.5 1.5 8.6 0.6 13.4 3.7s7.5 8.1 7.6 8.3 0.1 0.4-0.2 0.7-0.8 0.3-0.8 0.3-11.1 1.8-18.2-4.9c-7.2-6.7-6.6-13.5-6.6-13.5s0.4 2.9 4.8 5.4z" clip-rule="evenodd" fill="#f08616" fill-rule="evenodd"/>
+  <path transform="matrix(.26458 0 0 .26458 -17.005 .21525)" d="m89.681 28.358s-0.5-6.9 6.6-13.5c7.2-6.8 18.3-5 18.3-5s0.5 0.1 0.8 0.3 0.3 0.5 0.2 0.7-2.8 5.3-7.6 8.3-10.9 2.2-13.4 3.7c-4.3 2.6-4.9 5.5-4.9 5.5z" clip-rule="evenodd" fill="#09b2df" fill-rule="evenodd"/>
+  <g transform="matrix(.26458 0 0 .26458 .34659 -.13989)">
+   <path d="m24 32c0 11.6 9.4 21 21 21h-14c-11.6 0-21-9.4-21-21s9.4-21 21-21h14c-11.6 0-21 9.4-21 21z" clip-rule="evenodd" fill="#1b1f24" fill-rule="evenodd"/>
+  </g>
+ </g>
+ <path d="m15.345 7.1862a12.382 12.382 0 0 1-5.9612 8.1599h5.1355c0.45759 0 0.82575-0.36816 0.82575-0.82575z" fill="url(#b)" opacity=".15" stroke-width="1.04"/>
+</svg>

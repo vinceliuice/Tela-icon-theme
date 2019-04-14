@@ -1,0 +1,36 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="50" x2="50" y1="63" y2="37" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="8" y="4" width="48" height="56" ry="3.231" fill="#eee"/>
+ <rect x="8" y="12" width="48" height="9" ry="0" fill="#e0e0e0"/>
+ <g>
+  <rect x="8" y="4" width="48" height="56" rx="3" ry="3" fill="#eee"/>
+  <path d="m11 4c-1.662 0-3 1.338-3 3v5h48v-5c0-1.662-1.338-3-3-3h-42z" fill="#b3b3b3"/>
+  <path d="m56 31.697a55 55 0 0 1-18.932 28.303h15.932c1.662 0 3-1.338 3-3v-25.303z" fill="url(#a)" opacity=".15"/>
+ </g>
+ <g fill="#bdbdbd">
+  <rect x="18" y="25.999" width="20" height="2" ry="0"/>
+  <path d="m18 30h23v2h-23z"/>
+  <rect x="18" y="35" width="7" height="1.999" ry="0"/>
+  <path d="m18 39h9v2h-9zm0 4h5v2h-5z"/>
+ </g>
+ <g fill="#757575">
+  <circle cx="15" cy="36" r="1"/>
+  <circle cx="15" cy="40" r="1"/>
+  <circle cx="15" cy="44" r="1"/>
+ </g>
+ <path d="m33 44c-1.108 0-2 0.892-2 2v7c0 1.108 0.892 2 2 2h15c1.108 0 2-0.892 2-2v-7c0-1.108-0.892-2-2-2zm0 1h15c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-15c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1zm0 1v7h2v-4.172l2 2 2-2v4.172h2v-7h-2l-2 2-2-2zm11 0v4h-2l3 3 3-3h-2v-4z" fill="#616161"/>
+ <circle cx="49.5" cy="8.5" r="1.5" fill="#ef5350"/>
+ <circle cx="49.5" cy="8.5" r=".5" fill="#ef9a9a"/>
+ <path d="m14 27h3v1h-3zm28 4h3v1h-3z" fill="#757575"/>
+ <g fill="#616161" fill-rule="evenodd">
+  <path d="m14 14h4v4h-4z" opacity=".9" style="paint-order:stroke fill markers"/>
+  <path d="m20 14h4v4h-4z" opacity=".5" style="paint-order:stroke fill markers"/>
+  <path d="m26 16h4v2h-4zm6 0h4v2h-4zm6 0h4v2h-4zm6 0h4v2h-4z" opacity=".9" style="paint-order:stroke fill markers"/>
+ </g>
+ <rect x="8" y="12" width="48" height="9" ry="0" fill="#e0e0e0"/>
+</svg>
