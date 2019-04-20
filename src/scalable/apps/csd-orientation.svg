@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><circle cx="8.467" cy="288.533" r="6.879" fill="#4d4d4d" paint-order="stroke markers fill"/><g stroke-width="1.612"><path opacity=".1" fill="#fff" d="M4.33 289.96h2.627v2.626H4.331z"/><path d="M5.316 284.38l-.985 2.124c.159-.09.332-.154.512-.196l.477 4.637.478-4.639c.177.042.348.108.503.198zM10.578 290.617c.09.158.154.332.196.51l-4.801.479 4.803.478a1.84 1.84 0 0 1-.198.503l2.125-.985z" fill="#fff"/><path opacity=".2" fill="none" stroke="#fff" stroke-width=".853" stroke-dasharray=".85295759,.85295759" stroke-dashoffset="1" d="M0 288.269h7.408v7.408H0z" transform="translate(4.495 108.988) scale(.62039)"/></g></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#4d4d4d" style="paint-order:stroke markers fill"/>
+  <g stroke-width="1.612">
+   <path d="M4.33 289.96h2.627v2.626H4.331z" fill="#fff" opacity=".1"/>
+   <path d="M5.316 284.38l-.985 2.124c.159-.09.332-.154.512-.196l.477 4.637.478-4.639c.177.042.348.108.503.198zM10.578 290.617c.09.158.154.332.196.51l-4.801.479 4.803.478a1.84 1.84 0 0 1-.198.503l2.125-.985z" fill="#fff"/>
+   <path transform="translate(4.495 108.99) scale(.62039)" d="M0 288.269h7.408v7.408H0z" fill="none" opacity=".2" stroke="#fff" stroke-dasharray=".85295759,.85295759" stroke-dashoffset="1" stroke-width=".853"/>
+  </g>
+ </g>
+</svg>

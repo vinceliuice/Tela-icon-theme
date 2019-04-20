@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)" paint-order="stroke markers fill"><circle cx="8.467" cy="288.533" r="6.879" fill="#4e99f3"/><g fill="#fff"><path d="M9.743 289.872a1.587 1.587 0 0 1-1.276.646 1.587 1.587 0 0 1-1.276-.645 3.704 2.381 0 0 0-2.429 2.232h7.409a3.704 2.381 0 0 0-2.428-2.233z"/><g transform="translate(.265 1.72)"><circle cx="8.202" cy="284.829" r="1.587"/><path d="M6.615 284.83a1.587 2.646 0 0 0 1.587 2.645 1.587 2.646 0 0 0 1.588-2.646z"/></g></g></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
+  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#4e99f3"/>
+  <g fill="#fff">
+   <path d="M9.743 289.872a1.587 1.587 0 0 1-1.276.646 1.587 1.587 0 0 1-1.276-.645 3.704 2.381 0 0 0-2.429 2.232h7.409a3.704 2.381 0 0 0-2.428-2.233z"/>
+   <g transform="translate(.265 1.72)">
+    <circle cx="8.202" cy="284.83" r="1.587"/>
+    <path d="m6.615 284.83a1.587 2.646 0 0 0 1.587 2.645 1.587 2.646 0 0 0 1.588-2.646z"/>
+   </g>
+  </g>
+ </g>
+</svg>

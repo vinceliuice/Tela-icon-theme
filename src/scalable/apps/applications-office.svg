@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><circle cx="8.467" cy="288.533" r="6.879" fill="#3f51b5" paint-order="stroke markers fill"/><path d="M8.464 282.977a5.556 5.556 0 1 0 5.559 5.56l-.567-.567a5.027 5.027 0 0 0-4.43-4.43l-.562-.563z" fill="#fff" paint-order="stroke markers fill"/><path d="M5.292 292.238v-.53H9.79v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53z" fill="#ccc"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#3f51b5" style="paint-order:stroke markers fill"/>
+  <path d="M8.464 282.977a5.556 5.556 0 1 0 5.559 5.56l-.567-.567a5.027 5.027 0 0 0-4.43-4.43l-.562-.563z" fill="#fff" paint-order="stroke markers fill"/>
+  <path d="M5.292 292.238v-.53H9.79v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53z" fill="#ccc"/>
+ </g>
+</svg>
