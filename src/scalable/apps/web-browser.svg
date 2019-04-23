@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)" paint-order="stroke markers fill"><circle cx="8.467" cy="288.533" r="6.879" fill="#71a5e8"/><circle r="2.91" cy="288.533" cx="8.467" opacity=".15"/><circle cx="8.467" cy="288.533" r="1.588" fill="#71a5e8"/><path d="M4.762 284.83l4.234 3.174-1.059 1.058z" fill="#fff"/><path d="M12.17 292.238l-4.233-3.175 1.059-1.059z" fill="#e6e6e6"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
+  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#71a5e8"/>
+  <circle cx="8.4665" cy="288.54" r="3.1749" opacity=".15"/>
+  <circle cx="8.4665" cy="288.54" r="1.852" fill="#71a5e8"/>
+  <path d="m4.4978 284.57 4.4982 3.4362-1.059 1.058z" fill="#fff"/>
+  <path d="m12.435 292.51-4.4982-3.4402 1.059-1.059z" fill="#e6e6e6"/>
+ </g>
+</svg>

@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><circle cx="8.467" cy="288.533" r="6.879" fill="#498cd8" paint-order="markers stroke fill"/><circle r="5.821" cy="288.533" cx="8.467" opacity=".15" paint-order="markers stroke fill"/><path d="M7.053 285.358l-1.415 1.91.4.793h4.24c-.04 1.017-.047 1.263-.264 1.789-.128.31-.29.504-.614.656-.325.152-.845.244-1.635.193l-.064.992c.89.058 1.576-.03 2.12-.283a2.216 2.216 0 0 0 1.113-1.179c.402-.974.294-1.46.361-2.637l-.021-.526H7.025l.827-1.115z" fill="#fff" fill-rule="evenodd"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx=".79373" ry=".79373" fill="#498cd8" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <rect x="1.852" y="13.493" width="13.229" height="1.5875" rx=".52916" ry=".52916" fill-rule="evenodd" opacity=".15" style="paint-order:fill markers stroke"/>
+ <g transform="translate(0 -280.07)">
+  <path d="m7.053 284.3-1.415 1.91 0.4 0.793h4.24c-0.04 1.017-0.047 1.263-0.264 1.789-0.128 0.31-0.29 0.504-0.614 0.656-0.325 0.152-0.845 0.244-1.635 0.193l-0.064 0.992c0.89 0.058 1.576-0.03 2.12-0.283a2.216 2.216 0 0 0 1.113-1.179c0.402-0.974 0.294-1.46 0.361-2.637l-0.021-0.526h-4.249l0.827-1.115z" fill="#fff" fill-rule="evenodd"/>
+ </g>
+</svg>

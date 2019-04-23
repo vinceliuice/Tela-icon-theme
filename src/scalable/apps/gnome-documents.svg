@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><path d="M2.381 1.588h12.171c.147 0 .265.118.265.264v13.23a.264.264 0 0 1-.265.264H2.382a.264.264 0 0 1-.265-.265V1.852c0-.146.118-.264.264-.264z" fill="#638df5" paint-order="fill markers stroke"/><path d="M3.704 14.288v-1.059H2.91v-.264h.794v-1.059H2.91v-.264h.794v-1.059H2.91v-.264h.794V9.26H2.91v-.264h.794V7.938H2.91v-.265h.794V6.615H2.91V6.35h.794V5.292H2.91v-.265h.794V3.97H2.91v-.265h.794V2.646H2.91V2.38h.794v-.793h.265v.793h9.79v.265h-9.79v1.058h9.79v.265h-9.79v1.058h9.79v.265h-9.79V6.35h9.79v.265h-9.79v1.058h9.79v.265h-9.79v1.058h9.79v.264h-9.79v1.059h9.79v.264h-9.79v1.059h9.79v.264h-9.79v1.059h9.79v.264h-9.79v1.059h9.79v.264h-9.79v.794h-.265v-.794H2.91v-.264z" fill="#fff" fill-opacity=".3" fill-rule="evenodd"/></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="120" x2="120" y1="59" y2="30" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ </defs>
+ <g transform="translate(-17.991 -1.0583)" fill-rule="evenodd">
+  <path transform="scale(.26458)" d="m83 9c-1.662 0-3 1.338-3 3v44c0 1.662 1.338 3 3 3h38c1.662 0 3-1.338 3-3v-35l-12-12z" fill="#f7d83f" style="paint-order:fill markers stroke"/>
+  <path d="m32.808 5.5561-3.1749-3.1749v2.3812c0 0.43973 0.35401 0.79373 0.79374 0.79373z" fill="#ffec8c" style="paint-order:fill markers stroke"/>
+  <path transform="scale(.26458)" d="m123.94 20.936a32.5 40 0 0 1 0.06445 0.64258v-0.57812zm0.06445 8.7246a32.5 40 0 0 1-14.604 29.34h11.604c1.662 0 3-1.338 3-3z" fill="url(#a)" opacity=".15" style="paint-order:fill markers stroke"/>
+ </g>
+ <g transform="translate(-19.05)" fill-rule="evenodd">
+  <path transform="scale(.26458)" d="m83 9c-1.662 0-3 1.338-3 3v44c0 1.662 1.338 3 3 3h38c1.662 0 3-1.338 3-3v-35l-12-12z" fill="#638df5" style="paint-order:fill markers stroke"/>
+  <path d="m32.808 5.5561-3.1749-3.1749v2.3812c0 0.43973 0.35401 0.79373 0.79374 0.79373z" fill="#88aaf8" style="paint-order:fill markers stroke"/>
+  <path transform="scale(.26458)" d="m123.94 20.936a32.5 40 0 0 1 0.06445 0.64258v-0.57812zm0.06445 8.7246a32.5 40 0 0 1-14.604 29.34h11.604c1.662 0 3-1.338 3-3z" fill="url(#a)" opacity=".15" style="paint-order:fill markers stroke"/>
+ </g>
+ <g fill="#fff" stroke-width=".26458">
+  <path d="m3.4395 4.7624v-0.26458h5.2916v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m7.6728 8.4665v4.2332h4.7624v-0.26458h-4.4978v-3.9687z" enable-background="new" opacity=".5"/>
+  <rect x="8.4665" y="10.319" width=".79373" height="1.5875" enable-background="new" opacity=".5"/>
+  <rect x="9.7894" y="8.9957" width=".79373" height="2.9104" enable-background="new" opacity=".5"/>
+  <rect x="11.112" y="9.5248" width=".79373" height="2.3812" enable-background="new" opacity=".5"/>
+  <path d="m3.4395 6.6145v-0.26458h8.9957v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 7.4082v-0.26458h8.9957v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 8.2019v-0.26458h3.4395v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 8.9957v-0.26458h3.4395v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 9.7894v-0.26458h3.4395v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 10.583v-0.26458h3.4395v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 11.377v-0.26458h3.4395v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 12.171v-0.26458h2.1166v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 13.493v-0.26458h8.9957v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 14.287v-0.26458h6.879v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+  <path d="m3.4395 5.5561v-0.26458h5.2916v0.26458z" color="#000000" enable-background="new" opacity=".35" style="paint-order:normal"/>
+ </g>
+</svg>

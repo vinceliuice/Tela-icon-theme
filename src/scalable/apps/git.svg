@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 16.933 16.933"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="42.246" y1="57" x2="42.246" y2="11.922" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.27517 0 0 .27517 -.074 279.463)"/></defs><g transform="translate(0 -280.067)"><path d="M8.466 281.654c-.36 0-.72.134-.99.404l-5.485 5.485a1.414 1.414 0 0 0 .001 1.98l5.485 5.485c.539.539 1.441.54 1.98 0l5.485-5.485a1.415 1.415 0 0 0 0-1.98l-5.485-5.485c-.27-.27-.63-.404-.99-.404z" fill="#c2352a"/><path d="M10.671 282.744a7.567 7.567 0 0 1 1.637 4.7 7.567 7.567 0 0 1-4.817 7.049l.25.25c.539.539 1.441.54 1.98.001l5.485-5.485a1.415 1.415 0 0 0 0-1.98z" opacity=".25" fill="url(#b)" transform="translate(-.265 .265)"/><path d="M5.765 283.775l-.374.374 1.753 1.739v4.233h.529v-3.704l2.536 2.49.374-.374z" opacity=".5" fill-rule="evenodd"/><circle cx="7.408" cy="286.152" r="1.058" fill="#fff" paint-order="markers stroke fill"/><circle r="1.058" cy="288.533" cx="10.319" fill="#fff" paint-order="markers stroke fill"/><circle cx="7.673" cy="290.915" r="1.058" fill="#fff" paint-order="markers stroke fill"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="42.246" x2="42.246" y1="57" y2="11.922" gradientTransform="matrix(.27517 0 0 .27517 -.074 279.46)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <g transform="matrix(1.0384 0 0 1.0384 -.32515 -11.079)" stroke-width=".92741">
+   <path d="m8.466 281.65c-0.36 0-0.72 0.134-0.99 0.404l-5.485 5.485a1.414 1.414 0 0 0 1e-3 1.98l5.485 5.485c0.539 0.539 1.441 0.54 1.98 0l5.485-5.485a1.415 1.415 0 0 0 0-1.98l-5.485-5.485c-0.27-0.27-0.63-0.404-0.99-0.404z" fill="#c2352a"/>
+   <path transform="translate(-.265 .265)" d="m10.671 282.74a7.567 7.567 0 0 1 1.637 4.7 7.567 7.567 0 0 1-4.817 7.049l0.25 0.25c0.539 0.539 1.441 0.54 1.98 1e-3l5.485-5.485a1.415 1.415 0 0 0 0-1.98z" fill="url(#b)" opacity=".25"/>
+  </g>
+  <path d="m5.6382 283.62-0.374 0.374 1.8798 1.8976v4.233h0.529v-3.704l2.536 2.49 0.374-0.374z" fill-rule="evenodd" opacity=".5"/>
+  <g fill="#fff">
+   <circle cx="7.408" cy="286.15" r="1.058" paint-order="markers stroke fill"/>
+   <circle cx="10.319" cy="288.53" r="1.058" paint-order="markers stroke fill"/>
+   <circle cx="7.673" cy="290.92" r="1.058" paint-order="markers stroke fill"/>
+  </g>
+ </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><circle cx="8.467" cy="288.533" r="6.879" fill="#498cd8" paint-order="markers stroke fill"/><circle r="5.821" cy="288.533" cx="8.467" opacity=".15" paint-order="markers stroke fill"/><path d="M7.144 287.21v.794h.793v3.175h-.793v.794h2.91v-.794H9.26v-3.969z" fill="#fff"/><circle cx="8.467" cy="285.623" r=".794" fill="#fff" paint-order="stroke fill markers"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx=".79373" ry=".79373" fill="#498cd8" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <rect x="1.852" y="13.493" width="13.229" height="1.5875" rx=".52916" ry=".52916" fill-rule="evenodd" opacity=".15" style="paint-order:fill markers stroke"/>
+ <g transform="translate(0 -280.86)" fill="#fff">
+  <path d="m7.144 287.21v0.794h0.793v3.175h-0.793v0.794h2.91v-0.794h-0.794v-3.969z"/>
+  <circle cx="8.467" cy="285.62" r=".794" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
