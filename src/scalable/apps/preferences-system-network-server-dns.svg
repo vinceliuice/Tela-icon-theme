@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="2" ry="2" fill="#3e4245" style="paint-order:stroke markers fill"/>
+ <path d="m12 15h24v2h-24z" fill="#fff"/>
+ <circle cx="43" cy="16" r="2" fill="#72d406"/>
+ <circle cx="51" cy="16" r="2" fill="#72d406"/>
+ <g fill="#fff">
+  <path d="m12 31h24v2h-24z"/>
+  <circle cx="43" cy="32" r="2"/>
+  <circle cx="51" cy="32" r="2"/>
+  <path d="m12 47h24v2h-24z"/>
+ </g>
+ <g fill-rule="evenodd">
+  <rect x="6" y="22" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
+  <rect x="6" y="38" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
+  <circle cx="46" cy="46" r="18" fill="#ffb12a" style="paint-order:fill markers stroke"/>
+ </g>
+ <path d="m46 34a12 12 0 0 0-12 12 12 12 0 0 0 12 12 12 12 0 0 0 6.94-2.23l-1.428-1.43a10 10 0 0 1-5.512 1.66 10 10 0 0 1-10-10 10 10 0 0 1 10-10 10 10 0 0 1 10 10 2 4 0 0 1-2 4 2 2 0 0 1-2-2v-8h-2v1.54a6 6 0 0 0-4-1.54 6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 4.46-2h0.08a4 4 0 0 0 3.46 2 4 6 0 0 0 4-6 12 12 0 0 0-12-12zm0 8a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" fill="#fff"/>
+</svg>

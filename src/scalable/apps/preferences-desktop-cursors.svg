@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="45.628" x2="45.628" y1="57.955" y2="12.461" gradientTransform="scale(1)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(2,0,0,2,0,-64)">
+  <rect x="3" y="35" width="26" height="26" rx="13" ry="13" fill="#4d4d4d" fill-rule="evenodd" stroke-width=".5"/>
+  <path d="m13.471 40.484c-0.37121-0.0205-0.66831 0.31278-0.66021 0.76709h6.93e-4v11.083c0 0.36228 0.32972 0.69269 0.69269 0.69269h2.4894l1.8603 1.8609c0.20434 0.20504 0.54324 0.26009 0.80093 0.13056l0.69269-0.34635c0.2272-0.11083 0.3841-0.35327 0.39033-0.60611v-2.4894l1.8833-1.884c0.25283-0.2563 0.25283-0.71711 0-0.97341l-7.6196-7.966c-0.1775-0.1775-0.36162-0.25991-0.53033-0.26923zm0.02977 0.75833 7.6196 7.966-2.0781 2.0781v2.7708l-0.69269 0.34635-2.0781-2.0781h-2.7708z" fill="#fff" stroke-width=".5"/>
+  <path d="m13.5 52.325v-11.083l7.6196 7.966-2.0781 2.0781v2.7708l-0.69269 0.34635-2.0781-2.0781z" fill="#fff" opacity=".5" stroke-width=".5"/>
+ </g>
+ <path d="m49.123 12.46a40.5 40.5 0 0 1 1.877 12.04 40.5 40.5 0 0 1-17.744 33.455 26 26 0 0 0 24.744-25.955 26 26 0 0 0-8.8771-19.54z" fill="url(#b)" opacity=".25" style="paint-order:stroke markers fill"/>
+</svg>

@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m4 4c-0.554 0-1 0.446-1 1v2.2832c0.2965-0.1755 0.636-0.2832 1-0.2832h1 1 1.5859l1.7071-1.707a1.0001 1.0001 0 0 1 0.707 -0.293h1c0-0.554-0.446-1-1-1h-6zm6 2-2 2h-2-1-1c-0.554 0-1 0.446-1 1v1 1 2 1 3c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-3-1-6c0-0.554-0.446-1-1-1h-8zm2 3 4 4h-1-1v2h-2v-2-4zm-3 2h2v2 4l-4-4h1 1v-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M4 4c-.554 0-1 .446-1 1v2.283A1.958 1.958 0 0 1 4 7H7.586l1.707-1.707A1 1 0 0 1 10 5h1c0-.554-.446-1-1-1H4zm6 2L8 8H4c-.554 0-1 .446-1 1v8c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V7c0-.554-.446-1-1-1h-8zm2 3l4 4h-2v2h-2V9zm-3 2h2v6l-4-4h2v-2z" fill="currentColor" color="#dfdfdf"/></svg>

@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+  <linearGradient id="a" x1="-197.1" x2="-196.91" y1="217.68" y2="219.37" gradientTransform="matrix(2.6726 -2.6726 2.6726 2.6726 4e-6 -1058.5)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(3.7796 0 0 3.7796 0 -1058.5)">
+  <path d="m3.44 282.45c-0.294 0-0.395 0.269-0.53 0.53h-0.793a0.528 0.528 0 0 0-0.53 0.528v5.292c0 0.293 0.237 0.53 0.53 0.53h12.7c0.293 0 0.529-0.237 0.529-0.53v-5.292a0.528 0.528 0 0 0-0.53-0.529h-7.142c-0.155-0.249-0.236-0.53-0.53-0.53z" fill="#5294e2" style="paint-order:markers stroke fill"/>
+  <path d="m3.44 282.45c-0.294 0-0.395 0.269-0.53 0.53h-0.793a0.528 0.528 0 0 0-0.53 0.528v5.292c0 0.293 0.237 0.53 0.53 0.53h12.7c0.293 0 0.529-0.237 0.529-0.53v-5.292a0.528 0.528 0 0 0-0.53-0.529h-7.142c-0.155-0.249-0.236-0.53-0.53-0.53z" opacity=".18" style="paint-order:markers stroke fill"/>
+  <rect x="2.381" y="283.77" width="12.171" height="5.027" ry=".265" fill="#fff" style="paint-order:markers stroke fill"/>
+  <rect x=".529" y="285.36" width="15.875" height="9.525" ry=".529" fill="#5294e2" style="paint-order:markers stroke fill"/>
+  <path d="m8.467 284.3h7.408c0.293 0 0.53 0.236 0.53 0.53v3.968c0 0.293-0.237 0.529-0.53 0.529h-9.723c-0.294 0-0.677-0.276-0.53-0.53l2.316-3.968c0.147-0.253 0.236-0.529 0.529-0.529z" fill="#5294e2" style="paint-order:markers stroke fill"/>
+  <rect x="3.704" y="282.71" width="3.175" height=".529" ry=".265" opacity=".25" style="paint-order:stroke markers fill"/>
+ </g>
+ <path d="m32 28c-2.77 0-5 2.23-5 5v3h-2c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-8c0-0.554-0.446-1-1-1h-2v-3c0-2.77-2.23-5-5-5zm0 2c1.662 0 3 1.338 3 3v3h-6v-3c0-1.662 1.338-3 3-3z" fill="#fff" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <path d="m62 43.998-11.998 12h10c1.1077 0 1.998-0.89037 1.998-1.998z" fill="url(#a)" opacity=".1" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="a">
+   <circle cx="8.467" cy="288.53" r="6.879" fill="#d86eb0" stroke-opacity=".039" stroke-width=".491" style="paint-order:stroke markers fill"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <circle cx="32" cy="1020.4" r="26" fill="#5d6875" style="paint-order:stroke markers fill"/>
+  <g transform="matrix(3.7795 0 0 3.7795 0 -70.168)" clip-path="url(#a)" fill="none" stroke="#fff" stroke-opacity=".937" stroke-width=".132">
+   <path d="m0 287.74s2.284-0.734 3.468 1.977c0.674 1.544 1.623 2.229 2.772 2.283 1.48 0.07 2.673-1.226 3.459-2.385 1.602-2.362 4.189-1.867 6.244-0.97" opacity=".35"/>
+   <path d="m0 289.11s2.786-2.65 4.365-0.149c0.722 1.143 1.576 2.867 4.049 2.709 1.478-0.095 2.956-0.71 3.718-2.15 1.388-2.617 3.338-2.528 4.165-1.394" opacity=".35"/>
+   <path d="m0.732 291.07s2.337-2.2 5.24-1.353c1.297 0.379 2.937 1.847 6.056 1.504 0.824-0.09 1.522-0.563 2.183-1.464 0.957-1.305 2.015-1.371 3.385-1.112" opacity=".35"/>
+  </g>
+  <rect x="26" y="1008.4" width="12" height="20" rx="6" ry="6" fill="#fff" style="paint-order:stroke markers fill"/>
+  <path d="m23.5 1021.9a0.499 0.499 0 0 0-0.5 0.5 0.499 0.499 0 0 0 6e-3 0.062 9 9 0 0 0 8.994 8.938 9 9 0 0 0 8.996-8.95 0.499 0.499 0 0 0 2e-3 -0.036 9 9 0 0 0 0-0.014 0.499 0.499 0 0 0-0.5-0.498 0.499 0.499 0 0 0-0.498 0.498h-2e-3a7.998 7.998 0 0 1-7.998 8 7.998 7.998 0 0 1-7.996-8h-6e-3a0.499 0.499 0 0 0-0.498-0.498z" fill="#fff" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

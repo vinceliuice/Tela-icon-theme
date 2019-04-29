@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 2 L 2 3.5273438 L 1.0039062 3.5273438 L 1.0039062 3.5351562 L 2 3.5351562 L 2 8 L 2 9 L 2 11 L 1 11 L 1 11.007812 L 2 11.007812 L 2 14 L 14 14 L 14 13.001953 L 14 13 L 14 11.867188 L 13.958984 11.828125 L 11.130859 9 L 11.126953 9.0039062 L 11.121094 9 L 8.9980469 11.123047 L 5.875 8 L 4.4609375 8 L 3 8 L 3 3.5351562 L 7.4648438 3.5351562 L 4.9980469 6.0019531 L 3.0019531 6.0019531 L 3.0019531 7.0019531 L 5.4121094 7.0019531 L 9.0019531 3.4121094 L 11.125 5.5351562 L 11.130859 5.53125 L 11.134766 5.5351562 L 13.962891 2.7070312 C 13.965891 2.7120312 13.255859 2 13.255859 2 L 11.130859 4.125 L 9.0039062 2 L 9.0019531 2.0019531 L 9 2 L 7.4726562 3.5273438 L 3 3.5273438 L 3 2 L 2 2 z M 3 9 L 5.4609375 9 L 7.4609375 11 L 3 11 L 3 9 z M 11.126953 10.410156 L 13.251953 12.535156 L 13.734375 13 L 3 13 L 3 11.007812 L 7.46875 11.007812 L 8.9960938 12.535156 L 8.9980469 12.533203 L 9 12.535156 L 11.126953 10.410156 z" transform="translate(3 3)"/>
- <path style="fill:currentColor;opacity:0.5" class="ColorScheme-Text" d="m 13.46,2.22 -2.451,2.779 -2,-3 -4,4 -2,0 0,7 11,0 0,-10.258 z" transform="translate(3 3)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#565656}</style></defs><path class="ColorScheme-Text" d="M5 5v1.527h-.996v.008H5V14H4v.008h1V17h12v-2.133l-.041-.039L14.131 12l-.004.004-.006-.004-2.123 2.123L8.875 11H6V6.535h4.465L7.998 9.002H6.002v1h2.41l3.59-3.59 2.123 2.123.006-.004.004.004 2.828-2.828c.003.005-.707-.707-.707-.707L14.13 7.125 12.004 5l-.002.002L12 5l-1.527 1.527H6V5H5zm1 7h2.46l2 2H6v-2zm8.127 1.41l2.125 2.125.482.465H6v-1.992h4.469l1.527 1.527.002-.002.002.002 2.127-2.125z" fill="currentColor"/><path class="ColorScheme-Text" d="M16.46 5.22l-2.451 2.779-2-3-4 4h-2v7h11V5.741z" fill="currentColor" opacity=".5"/></svg>
