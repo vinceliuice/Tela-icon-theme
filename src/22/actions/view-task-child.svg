@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M6 4C3.75 4 4 6 4 6v12h8.004v-2H6V6h10v.164l-6.03 6.899-2.25-2.25c-.376-.377-1.06-.377-1.437 0A1.016 1.016 0 0 0 6 11.53c0 .266.095.53.283.719l3 3 .781.75.688-.813L16 9.19V12h2V6c0-2-2-2-2-2H6zm7.86 9c-.964 0-.856.857-.856.857V19H19v-5.143C19 13 18.143 13 18.143 13h-4.284z" fill="currentColor" color="#565656"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3 1 C 0.75 1 1 3 1 3 L 1 15 L 9.0039062 15 L 9.0039062 13 L 7.0644531 13 L 3 13 L 3 8.53125 L 3 3 L 13 3 L 13 3.1640625 L 6.9707031 10.0625 L 4.7207031 7.8125 C 4.3444031 7.4361 3.6596031 7.4362 3.2832031 7.8125 C 3.0950031 8.0007 3 8.26595 3 8.53125 C 3 8.79665 3.0950031 9.0618 3.2832031 9.25 L 6.2832031 12.25 L 7.0644531 13 L 7.7519531 12.1875 L 13 6.1894531 L 13 9 L 15 9 L 15 3 C 15 1 13 1 13 1 L 3 1 z M 10.859375 10 C 9.896075 10 10.003906 10.857422 10.003906 10.857422 L 10.003906 16 L 16 16 L 16 10.857422 C 16 10.000422 15.142578 10 15.142578 10 L 10.859375 10 z" transform="translate(3 3)"/>
+</svg>

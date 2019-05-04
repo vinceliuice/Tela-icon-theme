@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" id="svg11"><defs id="defs3"><style id="current-color-scheme" type="text/css"></style></defs><g id="g33" transform="translate(4.5 -4.251)"><path id="path7" d="M12 15v4.25c0 .415-.335.75-.75.75H5v2.25c0 .415.335.75.75.75h8.5c.415 0 .75-.335.75-.75v-6.5a.749.749 0 0 0-.75-.75z" color="#565656" opacity=".3" fill="currentColor"/><g transform="matrix(.71429 0 0 .71429 -16.9 8.933)" id="g830" stroke-width="1.4" fill="#565656" fill-opacity="1" stroke="none"><rect id="rect23" width="14" height="5" x="24.661" y=".797" rx="1" ry="1" display="inline" opacity=".5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="stroke markers fill"/><path d="M31.661 2.797l-1 2h-6c-.554 0-1 .446-1 1v8c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-10c0-.5-.5-1-1-1z" id="path4-3" display="inline"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <g transform="matrix(1,0,0,1,4,4)">
+  <path class="ColorScheme-Text" d="M 1.75,1 C 1.3345,1 1,1.3345 1,1.75 V 10.25 C 1,10.665 1.3345,11 1.75,11 H 10.25 C 10.665,11 11,10.665 11,10.25 V 3.75 C 11,3.3345 10.665,3 10.25,3 H 7 L 5,1 Z" style="fill:currentColor"/>
+  <path class="ColorScheme-Text" d="M 12 7 L 12 11.25 C 12 11.665 11.665 12 11.25 12 L 5 12 L 5 14.25 C 5 14.665 5.3345 15 5.75 15 L 14.25 15 C 14.665 15 15 14.665 15 14.25 L 15 7.75 C 15 7.3345 14.665 7 14.25 7 L 12 7 z" style="opacity:0.3;fill:currentColor"/>
+ </g>
+</svg>

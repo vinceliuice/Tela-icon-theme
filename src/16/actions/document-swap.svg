@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M10.094 1l2 2H7v1h5.094l-2 2H11.5l2.312-2.281L14 3.5l-.188-.219L11.5 1h-1.406zM4.5 3L2.187 5.281 2 5.5l.187.219L4.5 8h1.406l-2-2H9V5H3.906l2-2H4.5zM2 7.99V14c0 1 1 1 1 1h10s1 0 1-1V8.01h-2v4.986H4V7.99H2z" fill="currentColor" color="#565656"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m10.094 1l2 2h-5.094v1h5.094l-2 2h1.406l2.312-2.2812 0.188-0.2188-0.188-0.2188-2.312-2.2812h-1.406zm-5.594 2l-2.3125 2.2812-0.1875 0.2188 0.1875 0.2188 2.3125 2.2812h1.4062l-2-2h5.0938v-1h-5.0938l2-2h-1.4062zm-2.5 4.9902v6.0098c0 1 1 1 1 1h10s1 0 1-1v-5.9902h-2v4.9862h-8v-5.0058h-2z"/>
+</svg>
