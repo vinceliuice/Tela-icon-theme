@@ -3,7 +3,7 @@ A flat colorful Design icon theme
 
 ## Install tips
 
-Usage:  `./Install`  **[OPTIONS...]**
+Usage:  `./install.sh`  **[OPTIONS...]**
 
 |  OPTIONS:           | |
 |:--------------------|:-------------|
