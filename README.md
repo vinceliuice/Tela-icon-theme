@@ -14,7 +14,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 
 #### OPTION: -c/--color
 
-Supported colors:  `default` `black` `blue` `brown` `green` `grey` `orange`
+Supported colors:  `standard` `black` `blue` `brown` `green` `grey` `orange`
 `pink` `purple` `red` `yellow`
 
 ## Preview
