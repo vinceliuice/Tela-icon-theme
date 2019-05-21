@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Tela-brown-Dark
+Name=Tela
 Comment=Flat and colorful personality icon theme
-Inherits=breeze-dark,hicolor
+Inherits=breeze,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
@@ -130,14 +130,14 @@ Type=Scalable
 [scalable/devices]
 Context=Devices
 Size=64
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
 [scalable/places]
 Context=Places
 Size=64
-MinSize=16
+MinSize=22
 MaxSize=512
 Type=Scalable
 

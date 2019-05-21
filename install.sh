@@ -40,7 +40,10 @@ install() {
   mkdir -p                                                                             ${THEME_DIR}
   cp -ur ${SRC_DIR}/COPYING                                                            ${THEME_DIR}
   cp -ur ${SRC_DIR}/AUTHORS                                                            ${THEME_DIR}
-  cp -ur ${SRC_DIR}/src/index/index${color}${bright}.theme                             ${THEME_DIR}/index.theme
+  cp -ur ${SRC_DIR}/src/index.theme                                                    ${THEME_DIR}
+
+  cd ${THEME_DIR}
+  sed -i "s/Tela/Tela${color}${bright}/g" index.theme
 
   if [[ ${bright} != '-Dark' ]]; then
     cp -ur ${SRC_DIR}/src/{16,22,24,32,scalable,symbolic}                              ${THEME_DIR}
