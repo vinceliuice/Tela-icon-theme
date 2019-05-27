@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><rect width="13.758" height="13.758" x="-295.413" y="-15.346" rx="6.879" ry="6.879" transform="matrix(0 -1 -1 0 0 0)" fill="#ccc"/><rect transform="matrix(0 -1 -1 0 0 0)" ry="5.821" rx="5.821" y="-14.288" x="-294.354" height="11.642" width="11.642" opacity=".15"/><rect width="7.937" height="2.646" x="4.498" y="287.21" rx="0" ry="2.646" fill="#333" paint-order="markers stroke fill"/><path d="M8.467 283.77a4.75 4.75 0 0 0-4.574 3.44h9.148a4.75 4.75 0 0 0-4.574-3.44zm-4.574 6.086a4.75 4.75 0 0 0 4.574 3.44 4.75 4.75 0 0 0 4.574-3.44H3.893z" fill="#fff"/><circle cx="5.556" cy="288.533" r=".794" fill="#f55" paint-order="markers stroke fill"/><circle r=".794" cy="288.533" cx="8.467" fill="#f55" paint-order="markers stroke fill"/><circle cx="11.377" cy="288.533" r=".794" fill="#f55" paint-order="markers stroke fill"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-295.68" y="-15.61" width="14.287" height="14.287" rx="7.1436" ry="7.1436" fill="#ccc"/>
+  <rect transform="matrix(0 -1 -1 0 0 0)" x="-294.35" y="-14.288" width="11.642" height="11.642" rx="5.821" ry="5.821" opacity=".15"/>
+  <rect x="4.498" y="287.21" width="7.937" height="2.646" rx="0" ry="2.646" fill="#333" paint-order="markers stroke fill"/>
+  <path d="M8.467 283.77a4.75 4.75 0 0 0-4.574 3.44h9.148a4.75 4.75 0 0 0-4.574-3.44zm-4.574 6.086a4.75 4.75 0 0 0 4.574 3.44 4.75 4.75 0 0 0 4.574-3.44H3.893z" fill="#fff"/>
+  <g fill="#f55">
+   <circle cx="5.556" cy="288.53" r=".794" paint-order="markers stroke fill"/>
+   <circle cx="8.467" cy="288.53" r=".794" paint-order="markers stroke fill"/>
+   <circle cx="11.377" cy="288.53" r=".794" paint-order="markers stroke fill"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,88 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g fill-rule="evenodd">
+  <g transform="matrix(1.3 0 0 1.3 .8 -1304.9)" stroke-width=".76923">
+   <path transform="matrix(.76923 0 0 .76923 -.61538 1003.7)" d="m7.9727 6c-1.0929 0-1.9727 0.8798-1.9727 1.9727v9.7266l3.9004 2.6016-3.9004 2.5996v33.127c0 1.0929 0.8798 1.9727 1.9727 1.9727h48.055c1.0929 0 1.9727-0.8798 1.9727-1.9727v-48.055c0-1.0929-0.8798-1.9727-1.9727-1.9727h-48.055z" fill="#fbc02d" stroke-width="1"/>
+  </g>
+  <path d="m8 6c-1.108 0-2 0.88001-2 1.9727v8.2852l3.9004 2.5625-3.9004 2.5645v32.643c0 1.0928 0.892 1.9727 2 1.9727h48c1.108 0 2-0.87988 2-1.9727v-46.055c0-1.0926-0.892-1.9727-2-1.9727h-48z" fill="#388e3c" style="paint-order:normal"/>
+  <path d="m57 53-2 2h2z" fill="#e6ea97"/>
+  <rect x="12" y="11" width="40" height="40" ry="2" fill="#263238"/>
+  <path d="m14 13v36h36v-36z" fill="#fff" opacity=".15"/>
+  <g transform="matrix(1.3 0 0 1.3 .8 -1302.9)" fill="#bcbcbc" stroke-width=".76923">
+   <rect x="13.231" y="1032.2" width="7.6923" height=".76921"/>
+   <rect x="22.462" y="1032.2" width="6.1538" height=".76921"/>
+   <rect x="13.231" y="1033.7" width="6.9231" height=".76922"/>
+   <rect x="21.692" y="1033.7" width="3.0769" height=".76922"/>
+   <rect x="13.231" y="1035.3" width="3.8462" height=".76923"/>
+   <rect x="18.615" y="1035.3" width="7.6923" height=".76923"/>
+   <rect x="13.231" y="1030.7" width="5.3846" height=".76923"/>
+   <rect x="20.154" y="1030.7" width="6.9231" height=".76923"/>
+  </g>
+  <g transform="matrix(1.3 0 0 1.3 .8 -1304.9)" fill="#959595" stroke-width=".76923">
+   <rect x="13.231" y="1016.1" width="10" height=".76923"/>
+   <rect x="24.769" y="1016.1" width="4.6154" height=".76923"/>
+   <rect x="13.231" y="1017.6" width="6.9231" height=".76918"/>
+   <rect x="21.692" y="1017.6" width="3.8462" height=".76918"/>
+  </g>
+ </g>
+ <g fill="#dee372" fill-rule="evenodd">
+  <rect x="12" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="14" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="16" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="18" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="20" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="22" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="24" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="26" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="28" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="30" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="13" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="15" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="17" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="19" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="21" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="23" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="25" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="27" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="29" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="31" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+ </g>
+ <g transform="translate(21)" fill="#dee372" fill-rule="evenodd">
+  <rect x="26" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="28" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="30" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="25" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="27" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="29" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="31" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+ </g>
+ <g transform="rotate(90,53,55)" fill="#dee372" fill-rule="evenodd">
+  <rect x="12" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="14" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="16" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="18" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="20" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="22" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="24" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="26" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="28" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="30" y="52" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="13" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="15" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="17" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="19" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="21" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="23" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="25" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="27" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="29" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+  <rect x="31" y="53" width="1" height="1" ry="0" opacity=".6" style="paint-order:normal"/>
+ </g>
+ <g fill-rule="evenodd">
+  <circle cx="9.5" cy="9.5" r="1.5" fill="#fbc02d" style="paint-order:normal"/>
+  <circle cx="9.5" cy="9.5" r=".5" fill="#263238" style="paint-order:normal"/>
+  <circle cx="54.5" cy="9.5" r="1.5" fill="#fbc02d" style="paint-order:normal"/>
+  <circle cx="54.5" cy="9.5" r=".5" fill="#263238" style="paint-order:normal"/>
+  <circle cx="9.5" cy="52.5" r="1.5" fill="#fbc02d" style="paint-order:normal"/>
+  <circle cx="9.5" cy="52.5" r=".5" fill="#263238" style="paint-order:normal"/>
+ </g>
+</svg>

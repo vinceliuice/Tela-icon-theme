@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 16.933 16.933"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="45.628" y1="57.955" x2="45.628" y2="12.461" gradientUnits="userSpaceOnUse"/></defs><g transform="translate(0 -280.067)"><circle cx="8.467" cy="288.533" r="6.879" fill="#f6476b" paint-order="stroke markers fill"/><path d="M49.123 12.46A40.5 40.5 0 0 1 51 24.5a40.5 40.5 0 0 1-17.744 33.455A26 26 0 0 0 58 32a26 26 0 0 0-8.877-19.54z" transform="matrix(.26458 0 0 .26458 0 280.067)" opacity=".25" fill="url(#b)" paint-order="stroke markers fill"/><g fill="#fff"><path d="M5.902 288.533l-1.14.977.214.279.926-.8v2.963h5.13v-2.963l.926.8.213-.28-1.14-.976zM6.512 286.864l-.246.794.776.252.246-.795zM8.27 285.114l-1.205.36.352 1.234 1.205-.36-.351-1.234zM8.728 286.83l-.384.5.232.588.614.09.384-.5-.231-.589zM10.354 285.614l-.326.257-.393-.129.136.397-.241.343.411-.012.244.34.116-.405.391-.131-.337-.238-.002-.422z"/></g></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="45.628" x2="45.628" y1="57.955" y2="12.461" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <g transform="matrix(1.0385 0 0 1.0385 -.32619 -11.098)" stroke-width=".92729">
+   <circle cx="8.467" cy="288.53" r="6.879" fill="#f6476b" style="paint-order:stroke markers fill"/>
+   <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M 49.123,12.46 A 40.5,40.5 0 0 1 51,24.5 40.5,40.5 0 0 1 33.256,57.955 26,26 0 0 0 58,32 26,26 0 0 0 49.123,12.46 Z" fill="url(#b)" opacity=".25" style="paint-order:stroke markers fill"/>
+  </g>
+  <g fill="#fff">
+   <path d="M5.902 288.533l-1.14.977.214.279.926-.8v2.963h5.13v-2.963l.926.8.213-.28-1.14-.976zM6.512 286.864l-.246.794.776.252.246-.795zM8.27 285.114l-1.205.36.352 1.234 1.205-.36-.351-1.234zM8.728 286.83l-.384.5.232.588.614.09.384-.5-.231-.589zM10.354 285.614l-.326.257-.393-.129.136.397-.241.343.411-.012.244.34.116-.405.391-.131-.337-.238-.002-.422z"/>
+  </g>
+ </g>
+</svg>
