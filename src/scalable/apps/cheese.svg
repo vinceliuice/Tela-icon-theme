@@ -1,5 +1,5 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-15.61" y="-15.61" width="14.287" height="14.287" rx="7.1441" ry="7.1441" fill="#fff" stroke="#000" stroke-linecap="round" stroke-opacity=".059" stroke-width=".26438" style="paint-order:markers stroke fill"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-15.61" y="-15.61" width="14.287" height="14.287" rx="7.1441" ry="7.1441" fill="#fff" stroke="#000" stroke-linecap="round" stroke-opacity=".13725" stroke-width=".26438" style="paint-order:markers stroke fill"/>
  <circle cx="8.532" cy="8.4665" r="4.2332" fill="#333" stroke-width=".51435"/>
  <circle transform="scale(1,-1)" cx="8.4665" cy="-8.4665" r="2.9104" fill="#e91e63" stroke-width=".51435"/>
  <g transform="matrix(.88887 0 0 .88887 .94133 .94044)" fill="#fff" stroke-width=".57866">

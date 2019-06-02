@@ -1,0 +1,11 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="27" fill="#d2a25c" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="23" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <g transform="translate(12.225 4.926)" stroke-linejoin="bevel">
+  <path d="m18.775 8.074a2 2 0 0 0-2 2 2 2 0 0 0 0.85547 1.6367c-1.4665 4.4233-4.1455 11.653-6.8555 14.363 0 0 4 6 4 10h10c0-4 4-10 4-10-2.71-2.71-5.387-9.93-6.85-14.361a2 2 0 0 0 0.85-1.639 2 2 0 0 0-2-2v18.27c0.618 0.357 0.999 1.017 1 1.73 0 1.105-0.895 2-2 2s-2-0.895-2-2c1e-3 -0.713 0.382-1.372 1-1.729v-14.271z" fill="#9ea7aa" stroke-width="2"/>
+  <g stroke-width="6.2">
+   <rect x="14.775" y="38.074" width="10" height="5.926" rx="0" fill="#384148" stroke-linecap="round" stroke-width="6.2"/>
+   <path d="m14.775 36.074h10c0.831 0 1.5 0.669 1.5 1.5s-0.669 1.5-1.5 1.5h-10c-0.831 0-1.5-0.669-1.5-1.5s0.669-1.5 1.5-1.5" fill="#515d68"/>
+  </g>
+ </g>
+</svg>

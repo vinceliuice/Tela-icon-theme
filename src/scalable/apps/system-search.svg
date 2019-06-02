@@ -1,7 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(0 -280.07)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-295.68" y="-15.61" width="14.287" height="14.287" rx="7.1434" ry="7.1434" fill="#fff" stroke="#000" stroke-opacity=".059" stroke-width=".265" style="paint-order:markers stroke fill"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-295.68" y="-15.61" width="14.287" height="14.287" rx="7.1436" ry="7.1436" fill="#fff" style="paint-order:markers stroke fill"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-295.68" y="-15.61" width="14.287" height="14.287" rx="7.1433" ry="7.1433" fill="#fff" stroke="#000" stroke-opacity=".13725" stroke-width=".265" style="paint-order:markers stroke fill"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-295.68" y="-15.61" width="14.287" height="14.287" rx="7.1437" ry="7.1437" fill="#fff" style="paint-order:markers stroke fill"/>
   <rect transform="matrix(0 -1 -1 0 0 0)" x="-294.35" y="-14.288" width="11.642" height="11.642" rx="5.821" ry="5.821" fill="#4d8dd8"/>
   <g fill="#fff">
    <rect transform="matrix(0 -1 -1 0 0 0)" x="-292.77" y="-12.7" width="8.467" height="8.467" rx="4.233" ry="4.233" opacity=".25"/>

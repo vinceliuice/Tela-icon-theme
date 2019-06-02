@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x2="0" y1="543.8" y2="515.8" gradientTransform="matrix(1.5188 0 0 1.35 -588.51 -675.13)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d1e1e" offset="0"/>
+   <stop stop-color="#44484c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-opacity=".55" stroke-width="2.8">
+  <rect x="10.4" y="34.7" width="41.85" height="24.3" fill="url(#a)"/>
+  <rect x="10.4" y="57.65" width="43.2" height="1.35" fill="#202224"/>
+  <rect x="14" y="5" width="36" height="30" fill="#cbd2d6"/>
+  <rect x="19" y="14" width="10" height="10" fill="#202224"/>
+  <rect x="22" y="14" width="4" height="10" fill="#fdbc4a"/>
+  <rect x="9" y="33" width="46" height="26" fill="#292b2c"/>
+ </g>
+ <path d="m34.065 42.8-1.8036 1.8036-4.3564 0.7965 1.7793 1.7793-1.6956 1.6956 2.025 2.025 1.6956-1.6956 1.6942 1.6956 0.83565-4.2255 1.8495-1.8495z" fill="#f2f2f2" fill-rule="evenodd" opacity=".2"/>
+ <rect x="35" y="14" width="10" height="10" fill="#202224" stroke-opacity=".55" stroke-width="2.8"/>
+ <rect x="38" y="14" width="4" height="10" fill="#fdbc4a" stroke-opacity=".55" stroke-width="2.8"/>
+</svg>

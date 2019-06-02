@@ -1,0 +1,6 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="matrix(1.35 0 0 1.35 -.4 -22)" stroke-width=".74074">
+  <rect x="4" y="20" width="40" height="40" rx="20" fill="#e15452" stroke-width=".74074"/>
+  <path d="m20.598 28.107-5.1953 3 3.4023 5.8926h-6.8047v6h6.8047l-3.4023 5.8926 5.1953 3 3.4023-5.8926 3.4023 5.8926 5.1953-3-3.4023-5.8926h6.8047v-6h-6.8047l3.4023-5.8926-5.1953-3-3.4023 5.8926z" fill="#f9c8c2"/>
+ </g>
+</svg>

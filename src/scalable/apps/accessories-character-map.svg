@@ -1,6 +1,6 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.5876" y="5.8392" width="9.5254" height="9.5254" rx=".56013" ry=".56013" fill="#fff" stroke="#000" stroke-opacity=".13725" stroke-width=".26458" style="paint-order:stroke markers fill"/>
- <rect x="1.5876" y="5.8392" width="9.5254" height="9.5254" rx=".56013" ry=".56013" fill="#fff" style="paint-order:stroke markers fill"/>
+ <rect x="1.5875" y="5.8207" width="9.5248" height="9.5248" rx=".5601" ry=".5601" fill="#fff" stroke="#000" stroke-opacity=".19608" stroke-width=".26458" style="paint-order:stroke markers fill"/>
+ <rect x="1.5875" y="5.8207" width="9.5248" height="9.5248" rx=".5601" ry=".5601" fill="#fff" stroke-width=".99994" style="paint-order:stroke markers fill"/>
  <g transform="translate(-.26469 -279.25)" aria-label="语">
   <path d="m4.658 286.66 0.551 0.165-0.193 0.468h1.681v0.524h-0.964q0.22 0.303 0.44 0.661l-0.578 0.331q-0.22-0.524-0.524-0.992h-0.33l-0.304 0.523q-0.165 0.22-0.44 0.524l-0.497-0.386q0.8-0.799 1.158-1.819zm2.866 0 0.524 0.165q-0.083 0.248-0.193 0.468h1.957v0.524h-1.158q0.193 0.275 0.358 0.551l-0.496 0.303q-0.22-0.44-0.496-0.854h-0.413q-0.386 0.661-0.717 0.992l-0.496-0.358q0.772-0.772 1.13-1.792zm-2.48 2.011 0.496 0.248q-0.248 0.496-0.552 0.992v3.142h-0.55v-2.397q-0.331 0.413-0.69 0.744l-0.33-0.496q0.909-0.8 1.626-2.233zm0.634 0.855h2.59v-0.69h0.551v0.69h0.965v0.523h-0.964v2.26q0 0.414-0.165 0.551-0.138 0.166-0.551 0.166-0.496 0-0.937-0.083l-0.11-0.551q0.468 0.11 0.964 0.11 0.248 0 0.248-0.33v-2.123h-2.59zm0.992 0.771q0.496 0.579 0.827 1.268l-0.552 0.33q-0.275-0.66-0.799-1.267z" fill="#ccc" font-size="7.056" font-weight="400" letter-spacing="0" stroke-width=".047" word-spacing="0" aria-label="符"/>
  </g>
