@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M0 4c2.08-1.927 4.95-3 8-3 3.051 0 5.919 1.073 8 3L8 15z" fill="#444"/></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Paper Symbolic Icon Theme</title>
+ <defs>
+  <filter color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-345 615)">
+  <path d="m345-610.68c4.4183-4.4157 11.582-4.4157 16 0l-8 9.6872z" fill="#4d4d4d"/>
+ </g>
+</svg>

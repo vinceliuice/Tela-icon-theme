@@ -130,7 +130,7 @@ Type=Scalable
 [scalable/devices]
 Context=Devices
 Size=64
-MinSize=48
+MinSize=22
 MaxSize=512
 Type=Scalable
 
