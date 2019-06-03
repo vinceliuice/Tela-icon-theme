@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.4665" cy="8.46" r="7.1436" fill="#4e99f3" style="paint-order:stroke markers fill"/>
+ <circle cx="8.4665" cy="8.46" r="6.0853" fill="#fff" opacity=".1" style="paint-order:stroke markers fill"/>
+ <g fill-rule="evenodd">
+  <circle cx="7.6728" cy="5.2916" r="2.1166" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle cx="7.6728" cy="5.2916" r="1.5875" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle cx="7.6728" cy="5.2916" r="1.0583" opacity=".15" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m7.6728 5.027c-0.26384 0-0.4598 0.21292-0.47624 0.47624v5.2387l-1.727-1.448c-0.092988-0.092991-0.21484-0.13952-0.3367-0.13952-0.12188 0-0.24372 0.046532-0.3367 0.13952-0.092976 0.092991-0.13952 0.21484-0.13952 0.33673s0.046536 0.24372 0.13952 0.3367l2.8767 2.6795s0.598 0.63518 1.4287 0.63499c1.0521-2.64e-4 1.905-0.71074 1.905-1.5875v-3.1749c0-0.17589-0.1416-0.31749-0.3175-0.31749h-0.31749v1.5875h-0.3175v-1.9601c0-0.17589-0.1416-0.31749-0.31749-0.31749h-0.31749v1.9601h-0.3175v-2.6193c0-0.13192-0.1416-0.23812-0.31749-0.23812-0.17589 0-0.31749 0.1062-0.31749 0.23812v2.3018h-0.3175v-3.6512c0-0.26384-0.2124-0.47624-0.47624-0.47624z" fill="#fff" stroke-width=".26458" style="paint-order:normal"/>
+</svg>
