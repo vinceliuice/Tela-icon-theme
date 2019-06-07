@@ -1,0 +1,9 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.4665" cy="8.46" r="7.1436" fill="#f55" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m58.072 25.008-26.072 6.9863v26.98a27 27 0 0 0 27-27 27 27 0 0 0-0.92773-6.9668z" fill="#7cce44" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <path d="m1.5683 6.6165 6.8982 1.8484v7.1384a7.1436 7.1436 0 0 1-7.1436-7.1436 7.1436 7.1436 0 0 1 0.24546-1.8433z" fill="#5f8bea" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <circle cx="8.4665" cy="8.46" r="6.0853" fill="#fff" opacity=".1" style="paint-order:stroke markers fill"/>
+ <g fill="#fff" aria-label="#">
+  <path d="m10.147 7.6157-0.33202 1.7016h1.4526v0.70554h-1.5771l-0.45653 2.2411h-0.74704l0.45653-2.2411h-1.5356l-0.41502 2.2411h-0.74704l0.41502-2.2411h-1.3696v-0.70554h1.4941l0.33202-1.7016h-1.4111v-0.70554h1.5356l0.45653-2.2411h0.74704l-0.41502 2.2411h1.4941l0.45653-2.2411h0.74704l-0.45653 2.2411h1.3696v0.70554zm-2.6147 1.7016h1.5356l0.33202-1.7016h-1.5356z" fill="#fff" stroke-width=".26458"/>
+ </g>
+</svg>
