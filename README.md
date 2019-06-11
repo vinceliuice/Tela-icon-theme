@@ -9,13 +9,20 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |:--------------------|:-------------|
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
 |-n, --name           | Specify theme name (Default: Tela)|
-|-c, --color          | Specify theme color variant(s) **[standard/black/blue/~]** (Default: All variants)|
+|-all                 | Install all color folder versions|
+|-black               | Black color folder version|
+|-blue                | Blue color folder version|
+|-brown               | Brown color folder version|
+|-green               | Green color folder version|
+|-grey                | Grey color folder version|
+|-orange              | Orange color folder version|
+|-pink                | Pink color folder version|
+|-purple              | Purple color folder version|
+|-red                 | Red color folder version|
+|-yellow              | yellow color folder version|
+|-manjaro             | Manjaro default color folder version|
+|-ubuntu              | Ubuntu default color folder version|
 |-h, --help           | Show this help|
-
-#### OPTION: -c/--color
-
-Supported colors:  `standard` `black` `blue` `brown` `green` `grey` `orange`
-`pink` `purple` `red` `yellow`
 
 ## Preview
 ![Tela](../master/Preview.jpeg)

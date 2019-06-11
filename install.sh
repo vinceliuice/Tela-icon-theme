@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Tela
-COLOR_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-yellow' '-orange' '-brown' '-grey' '-black' '-adapta')
+COLOR_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-yellow' '-orange' '-brown' '-grey' '-black' '-manjaro' '-ubuntu')
 BRIGHT_VARIANTS=('' '-Dark')
 
 usage() {
@@ -21,15 +21,25 @@ usage() {
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
-  printf "  %-25s%s\n" "-c, --color VARIANTS..." "Specify theme color variant(s) [standard|red|pink|purple|blue|green|yellow|orange|brown|grey|black] (Default: All variants)"
+  printf "  %-25s%s\n" "-all" "install all color folder versions"
+  printf "  %-25s%s\n" "-manjaro" "Manjaro default color folder version"
+  printf "  %-25s%s\n" "-ubuntu" "Ubuntu default color folder version"
+  printf "  %-25s%s\n" "-red" "Red color folder version"
+  printf "  %-25s%s\n" "-pink" "Pink color folder version"
+  printf "  %-25s%s\n" "-purple" "Purple color folder version"
+  printf "  %-25s%s\n" "-blue" "Blue color folder version"
+  printf "  %-25s%s\n" "-green" "Green color folder version"
+  printf "  %-25s%s\n" "-yellow" "Yellow color folder version"
+  printf "  %-25s%s\n" "-orange" "Orange color folder version"
+  printf "  %-25s%s\n" "-brown" "Brown color folder version"
+  printf "  %-25s%s\n" "-black" "Black color folder version"
   printf "  %-25s%s\n" "-h, --help" "Show this help"
 }
 
 install() {
   local dest=${1}
   local name=${2}
-  local color=${3}
-  local bright=${4}
+  local bright=${3}
 
   local THEME_DIR=${dest}/${name}${color}${bright}
 
@@ -109,68 +119,41 @@ while [[ $# -gt 0 ]]; do
       name="${2}"
       shift 2
       ;;
-    -c|--color)
-      shift
-      for color in "${@}"; do
-        case "${color}" in
-          standard)
-            colors+=("${COLOR_VARIANTS[0]}")
-            shift 1
-            ;;
-          red)
-            colors+=("${COLOR_VARIANTS[1]}")
-            shift 1
-            ;;
-          pink)
-            colors+=("${COLOR_VARIANTS[2]}")
-            shift 1
-            ;;
-          purple)
-            colors+=("${COLOR_VARIANTS[3]}")
-            shift 1
-            ;;
-          blue)
-            colors+=("${COLOR_VARIANTS[4]}")
-            shift 1
-            ;;
-          green)
-            colors+=("${COLOR_VARIANTS[5]}")
-            shift 1
-            ;;
-          yellow)
-            colors+=("${COLOR_VARIANTS[6]}")
-            shift 1
-            ;;
-          orange)
-            colors+=("${COLOR_VARIANTS[7]}")
-            shift 1
-            ;;
-          brown)
-            colors+=("${COLOR_VARIANTS[8]}")
-            shift 1
-            ;;
-          grey)
-            colors+=("${COLOR_VARIANTS[9]}")
-            shift 1
-            ;;
-          pink)
-            colors+=("${COLOR_VARIANTS[10]}")
-            shift 1
-            ;;
-          black)
-            colors+=("${COLOR_VARIANTS[11]}")
-            shift 1
-            ;;
-          -*|--*)
-            break
-            ;;
-          *)
-            echo "ERROR: Unrecognized color variant '$1'."
-            echo "Try '$0 --help' for more information."
-            exit 1
-            ;;
-        esac
-      done
+    -all)
+      all="true"
+      ;;
+    -black)
+      color="-black"
+      ;;
+    -blue)
+      color="-blue"
+      ;;
+    -brown)
+      color="-brown"
+      ;;
+    -green)
+      color="-green"
+      ;;
+    -grey)
+      color="-grey"
+      ;;
+    -orange)
+      color="-orange"
+      ;;
+    -pink)
+      color="-pink"
+      ;;
+    -red)
+      color="-red"
+      ;;
+    -yellow)
+      color="-yellow"
+      ;;
+    -manjaro)
+      color="-manjaro"
+      ;;
+    -ubuntu)
+      color="-ubuntu"
       ;;
     -h|--help)
       usage
@@ -182,11 +165,25 @@ while [[ $# -gt 0 ]]; do
       exit 1
       ;;
   esac
+  shift
 done
 
+install_theme() {
+for bright in "${brights[@]-${BRIGHT_VARIANTS[@]}}"; do
+  install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${bright}"
+done
+}
+
+install_all() {
 for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
   for bright in "${brights[@]-${BRIGHT_VARIANTS[@]}}"; do
-    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}" "${bright}"
+    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${bright}"
   done
 done
+}
 
+if [[ "${all}" == 'true' ]]; then
+  install_all
+  else
+  install_theme
+fi
