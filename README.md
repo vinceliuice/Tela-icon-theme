@@ -25,5 +25,5 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-h, --help           | Show this help|
 
 ## Preview
-![Tela](../master/Preview.jpeg)
-![Tela](../master/Preview.png)
+![Tela](../master/tela-dark.png)
+![Tela](../master/tela-light.png)
