@@ -21,7 +21,7 @@ usage() {
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
-  printf "  %-25s%s\n" "-all" "install all color folder versions"
+  printf "  %-25s%s\n" "-a, --all" "install all color folder versions"
   printf "  %-25s%s\n" "-manjaro" "Manjaro default color folder version"
   printf "  %-25s%s\n" "-ubuntu" "Ubuntu default color folder version"
   printf "  %-25s%s\n" "-red" "Red color folder version"
@@ -66,7 +66,6 @@ install() {
     mkdir -p                                                                           ${THEME_DIR}/16
     mkdir -p                                                                           ${THEME_DIR}/22
     mkdir -p                                                                           ${THEME_DIR}/24
-    mkdir -p                                                                           ${THEME_DIR}/32
 
     cp -ur ${SRC_DIR}/src/16/{actions,devices,places}                                  ${THEME_DIR}/16
     cp -ur ${SRC_DIR}/src/22/actions                                                   ${THEME_DIR}/22
@@ -85,21 +84,29 @@ install() {
     cp -r ${SRC_DIR}/links/24/actions                                                  ${THEME_DIR}/24
 
     cd ${dest}
-    ln -s ../${name}${color}/scalable ${name}${color}-Dark/scalable
-    ln -s ../${name}${color}/symbolic ${name}${color}-Dark/symbolic
-    ln -s ../../${name}${color}/16/apps ${name}${color}-Dark/16/apps
-    ln -s ../../${name}${color}/16/mimetypes ${name}${color}-Dark/16/mimetypes
-    ln -s ../../${name}${color}/16/panel ${name}${color}-Dark/16/panel
-    ln -s ../../${name}${color}/16/status ${name}${color}-Dark/16/status
-    ln -s ../../${name}${color}/22/emblems ${name}${color}-Dark/22/emblems
-    ln -s ../../${name}${color}/22/panel ${name}${color}-Dark/22/panel
-    ln -s ../../${name}${color}/24/animations ${name}${color}-Dark/24/animations
-    ln -s ../../${name}${color}/24/panel ${name}${color}-Dark/24/panel
-    ln -s ../../${name}${color}/32/devices ${name}${color}-Dark/32/devices
+    ln -sf ../${name}${color}/scalable ${name}${color}-Dark/scalable
+    ln -sf ../${name}${color}/symbolic ${name}${color}-Dark/symbolic
+    ln -sf ../${name}${color}/32 ${name}${color}-Dark/32
+    ln -sf ../../${name}${color}/16/apps ${name}${color}-Dark/16/apps
+    ln -sf ../../${name}${color}/16/mimetypes ${name}${color}-Dark/16/mimetypes
+    ln -sf ../../${name}${color}/16/panel ${name}${color}-Dark/16/panel
+    ln -sf ../../${name}${color}/16/status ${name}${color}-Dark/16/status
+    ln -sf ../../${name}${color}/22/emblems ${name}${color}-Dark/22/emblems
+    ln -sf ../../${name}${color}/22/mimetypes ${name}${color}-Dark/22/mimetypes
+    ln -sf ../../${name}${color}/22/panel ${name}${color}-Dark/22/panel
+    ln -sf ../../${name}${color}/24/animations ${name}${color}-Dark/24/animations
+    ln -sf ../../${name}${color}/24/panel ${name}${color}-Dark/24/panel
   fi
 
   [[ ${color} != '' ]] && \
   cp -r ${SRC_DIR}/src/colors/color${color}/16/*.svg                                 ${THEME_DIR}/16/places/
+
+  cd ${THEME_DIR}
+  ln -sf 16 16@2x
+  ln -sf 22 22@2x
+  ln -sf 24 24@2x
+  ln -sf 32 32@2x
+  ln -sf scalable scalable@2x
 
   cd ${dest}
   gtk-update-icon-cache ${name}${color}${bright}
@@ -119,7 +126,7 @@ while [[ $# -gt 0 ]]; do
       name="${2}"
       shift 2
       ;;
-    -all)
+    -a|--all)
       all="true"
       ;;
     -black)
