@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.1739 0 0 1.1739 3.8261 -14.957)" stroke-width=".85185">
+  <g stroke-width=".85185">
+   <g transform="translate(0,16)">
+    <path d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" fill="#383838" stroke-width=".85185"/>
+   </g>
+   <g transform="translate(0,16)">
+    <g stroke-width=".85185">
+     <g transform="translate(1,1)" stroke-width=".85185">
+      <g opacity=".1" stroke-width=".85185">
+       <g stroke-width=".85185">
+        <path d="m16.5 11h2v1.996h-2"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(1,16)">
+    <g stroke-width=".85185">
+     <g stroke-width=".85185">
+      <path d="m24 19-5 9h10m-3.2-2h-3.6l1.8-3.4" fill="#ff9409"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <path d="m15 26v3h1v1h-2v3h2v14h-2v3h2v0.877h-1l2 3.123 2-3.123h-1v-0.877h9c5.54 0 10-4.46 10-10s-4.46-10-10-10h-9v-1h1v-3zm3 7h9c3.878 0 7 3.122 7 7s-3.122 7-7 7h-9z" fill="#f9f9f9"/>
+ </g>
+</svg>
