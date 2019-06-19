@@ -9,7 +9,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |:--------------------|:-------------|
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
 |-n, --name           | Specify theme name (Default: Tela)|
-|-all                 | Install all color folder versions|
+|-a, --all            | Install all color folder versions|
 |-black               | Black color folder version|
 |-blue                | Blue color folder version|
 |-brown               | Brown color folder version|
