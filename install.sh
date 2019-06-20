@@ -150,6 +150,9 @@ while [[ $# -gt 0 ]]; do
     -pink)
       color="-pink"
       ;;
+    -purple)
+      color="-purple"
+      ;;
     -red)
       color="-red"
       ;;
