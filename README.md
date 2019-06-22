@@ -11,7 +11,6 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
 |-n, --name           | Specify theme name (Default: Tela)|
 |-a, --all            | Install all color folder versions|
-|  COLOR VARIANTS     | |
 |-black               | Black color folder version|
 |-blue                | Blue color folder version|
 |-brown               | Brown color folder version|
