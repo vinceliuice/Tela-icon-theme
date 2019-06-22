@@ -6,27 +6,6 @@ A flat colorful Design icon theme
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
-|  OPTIONS: |                                                             |
-|:----------|:------------------------------------------------------------|
-| -d        | Specify theme destination directory (Default: $HOME/.themes)|
-| -n        | Specify theme name (Default: Tela)                          |
-| -h        | Show this help                                              |
-
-|  COLOR VARIANTS |                                                             |
-|:----------------|:------------------------------------------------------------|
-| black           | Black color folder version                                  |
-| blue            | Blue color folder version                                   |
-| brown           | Brown color folder version                                  |
-| green           | Green color folder version                                  |
-| grey            | Grey color folder version                                   |
-| orange          | Orange color folder version                                 |
-| pink            | Pink color folder version                                   |
-| purple          | Purple color folder version                                 |
-| red             | Red color folder version                                    |
-| yellow          | yellow color folder version                                 |
-| manjaro         | Manjaro default color folder version                        |
-| ubuntu          | Ubuntu default color folder version                         |
-
 |  OPTIONS:           | |
 |:--------------------|:-------------|
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
