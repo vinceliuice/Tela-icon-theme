@@ -17,6 +17,7 @@ usage() {
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
+  printf "  %-25s%s\n"   "-a ALL"   "install all color folder versions"
   printf "  %-25s%s\n"   "-h"       "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
@@ -42,6 +43,8 @@ install_theme() {
 
   local -r THEME_NAME="${NAME}${color}${bright}"
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
+
+  [[ -d ${THEME_DIR} ]] && rm -rf ${THEME_DIR}
 
   echo "Installing '${THEME_NAME}'..."
 
@@ -110,6 +113,8 @@ while [ $# -gt 0 ]; do
   elif [[ "$1" = "-n" ]]; then
     NAME="$2"
     shift 2
+  elif [[ "$1" = "-a" ]]; then
+    all="true"
   # If the argument is a color variant, append it to the colors to be installed
   elif [[ "${COLOR_VARIANTS[*]}" =~ "$1" ]]; then
     colors+=("$1")
@@ -130,9 +135,25 @@ done
 # Default name is 'Tela'
 : "${NAME:=Tela}"
 
+install_one() {
 # By default, only the standard color variant is selected
 for color in "${colors[@]:-}"; do
   for bright in "${BRIGHT_VARIANTS[@]}"; do
     install_theme "${color}" "${bright}"
   done
 done
+}
+
+install_all() {
+for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
+  for bright in "${brights[@]-${BRIGHT_VARIANTS[@]}}"; do
+    install_theme "${color}" "${bright}"
+  done
+done
+}
+
+if [[ "${all}" == 'true' ]]; then
+  install_all
+  else
+  install_one
+fi

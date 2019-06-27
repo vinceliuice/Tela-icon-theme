@@ -10,6 +10,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 |:----------|:-------------------------------------------------------------|
 | -d        | Specify theme destination directory (Default: $HOME/.themes) |
 | -n        | Specify theme name (Default: Tela)                           |
+| -a        | Install all color versions                                   |
 | -h        | Show this help                                               |
 
 |  COLOR VARIANTS |                                       |
