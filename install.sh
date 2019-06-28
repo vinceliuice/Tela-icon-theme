@@ -48,7 +48,7 @@ install_theme() {
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
   if [ -d "${THEME_DIR}" ]; then
-      rm -r "${THEME_DIR}"
+    rm -r "${THEME_DIR}"
   fi
 
   echo "Installing '${THEME_NAME}'..."
@@ -74,6 +74,12 @@ install_theme() {
     cp -r "${SRC_DIR}"/src/16/{actions,devices,places}                           "${THEME_DIR}/16"
     cp -r "${SRC_DIR}/src/22/actions"                                            "${THEME_DIR}/22"
     cp -r "${SRC_DIR}/src/24/actions"                                            "${THEME_DIR}/24"
+
+    cd ${THEME_DIR}/16/actions && sed -i "s/565656/aaaaaa/g" `ls`
+    cd ${THEME_DIR}/16/devices && sed -i "s/565656/aaaaaa/g" `ls`
+    cd ${THEME_DIR}/16/places && sed -i "s/727272/aaaaaa/g" `ls`
+    cd ${THEME_DIR}/22/actions && sed -i "s/565656/aaaaaa/g" `ls`
+    cd ${THEME_DIR}/24/actions && sed -i "s/565656/aaaaaa/g" `ls`
 
     cp -r "${SRC_DIR}"/links/16/{actions,devices,places}                         "${THEME_DIR}/16"
     cp -r "${SRC_DIR}/links/22/actions"                                          "${THEME_DIR}/22"
