@@ -47,10 +47,6 @@ install_theme() {
   local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
-  if [ ! -d "${DEST_DIR}" ]; then
-    install -d "${DEST_DIR}"
-  fi
-
   if [ -d "${THEME_DIR}" ]; then
     rm -r "${THEME_DIR}"
   fi
@@ -58,7 +54,6 @@ install_theme() {
   echo "Installing '${THEME_NAME}'..."
 
   install -d "${THEME_DIR}"
-
   install -m644 "${SRC_DIR}/src/index.theme"                                     "${THEME_DIR}"
 
   # Update the name in index.theme
