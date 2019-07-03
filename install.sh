@@ -47,6 +47,10 @@ install_theme() {
   local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
+  if [ ! -d "${DEST_DIR}" ]; then
+    install -d ${DEST_DIR}
+  fi
+
   if [ -d "${THEME_DIR}" ]; then
     rm -r "${THEME_DIR}"
   fi
@@ -135,11 +139,6 @@ while [ $# -gt 0 ]; do
 
   shift
 done
-
-if [ ! -d "${DEST_DIR}" ]; then
-  echo "ERROR: Destination does not exist or is not a directory."
-  exit 1
-fi
 
 # Default name is 'Tela'
 : "${NAME:=Tela}"
