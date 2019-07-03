@@ -48,7 +48,7 @@ install_theme() {
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
   if [ ! -d "${DEST_DIR}" ]; then
-    install -d ${DEST_DIR}
+    install -d "${DEST_DIR}"
   fi
 
   if [ -d "${THEME_DIR}" ]; then
