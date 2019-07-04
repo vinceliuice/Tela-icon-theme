@@ -54,16 +54,12 @@ Type=Fixed
 [16/status]
 Context=Status
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16/panel]
 Context=Status
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16/places]
 Context=Places
@@ -91,9 +87,7 @@ Type=Fixed
 [22/panel]
 Context=Status
 Size=22
-MinSize=22
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 # 24x24
 [24/actions]
@@ -104,9 +98,7 @@ Type=Fixed
 [24/panel]
 Context=Status
 Size=24
-MinSize=24
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [24/animations]
 Context=Animations
@@ -243,17 +235,13 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16@2x/panel]
 Context=Status
 Scale=2
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16@2x/places]
 Context=Places
@@ -286,9 +274,7 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=22
-MinSize=22
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 # 24x24
 [24@2x/actions]
@@ -301,9 +287,7 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=24
-MinSize=24
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [24@2x/animations]
 Context=Animations

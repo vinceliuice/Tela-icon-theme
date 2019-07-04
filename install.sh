@@ -54,6 +54,7 @@ install_theme() {
   echo "Installing '${THEME_NAME}'..."
 
   install -d "${THEME_DIR}"
+
   install -m644 "${SRC_DIR}/src/index.theme"                                     "${THEME_DIR}"
 
   # Update the name in index.theme
