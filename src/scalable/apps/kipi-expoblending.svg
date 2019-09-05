@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <path id="e" d="m410.57 528.8-1.996-10h12z" fill="#feb70d" stroke-linejoin="bevel"/>
+ </defs>
+ <g transform="matrix(1.2727 0 0 1.2727 -488 -637.2)">
+  <g stroke-linejoin="round" stroke-width="2">
+   <path d="m387.57 508.8h41.999v34h-41.999z" fill="#35383b"/>
+   <path d="m386.57 507.73v36.143h44v-36.143zm2 2.0079h40v32.127h-40z" fill="#d3d9dc" stroke-width="2.004"/>
+  </g>
+  <g transform="translate(0,-3)">
+   <g transform="translate(20)">
+    <g transform="translate(-34,9.999)">
+     <path d="m410.57 528.8 4.14-5.64 5.86-4.36 2 10z" fill="#6af804" fill-rule="evenodd"/>
+     <use width="100%" height="100%" xlink:href="#e"/>
+    </g>
+    <path d="m376.58 538.8-2-10h12l1.994 10z" fill="#fff" fill-opacity=".353" stroke-linejoin="bevel"/>
+   </g>
+   <g transform="translate(-7,4.999)">
+    <path d="m410.57 528.8 3.751-6.06 6.249-3.936 2 10z" fill="#6af804" fill-rule="evenodd"/>
+    <use width="100%" height="100%" xlink:href="#e"/>
+   </g>
+   <g fill-rule="evenodd">
+    <path d="m410.57 528.8 4.627-5.577 5.373-4.423 2 10z" fill="#6af804"/>
+   </g>
+   <use width="100%" height="100%" xlink:href="#e"/>
+   <path d="m410.57 528.8-1.996-10h12l1.994 10z" fill-opacity=".353" stroke-linejoin="bevel"/>
+  </g>
+ </g>
+</svg>
