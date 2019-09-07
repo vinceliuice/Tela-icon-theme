@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient852" x1="10.435" x2="8.0869" y1="13.075" y2="9.3045" gradientTransform="matrix(1.3719,0,0,1.3797,-3.1598,-2.9359)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#975c25" offset="0"/>
+   <stop stop-color="#975c25" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient860" x1="13" x2="10.776" y1="9.8601" y2="6.7705" gradientTransform="matrix(1.3719,0,0,1.3797,-3.1598,-2.9359)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5d3417" offset="0"/>
+   <stop stop-color="#5d3417" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m11.898 4.1233s0.50014-0.45345 0.91522-0.74446c0.41508-0.29102 1.0231-0.62411 1.5641-0.51039 0.54108 0.11372 0.98122 0.83439 0.76431 1.2549-0.21692 0.42046-0.6051-0.09113-1.1788-0.060429-0.57373 0.030698-1.4202 0.97061-1.4202 0.97061z" fill="#9b5a2d" style="paint-order:normal"/>
+ <path d="m12.531 5.6213c1.4173 2.2758 2.4698 5.3903-1.5393 7.9156-4.0091 2.5253-8.2738 0.4092-8.8737-0.77324-0.94365-1.86-0.28658-7.0347 3.6649-9.6503 2.6006-1.7213 5.0257-0.21635 6.4431 2.0593z" fill="#e6b260" stroke-width="1.3758" style="paint-order:normal"/>
+ <path d="m8.8207 2.4264c0.64359 0.4762 1.2008 1.0701 1.6106 1.7282 1.4173 2.2758 2.0572 5.7852-1.9519 8.3105-1.9914 1.2544-4.0449 1.3619-5.682 1.0092 1.4803 1.0919 4.9211 2.1243 8.1945 0.06239 4.0091-2.5253 3.3692-6.034 1.9519-8.3098-0.88542-1.4216-2.4439-2.5633-4.1232-2.8007z" fill="url(#linearGradient852)" opacity=".5" stroke-width="1.3758" style="paint-order:stroke markers fill"/>
+ <path d="m12.944 5.2267c1.6267 2.448 1.6695 5.6035 0.16099 7.2957-0.14763 0.16562-0.79163 0.17183-0.76582-0.08124 0.02803-0.27493 0.28549-0.73382 0.15124-1.188-0.25336-0.85714-0.4262-1.2207-0.96617-2.1057-0.46333-0.75933-1.2058-1.965-1.6397-2.5476-0.66982-0.89943-1.7831-2.1641-3.0106-3.2114-0.37969-0.32398-0.81142-0.16632-1.0928-0.32279-0.2192-0.1219-0.15754-0.39898 0.078485-0.48817 2.9143-1.1012 5.6009 0.41656 7.0845 2.6492z" fill="#a46941" style="paint-order:normal"/>
+ <path d="m13.081 5.4491c0.07436 1.3204-0.50491 3.1984-1.7541 3.3785 0.06219 0.10143 0.1425 0.22921 0.19775 0.31976 0.53998 0.88495 0.71288 1.2486 0.96626 2.1057 0.13425 0.45418-0.12318 0.91284-0.15122 1.1878-0.02581 0.25306 0.61855 0.2475 0.76618 0.08188 1.4635-1.6418 1.462-4.6594-0.02482-7.0736z" fill="url(#linearGradient860)" opacity=".75" stroke-width="1.3758" style="paint-order:stroke markers fill"/>
+</svg>
