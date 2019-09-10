@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="currentColor"><path d="M2 4v16h16v-7.5l-2 2V18H4V6h12v3l2-2V4H2z" color="#dfdfdf"/><path d="M20.35 6.07l-7.025 7.135-4.942-5-1.385 1.404 4.944 5.002 1.37 1.39 1.384-1.406 7.027-7.134-1.373-1.39z" color="#5294e2"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g>
+  <path d="M2 4v16h16v-7.5l-2 2V18H4V6h12v3l2-2V4H2z" color="#dfdfdf" fill="#dfdfdf"/>
+  <path d="m20.35 6.07-7.025 7.135-4.942-5-1.385 1.404 4.944 5.002 1.37 1.39 1.384-1.406 7.027-7.134-1.373-1.39z" color="#5294e2" fill="#2b8de8"/>
+ </g>
+</svg>
