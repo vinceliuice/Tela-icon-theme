@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="18.662" x2="58" y1="32" y2="32" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <rect x="1.587" y="284.3" width="13.758" height="8.467" ry=".529" fill="#666" paint-order="markers stroke fill"/>
+  <rect x="2.91" y="285.36" width="1.587" height="1.323" ry=".265" fill="#fff" paint-order="markers stroke fill"/>
+  <path d="m5.5561 285.09c-0.28881 0-0.53125 0.24244-0.53125 0.53125v0.79297c0 0.28881 0.24244 0.52929 0.53125 0.52929h1.0566c0.28881 0 0.5293-0.24048 0.5293-0.52929v-0.79297c0-0.28881-0.24049-0.53125-0.5293-0.53125zm0 0.5293h1.0566v2e-3 0.79297h-1.0566-0.00195v-0.79297s0.00195-2e-3 0.00195-2e-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ff8080" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <g fill="#fff">
+   <rect x="5.292" y="285.36" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+   <rect x="7.673" y="285.36" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+   <rect x="10.319" y="285.36" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+   <rect x="12.7" y="285.36" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+  </g>
+  <path d="m3.1758 287.47c-0.28881 0-0.53125 0.24244-0.53125 0.53125v0.79297c0 0.28881 0.24244 0.52929 0.53125 0.52929h1.0566c0.28881 0 0.5293-0.24048 0.5293-0.52929v-0.79297c0-0.28881-0.24049-0.53125-0.5293-0.53125zm0 0.5293h1.0566v2e-3 0.79297h-1.0566-0.00195v-0.79297s0.00195-2e-3 0.00195-2e-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ff8080" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <rect x="2.91" y="287.74" width="1.587" height="1.323" ry=".265" fill="#fff" paint-order="markers stroke fill"/>
+  <path d="m5.5561 287.47c-0.28881 0-0.53125 0.24244-0.53125 0.53125v0.79297c0 0.28881 0.24244 0.52929 0.53125 0.52929h1.0566c0.28881 0 0.5293-0.24048 0.5293-0.52929v-0.79297c0-0.28881-0.24049-0.53125-0.5293-0.53125zm0 0.5293h1.0566v2e-3 0.79297h-1.0566-0.00195v-0.79297s0.00195-2e-3 0.00195-2e-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ff8080" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <g fill="#fff">
+   <rect x="5.292" y="287.74" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+   <rect x="7.673" y="287.74" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+   <rect x="10.319" y="287.74" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+   <rect x="12.965" y="287.74" width="1.587" height="1.323" ry=".265" paint-order="markers stroke fill"/>
+   <rect x="5.292" y="290.11" width="6.35" height="1.323" ry=".271" paint-order="markers stroke fill"/>
+  </g>
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M49.346 16a40 40 0 0 1-30.684 32H56c1.108 0 2-.892 2-2V18c0-1.108-.892-2-2-2h-6.654z" fill="url(#b)" opacity=".25" paint-order="markers stroke fill"/>
+  <circle cx="13.229" cy="290.65" r="3.175" fill="#999"/>
+  <path d="M12.753 288.745l-.042.502a1.497 1.497 0 0 0-.438.253l-.456-.215-.476.825.414.287a1.497 1.497 0 0 0-.023.253 1.497 1.497 0 0 0 .022.254l-.413.286.476.825.455-.214a1.497 1.497 0 0 0 .439.251l.042.503h.952l.042-.502a1.497 1.497 0 0 0 .438-.253l.456.215.476-.825-.414-.288a1.497 1.497 0 0 0 .023-.252 1.497 1.497 0 0 0-.022-.254l.413-.286-.476-.825-.455.214a1.497 1.497 0 0 0-.439-.251l-.042-.503zm.476 1.27a.635.635 0 0 1 .635.635.635.635 0 0 1-.635.635.635.635 0 0 1-.635-.635.635.635 0 0 1 .635-.635z" fill="#fff"/>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="47" x2="59.998" y1="41" y2="53.978" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-color="#242424" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.99996 0 0 .99998 4.4628e-5 .53578)">
+  <path d="m1.851 1.581h13.23c0.43935 0 0.79305 0.35689 0.79305 0.8002v11.1c0 0.44331-0.3537 0.8002-0.79305 0.8002h-13.23c-0.43935 0-0.79305-0.35689-0.79305-0.8002v-11.1c0-0.44331 0.3537-0.8002 0.79305-0.8002z" fill="#4d4d4d"/>
+  <rect x="5.292" y="8.99" width="4.233" height=".529" ry=".265" fill="#55c66e" style="paint-order:stroke markers fill"/>
+  <path d="m3.973 4.19a0.264 0.264 0 0 0-0.262 0.13 0.264 0.264 0 0 0 0.097 0.362l2.842 1.64-2.842 1.641a0.264 0.264 0 0 0-0.097 0.362c0.074 0.127 0.235 0.17 0.362 0.097l3.207-1.852a0.26 0.26 0 0 0 0.127-0.225c2e-3 -8e-3 1e-3 -0.015 2e-3 -0.022 0-8e-3 0-0.015-2e-3 -0.023a0.26 0.26 0 0 0-0.127-0.224l-3.207-1.853a0.266 0.266 0 0 0-0.1-0.033z" fill="#55c66e" style="paint-order:stroke markers fill"/>
+  <path d="m15.875 8.944-5.337 5.337h4.767c0.316 0 0.57-0.238 0.57-0.535z" fill="url(#a)" opacity=".15"/>
+ </g>
+</svg>

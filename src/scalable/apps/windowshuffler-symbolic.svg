@@ -1,0 +1,25 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="46.168" x2="46.168" y1="57" y2="27.346" gradientTransform="matrix(.26458 0 0 .26458 0 280.07)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <g transform="matrix(1.04 0 0 1.04 -.339 -11.541)" stroke-width=".962" paint-order="markers stroke fill">
+   <rect x="1.852" y="281.92" width="13.229" height="13.229" rx=".794" ry=".794" fill="#4d4d4d"/>
+   <path d="M15.081 287.302a11.906 11.906 0 0 1-5.732 7.846h4.938c.44 0 .794-.354.794-.794z" fill="url(#b)" opacity=".25"/>
+  </g>
+  <g fill="#fff">
+   <rect x="2.91" y="282.98" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="6.879" y="282.98" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="10.848" y="282.98" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="2.91" y="286.95" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="6.879" y="286.95" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="10.848" y="286.95" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="2.91" y="290.92" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="6.879" y="290.92" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+   <rect x="10.848" y="290.92" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
+  </g>
+ </g>
+</svg>

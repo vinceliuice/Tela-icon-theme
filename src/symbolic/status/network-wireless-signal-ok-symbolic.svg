@@ -5,7 +5,7 @@
    <feBlend in2="BackgroundImage" mode="darken"/>
   </filter>
  </defs>
- <g transform="translate(-385 615)" fill="#4d4d4d">
+ <g transform="translate(-385 615)" fill="#555555">
   <path d="m385-610.68c4.4183-4.4157 11.582-4.4157 16 0l-8 9.6872z" opacity=".35"/>
   <path d="m388.08-606.96c2.7192-2.7176 7.1278-2.7176 9.847 0l-4.9235 5.9618z"/>
  </g>
