@@ -1,10 +1,4 @@
-<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
- <title>Paper Symbolic Icon Theme</title>
- <defs>
-  <filter color-interpolation-filters="sRGB">
-   <feBlend in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-365 251)">
   <g transform="translate(346.25 -247.5)" enable-background="new">
    <g transform="matrix(.52112 0 0 .52112 20.768 5.3453)" fill="#fff">

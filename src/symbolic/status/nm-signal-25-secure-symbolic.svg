@@ -1,5 +1,4 @@
-<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <title>Paper Symbolic Icon Theme</title>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-405 615)" fill="#555">
   <path transform="translate(405,-615)" d="m8 1.0078c-2.8955 0-5.7908 1.1046-8 3.3125l8 9.6875 1-1.2109v-1.7969h1.0137c0.019481-1.6206 1.3205-2.972 2.9434-2.9961l3.043-3.6836c-2.209-2.2078-5.1045-3.3125-8-3.3125z" opacity=".3"/>
   <path transform="translate(405,-615)" d="m8.002 8.002c-1.3365 0-2.6717 0.50824-3.6914 1.5273l3.6914 4.4727 0.99805-1.209v-1.793h1.0137c0.009864-0.82056 0.34851-1.5731 0.89062-2.1191-0.87507-0.58557-1.8893-0.87891-2.9023-0.87891z"/>
