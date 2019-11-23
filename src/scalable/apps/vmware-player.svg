@@ -1,0 +1,21 @@
+<svg id="App-Store" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="c">
+   <g transform="translate(0 -1004.4)">
+    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#1890d0"/>
+   </g>
+  </clipPath>
+ </defs>
+ <g transform="translate(1 -.9999)">
+  <circle cx="31" cy="33" r="27" fill="#ffbc01" stroke-width=".9"/>
+  <g transform="matrix(1.413 0 0 1.413 -63.384 -8.3311)" fill-opacity=".70161" stroke-width=".76667">
+   <g transform="translate(42.795 5.8958)" fill-opacity=".70161" stroke-width=".76667">
+    <g clip-path="url(#c)" fill-opacity=".70161" stroke-width=".76667">
+     <g stroke-width=".76667">
+      <path d="m15.002 12.555c-0.9 0-1.8 0.9-1.8 1.8v6.3c0 0.9 0.9 1.8 1.8 1.8s1.8-0.9 1.8-1.8v-2.7l1.8 1.8v2.7h2.7v-0.9c-0.0279-0.5976 0.2709-0.8964 0.9-0.9h0.9v-2.7h-2.7l-1.8-1.8h2.7c0.9 0 1.8-0.9 1.8-1.8s-0.9-1.8-1.8-1.8m5.4 0c-0.9 0-1.8 0.9-1.8 1.8s0.9 1.8 1.8 1.8h2.7l-1.8 1.8h-2.7v2.7h0.9c0.5976-0.0279 0.8964 0.2709 0.9 0.9v0.9h2.7v-2.7l1.8-1.8v2.7c0 0.9 0.9 1.8 1.8 1.8s1.8-0.9 1.8-1.8v-6.3c0-0.9-0.9-1.8-1.8-1.8m-14.4 11.7v2.7c0 0.9 0.9 1.8 1.8 1.8h2.7v-2.7h-0.9c-0.5976 0.0279-0.8964-0.2709-0.9-0.9v-0.9m5.4 0v0.9c0.0279 0.5976-0.2709 0.8964-0.9 0.9h-0.9v2.7h2.7l1.8 1.8h-2.7c-0.9 0-1.8 0.9-1.8 1.8s0.9 1.8 1.8 1.8h6.3c0.9 0 1.8-0.9 1.8-1.8v-6.3c0-0.9-0.9-1.8-1.8-1.8s-1.8 0.9-1.8 1.8v2.7l-1.8-1.8v-2.7" fill-opacity=".70161" stroke-width=".69"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
