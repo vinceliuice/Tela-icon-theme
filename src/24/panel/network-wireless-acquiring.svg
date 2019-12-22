@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf}</style></defs><path class="ColorScheme-Text" d="M9 12a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2zM14 12a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2zM19 12a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z" fill="currentColor"/><path class="ColorScheme-Text" d="M12 5C8.95 5 6.08 6.073 4 8l.727 1h14.546L20 8c-2.081-1.927-4.949-3-8-3zM9.092 15L12 19l2.908-4z" opacity=".3" fill="currentColor"/></svg>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf}</style>
+ </defs>
+ <g transform="translate(4,3.998)" color="#000000" fill="#dfdfdf">
+  <path d="m8.031 2.002c-3.034 0-5.766 1.078-8.031 2.75l0.232 0.254h15.51l0.258-0.286c-2.257-1.653-4.958-2.718-7.969-2.718zm-2.29 9.004 2.29 2.496 2.266-2.496h-4.557z" opacity=".35" overflow="visible"/>
+  <path d="m3.029 6.002c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2z" overflow="visible"/>
+ </g>
+</svg>
