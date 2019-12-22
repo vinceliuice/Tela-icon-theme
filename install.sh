@@ -116,10 +116,10 @@ while [ $# -gt 0 ]; do
     colors=("${COLOR_VARIANTS[@]}")
   elif [[ "$1" = "-d" ]]; then
     DEST_DIR="$2"
-    shift 2
+    shift
   elif [[ "$1" = "-n" ]]; then
     NAME="$2"
-    shift 2
+    shift
   elif [[ "$1" = "-h" ]]; then
     usage
     exit 0
