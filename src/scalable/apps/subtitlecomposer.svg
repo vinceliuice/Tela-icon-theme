@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#f2f2f2 }</style>
+  <style type="text/css">.ColorScheme-Text { color:#f2f2f2 }</style>
+  <style type="text/css">.ColorScheme-Text { color:#f2f2f2 }</style>
+ </defs>
+ <g transform="matrix(.96296 0 0 .96296 2.1481 .22222)" stroke-width="1.0385">
+  <rect x="4" y="6" width="54" height="54" rx="1.35" ry="1.35" color="#000000" color-rendering="auto" fill="#0c96df" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-linejoin="round" stroke-width=".51923" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m5.35 6c-0.74791 0-1.35 0.60209-1.35 1.35v51.3c0 0.74791 0.60209 1.35 1.35 1.35h6.75v-10.8h37.8v10.8h6.75c0.7479 0 1.35-0.60209 1.35-1.35v-51.3c0-0.74791-0.6021-1.35-1.35-1.35h-1.35v2.7h-2.7v-2.7h-2.7v10.8h-37.8v-10.8h-2.7v2.7h-2.7v-2.7zm1.35 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm5.4-2.7h37.8v27h-37.8v-24.3zm40.5 2.7h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7zm-45.9 5.4h2.7v2.7h-2.7zm45.9 0h2.7v2.7h-2.7z" opacity=".5" stroke-linejoin="round" stroke-width=".51923"/>
+  <path d="m36.4 19.5-16.189 16.189h-0.0054v5.4135h5.4135v-0.0054l16.189-16.189-0.0027-0.0027 0.0027-0.0027-5.4-5.4-0.0027 0.0027zm-2.6973 4.6062 3.4965 3.4965-10.244 10.244v-2.1465h-2.7v-2.1465zm-10.797 10.797v2.1465h2.7v2.1465l-0.5535 0.5535h-2.1465l-1.35-1.35v-2.1465zm6.75 4.8465-1.35 1.35h13.5v-1.35z" color="#000000" color-rendering="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.0385" style="isolation:auto;mix-blend-mode:normal"/>
+  <rect x="22.9" y="42.45" width="16.2" height="1.35" rx="0" ry="1.35" color="#000000" color-rendering="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.0784" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>

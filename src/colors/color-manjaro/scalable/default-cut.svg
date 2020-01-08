@@ -1,0 +1,31 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <clipPath id="b">
+   <rect transform="rotate(45)" x=".52917" y="285.36" width="15.875" height="9.525" ry=".52916" fill="#4d4d4d" style="paint-order:markers stroke fill"/>
+  </clipPath>
+  <linearGradient id="a" x1="-197.1" x2="-196.91" y1="217.68" y2="219.37" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+ </defs>
+ <g opacity=".5">
+  <path d="m3.0692 7.0911c-0.17589 0-0.23664 0.1613-0.3175 0.3175h-0.47625c-0.1759 0-0.3175 0.1416-0.3175 0.3175v3.175c0 0.17589 0.1416 0.3175 0.3175 0.3175h7.62c0.1759 0 0.3175-0.14161 0.3175-0.3175v-3.175c0-0.1759-0.1416-0.3175-0.3175-0.3175h-4.2862c-0.09322-0.14915-0.14161-0.3175-0.3175-0.3175z" fill="#4d4d4d" opacity="1" style="paint-order:markers stroke fill"/>
+  <path transform="scale(.26458)" d="m11.6 26.801c-0.66479 0-0.89359 0.60886-1.1992 1.1992h-1.8008c-0.6648 0-1.1992 0.53635-1.1992 1.2012v4.1992h13.701l0.69922-1.1992c0.33498-0.57426 0.53441-1.2012 1.1992-1.2012h15.6v-1.7988c0-0.66482-0.53441-1.2012-1.1992-1.2012h-16.199c-0.35233-0.56372-0.53639-1.1992-1.2012-1.1992h-8.4004z" fill="#16a085" opacity=".72" style="paint-order:markers stroke fill"/>
+  <path transform="scale(.26458)" d="m9.8008 29.801c-0.33242 0-0.59961 0.26719-0.59961 0.59961v3h11.9l0.69922-1.1992c0.33498-0.57426 0.53441-1.2012 1.1992-1.2012h13.801v-0.59961c0-0.33242-0.26719-0.59961-0.59961-0.59961h-26.4z" fill="#fff" opacity="1" style="paint-order:markers stroke fill"/>
+  <path transform="scale(.26458)" d="m23 31c-0.66481 0-0.86424 0.62691-1.1992 1.2012l-0.69922 1.1992h-14.9c-0.66479 0-1.2012 0.53638-1.2012 1.2012v19.199c0 0.66479 0.53638 1.1992 1.2012 1.1992h33.6c0.66479 0 1.1992-0.53443 1.1992-1.1992v-12.6-6.5996-2.4004c0-0.66482-0.53441-1.2012-1.1992-1.2012h-16.801z" fill="#16a085" opacity="1" style="paint-order:markers stroke fill"/>
+  <rect x="3.228" y="7.2498" width="1.905" height=".3175" ry=".15875" fill="#07362d" opacity=".22" style="paint-order:stroke markers fill"/>
+  <rect transform="matrix(.42426 -.42426 .42426 .42426 1.0055 -162.38)" x="-199.59" y="217.87" width="5.2917" height="4.7625" ry=".13229" clip-path="url(#b)" fill="url(#a)" opacity=".1" style="paint-order:stroke markers fill"/>
+ </g>
+ <g transform="translate(0 -280.07)">
+  <g>
+   <path d="m8.0962 283.19c-0.17589 0-0.23664 0.1613-0.3175 0.3175h-0.47625c-0.1759 0-0.3175 0.1416-0.3175 0.3175v3.175c0 0.17589 0.1416 0.3175 0.3175 0.3175h7.62c0.1759 0 0.3175-0.14161 0.3175-0.3175v-3.175c0-0.1759-0.1416-0.3175-0.3175-0.3175h-4.2862c-0.09322-0.14915-0.14161-0.3175-0.3175-0.3175z" fill="#4d4d4d" style="paint-order:markers stroke fill"/>
+   <path d="m8.0962 283.19c-0.17589 0-0.23664 0.1613-0.3175 0.3175h-0.47625c-0.1759 0-0.3175 0.1416-0.3175 0.3175v3.175c0 0.17589 0.1416 0.3175 0.3175 0.3175h7.62c0.1759 0 0.3175-0.14161 0.3175-0.3175v-3.175c0-0.1759-0.1416-0.3175-0.3175-0.3175h-4.2862c-0.09322-0.14915-0.14161-0.3175-0.3175-0.3175z" fill="#16a085" opacity=".72" style="paint-order:markers stroke fill"/>
+   <rect x="7.4612" y="283.98" width="7.3025" height="3.0163" ry=".15876" fill="#fff" style="paint-order:markers stroke fill"/>
+   <rect x="6.35" y="284.93" width="9.525" height="5.715" ry=".31749" fill="#16a085" style="paint-order:markers stroke fill"/>
+   <path d="m11.113 284.3h4.445c0.1759 0 0.3175 0.1416 0.3175 0.3175v2.3812c0 0.1759-0.14161 0.3175-0.3175 0.3175h-5.8341c-0.1759 0-0.40613-0.16556-0.3175-0.3175l1.3891-2.3812c0.08863-0.15194 0.14161-0.3175 0.3175-0.3175z" fill="#16a085" style="paint-order:markers stroke fill"/>
+   <rect x="8.255" y="283.35" width="1.905" height=".3175" ry=".15875" fill="#07362d" opacity=".22" style="paint-order:stroke markers fill"/>
+   <rect transform="matrix(.42426 -.42426 .42426 .42426 6.0325 113.72)" x="-199.59" y="217.87" width="5.2917" height="4.7625" ry=".13229" clip-path="url(#b)" fill="url(#a)" opacity=".1" style="paint-order:stroke markers fill"/>
+  </g>
+ </g>
+</svg>

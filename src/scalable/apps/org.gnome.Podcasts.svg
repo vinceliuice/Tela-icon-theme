@@ -1,0 +1,15 @@
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Adwaita Icon Template</title>
+ <g transform="translate(0,-236)">
+  <g>
+   <rect x="2" y="244" width="60" height="48" rx="4.2857" ry="5.0526" enable-background="new" fill="#ed333b"/>
+   <path d="m17 292h30l-2.1429-10h-25.714z" enable-background="new" fill="#5e5c64"/>
+   <path d="m10.333 248h43.333l4.3333 4.5333v29.467h-52v-29.467z" enable-background="new" fill="#f6f5f4"/>
+   <rect x="6" y="257" width="52" height="18" enable-background="new" fill="#424048"/>
+   <circle cx="19" cy="266" r="4" enable-background="new" fill="#f6f5f4"/>
+   <circle cx="45.818" cy="266" r="4" enable-background="new" fill="#f6f5f4"/>
+   <rect x="25" y="262" width="14" height="8" enable-background="new" fill="#949390"/>
+   <path d="m25 262v8h8.222c0.28198-1.2899 0.44153-2.6255 0.44153-4 0-1.3745-0.15955-2.7101-0.44153-4z" enable-background="new" fill="#424048" opacity=".5"/>
+  </g>
+ </g>
+</svg>

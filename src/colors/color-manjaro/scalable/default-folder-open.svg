@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="b">
+   <rect transform="rotate(45)" x=".52917" y="285.36" width="15.875" height="9.525" ry=".52916" fill="#4d4d4d" style="paint-order:markers stroke fill"/>
+  </clipPath>
+  <linearGradient id="a" x1="-197.1" x2="-196.91" y1="217.68" y2="219.37" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <path d="m3.4396 282.45c-0.29315 0-0.39439 0.26884-0.52917 0.52917h-0.79375c-0.29316 0-0.52917 0.236-0.52917 0.52916v5.2917c0 0.29316 0.23601 0.52917 0.52917 0.52917h12.7c0.29316 0 0.52917-0.23601 0.52917-0.52917v-5.2917c0-0.29316-0.23601-0.52916-0.52917-0.52916h-7.1437c-0.15537-0.24859-0.23601-0.52917-0.52917-0.52917z" fill="#16a085" style="paint-order:markers stroke fill"/>
+  <path d="m3.4396 282.45c-0.29315 0-0.39439 0.26884-0.52917 0.52917h-0.79375c-0.29316 0-0.52917 0.236-0.52917 0.52916v5.2917c0 0.29316 0.23601 0.52917 0.52917 0.52917h12.7c0.29316 0 0.52917-0.23601 0.52917-0.52917v-5.2917c0-0.29316-0.23601-0.52916-0.52917-0.52916h-7.1437c-0.15537-0.24859-0.23601-0.52917-0.52917-0.52917z" opacity=".18" style="paint-order:markers stroke fill"/>
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m32 13-9 9h5v9c0 0.55399 0.44601 1 1 1h6c0.55399 0 1-0.44601 1-1v-9h5l-9-9z" fill="#fff" stroke="#000" stroke-opacity=".039216" style="paint-order:stroke markers fill"/>
+  <rect x=".52917" y="287.47" width="15.875" height="7.4083" ry=".52915" fill="#16a085" style="paint-order:markers stroke fill"/>
+  <path d="m8.4667 286.68h7.4083c0.29316 0 0.52917 0.23601 0.52917 0.52917v3.9687c0 0.29316-0.23601 0.52917-0.52917 0.52917h-9.7234c-0.29316 0-0.67689-0.27594-0.52917-0.52917l2.3151-3.9687c0.14772-0.25323 0.23601-0.52917 0.52917-0.52917z" fill="#16a085" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(-45)" x="-199.59" y="217.87" width="5.2917" height="4.7625" ry=".13229" clip-path="url(#b)" fill="url(#a)" opacity=".1" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

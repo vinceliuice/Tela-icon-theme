@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <circle cx="8.4665" cy="288.54" r="7.1436" fill="#00415a" stroke-width=".99995" style="paint-order:stroke markers fill"/>
+  <circle cx="8.4665" cy="288.54" r="5.8207" fill="#fff" opacity=".1" stroke-width=".99995" style="paint-order:stroke markers fill"/>
+ </g>
+ <g transform="matrix(.095363 0 0 .095363 20.133 9.4373)" fill="#fff">
+  <path transform="matrix(2.7744 0 0 2.7744 -211.12 -98.961)" d="m32 16.021a15.982 15.978 0 0 0-15.982 15.979 15.982 15.978 0 0 0 15.982 15.979 15.982 15.978 0 0 0 15.982-15.979 15.982 15.978 0 0 0-15.982-15.979zm0 1.9941a13.988 13.984 0 0 1 13.988 13.984 13.988 13.984 0 0 1-13.988 13.984 13.988 13.984 0 0 1-13.988-13.984 13.988 13.984 0 0 1 13.988-13.984z" opacity=".988" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"/>
+  <path transform="matrix(.62646 0 0 .85194 5468.9 6903.1)" d="m-8925.2-8160.4-54.587 67.21 47.756-19.744 6.8309-2.8217zm0 0 54.587 67.21-47.756-19.744-6.8309-2.8217z" opacity=".988" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"/>
+ </g>
+</svg>

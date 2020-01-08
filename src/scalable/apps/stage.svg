@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-2.0331e-7 -2)">
+  <g transform="translate(0,-1)" stroke-linecap="round" stroke-linejoin="bevel">
+   <rect x="15" y="13" width="34" height="8" fill="#d34148" stroke-width="2.0616"/>
+   <rect x="12" y="15" width="40" height="8" fill="#884ca1" stroke-width="2.052"/>
+   <rect x="9" y="17" width="46" height="9" fill="#15bb91" stroke-width="2"/>
+  </g>
+  <g transform="matrix(1.2273 0 0 1.2273 2.5455 2.0005)" stroke-linejoin="round" stroke-width="1.6296">
+   <g transform="translate(.8148)">
+    <rect transform="matrix(.8148 0 0 .8148 -2.0741 -2.4444)" x="5" y="19" width="51.999" height="38" fill="#1ea5f7" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.9626"/>
+    <path d="m2 14.5v27l25.999-13.5z" fill="#0a87e2" stroke-width="1.5991"/>
+    <path d="m44.369 19.5-42.369 22v2.5h42.369z" fill="#1392f5" stroke-width="1.5991"/>
+   </g>
+   <path d="m19 23 10 5-10 5z" fill="#c5eafd"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="svg18" width="64" height="64" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="budgiewprviews.svg" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <sodipodi:namedview id="namedview20" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg18" inkscape:cx="23.308102" inkscape:cy="30.501343" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="709" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="33" inkscape:zoom="3.6875" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+ <defs id="defs8">
+  <linearGradient id="b" x1="46.168" x2="46.168" y1="57" y2="27.346" gradientTransform="matrix(.26458 0 0 .26458 0 280.07)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" offset="0"/>
+   <stop id="stop4" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g14" transform="matrix(1.04 0 0 1.04 -.339 -291.61)" stroke-width=".962" paint-order="markers stroke fill">
+  <rect id="rect10" x="1.852" y="281.92" width="13.229" height="13.229" rx=".763" ry=".763" fill="#2196f3"/>
+  <path id="path12" d="M15.081 287.302a11.906 11.906 0 0 1-5.732 7.846h4.938c.44 0 .794-.354.794-.794z" fill="url(#b)" opacity=".25"/>
+ </g>
+ <g id="g19" transform="matrix(.22689 0 0 .22689 3.4376 .95828)" fill="#fff">
+  <g id="g894" transform="matrix(.71829 0 0 .71829 2.7912 12.923)">
+   <rect id="rect817" x=".52434" y="14.445" width="16.695" height="12.328" ry="2.6356"/>
+   <rect id="rect817-3" x="19.651" y="14.445" width="16.695" height="12.328" ry="2.6356"/>
+   <rect id="rect817-6" x=".30503" y="29.384" width="16.695" height="12.328" ry="2.6356"/>
+   <rect id="rect817-3-7" x="19.432" y="29.384" width="16.695" height="12.328" ry="2.6356"/>
+  </g>
+  <path id="path869" d="m22.644 14.434a18.658 18.658 0 0 0-12.471 4.8459h6.0381a15.27 15.27 0 0 1 6.436-1.4584 15.27 15.27 0 0 1 15.284 15.253v0.01745a15.27 15.27 0 0 1-15.266 15.27 15.27 15.27 0 0 1-6.4721-1.4591h-6.0433a18.658 18.658 0 0 0 12.516 4.8462 18.658 18.658 0 0 0 18.653-18.657v-0.02116a18.658 18.658 0 0 0-18.674-18.637z" inkscape:connector-curvature="0"/>
+ </g>
+</svg>

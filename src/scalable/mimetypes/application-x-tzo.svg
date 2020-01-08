@@ -1,0 +1,11 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="32.747" x2="32.747" y1="44" y2="17.242" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="6" y="4" width="36" height="40" rx="2" ry="1.905" fill="#96281b" style="paint-order:markers stroke fill"/>
+ <path d="m12 10v2h2.668l1.332-1-1.332-1zm3.332 2-1.332 1 1.332 1h2.668v-2zm-3.332 2v2h2.668l1.332-1-1.332-1zm3.332 2-1.332 1 1.332 1h2.668v-2zm-3.332 2v2h2.668l1.332-1-1.332-1zm3.332 2-1.332 1 1.332 1h2.668v-2zm-3.332 2v2h2.668l1.332-1-1.332-1zm3.332 2-1.332 1 1.332 1h2.668v-2zm-3.332 2v2h2.668l1.332-1-1.332-1zm3.332 2-1.332 1 1.332 1h2.668v-2zm-0.33203 3c-1 0-1 0.62-1 2s-2 4 1 4 1-2.62 1-4 0-2-1-2zm0 3.3652c1.3333 0 1.3333 2 0 2s-1.3333-2 0-2z" fill="#fff" fill-rule="evenodd"/>
+ <path d="m42 17.242a40 40 0 0 1-18.506 26.758h16.506c1.108 0 2-0.85 2-1.904z" fill="url(#a)" opacity=".15" style="paint-order:markers stroke fill"/>
+</svg>

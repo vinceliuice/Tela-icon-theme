@@ -1,6 +1,6 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
-  <circle cx="8.467" cy="288.53" r="6.879" fill="#ec584f"/>
+  <circle cx="8.4665" cy="288.54" r="7.1436" fill="#ec584f"/>
   <g fill="#fff">
    <circle cx="8.467" cy="288.53" r="5.556" opacity=".15"/>
    <rect x="7.408" y="285.62" width="2.117" height="3.175" ry=".265"/>

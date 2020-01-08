@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M2 1c-.554 0-1 .446-1 1s.446 1 1 1h6c.554 0 1-.446 1-1s-.446-1-1-1H2zm3 4c-.554 0-1 .446-1 1s.446 1 1 1h10c.554 0 1-.446 1-1s-.446-1-1-1H5zM1 9c-.554 0-1 .446-1 1s.446 1 1 1h11c.554 0 1-.446 1-1s-.446-1-1-1H1zm2 4c-.554 0-1 .446-1 1s.446 1 1 1h12c.554 0 1-.446 1-1s-.446-1-1-1H3z" opacity=".3" fill="#444"/></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <g transform="translate(-561 243)" fill="#555" stroke-width="2">
+  <path d="m561-240h13c3-1e-5 3 3 3 3h-13s-3-1e-5 -3-3z" color="#555555" opacity=".35"/>
+  <path d="m574-236h-13c-2e-5 3 3 3 3 3h13s0-3-3-3z" color="#555555" opacity=".35"/>
+  <path d="m561-232h13c3-2e-5 3 3 3 3h-13s-3-2e-5 -3-3z" color="#555555" opacity=".35"/>
+ </g>
+</svg>

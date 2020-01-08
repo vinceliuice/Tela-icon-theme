@@ -1,0 +1,15 @@
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <title>Adwaita Icon Template</title>
+ <text x="43.500004" y="13.000002" fill="#000000" font-family="sans-serif" font-size="20px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="43.500004" y="30.695314"/></text>
+ <rect x="6" y="6" width="52" height="52" rx="4" ry="4" enable-background="new" fill="#241f31" style="paint-order:normal"/>
+ <rect x="10" y="10" width="44" height="44" rx="2" ry="2" enable-background="new" fill="#fff" opacity=".15" stroke-width=".91667" style="paint-order:normal"/>
+ <rect x="10" y="22" width="44" height="32" rx="2" ry="2" enable-background="new" fill="#ec8e12" style="paint-order:normal"/>
+ <g fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2">
+  <path d="m17 34v-5h6" enable-background="new"/>
+  <path d="m47 34v-5h-6" enable-background="new"/>
+  <path d="m47 42v5h-6" enable-background="new"/>
+  <path d="m17 42v5h6" enable-background="new"/>
+ </g>
+ <circle cx="49" cy="15" r="3" enable-background="new" fill="#ed333b"/>
+ <rect x="27" y="14" width="10" height="2" fill="#deddda"/>
+</svg>

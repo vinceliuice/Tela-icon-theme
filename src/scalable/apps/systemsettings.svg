@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#4d4d4d; }</style>
+ </defs>
+ <g transform="matrix(1.3 0 0 1.3 .8 -20)" stroke-width=".76923">
+  <rect x="4" y="20" width="40" height="40" rx="2.3077" ry="2.3077" fill="#404448" stroke-width=".76923"/>
+  <g fill-rule="evenodd" shape-rendering="auto">
+   <rect x="9" y="34" width="30" height="2" rx="1" ry=".956" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" opacity=".194" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <path d="m9.9614 33.988c-0.55712 0-1.0056 0.44851-1.0056 1.0056s0.44851 1.0056 1.0056 1.0056h21.056v-2.0113z" color="#000000" color-rendering="auto" fill="#3daee9" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <circle cx="31.972" cy="34.939" r="2.912" color="#000000" color-rendering="auto" fill="#fafafa" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <rect x="9" y="44" width="30" height="2" rx="1" ry=".823" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" opacity=".194" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <path d="m9.9614 43.988c-0.55712 0-1.0056 0.44851-1.0056 1.0056s0.44851 1.0056 1.0056 1.0056h11.056v-2.0113z" color="#000000" color-rendering="auto" fill="#3daee9" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <circle cx="19.972" cy="44.939" r="2.912" color="#000000" color-rendering="auto" fill="#fafafa" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+ </g>
+</svg>

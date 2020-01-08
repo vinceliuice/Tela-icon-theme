@@ -2,6 +2,8 @@
 
 SOURCES:
 numix-icon-theme-circle: https://github.com/numixproject/numix-icon-theme-circle
+papirus-icon-theme: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+paper-icon-theme: https://github.com/snwh/paper-icon-theme
 
 CUSTOMIZER:
 Vince Liuice <vinceliuice@hotmail.com> - Tela icon theme (https://github.com/vinceliuice/Tela-icon-theme)

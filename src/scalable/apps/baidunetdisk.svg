@@ -1,0 +1,21 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" color-interpolation-filters="sRGB">
+   <feColorMatrix result="result7" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
+   <feGaussianBlur result="result6" stdDeviation="5"/>
+   <feComposite in="result6" in2="result7" operator="atop" result="result91"/>
+   <feComposite in2="result91" operator="in"/>
+  </filter>
+ </defs>
+ <rect x="6" y="6" width="52" height="52" rx="3" ry="3" fill="#e6e6e6" stroke="#636d85" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".17647" paint-order="markers stroke fill"/>
+ <rect x="6" y="6" width="52" height="52" rx="3" ry="3" fill="#fafafa" paint-order="markers stroke fill"/>
+ <g transform="matrix(5.8901 0 0 5.8901 -17.848 -18.631)" stroke-width=".64169">
+  <path d="m8.475 6.407a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm6e-3 0.626a0.805 0.805 0 0 1 0.805 0.805 0.805 0.805 0 0 1-0.805 0.805 0.805 0.805 0 0 1-0.805-0.805 0.805 0.805 0 0 1 0.805-0.805z" fill="#1793e6"/>
+  <path d="m10.088 7.937c-0.374 0-0.708 0.148-0.962 0.382l0.408 0.472a0.851 0.851 0 0 1 0.108-0.09 0.716 0.716 0 0 1 0.356-0.127c0.044-4e-3 0.09-2e-3 0.14 0a0.751 0.751 0 0 1 0.663 0.433 0.829 0.829 0 0 1 0.085 0.402v2e-3a0.313 0.313 0 0 0 0.625 0v-0.051a0.893 0.893 0 0 0-4e-3 -0.073l-1e-3 -0.01-1e-3 -0.025h-1e-3a1.421 1.421 0 0 0-1.417-1.315m-3.254-4e-3a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm6e-3 0.626a0.805 0.805 0 0 1 0.804 0.805 0.805 0.805 0 0 1-0.804 0.805 0.805 0.805 0 0 1-0.805-0.805 0.805 0.805 0 0 1 0.805-0.805z" fill="#1793e6"/>
+  <path transform="matrix(.20374 0 0 .20374 5.407 6.407)" d="m6.973 7.471c-0.365 0-0.744 0.04-1.094 0.094a2.842 2.842 0 0 1 1.719 2.594c0 0.16-0.036 0.316-0.063 0.469a3.839 3.839 0 0 1 2.938 2.063c0.791 1.577 0.522 3.357-0.719 4.594 0.962-0.959 2.934-2.702 4.156-3.844-0.512-3.375-3.409-5.969-6.938-5.969z" fill="#f44" filter="url(#a)"/>
+  <path d="m7.452 10.463-0.652 0.026 2.295-2.13 0.41 0.46-1.78 1.653z" fill="#1793e6"/>
+  <circle cx="11.213" cy="10.239" r=".306" fill="#1793e6"/>
+ </g>
+ <rect x="22" y="55" width="10" height="3" rx="0" ry="0" fill="#f44" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <rect x="32" y="55" width="10" height="3" rx="0" ry="0" fill="#1793e6" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+</svg>

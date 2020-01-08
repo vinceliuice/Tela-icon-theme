@@ -1,0 +1,17 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g paint-order="markers stroke fill">
+  <rect x="6" y="4" width="36" height="40" rx="2" ry="1.905" fill="#4040bf"/>
+  <path d="M42 17.242A40 40 0 0 1 23.494 44H40c1.108 0 2-.85 2-1.904z" fill="url(#a)" opacity=".15"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1="32.747" x2="32.747" y1="44" y2="17.242" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill="#fff">
+  <path d="m12.996 14.002a0.998 0.998 0 0 0-0.99414 1.002v9.9961c0 0.547 0.44614 1.002 0.99414 1.002h8.0039v-1.002h-4.998v-9.998l10 2e-3v4.998h4v-4.9981c0-0.547-0.44614-1.002-0.99414-1.002zm0.0039 1h2.002v1h-2v2h2v1h-2v-1zm14.002 2e-3h2v0.99805h-2zm-8 2.998v4l2.0195-1.0098c0.05534-0.5548 0.49002-0.99023 1.041-0.99023h0.93945zm8 0h2v1h-2zm-14 3h2v1h-2zm0 3h2v0.99805h-2z" fill-rule="evenodd"/>
+  <path d="m23 21.002c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-8c0-0.554-0.446-1-1-1zm1 3h12v1h-12zm0 2h12v1h-12zm0 2h8v1h-8z" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path d="m24 34.002 1-5h4z"/>
+ </g>
+</svg>
