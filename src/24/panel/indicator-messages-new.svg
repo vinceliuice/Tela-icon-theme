@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs>
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,7 +10,7 @@
   </rdf:RDF>
  </metadata>
  <g transform="translate(1 1)" fill="#dfdfdf">
-  <path d="m14.837 4.374a1 1 0 0 1 0.311 1.45 4.987 4.987 0 0 1 1.019 6.246l-2.25 3.897 0.732 2.732-0.25 0.433-10.392-6-1.733-1 0.25-0.433 2.732-0.732 2.25-3.896a4.987 4.987 0 0 1 5.92-2.241 1 1 0 0 1 1.41-0.455zm-5.503 12.99a2 2 0 0 1-1.997 0 1.999 1.999 0 0 1-0.998-1.73z" color="#dfdfdf"/>
-  <circle cx="18" cy="16" r="2" color="#5294e2"/>
+  <path d="m14.837 4.374a1 1 0 0 1 0.311 1.45 4.987 4.987 0 0 1 1.019 6.246l-2.25 3.897 0.732 2.732-0.25 0.433-10.392-6-1.733-1 0.25-0.433 2.732-0.732 2.25-3.896a4.987 4.987 0 0 1 5.92-2.241 1 1 0 0 1 1.41-0.455zm-5.503 12.99a2 2 0 0 1-1.997 0 1.999 1.999 0 0 1-0.998-1.73z" class="ColorScheme-Text"/>
+  <circle cx="18" cy="16" r="2" class="ColorScheme-Highlight"/>
  </g>
 </svg>
