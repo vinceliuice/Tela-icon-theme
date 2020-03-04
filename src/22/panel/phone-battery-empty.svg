@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs>
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,7 +10,7 @@
   </rdf:RDF>
  </metadata>
  <g fill="#dfdfdf">
-  <path d="M11 3c-1 0-1 1-1 1v14s0 1 1 1h8c1 0 1-1 1-1V4s0-1-1-1zm1 2.003h6v11h-6z" color="#dfdfdf"/>
-  <path d="M3.5 3c-.277 0-.5.223-.5.5V4l-2-.002v14.501c0 .277.223.5.5.5h6c.277 0 .5-.223.5-.5V4L7.5 4H6v-.5c0-.277-.223-.5-.5-.5z" color="#5294e2" opacity=".3"/>
+  <path d="M11 3c-1 0-1 1-1 1v14s0 1 1 1h8c1 0 1-1 1-1V4s0-1-1-1zm1 2.003h6v11h-6z" class="ColorScheme-Text"/>
+  <path d="M3.5 3c-.277 0-.5.223-.5.5V4l-2-.002v14.501c0 .277.223.5.5.5h6c.277 0 .5-.223.5-.5V4L7.5 4H6v-.5c0-.277-.223-.5-.5-.5z" class="ColorScheme-Highlight" opacity=".3"/>
  </g>
 </svg>
