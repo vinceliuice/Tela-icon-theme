@@ -1,1 +1,8 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs><path d="M2 1S0 1 0 3.062V13c0 2 2 2 2 2h12c2 0 2-2 2-2V3s0-2-2-2zm0 2h2v4h1V3h2v10H5V9H4C2 9 2 7 2 7zm8 0h2c2 0 2 2 2 2v1h-2V5h-2v6h2V9h-1V7.031l2-.03 1 .03v3.938S14 13 12 13h-2s-2 0-2-2V5c0-2 2-2 2-2z" color="#bebebe" fill="#dfdfdf"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,1 C 2,1 0,1 0,3.06 V 13 C 0,15 2,15 2,15 H 14 C 16,15 16,13 16,13 V 3 C 16,3 16,1 14,1 Z M 2,3 H 4 V 7 H 5 V 3 H 7 V 13 H 5 V 9 H 4 C 2,9 2,7 2,7 Z M 10,3 H 12 C 14,3 14,5 14,5 V 6 H 12 V 5 H 10 V 11 H 12 V 9 H 11 V 7.03 L 13,7 14,7.03 V 10.97 C 14,10.97 14,13 12,13 H 10 C 10,13 8,13 8,11 V 5 C 8,3 10,3 10,3 Z"/>
+</svg>

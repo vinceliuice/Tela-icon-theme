@@ -1,1 +1,9 @@
-<svg height="16.005" width="16.031" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs><g fill="#dfdfdf"><path d="M10.969 11.005v1c0 .276.1.538.28.719l.782.781-.781.781a1.015 1.015 0 0 0-.281.719v1h1c.276 0 .537-.1.718-.281l.782-.781.78.78c.182.182.443.282.72.282h1v-1c0-.276-.1-.538-.282-.719l-.781-.781.781-.781c.181-.181.282-.443.282-.719v-1h-1c-.277 0-.538.1-.72.281l-.78.782-.782-.782a1.015 1.015 0 0 0-.718-.281h-1z"/><path d="M8.031 2.002C4.997 2.002 2.265 3.08 0 4.752l8.031 8.75L16 4.72c-2.257-1.653-4.958-2.718-7.969-2.718z" style="marker:none" color="#000" overflow="visible" opacity=".35"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,11 V 12 C 11,12.28 11.1,12.54 11.28,12.72 L 12.06,13.5 11.28,14.28 C 11.1,14.47 11,14.73 11,15 V 16 H 12 C 12.28,16 12.54,15.9 12.72,15.72 L 13.5,14.94 14.28,15.72 C 14.46,15.9 14.73,16 15,16 H 16 V 15 C 16,14.73 15.9,14.47 15.72,14.28 L 14.94,13.5 15.72,12.72 C 15.9,12.54 16,12.28 16,12 V 11 H 15 C 14.73,11 14.46,11.1 14.28,11.28 L 13.5,12.07 12.72,11.28 C 12.54,11.1 12.28,11 12,11 Z"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,2 C 4.9494,2 2.0806,3.0732 0,5 L 8,14 10,11.75 V 10 H 11.555 L 16,5 C 13.919,3.0731 11.051,2 8,2 Z"/>
+</svg>

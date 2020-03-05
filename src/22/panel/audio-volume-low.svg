@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf}</style></defs><path class="ColorScheme-Text" d="M11 4L7 8H4v6h3l4 4z" fill="currentColor"/><path class="ColorScheme-Text" d="M13 4v1.5c2.32.74 4 2.93 4 5.5s-1.68 4.76-4 5.5V18c3.15-.78 5.5-3.6 5.5-7S16.15 4.78 13 4zm0 4v6a3.418 3.418 0 0 0 1.789-3c0-1.3-.719-2.42-1.789-3z" opacity=".3" fill="currentColor"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <g transform="matrix(1,0,0,1,3,3)">
+  <path class="ColorScheme-Text" d="M 8,1 4,5 H 1 V 11 H 4 L 8,15 Z" style="fill:currentColor"/>
+  <path class="ColorScheme-Text" d="M 10,1 V 2.5 C 12.32,3.24 14,5.43 14,8 14,10.57 12.32,12.76 10,13.5 V 15 C 13.15,14.22 15.5,11.4 15.5,8 15.5,4.6 13.15,1.78 10,1 Z M 10,5 V 11 C 11.06,10.42 11.789,9.3 11.789,8 11.789,6.7 11.07,5.58 10,5 Z" style="opacity:0.3;fill:currentColor"/>
+ </g>
+</svg>

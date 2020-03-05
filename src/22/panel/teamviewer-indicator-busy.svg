@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M16.4 14L15 15.4l2.102 2.1L15 19.602 16.4 21l2.1-2.1 2.102 2.1L22 19.602 19.9 17.5l2.1-2.1-1.398-1.4-2.102 2.102zM9 8v2h4V8l3 3-3 3v-2H9v2l-3-3zm2-5a8 8 0 0 0 0 16 7.994 7.994 0 0 0 4.703-1.54l-2.117-2.115 2.824-2.832 1.841 1.842A8.009 8.009 0 0 0 19 11a8 8 0 0 0-8-8z" fill="currentColor" class="ColorScheme-Text"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <g>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 16.4,13.999999 15,15.4 17.10198,17.5 15,19.60198 16.4,21 18.5,18.9 20.60198,21 22,19.60198 19.9,17.5 22,15.4 20.60198,13.999999 18.5,16.101979 Z M 9,8 l 0,2 4,0 0,-2 3,3 -3,3 0,-2 -4,0 0,2 -3,-3 z m 2,-5 c -4.4175389,2e-7 -7.9999998,3.5824611 -8,8 2e-7,4.417539 3.5824611,8 8,8 1.691541,-0.0032 3.337169,-0.542328 4.702876,-1.540408 l -2.116646,-2.114646 2.823527,-2.831527 1.841692,1.841692 C 18.740021,13.304513 18.99719,12.158641 19,11 19,6.5824607 15.417539,2.9999997 11,3 Z"/>
+ </g>
+</svg>

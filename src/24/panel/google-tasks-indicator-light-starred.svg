@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g>
-  <path d="M2 4v16h16v-7.5l-2 2V18H4V6h12v3l2-2V4H2z" class="ColorScheme-Text" fill="#dfdfdf"/>
-  <path d="m20.35 6.07-7.025 7.135-4.942-5-1.385 1.404 4.944 5.002 1.37 1.39 1.384-1.406 7.027-7.134-1.373-1.39z" class="ColorScheme-Highlight" fill="#2b8de8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <g transform="translate(-269.78 -485.05)">
+  <g transform="translate(1,-1)">
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m270.78 490.05v16h16v-7.5l-2 2v3.5h-12v-12h12v3l2-2v-3h-16z"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="m289.13 492.12-7.0254 7.1348-4.9414-5-1.3848 1.4043 4.9434 5.002 1.3711 1.3906 1.3828-1.4062 7.0273-7.1348-1.373-1.3906z"/>
+  </g>
  </g>
 </svg>

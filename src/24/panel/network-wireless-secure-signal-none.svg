@@ -1,9 +1,9 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf}</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
  </defs>
- <g transform="translate(3.9845,4.998)" color="#000000" fill="#dfdfdf">
-  <path d="m8.031 2.002c-3.034 0-5.766 1.078-8.031 2.75l8.031 8.75 1-1.102v-1.398h1.014c0.02-1.632 1.337-2.993 2.976-2.998l2.979-3.284c-2.257-1.653-4.958-2.718-7.969-2.718z" opacity=".35" overflow="visible"/>
-  <path d="m13.016 9.002c-1.108 0-2 0.91-2 2.03v0.97h-1v4h6v-4h-1v-0.97c0-1.119-0.892-2.03-2-2.03zm0 1c0.554 0 1 0.442 1 1v1h-2v-1c0-0.558 0.446-1 1-1z" overflow="visible"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 17,13 c -1.108,0 -2,0.9109 -2,2.03125 V 16 h -1 v 4 h 6 V 16 H 19 V 15.03125 C 19,13.91135 18.108,13 17,13 Z m 0,1 c 0.554,0 1,0.4424 1,1 v 1 h -2 v -1 c 0,-0.5576 0.446,-1 1,-1 z"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 12,5 C 8.9494,5 6.0806,6.0732 4,8 l 8,11 1,-1.375 V 15 h 1.013672 C 14.033321,13.365092 15.356157,12 17,12 c 0.02882,0 0.05537,0.0089 0.08398,0.0098 L 20,8 C 17.919,6.0731 15.051,5 12,5 Z"/>
 </svg>

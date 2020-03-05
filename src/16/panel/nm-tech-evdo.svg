@@ -1,1 +1,9 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs><path d="M2 1S0 1 0 3.062V13c0 2 2 2 2 2l12 .002c2 0 2-2 2-2V3s0-2-2-2zm2 2.002h3v2H4v2h2v2H4v2h3v2H4s-2 0-2-2v-6c0-2 2-2 2-2zm4 0h2v8h2v-8h2v8s0 2-2 2h-2s-2 0-2-2z" color="#bebebe" fill="#dfdfdf"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path style="fill:none;stroke:currentColor;stroke-linejoin:round" class="ColorScheme-Text" d="M 12,15.5 H 9.5 V 11.5 H 12 M 9.5,13.5 H 12"/>
+ <path style="fill:none;stroke:currentColor;stroke-linejoin:round" class="ColorScheme-Text" d="M 13.5,11 V 14 L 14.5,15.5 15.5,14 V 11"/>
+</svg>

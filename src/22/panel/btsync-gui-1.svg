@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M13.07 3.275a7.998 7.998 0 1 0-4.14 15.452 7.998 7.998 0 0 0 4.14-15.452zm-.646 2.414c2.224.596 3.88 2.388 4.242 4.566l1.299-.138-1.864 3.091-2.722-2.638 1.367-.15c-.261-1.427-1.338-2.559-2.8-2.95-1.52-.408-3.137.132-4.048 1.341L6.356 7.686c1.36-1.813 3.789-2.608 6.067-1.997zM5.89 8.823L8.63 11.4l-1.367.151c.255 1.42 1.339 2.59 2.792 2.98 1.522.408 3.113-.108 4.04-1.312l1.541 1.126c-1.39 1.803-3.774 2.579-6.058 1.967-2.213-.593-3.89-2.429-4.234-4.596l-1.29.108 1.838-3z" fill="currentColor" class="ColorScheme-Text"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <g transform="matrix(.33589 .090001 -.090001 .33589 5.0921 .77009)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m-25.406 12c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zm0 2.5c2.304 0 4.367 1.303 5.281 3.313l1.219-0.469-1 3.469-3.313-1.844 1.281-0.5c-0.621-1.31-1.954-2.125-3.469-2.125-1.573 0-2.996 0.94-3.563 2.344l-1.781-0.688c0.845-2.104 2.985-3.5 5.344-3.5zm-5.5 4.719 3.313 1.781-1.281 0.5c0.613 1.305 1.964 2.156 3.469 2.156 1.576 0 2.979-0.91 3.563-2.313l1.781 0.688c-0.877 2.103-2.979 3.469-5.344 3.469-2.292 0-4.387-1.339-5.281-3.344l-1.219 0.438 1-3.375z" transform="matrix(2.875 0 0 2.875 97.068 -33.481)"/>
+ </g>
+</svg>

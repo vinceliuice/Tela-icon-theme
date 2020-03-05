@@ -1,1 +1,10 @@
-<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style></defs><path d="M3 1c-1.108 0-2 .892-2 2v16c0 1.108.892 2 2 2h16c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2H3zm3.238 5.838h5.477v1.338h-3.9v2.211h3.463v1.338H7.815V15.5H6.239V6.838zm9.04 1.986c.1 0 .216.009.35.025.133.008.267.026.4.051.133.017.264.041.389.074.125.025.224.051.299.076l-.262 1.273a4.12 4.12 0 0 0-.525-.125 3.421 3.421 0 0 0-1.301-.023 3.22 3.22 0 0 0-.387.086v5.238h-1.512V9.274a7.924 7.924 0 0 1 1.086-.301c.442-.1.93-.15 1.463-.15z" fill="#ececec"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5.0000007,10.999902 3.9999986,0 m -3.9999986,-4.0000025 3.9999986,0 m -3.9999003,8.0000985 0,-7.9999964"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round" class="ColorScheme-Text" d="m 17.00315,14.999823 -2.000001,-3 m -2.000002,-1.000002 1.999983,-4e-6 c 0.423836,-1e-6 0.729048,4.54e-4 1.00001,4.54e-4 0.999998,0 0.999998,0 0.999998,-1 0,-0.2567203 1.5e-5,-0.5997725 1.2e-5,-1.0004477 l -1.2e-5,-0.9995519 c 0,-1 0,-1 -0.999998,-1 -0.224504,0 -0.544112,0.00944 -0.874519,0.00719 -1.12549,-0.00765 -2.125474,-0.00756 -2.125474,-0.00756 M 13.003246,15 l 0,-8.0000003"/>
+</svg>
