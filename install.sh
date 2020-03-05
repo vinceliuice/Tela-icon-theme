@@ -72,16 +72,16 @@ install_theme() {
     install -d "${THEME_DIR}"/{16,22,24}
 
     cp -r "${SRC_DIR}"/src/16/{actions,devices,places}                           "${THEME_DIR}/16"
-    cp -r "${SRC_DIR}/src/22/actions"                                            "${THEME_DIR}/22"
-    cp -r "${SRC_DIR}/src/24/actions"                                            "${THEME_DIR}/24"
+    cp -r "${SRC_DIR}"/src/22/{actions,devices,places}                           "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}"/src/24/{actions,devices,places}                           "${THEME_DIR}/24"
 
     # Change icon color for dark theme
     sed -i "s/#565656/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/actions/*
-    sed -i "s/#727272/#aaaaaa/g" "${THEME_DIR}"/16/{places,devices}/*
+    sed -i "s/#727272/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/{places,devices}/*
 
     cp -r "${SRC_DIR}"/links/16/{actions,devices,places}                         "${THEME_DIR}/16"
-    cp -r "${SRC_DIR}/links/22/actions"                                          "${THEME_DIR}/22"
-    cp -r "${SRC_DIR}/links/24/actions"                                          "${THEME_DIR}/24"
+    cp -r "${SRC_DIR}"/links/22/{actions,devices,places}                         "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}"/links/24/{actions,devices,places}                         "${THEME_DIR}/24"
 
     # Link the common icons
     ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
