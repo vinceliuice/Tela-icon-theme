@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><g paint-order="markers stroke fill"><rect rx="2" ry="1.905" y="4" x="6" height="40" width="36" fill="#4caf50"/><path d="M42 17.242A40 40 0 0 1 23.494 44H40c1.108 0 2-.85 2-1.904z" opacity=".15" fill="url(#a)"/></g><defs><linearGradient xlink:href="#b" id="a" x1="32.747" y1="44" x2="32.747" y2="17.242" gradientUnits="userSpaceOnUse"/><linearGradient id="b"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path d="M24 33a9 9 0 1 0 0-18 9 9 0 0 0 0 18zm0-1l-5-7h10zm2-7h-4v-8h4z" fill="#fff" fill-rule="evenodd"/></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="49.571" x2="51.714" y1="52.714" y2="54.857" gradientTransform="matrix(2.3333,0,0,2.3333,-68.667,-72.001)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="scale(.26458)">
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".1" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
+ </g>
+ <path class="ColorScheme-Text" d="m8.4665 4.7624c-0.29289 0-0.52916 0.23627-0.52916 0.52916v2.9558l-0.96735-0.96735c-0.20729-0.20729-0.54096-0.20729-0.74828 0-0.20732 0.20729-0.20729 0.54096 0 0.74828l1.8655 1.8655c0.050012 0.05144 0.11022 0.092194 0.17776 0.11989 0.1282 0.0532 0.27252 0.05435 0.401 0.0021 0.0011-4.59e-4 2e-3 -0.0016 0.0031-0.0021 0.06483-0.026728 0.12385-0.065976 0.17259-0.11472l1.8707-1.8707c0.20729-0.20729 0.20729-0.54096 0-0.74828-0.20729-0.20729-0.54096-0.20729-0.74828 0l-0.96841 0.96735v-2.9558c0-0.29289-0.23627-0.52916-0.52916-0.52916zm-3.1749 5.2916v1.0583c0 0.5863 0.47201 1.0583 1.0583 1.0583h4.2332c0.5863 0 1.0583-0.47201 1.0583-1.0583v-1.0583h-1.0583v1.0583h-4.2332v-1.0583z" fill="#ccc" stroke-width=".52916"/>
+</svg>

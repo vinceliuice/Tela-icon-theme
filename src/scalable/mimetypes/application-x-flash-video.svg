@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><g paint-order="markers stroke fill"><rect rx="2" ry="1.905" y="4" x="6" height="40" width="36" fill="#d32f2f"/><path d="M42 17.242A40 40 0 0 1 23.494 44H40c1.108 0 2-.85 2-1.904z" opacity=".15" fill="url(#a)"/></g><defs><linearGradient xlink:href="#b" id="a" x1="32.747" y1="44" x2="32.747" y2="17.242" gradientUnits="userSpaceOnUse"/><linearGradient id="b"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path d="M31 15.506v3.42c-3.515.06-4.379 3.39-4.379 3.39h2.651v3.42h-4.11C22.689 33.144 17 32.484 17 32.484v-3.42s3.61.65 5.451-5.88c2.303-8.169 8.549-7.68 8.549-7.68z" fill="#fff" fill-rule="evenodd"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="49.571" x2="51.714" y1="52.714" y2="54.857" gradientTransform="matrix(2.3333,0,0,2.3333,-68.667,-72.001)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="scale(1)">
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f35450" style="paint-order:stroke fill markers"/>
+  <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".15" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m19 43.604v6.396s10.285 1.514 14.812-12.198h8.188v-6h-5.726s2.174-7 7.726-7v-6s-8.64-1.99-14.192 12.413c-4.801 14.105-10.808 12.389-10.808 12.389z" color="#000000" fill="#fff" overflow="visible"/>
+</svg>
