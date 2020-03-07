@@ -155,7 +155,7 @@ Type=Scalable
 
 [scalable/mimetypes]
 Context=MimeTypes
-Size=48
+Size=64
 MinSize=24
 MaxSize=512
 Type=Scalable
@@ -374,7 +374,7 @@ Type=Scalable
 [scalable@2x/mimetypes]
 Context=MimeTypes
 Scale=2
-Size=48
+Size=64
 MinSize=24
 MaxSize=512
 Type=Scalable
