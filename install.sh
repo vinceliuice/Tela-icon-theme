@@ -6,7 +6,7 @@ else
   DEST_DIR="${HOME}/.local/share/icons"
 fi
 
-readonly SRC_DIR="${PWD}"
+readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
 readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange"
                          "pink" "purple" "red" "yellow" "manjaro" "ubuntu")
