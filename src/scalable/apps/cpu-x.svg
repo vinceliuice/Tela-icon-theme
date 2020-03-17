@@ -1,0 +1,34 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="3" ry="3" fill="#388e3c" stroke-width="1.0293"/>
+ <path d="m16 37-10 8v3l6-4v2l-6 4h4v8h6v-11l6-5h3l-6 5v11h36c1.662 0 3-1.338 3-3v-7.0918l-7-8.9082h-2l-2-2h-31z" fill="#43a047" fill-rule="evenodd"/>
+ <g transform="translate(-5,3)">
+  <circle cx="58.5" cy="50.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="58.5" cy="50.5" r=".5" fill="#263238"/>
+ </g>
+ <g transform="translate(-5,-1)">
+  <circle cx="58.5" cy="11.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="58.5" cy="11.5" r=".5" fill="#263238"/>
+ </g>
+ <g transform="translate(5,3)">
+  <circle cx="5.5" cy="50.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="5.5" cy="50.5" r=".5" fill="#263238"/>
+ </g>
+ <path d="m9 6c-0.35292 0-0.68601 0.070688-1 0.18164v11.818l-2 2v2l3 3h38l7-8h4v-1h-4v-4l-8 9h-3l8-9v-6z" fill="#43a047" fill-rule="evenodd"/>
+ <path d="m21 22h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2z" fill="#fbc02d" fill-rule="evenodd" stroke-width="1.4142" style="paint-order:fill markers stroke"/>
+ <rect x="18" y="24" width="28" height="16" ry="1" fill="#263238"/>
+ <rect x="10" y="13" width="17" height="6" ry="1" fill="#263238" stroke-width="1.1019"/>
+ <rect x="37" y="44" width="17" height="6" ry="1" fill="#eceff1"/>
+ <rect x="38" y="45" width="9" height="1" ry="0" fill="#37474f"/>
+ <path d="m38 47h5v1h-5z" fill="#37474f"/>
+ <path d="m49 49 2-3 2 3z" fill="#37474f" fill-rule="evenodd"/>
+ <g transform="translate(.3178 .048618)">
+  <circle cx="10.182" cy="10.451" r="1.5" fill="#fbc02d"/>
+  <circle cx="10.182" cy="10.451" r=".5" fill="#263238"/>
+ </g>
+ <rect x="11" y="14" width="4" height="1" fill="#ffffff" opacity=".5" style="paint-order:stroke fill markers"/>
+ <rect x="11" y="16" width="8" height="1" fill="#ffffff" opacity=".5" style="paint-order:stroke fill markers"/>
+ <rect x="22" y="16" width="3" height="2" fill="#ffffff" opacity=".5" style="paint-order:stroke fill markers"/>
+ <g fill="#ffffff" opacity=".75" aria-label="x">
+  <path d="m37.593 26-4.3393 5.8393 4.5643 6.1607h-2.325l-3.4929-4.7143-3.4929 4.7143h-2.325l4.6607-6.2786-4.2643-5.7214h2.325l3.1821 4.275 3.1821-4.275z" fill="#ffffff" stroke-width=".54857"/>
+ </g>
+</svg>

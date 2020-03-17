@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#F08705;}
+	.st1{fill:#DF6C0C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#333333;}</style>
+ <rect x="6" y="6" width="52" height="52" ry="2" fill="#f08705" style="paint-order:stroke fill markers"/>
+ <path d="m26.357 26-5.8633 10h3.375l5.8262-9.9512h4.6445l5.8594 9.9512h3.3613l-5.8828-10z" fill="#ffffff" stroke-width=".33418"/>
+ <path d="m26 12c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h12v10h-12z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+ <rect x="26" y="14" width="12" height="10" ry="0" fill="#ffffff" style="paint-order:stroke fill markers"/>
+ <path d="m14 36c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h12v10h-12z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+ <path d="m38 36c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h12v10h-12z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+ <rect x="14" y="38" width="12" height="10" ry="0" fill="#ffffff" style="paint-order:stroke fill markers"/>
+ <rect x="38" y="38" width="12" height="10" ry="0" fill="#ffffff" style="paint-order:stroke fill markers"/>
+</svg>
