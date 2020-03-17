@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <circle cx="8.4667" cy="288.53" r="7.1438" fill="#ececec" style="paint-order:stroke fill markers"/>
+  <g>
+   <path d="m12.965 292.5c0.14657 0 0.26458-0.11801 0.26458-0.26458v-4.4979c0-0.14657-0.11801-0.26458-0.26458-0.26458h-1.5875v3.7042c0 0.14658-0.11801 0.26459-0.26458 0.26459h-2.6458c-0.14657 0-0.26458-0.11801-0.26458-0.26459v-3.7042h-1.5875c-0.14657 0-0.26458 0.11801-0.26458 0.26458v4.4979c0 0.14657 0.11801 0.26458 0.26458 0.26458z" fill="#fdc409" style="paint-order:stroke fill markers"/>
+   <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m22 28v9l9-9z" fill="#b61f1d" style="paint-order:stroke fill markers"/>
+   <path d="m4.2333 284.83c-0.14657 0-0.26458 0.11801-0.26458 0.26458v4.4979c0 0.14657 0.11801 0.26458 0.26458 0.26458h1.5875v-3.7042c0-0.14658 0.11801-0.26459 0.26458-0.26459h2.6458c0.14657 0 0.26458 0.11801 0.26458 0.26459v3.7042h1.5875c0.14657 0 0.26458-0.11801 0.26458-0.26458v-4.4979c0-0.14657-0.11801-0.26458-0.26458-0.26458z" fill="#e5381f" style="paint-order:stroke fill markers"/>
+   <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m43 28-9 9h9z" fill="#e76f08" style="paint-order:stroke fill markers"/>
+   <rect x="11.642" y="285.62" width="1.0583" height="1.0583" ry="0" fill="#e76f08" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(45)" x="208.92" y="201.81" width="1.0583" height="1.0583" ry="0" fill="#f6aa08" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>
