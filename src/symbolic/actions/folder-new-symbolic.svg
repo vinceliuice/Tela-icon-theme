@@ -47,7 +47,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <rect
-     style="display:inline;opacity:0.5;fill:#444444;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
+     style="display:inline;opacity:0.5;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
      id="rect23"
      width="14"
      height="5"
@@ -57,7 +57,7 @@
      ry="1" />
   <path
      inkscape:connector-curvature="0"
-     style="display:inline;fill:#444444;fill-opacity:1;stroke:none;enable-background:new"
+     style="display:inline;fill:#555555;fill-opacity:1;stroke:none;enable-background:new"
      d="M 8,3 7,5 H 1 C 0.446,5 0,5.446 0,6 v 8 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8 6 4 C 16,3.5 15.5,3 15,3 Z M 7,6 h 2 v 2 h 2 v 2 H 9 v 2 H 7 V 10 H 5 V 8 h 2 z"
      id="path4-3" />
 </svg>
