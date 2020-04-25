@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 if [ ${UID} -eq 0 ]; then
   DEST_DIR="/usr/share/icons"
