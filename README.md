@@ -31,6 +31,22 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
 By default, only **the standard one** is selected.
 
+### On Snapcraft
+
+<a href="https://snapcraft.io/tela-icons">
+<img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
+</a>
+
+You can install the theme from the Snap Store оr by running:
+
+```
+sudo snap install tela-icons
+```
+To connect the theme to an app run:
+```
+sudo snap connect [other snap]:icon-themes tela-icons:icon-themes
+```
+
 ### On Gentoo Linux
 
 First, you can add [Beatussum's overlay](https://github.com/beatussum/beatussum-overlay) by using [Layman](https://wiki.gentoo.org/wiki/Layman):
