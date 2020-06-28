@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="28.646" x2="53" y1="48.729" y2="48.729" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-1.23 -1.23) scale(.53846)" stroke-width="1.857">
+  <path d="M53 55V9c0-1.662-1.338-3-3-3H14c-1.662 0-3 1.338-3 3v46c0 1.662 1.338 3 3 3h36c1.662 0 3-1.338 3-3z" fill="#666"/>
+  <circle cx="32" cy="31" r="16" fill="#7297ba" paint-order="markers stroke fill"/>
+  <path d="M25 34h14v3H25zm7-10l7 7H25z" fill="#fff"/>
+  <path d="M53 39.457A39.271 39.271 0 0 1 28.646 58H51c1.108 0 2-.892 2-2z" fill="url(#b)" opacity=".25"/>
+ </g>
+</svg>
