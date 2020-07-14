@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -22,4 +22,5 @@
  <path d="m8.9957 4.2333-0.79374 1.0583h-6.6145c-0.58631 0-1.0583 0.47201-1.0583 1.0583v7.4082c0 0.58631 0.47201 1.0583 1.0583 1.0583h13.758c0.58631 0 1.0583-0.47201 1.0583-1.0583v-8.4666c0-0.58631-0.47201-1.0583-1.0583-1.0583z" fill="#5294e2" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52916" style="paint-order:stroke fill markers"/>
  <path d="m16.404 10.583-4.2333 4.2333h3.175c0.58631 0 1.0583-0.47201 1.0583-1.0583z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52916" style="paint-order:stroke fill markers"/>
  <rect x="10.318" y="4.762" width="4.2333" height=".52916" ry=".26508" opacity=".25" stroke-width="1.0329" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m32 29.414c-0.25562 0-0.51116 0.097101-0.70703 0.29297l-9.1934 9.1934c-0.39174 0.39174-0.39174 1.0223 0 1.4141 0.39174 0.39174 1.0243 0.39174 1.416 0l0.48438-0.48438v8.1699h2v-10.17l6-6.002 6 6.002v10.17h2v-8.1699l0.48438 0.48438c0.39174 0.39174 1.0243 0.39174 1.416 0 0.39174-0.39174 0.39174-1.0223 0-1.4141l-9.1934-9.1934c-0.19587-0.19587-0.45141-0.29297-0.70703-0.29297zm0 11.586c-1.108 0-2 0.892-2 2v5h4v-5c0-1.108-0.892-2-2-2z" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0584" style="paint-order:stroke fill markers"/>
 </svg>
