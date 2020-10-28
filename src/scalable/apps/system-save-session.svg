@@ -1,0 +1,9 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
+  <circle cx="8.4665" cy="288.54" r="7.1436" fill="#77cb75"/>
+  <g fill="#fff">
+   <rect x="7.408" y="285.1" width="2.117" height="4.4978" rx="0" ry="0" stroke-width="1.1902"/>
+   <path d="m5.292 289.07h6.35l-3.175 3.175z"/>
+  </g>
+ </g>
+</svg>
