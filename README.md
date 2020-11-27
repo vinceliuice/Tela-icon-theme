@@ -1,6 +1,8 @@
 ## Tela Icon Theme
-
 A flat colorful Design icon theme
+
+![Tela](../master/tela-dark.png)
+![Tela](../master/tela-light.png)
 
 ## Installation
 
@@ -58,7 +60,3 @@ layman --sync beatussum-overlay
 ```
 
 And install the _x11-themes/tela-icon-theme_ package.
-
-## Preview
-![Tela](../master/tela-dark.png)
-![Tela](../master/tela-light.png)
