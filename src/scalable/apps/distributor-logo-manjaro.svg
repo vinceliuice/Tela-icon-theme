@@ -1,17 +1,12 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="b" x1="1" x2="47" gradientTransform="matrix(0 -1.1304 1.1304 0 -.13 48.13)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#31af54" offset="0"/>
    <stop stop-color="#35bf5c" offset="1"/>
   </linearGradient>
-  <linearGradient id="c" x1="45.628" x2="45.628" y1="57.955" y2="12.461" gradientTransform="matrix(.26458 0 0 .26458 0 280.07)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
  </defs>
  <g transform="matrix(1.0384 0 0 1.0385 -.32571 -.32524)" stroke-width=".92734">
   <path transform="matrix(.26458 0 0 .26458 1.323 2.91)" d="m27-5c14.36 0 26 11.64 26 26s-11.64 26-26 26-26-11.64-26-26 11.64-26 26-26z" fill="url(#b)"/>
-  <path transform="translate(0 -280.07)" d="m12.997 283.36a10.716 10.716 0 0 1 0.497 3.185 10.716 10.716 0 0 1-4.695 8.852 6.88 6.88 0 0 0 6.547-6.868 6.88 6.88 0 0 0-2.349-5.17z" fill="url(#c)" opacity=".25" style="paint-order:stroke markers fill"/>
  </g>
  <path d="m4.7624 4.233v2.513h0.00117l-0.00117 0.92677h2.1166v-1.0583h2.6458v-2.3812l-4.7624 0.00675m5.2916-0.00675v8.4665h2.1166v-8.4665m-4.7624 2.9104v5.5561h2.1166v-5.5561m-4.7624 1.0583 0.0011669 4.4981 2.1155-2.5e-4v-4.4978" fill="#fff" fill-rule="evenodd" stroke-width=".75"/>
 </svg>

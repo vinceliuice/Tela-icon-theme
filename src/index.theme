@@ -269,7 +269,7 @@ Scale=2
 Size=16
 Type=Fixed
 
-# 22x22
+# 22x22@2x
 [22@2x/actions]
 Context=Actions
 Scale=2
@@ -308,7 +308,7 @@ Scale=2
 Size=22
 Type=Fixed
 
-# 24x24
+# 24x24@2x
 [24@2x/actions]
 Context=Actions
 Scale=2
@@ -339,14 +339,14 @@ Scale=2
 Size=24
 Type=Fixed
 
-# 32x32
+# 32x32@2x
 [32@2x/devices]
 Context=Devices
 Scale=2
 Size=32
 Type=Fixed
 
-# Scalable
+# Scalable@2x
 [scalable@2x/apps]
 Context=Applications
 Scale=2
@@ -374,6 +374,161 @@ Type=Scalable
 [scalable@2x/mimetypes]
 Context=MimeTypes
 Scale=2
+Size=64
+MinSize=24
+MaxSize=512
+Type=Scalable
+
+# 16x16@3x
+[16@3x/actions]
+Context=Actions
+Scale=3
+Size=16
+Type=Fixed
+
+[16@3x/apps]
+Context=Applications
+Scale=3
+Size=16
+MinSize=16
+MaxSize=32
+Type=Scalable
+
+[16@3x/devices]
+Context=Devices
+Scale=3
+Size=16
+Type=Fixed
+
+[16@3x/mimetypes]
+Context=MimeTypes
+Scale=3
+Size=16
+Type=Fixed
+
+[16@2x/status]
+Context=Status
+Scale=3
+Size=16
+Type=Fixed
+
+[16@3x/panel]
+Context=Status
+Scale=3
+Size=16
+Type=Fixed
+
+[16@3x/places]
+Context=Places
+Scale=3
+Size=16
+Type=Fixed
+
+# 22x22@3x
+[22@3x/actions]
+Context=Actions
+Scale=3
+Size=22
+Type=Fixed
+
+[22@3x/emblems]
+Context=Emblems
+Scale=3
+Size=22
+MinSize=16
+MaxSize=48
+Type=Scalable
+
+[22@3x/devices]
+Context=Devices
+Scale=2
+Size=22
+Type=Fixed
+
+[22@2x/mimetypes]
+Context=MimeTypes
+Scale=3
+Size=22
+Type=Fixed
+
+[22@3x/panel]
+Context=Status
+Scale=3
+Size=22
+Type=Fixed
+
+[22@3x/places]
+Context=Places
+Scale=3
+Size=22
+Type=Fixed
+
+# 24x24@3x
+[24@3x/actions]
+Context=Actions
+Scale=3
+Size=24
+Type=Fixed
+
+[24@3x/devices]
+Context=Devices
+Scale=3
+Size=24
+Type=Fixed
+
+[24@3x/panel]
+Context=Status
+Scale=2
+Size=24
+Type=Fixed
+
+[24@3x/places]
+Context=Places
+Scale=3
+Size=24
+Type=Fixed
+
+[24@3x/animations]
+Context=Animations
+Scale=3
+Size=24
+Type=Fixed
+
+# 32x32
+[32@3x/devices]
+Context=Devices
+Scale=3
+Size=32
+Type=Fixed
+
+# Scalable@3x
+[scalable@3x/apps]
+Context=Applications
+Scale=3
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable@3x/devices]
+Context=Devices
+Scale=3
+Size=64
+MinSize=22
+MaxSize=512
+Type=Scalable
+
+[scalable@3x/places]
+Context=Places
+Scale=3
+Size=64
+MinSize=22
+MaxSize=512
+Type=Scalable
+
+[scalable@3x/mimetypes]
+Context=MimeTypes
+Scale=3
 Size=64
 MinSize=24
 MaxSize=512

@@ -107,6 +107,12 @@ install_theme() {
   ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@2x"
   ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@2x"
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@2x"
+  
+  ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@3x"
+  ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@3x"
+  ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@3x"
+  ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@3x"
+  ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@3x"
 
   gtk-update-icon-cache "${THEME_DIR}"
 }

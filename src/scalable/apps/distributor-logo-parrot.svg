@@ -1,14 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a" x1="45.628" x2="45.628" y1="57.955" y2="12.461" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
  <g transform="translate(0 -280.07)">
   <g transform="matrix(1.0385 0 0 1.0385 -.32619 -11.092)" stroke-width=".92729">
    <circle cx="8.467" cy="288.53" r="6.879" fill="#5df" style="paint-order:stroke markers fill"/>
-   <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M 49.123,12.461 A 40.5,40.5 0 0 1 51,24.5 40.5,40.5 0 0 1 33.256,57.955 26,26 0 0 0 58,32 26,26 0 0 0 49.123,12.461 Z" fill="url(#a)" opacity=".25" style="paint-order:stroke markers fill"/>
   </g>
   <path d="M5.36 285.97v-1.596l1.255-.342 2.621 1.026 3.533 5.699-1.823-1.368-.228 3.192-.684-1.596-.456 2.963-.456-5.698-1.14-.456-.911-1.824-.456-.456-.456-.228z" fill="#1a1a1a"/>
  </g>
