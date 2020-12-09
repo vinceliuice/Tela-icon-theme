@@ -15,5 +15,8 @@ assignees: ''
     and find the line: icon=[App icon name] (e.g icon=firefox),
     the word after "icon=" is the App icon name.
 
+    But if "icon=" is followed by the specific path of an icon file, then this app will not use icon theme 
+    icons.  I generally don’t create this kind of icon because this app does not use it.
+
 **Additional context**
 Add any other context or screenshots about the icon request here.
