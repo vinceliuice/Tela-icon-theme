@@ -1,13 +1,6 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="b" x1="45.628" x2="45.628" y1="57.955" y2="12.461" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
  <g transform="matrix(1.0385 0 0 1.0385 -.32619 -.32515)">
   <circle cx="8.467" cy="8.466" r="6.879" fill="#fbbf00" stroke-width=".92729" style="paint-order:stroke markers fill"/>
-  <path d="m12.997 3.2967a10.715 10.715 0 0 1 0.49662 3.1855 10.715 10.715 0 0 1-4.6947 8.8515 6.8791 6.8791 0 0 0 6.5468-6.8672 6.8791 6.8791 0 0 0-2.3487-5.1699z" fill="url(#b)" opacity=".15" stroke-width=".25478" style="paint-order:stroke markers fill"/>
  </g>
  <g transform="matrix(1.2327 0 0 1.2379 -2.9483 -2.2403)" stroke-width=".21418">
   <path d="m5.6884 10.451 3.5718-1.1906 3.5718 1.1906-3.5718 1.1906z" fill="#fff"/>

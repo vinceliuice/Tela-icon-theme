@@ -1,20 +1,13 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="b" x1="40.829" x2="40.829" y1="58" y2="6" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(0 -280.07)">
   <rect x="10.583" y="282.71" width="4.233" height="4.498" ry=".312" fill="#5ad85d"/>
   <rect x="10.583" y="286.22" width="4.233" height="4.498" ry=".351" fill="#ff584c"/>
   <rect x="10.583" y="289.86" width="4.233" height="4.233" ry=".331" fill="#ffce3d"/>
-  <rect transform="scale(1 -1)" x="2.117" y="-295.41" width="12.171" height="13.758" ry=".529" fill="#387fe7"/>
+  <rect transform="scale(1,-1)" x="2.117" y="-295.41" width="12.171" height="13.758" rx="1.3174" ry="1.3174" fill="#387fe7"/>
   <path d="M9.478 289.74a1.587 1.587 0 0 1-1.276.645 1.587 1.587 0 0 1-1.275-.644 3.704 2.381 0 0 0-2.43 2.232h7.41a3.704 2.381 0 0 0-2.429-2.234z" fill="#fff" paint-order="stroke markers fill"/>
   <g transform="translate(0 1.588)" fill="#fff" paint-order="stroke markers fill">
    <circle cx="8.202" cy="284.83" r="1.587"/>
    <path d="m6.615 284.83a1.587 2.646 0 0 0 1.587 2.645 1.587 2.646 0 0 0 1.588-2.646z"/>
   </g>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M51.07 6a28.226 39.25 20.203 0 1-5.42 33.514A28.226 39.25 20.203 0 1 27.658 58H52c1.108 0 2-.892 2-2V8c0-1.108-.892-2-2-2h-.93z" fill="url(#b)" opacity=".15"/>
  </g>
 </svg>

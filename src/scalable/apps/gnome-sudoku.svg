@@ -1,27 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <linearGradient id="b" x1="46.168" x2="46.168" y1="57" y2="27.346" gradientTransform="matrix(.27517 0 0 .27517 -.339 279.73)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(0 -280.07)">
   <rect x="1.588" y="281.65" width="13.758" height="13.758" rx=".825" ry=".825" fill="#ac8fac" paint-order="markers stroke fill"/>
   <rect x="2.646" y="282.71" width="11.642" height="11.642" rx=".265" ry=".265" fill="#fff" paint-order="markers stroke fill"/>
   <path d="m10.451 282.71v3.681h-3.969v-3.681zm4.101 3.981v3.681h-3.969v-3.681zm-4.101 3.957v3.681h-3.969v-3.681zm-3.836-3.969v3.681h-3.969v-3.681z" opacity=".05" paint-order="markers stroke fill"/>
   <path d="m6.085 282.71h0.529v11.642h-0.529zm4.234 0h0.529v11.642h-0.529z" fill="#e6dae6" paint-order="markers stroke fill"/>
   <path d="m14.288 286.15v0.529h-11.642v-0.529zm0 4.233v0.529h-11.642v-0.529z" fill="#e6dae6" paint-order="markers stroke fill"/>
-  <path d="M15.346 287.253a12.383 12.383 0 0 1-5.961 8.16h5.135a.824.824 0 0 0 .826-.826z" fill="url(#b)" opacity=".25" paint-order="markers stroke fill"/>
   <g fill="#666" stroke-width=".265" aria-label="5">
    <path d="m4.2221 285.62c0.39581 0 0.76608-0.29047 0.76608-0.80438 0-0.51392-0.31601-0.74374-0.70543-0.74374-0.14045 0-0.24259 0.0351-0.34793 0.0926l0.057456-0.67671h0.88418v-0.25216h-1.1395l-0.073416 1.098 0.15641 0.0958c0.13406-0.0894 0.23302-0.13725 0.38942-0.13725 0.29366 0 0.48518 0.1979 0.48518 0.53306 0 0.34155-0.22344 0.55222-0.49795 0.55222-0.27132 0-0.4405-0.12449-0.57456-0.25855l-0.14364 0.19152c0.15641 0.1564 0.37985 0.30962 0.74374 0.30962z" style=""/>
   </g>

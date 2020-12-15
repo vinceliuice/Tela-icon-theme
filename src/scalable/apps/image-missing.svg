@@ -1,11 +1,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)">
-  <path d="m16.271 295.25-15.598 0.02712-0.012193-12.408 15.598-0.02711z" fill="none" stroke="#24262b" stroke-linecap="round" stroke-opacity=".275" stroke-width=".26458"/>
-  <path d="m0 280.07h16.933v16.933h-16.933z" fill="none"/>
-  <path d="m16.271 295.25-15.598 0.02712-0.012193-12.408 15.598-0.02711z" fill="#fff"/>
-  <path d="m15.61 294.62h-14.287v-11.113h14.287z" fill="#949dac"/>
-  <path d="m2.485 287.03a11.419 11.419 0 0 0-1.162 0.073v7.513h11.906a11.419 11.419 0 0 0-10.744-7.586z" opacity=".15" style="paint-order:stroke markers fill"/>
-  <path d="m15.61 289.13a11.82 11.82 0 0 0-8.202 5.49h8.202z" opacity=".05" style="paint-order:stroke markers fill"/>
-  <circle cx="12.7" cy="286.15" r="1.323" fill="#fff" opacity=".5" style="paint-order:stroke markers fill"/>
- </g>
+ <path d="m16.271 15.18-15.598 0.0271-0.012193-12.408 15.598-0.0271z" fill="none" stroke="#24262b" stroke-linecap="round" stroke-opacity=".275" stroke-width=".26458"/>
+ <path d="m16.271 15.18-15.598 0.0271-0.012193-12.408 15.598-0.0271z" fill="#fff"/>
+ <path d="m15.61 14.55h-14.287v-11.113h14.287z" fill="#949dac"/>
+ <path d="m2.485 6.96a11.419 11.419 0 0 0-1.162 0.073v7.513h11.906a11.419 11.419 0 0 0-10.744-7.586z" opacity=".15" style="paint-order:stroke markers fill"/>
+ <path d="m15.61 9.06a11.82 11.82 0 0 0-8.202 5.49h8.202z" opacity=".05" style="paint-order:stroke markers fill"/>
+ <circle cx="12.7" cy="6.08" r="1.323" fill="#fff" opacity=".5" style="paint-order:stroke markers fill"/>
 </svg>
