@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M7.5 1a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zm0 1C10.54 2 13 4.46 13 7.5S10.54 13 7.5 13 2 10.54 2 7.5 4.46 2 7.5 2zM7 4v3H4.75v1H8V4z" fill="#555555"/></svg>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m7.4629 2.2952e-5a7.5 7.5 0 0 0-7.4629 7.5 7.5 7.5 0 0 0 7.5 7.5 7.5 7.5 0 0 0 7.5-7.5 7.5 7.5 0 0 0-7.5-7.5 7.5 7.5 0 0 0-0.037109 0zm0.037109 2a5.5 5.5 0 0 1 5.5 5.5 5.5 5.5 0 0 1-5.5 5.5 5.5 5.5 0 0 1-5.5-5.5 5.5 5.5 0 0 1 5.5-5.5z" fill="#555555" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.0016" style="paint-order:markers stroke fill"/>
+ <rect x="8" y="4" width="1" height="5" rx=".5" ry=".5" fill="#555555" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.1198" style="paint-order:markers stroke fill"/>
+ <rect x="5" y="8" width="4" height="1" rx=".5" ry=".5" fill="#555555" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.1565" style="paint-order:markers stroke fill"/>
+</svg>
