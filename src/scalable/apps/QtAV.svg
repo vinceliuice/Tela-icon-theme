@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(4 4)">
+  <g transform="matrix(1.1739 0 0 1.1739 -.17391 -.17391)">
+   <path d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" fill="#5cd65c"/>
+  </g>
+  <path d="m28 11c-9.3885 0-17 7.6115-17 17s7.6115 17 17 17 17-7.6115 17-17-7.6115-17-17-17m-4 8 13.067 9-13.067 9z" fill="#ffffff"/>
+ </g>
+ <g transform="translate(1,1)"></g>
+ <g transform="translate(-1)"></g>
+</svg>
