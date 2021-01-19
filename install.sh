@@ -69,23 +69,25 @@ install_theme() {
   else
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
 
-    install -d "${THEME_DIR}"/{16,22,24}
+    install -d "${THEME_DIR}"/{16,22,24,symbolic}
 
     cp -r "${SRC_DIR}"/src/16/{actions,devices,places}                           "${THEME_DIR}/16"
     cp -r "${SRC_DIR}"/src/22/{actions,devices,places}                           "${THEME_DIR}/22"
     cp -r "${SRC_DIR}"/src/24/{actions,devices,places}                           "${THEME_DIR}/24"
+    cp -r "${SRC_DIR}"/src/symbolic/*                                            "${THEME_DIR}/symbolic"
 
     # Change icon color for dark theme
-    sed -i "s/#565656/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/actions/*
-    sed -i "s/#727272/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/{places,devices}/*
+    sed -i "s/#565656/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/actions/*.svg
+    sed -i "s/#727272/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/{places,devices}/*.svg
+    sed -i "s/#555555/#aaaaaa/g" "${THEME_DIR}"/symbolic/{actions,apps,categories,devices,emblems,emotes,mimetypes,places,status}/*.svg
 
     cp -r "${SRC_DIR}"/links/16/{actions,devices,places}                         "${THEME_DIR}/16"
     cp -r "${SRC_DIR}"/links/22/{actions,devices,places}                         "${THEME_DIR}/22"
     cp -r "${SRC_DIR}"/links/24/{actions,devices,places}                         "${THEME_DIR}/24"
+    cp -r "${SRC_DIR}"/links/symbolic/*                                          "${THEME_DIR}/symbolic"
 
     # Link the common icons
     ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
-    ln -sr "${STD_THEME_DIR}/symbolic"                                           "${THEME_DIR}/symbolic"
     ln -sr "${STD_THEME_DIR}/32"                                                 "${THEME_DIR}/32"
     ln -sr "${STD_THEME_DIR}/16/apps"                                            "${THEME_DIR}/16/apps"
     ln -sr "${STD_THEME_DIR}/16/mimetypes"                                       "${THEME_DIR}/16/mimetypes"
