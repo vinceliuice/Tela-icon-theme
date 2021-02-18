@@ -1,7 +1,6 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
  <rect x="6" y="12" width="52" height="42" rx="3" ry="3" fill="#4f4f4f"/>
  <circle cx="45" cy="43" r="16" fill="#1ea362"/>
- <circle cx="45" cy="43" r="13" opacity=".15"/>
  <path d="M37 47.436V51h3.564l9.001-9.001-3.564-3.564zm15.717-8.578a.945.945 0 0 0 0-1.348l-2.227-2.227a.945.945 0 0 0-1.348 0l-1.862 1.873 3.564 3.564z" fill="#fff"/>
  <path d="M9 12c-1.662 0-3 1.338-3 3v36c0 1.662 1.338 3 3 3h6V12H9z" fill="#fff" opacity=".15"/>
 </svg>

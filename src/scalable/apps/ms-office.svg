@@ -1,14 +1,7 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="b" x1="45.628" x2="45.628" y1="57.955" y2="12.461" gradientTransform="matrix(.26458 0 0 .26458 0 280.07)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(0 -280.07)">
   <g transform="matrix(1.0385 0 0 1.0385 -.32619 -11.098)" stroke-width=".92729">
    <circle cx="8.467" cy="288.53" r="6.879" fill="#e03f1a" style="paint-order:stroke markers fill"/>
-   <path d="m12.997 283.36a10.716 10.716 0 0 1 0.497 3.185 10.716 10.716 0 0 1-4.695 8.852 6.88 6.88 0 0 0 6.547-6.868 6.88 6.88 0 0 0-2.349-5.17z" fill="url(#b)" opacity=".25" style="paint-order:stroke markers fill"/>
   </g>
   <path d="M7.244 291.973c-1.24-.436-2.26-.797-2.264-.802-.005-.005-.006-.012-.003-.015.004-.003 1.025.114 2.27.26 1.717.202 2.059.263 2.066.25.014-.02.014-5.937 0-5.958-.015-.023-2.92.656-2.946.688-.013.018-.017.445-.017 2.031 0 1.592-.004 2.012-.017 2.022-.026.02-1.43.673-1.45.673-.014 0-.016-.518-.014-2.57l.004-2.57 1.772-.64 2.329-.841.556-.201 1.25.391c.688.216 1.258.396 1.268.402.014.008.017.717.017 3.468 0 3.278-.001 3.457-.024 3.469-.042.022-2.483.737-2.513.737-.016 0-1.044-.358-2.284-.794z" fill="#fff"/>
  </g>
