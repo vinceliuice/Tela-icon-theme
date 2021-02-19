@@ -1,13 +1,6 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="b" x1="28.1" x2="58" y1="40.028" y2="40.028" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
  <g transform="matrix(1.0385 0 0 1.0385 -1.2308 -1.2308)" stroke-width=".9273">
   <circle cx="32" cy="32" r="26" fill="#808080" style="paint-order:markers stroke fill"/>
-  <path d="m56 22.057a38.848 38.848 0 0 1-27.9 35.617 26 26 0 0 0 3.9 0.326 26 26 0 0 0 26-26 26 26 0 0 0-2-9.943z" fill="url(#b)" opacity=".25" style="paint-order:markers stroke fill"/>
  </g>
  <path d="m22 23 18 18-9 8.5v-35l9 8.5-18 16" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="2"/>
 </svg>
