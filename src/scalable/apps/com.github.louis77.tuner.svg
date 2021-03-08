@@ -1,0 +1,30 @@
+<svg id="Flamingo" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="9.2872" ry="9.2872" fill="#dd3f80" stroke-width="3.5095"/>
+ <path class="st7" d="m52.067 30h-40.183c-1.5643 0-2.8842-1.4-2.8842-3.1769v-7.6462c0-1.7231 1.271-3.1769 2.8842-3.1769h40.232c1.5643 0 2.8842 1.4 2.8842 3.1769v7.7c-0.04889 1.7231-1.3199 3.1231-2.9331 3.1231z" fill="#f9f9f9" stroke-width=".51305"/>
+ <g fill="none" stroke-miterlimit="10">
+  <g stroke="#abacae" stroke-width=".87044">
+   <line class="st8" x1="12.035" x2="12.035" y1="18.777" y2="27.056"/>
+   <line class="st8" x1="15.443" x2="15.443" y1="20.238" y2="25.595"/>
+   <line class="st8" x1="18.365" x2="18.365" y1="20.238" y2="25.595"/>
+   <line class="st8" x1="21.774" x2="21.774" y1="18.777" y2="27.056"/>
+   <line class="st8" x1="25.183" x2="25.183" y1="20.238" y2="25.595"/>
+   <line class="st8" x1="28.591" x2="28.591" y1="20.238" y2="25.595"/>
+   <line class="st8" x1="32" x2="32" y1="18.777" y2="27.056"/>
+   <line class="st8" x1="35.409" x2="35.409" y1="20.238" y2="25.595"/>
+   <line class="st8" x1="38.817" x2="38.817" y1="20.238" y2="25.595"/>
+   <line class="st8" x1="42.226" x2="42.226" y1="18.777" y2="27.056"/>
+   <line class="st8" x1="51.965" x2="51.965" y1="18.777" y2="27.056"/>
+   <line class="st8" x1="45.635" x2="45.635" y1="20.238" y2="25.595"/>
+   <line class="st8" x1="48.557" x2="48.557" y1="20.238" y2="25.595"/>
+  </g>
+  <line class="st9" x1="27.13" x2="27.13" y1="16.83" y2="29.49" stroke="#de3e80" stroke-width="1.0668"/>
+ </g>
+ <circle class="st10" cx="32" cy="42" r="8" fill="#f2f2f2" stroke-width=".45715"/>
+ <rect x="31" y="35" width="2" height="5" rx="1" ry="1" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="8" y="36" width="12" height="2" rx="1" ry="1" fill="#1a1a1a" style="paint-order:stroke fill markers"/>
+ <rect x="8" y="46" width="12" height="2" rx="1" ry="1" fill="#1a1a1a" style="paint-order:stroke fill markers"/>
+ <rect x="8" y="41" width="10" height="2" rx="1" ry="1" fill="#1a1a1a" style="paint-order:stroke fill markers"/>
+ <rect transform="scale(-1,1)" x="-56" y="36" width="12" height="2" rx="1" ry="1" fill="#1a1a1a" style="paint-order:stroke fill markers"/>
+ <rect transform="scale(-1,1)" x="-56" y="46" width="12" height="2" rx="1" ry="1" fill="#1a1a1a" style="paint-order:stroke fill markers"/>
+ <rect transform="scale(-1,1)" x="-56" y="41" width="10" height="2" rx="1" ry="1" fill="#1a1a1a" style="paint-order:stroke fill markers"/>
+</svg>

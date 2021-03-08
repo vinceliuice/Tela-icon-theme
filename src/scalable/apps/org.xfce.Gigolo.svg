@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient892" x1="-197.72" x2="-197.72" y1="263.86" y2="273.76" gradientTransform="matrix(.70713 -.70713 .70713 .70713 4.2301 -281.39)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m27.002 8.9845-14 0.00389c-1.1097 0-1.4927 1.0128-2.002 1.998v0.01368h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44.002c2.216 0 4-1.784 4-4v-28c0-2.216-1.784-4-4-4h-16.859c-0.04729-0.0032-0.09249-0.01387-0.14062-0.01368h-7.9961c-0.58584-0.94112-0.89074-2.002-2.002-2.002z" fill="#5294e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8619" style="paint-order:stroke fill markers"/>
+ <path d="m27.002 8.9845-14 0.00389c-1.1097 0-1.4927 1.0128-2.002 1.998v0.01368h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44.002c2.216 0 4-1.784 4-4v-28c0-2.216-1.784-4-4-4l-24.996-0.01368c-0.58584-0.94112-0.89074-2.002-2.002-2.002z" opacity=".18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8619" style="paint-order:stroke fill markers"/>
+ <rect x="8.9992" y="13.985" width="46.002" height="19" ry="2.0155" fill="#ffffff" stroke-width="3.7796" paint-order="markers stroke fill"/>
+ <rect x="14" y="9.9781" width="12" height="1.9994" ry="1.0016" opacity=".25" stroke-width="3.7796" paint-order="stroke markers fill"/>
+ <path d="m34 16-3 4h-25c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h52c2.216 0 4-1.784 4-4v-32c0-2.216-1.784-4-4-4z" fill="#5294e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <path d="m62.001 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="38.998" y="17.998" width="16" height="2" ry="1.0019" opacity=".25" stroke-width="3.904" style="paint-order:stroke markers fill"/>
+ <path d="m34.711 24a5.5 5.4286 0 0 0-5.406 4.4611 6.1875 6.1071 0 0 0-2.1565-0.38965 6.1875 6.1071 0 0 0-6.1875 6.1071 6.1875 6.1071 0 0 0 0.08057 0.94629 4.125 4.0714 0 0 0-1.4556-0.26772 4.125 4.0714 0 0 0-4.125 4.0714 4.125 4.0714 0 0 0 4.125 4.0714h26.125v-0.07421a3.4375 3.3929 0 0 0 2.75-3.3186 3.4375 3.3929 0 0 0-3.4375-3.3929 3.4375 3.3929 0 0 0-0.69018 0.07422 5.5 5.4286 0 0 0 0.0027-0.07422 5.5 5.4286 0 0 0-4.3372-5.304 5.5 5.4286 0 0 0 0.21216-1.4817 5.5 5.4286 0 0 0-5.5-5.4286z" fill="#ffffff"/>
+ <circle cx="25" cy="50.5" r="2.5" fill="#ffffff" opacity=".35"/>
+ <circle cx="32" cy="50.5" r="2.5" fill="#ffffff" opacity=".35"/>
+ <circle cx="39" cy="50.5" r="2.5" fill="#ffffff" opacity=".75"/>
+</svg>

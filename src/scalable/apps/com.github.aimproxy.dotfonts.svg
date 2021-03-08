@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter906" x="-.10493" y="-.11125" width="1.2099" height="1.2225" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.39246294"/>
+  </filter>
+ </defs>
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#263541" stroke-width=".92857"/>
+ <text x="3.7172852" y="13.053593" fill="#000000" filter="url(#filter906)" font-family="'URW Bookman'" font-size="12.432px" font-style="italic" font-weight="300" opacity=".15" stroke-width=".31081" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="3.7172852" y="13.053593" fill="#000000" font-family="'URW Bookman'" font-style="italic" font-weight="300" stroke-width=".31081">F</tspan></text>
+ <text x="3.7172852" y="12.699766" fill="#ffffff" font-family="'URW Bookman'" font-size="12.432px" font-style="italic" font-weight="300" stroke-width=".31081" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="3.7172852" y="12.699766" fill="#ffffff" font-family="'URW Bookman'" font-style="italic" font-weight="300" stroke-width=".31081">F</tspan></text>
+</svg>

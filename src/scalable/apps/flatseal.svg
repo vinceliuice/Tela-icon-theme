@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.34 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#ececec" stroke-width="3.5095"/>
+ <circle cx="32.017" cy="31.998" r="30" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.017" cy="31.998" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <path d="M 32,23.5 A 8.5,8.5 0 0 0 23.5,32 8.5,8.5 0 0 0 32,40.5 8.5,8.5 0 0 0 40.5,32 8.5,8.5 0 0 0 32,23.5 Z m 0,2.8333 A 5.6667,5.6667 0 0 1 37.6667,32 5.6667,5.6667 0 0 1 32,37.6667 5.6667,5.6667 0 0 1 26.3333,32 5.6667,5.6667 0 0 1 32,26.3333 Z" fill="#d59a79" stroke-width="1.4167" style="paint-order:normal"/>
+ <path d="m32 15a17 17 0 0 0-17 17 17 17 0 0 0 17 17h17.143l2.8574-3h-10.359a17 17 0 0 0 7.3594-14 17 17 0 0 0-17-17zm0 9.916a7.0833 7.0833 0 0 1 7.084 7.084 7.0833 7.0833 0 0 1-7.084 7.084 7.0833 7.0833 0 0 1-7.084-7.084 7.0833 7.0833 0 0 1 7.084-7.084z" fill="#666666" stroke-width="1.4167" style="paint-order:normal"/>
+</svg>

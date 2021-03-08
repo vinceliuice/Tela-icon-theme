@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b-6" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4" y="8" width="56" height="48" rx="8" ry="8" fill="#333333" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b-6)" stroke-width="1.5715"/>
+ <rect x="4" y="40" width="56" height="1" rx="0" ry="0" fill="#000000" opacity=".5" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <path d="m28 16.693a4.3077 4.3077 0 0 0-4.3077 4.3077 4.3077 4.3077 0 0 0 3.2308 4.1689v-2.3095a2.1538 2.1538 0 0 1-1.0769-1.8594 2.1538 2.1538 0 0 1 2.1538-2.1538 2.1538 2.1538 0 0 1 2.1539 2.1538 2.1538 2.1538 0 0 1-0.02154 0.29027l1.8173 1.4135a4.3077 4.3077 0 0 0 0.35758-1.7037 4.3077 4.3077 0 0 0-4.3077-4.3077zm0 4.3077 0.013 21 6.4489-8.6154h9.6923l-16.154-12.385z" fill="#1fb5f8" stroke-linejoin="round" stroke-width="2.1538"/>
+ <rect x="31.5" y="41" width="1" height="15" rx="0" ry="0" fill="#000000" opacity=".5" stroke-width="0" style="paint-order:stroke fill markers"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-color="#313131" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="5" x2="5" y1="6" y2="4" gradientTransform="translate(27,22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#E2E096" offset="0"/>
+   <stop stop-color="#F9F8D2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m54 53c0 2.991-2.121 5-5 5h-34c-2.878 0-5-2.009-5-5v-42c0-2.991 2.122-5 5-5h34c2.878 0 5 2.009 5 5z" fill="#cacbcf"/>
+ <path d="m51 11a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
+ <path d="m50 11a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#ffffff"/>
+ <path d="m17 11a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
+ <path d="m16 11a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#ffffff"/>
+ <path d="m14 39h-4v14c0 2.873 2.169 5 5 5h18v-9c-7.752-0.5-14.611-4.25-19-10z" fill="#949496"/>
+ <path d="m48 27.122c0 8.715-7.163 15.878-16 15.878s-16-7.163-16-15.878c0-8.958 7.163-16.122 16-16.122s16 7.164 16 16.122" fill="#49494c" fill-rule="evenodd"/>
+ <path d="M 18.292,17.277 25,12 39.387,42.27 45.873,36.775 Z" fill="#ffffff" fill-rule="evenodd" opacity=".1"/>
+ <use transform="translate(27,22)" width="100%" height="100%" fill="#1a1a1a" fill-rule="evenodd" xlink:href="#a"/>
+ <path d="m29.432 31.297a5.023 5.023 0 0 1-1.922-2.094l8.979-4.408a5.02 5.02 0 0 0-1.399-1.722l-5.657 8.223z" fill="#ffffff" fill-rule="evenodd" opacity=".1"/>
+ <path d="m32 30a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" fill="#85858a" fill-rule="evenodd"/>
+ <path d="m33 27a1 1 0 1 1-2 0 1 1 0 0 1 2 0" fill="url(#c)" fill-rule="evenodd"/>
+ <path d="m32 10c-9.388 0-17 7.61-17 17 0 9.388 7.612 17 17 17s17-7.612 17-17c0-9.39-7.612-17-17-17zm10.417 27.418a14.714 14.714 0 0 1-4.683 3.159 14.646 14.646 0 0 1-5.734 1.155c-1.99 0-3.92-0.388-5.734-1.155a14.714 14.714 0 0 1-4.683-3.16 14.67 14.67 0 0 1-4.317-10.417 14.676 14.676 0 0 1 4.316-10.417 14.658 14.658 0 0 1 4.684-3.16 14.632 14.632 0 0 1 5.734-1.155c1.99 0 3.92 0.39 5.734 1.157a14.655 14.655 0 0 1 4.683 3.158 14.676 14.676 0 0 1 4.317 10.417 14.673 14.673 0 0 1-4.316 10.418z" fill="#808080"/>
+ <path d="m25.298 50.578 12.326-15.323c0.176-0.205 0.282-0.468 0.282-0.755 0-0.643-0.533-1.165-1.191-1.165-0.293 0-0.562 0.102-0.77 0.276l-15.644 12.074a3.47 3.47 0 0 0-1.452 2.815c0 1.935 1.6 3.5 3.574 3.5a3.59 3.59 0 0 0 2.875-1.422z" fill="#ffffff"/>
+ <g transform="matrix(-1,0,0,1,44.75,49.25)" fill="#949496" fill-rule="evenodd">
+  <rect width="1" height="7" rx=".5"/>
+  <rect x="2" width="1" height="7" rx=".5"/>
+  <rect x="4" width="1" height="7" rx=".5"/>
+  <rect x="6" width="1" height="7" rx=".5"/>
+  <rect x="8" width="1" height="7" rx=".5"/>
+ </g>
+ <path d="m51 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
+ <path d="m50 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#ffffff"/>
+ <path d="m17 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#6a6a6a"/>
+ <path d="m16 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#ffffff"/>
+ <g transform="translate(-2,2)" stroke-linecap="square">
+  <circle cx="48" cy="48" r="14" fill="#ff8080" stroke-width="2.6272" style="paint-order:stroke fill markers"/>
+  <rect x="47" y="40" width="2" height="12" rx="1" ry="1" fill="#ffffff" stroke-width="1.4142" style="paint-order:stroke fill markers"/>
+  <circle cx="48" cy="55" r="1" fill="#ffffff" stroke-width="2" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

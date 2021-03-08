@@ -1,0 +1,15 @@
+<svg id="Flamingo" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="27" fill="#ff4b68" stroke-width=".9" style="paint-order:stroke markers fill"/>
+ <rect x="16" y="16" width="32" height="32" rx="2.6667" fill="#3d3d3d" stroke-width="1.3333" style="paint-order:normal"/>
+ <circle transform="rotate(-90)" cx="-42" cy="32" r="3" fill="#808080" stroke-width="1.5" style="paint-order:normal"/>
+ <path d="m35 42a3 3 0 0 0-0.40722-1.5h-2.5927a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h2.5957a3 3 0 0 0 0.40429-1.5z" fill="#ffffff" opacity=".25" stroke-width="1.5" style="paint-order:normal"/>
+ <circle transform="rotate(-90)" cx="-42" cy="22.407" r="3" fill="#808080" stroke-width="1.5" style="paint-order:normal"/>
+ <path d="m22.407 39a3 3 0 0 0-1.5 0.40722v2.5927a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-2.5957a3 3 0 0 0-1.5-0.40429z" fill="#ffffff" opacity=".25" stroke-width="1.5" style="paint-order:normal"/>
+ <circle transform="rotate(-90)" cx="-42" cy="41" r="3" fill="#808080" stroke-width="1.5" style="paint-order:normal"/>
+ <path d="m41 45a3 3 0 0 0 1.5-0.40722v-2.5927a1.5 1.5 0 0 0-1.5-1.5 1.5 1.5 0 0 0-1.5 1.5v2.5957a3 3 0 0 0 1.5 0.40429z" fill="#ffffff" opacity=".25" stroke-width="1.5" style="paint-order:normal"/>
+ <rect x="19" y="19" width="26" height="18" ry="1" fill="#202020" stroke-width="1.2928" style="paint-order:normal"/>
+ <ellipse cx="22.667" cy="42.667" r="2.6667" fill="#b0b0b0" stroke-width="1.3333" style="paint-order:normal"/>
+ <rect x="21" y="20" width="5" height="16" fill="#3af684" stroke-width="1.291" style="paint-order:normal"/>
+ <rect x="29" y="30" width="6" height="6" fill="#3af684" stroke-width="1.5" style="paint-order:normal"/>
+ <rect x="38" y="26" width="5" height="10" fill="#0eabe7" stroke-width="1.3363" style="paint-order:normal"/>
+</svg>
