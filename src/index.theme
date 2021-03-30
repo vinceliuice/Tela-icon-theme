@@ -406,7 +406,7 @@ Scale=3
 Size=16
 Type=Fixed
 
-[16@2x/status]
+[16@3x/status]
 Context=Status
 Scale=3
 Size=16
@@ -445,7 +445,7 @@ Scale=3
 Size=22
 Type=Fixed
 
-[22@2x/mimetypes]
+[22@3x/mimetypes]
 Context=MimeTypes
 Scale=3
 Size=22
