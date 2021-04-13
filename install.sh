@@ -12,6 +12,18 @@ readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orang
                          "pink" "purple" "red" "yellow" "manjaro" "ubuntu")
 readonly BRIGHT_VARIANTS=("" "dark")
 
+if command -v lsb_release &> /dev/null; then
+  Distributor_ID=$(lsb_release -i)
+  if [[ "${Distributor_ID}" == "Distributor ID:	elementary" ]]; then
+    ICON_VERION="elementary"
+  else
+    ICON_VERION="normal"
+  fi
+  echo -e "Install $ICON_VERION verion! ..."
+else
+  ICON_VERION="normal"
+fi
+
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
   printf "\n%s\n" "OPTIONS:"
@@ -63,6 +75,9 @@ install_theme() {
   if [ -z "${brightprefix}" ]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
+    if [ ${ICON_VERION} == 'elementary' ]; then
+      cp -r "${SRC_DIR}"/links/elementary/*                                      "${THEME_DIR}"
+    fi
     if [ -n "${colorprefix}" ]; then
       install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/scalable/*.svg   "${THEME_DIR}/scalable/places"
     fi
