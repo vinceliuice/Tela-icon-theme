@@ -14,7 +14,7 @@ readonly BRIGHT_VARIANTS=("" "dark")
 
 if command -v lsb_release &> /dev/null; then
   Distributor_ID=$(lsb_release -i)
-  if [[ "${Distributor_ID}" == "Distributor ID:	elementary" ]]; then
+  if [[ "${Distributor_ID}" == "Distributor ID:	elementary" || "${Distributor_ID}" == "Distributor ID:	Elementary" ]]; then
     ICON_VERION="elementary"
   else
     ICON_VERION="normal"
