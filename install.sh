@@ -19,7 +19,7 @@ if command -v lsb_release &> /dev/null; then
   else
     ICON_VERION="normal"
   fi
-  echo -e "Install $ICON_VERION verion! ..."
+  echo -e "Install $ICON_VERION version! ..."
 else
   ICON_VERION="normal"
 fi

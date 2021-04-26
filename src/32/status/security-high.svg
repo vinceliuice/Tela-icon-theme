@@ -1,0 +1,7 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.0833 0 0 1.0761 -1.3333 -1.1877)" stroke-width="3.7796">
+  <path d="m15.968 2.9622a33.986 30.683 0 0 0-11.968 1.9805v7.8805c0.056694 3.7172 0.2967 6.7957 2.0202 9.0692 2.0769 2.727 5.5277 5.1308 9.9781 7.0716 4.441-1.9352 7.9183-4.3446 9.9914-7.0716 1.7216-2.2734 1.9522-5.3519 2.0107-9.071v-7.8332a33.986 30.683 0 0 0-12.03-2.0259z" fill="#67d388" style="paint-order:markers stroke fill"/>
+  <path d="m16 2.9811v26c4.441-1.9352 7.9145-4.3446 9.9895-7.0716 1.7235-2.2734 1.9522-5.3519 2.0107-9.071v-7.8351a33.986 30.683 0 0 0-12-2.0221z" opacity=".1"/>
+ </g>
+ <path d="m20.975 11.1a0.99827 0.99921 0 0 0-0.68624 0.3005l-6.2814 6.2874-2.2888-2.291a0.99827 0.99921 0 1 0-1.4115 1.4128l2.9945 2.9974a0.99827 0.99921 0 0 0 1.4115 0l6.9872-6.9938a0.99827 0.99921 0 0 0-0.72523-1.7133z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ffffff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
