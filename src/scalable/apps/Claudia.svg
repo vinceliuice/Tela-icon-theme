@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Flamingo"
+   width="64"
+   height="64"
+   enable-background="new 0 0 1024 1024"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   viewBox="0 0 64 64"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#ff4b68"
+     stroke-width="0.9"
+     style="fill:#ef4360;fill-opacity:1;paint-order:stroke markers fill"
+     id="circle96963" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.7743;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="path103064"
+     cx="30.5"
+     cy="41.799999"
+     rx="7.5"
+     ry="4.2000008" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.95151;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect103214"
+     width="4.0909095"
+     height="21.700003"
+     x="33.909088"
+     y="20.1"
+     ry="0" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.28164;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="path216431"
+     cx="35.954536"
+     cy="20.1"
+     rx="2.0454547"
+     ry="2.1000004" />
+  <defs
+     id="defs31" />
+  <ellipse
+     cx="22.667"
+     cy="42.667"
+     r="2.6667"
+     fill="#b0b0b0"
+     stroke-width="1.3333"
+     style="paint-order:normal"
+     id="ellipse20" />
+  <g
+     transform="matrix(1.3,0,0,1.3,-567.28992,-750.44448)"
+     id="g59830">
+    <g
+       font-size="12.666px"
+       stroke-width="0.76923"
+       id="g59826">
+      <text
+         x="730.88"
+         y="132.19"
+         font-family="'Droid Sans'"
+         stroke-width="0.76923"
+         id="text59824" />
+    </g>
+  </g>
+</svg>
