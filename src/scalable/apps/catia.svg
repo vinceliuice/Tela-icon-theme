@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Flamingo"
+   width="64"
+   height="64"
+   enable-background="new 0 0 1024 1024"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   viewBox="0 0 64 64"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#ff4b68"
+     stroke-width="0.9"
+     style="fill:#ef4360;fill-opacity:1;paint-order:stroke markers fill"
+     id="circle216099" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.9091;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.27273,20.636363 c 4.70421,0 12.81317,14.545455 17.45457,14.545455"
+     id="path254867" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.71021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect218557"
+     width="7.272728"
+     height="7.2727289"
+     x="16"
+     y="17"
+     ry="2.2214527" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.71021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect254828"
+     width="7.272728"
+     height="7.2727289"
+     x="16"
+     y="27.181816"
+     ry="2.2214527" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.71021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect254830"
+     width="7.272728"
+     height="7.2727289"
+     x="40.72728"
+     y="31.545452"
+     ry="2.2214527" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.71021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect254832"
+     width="7.272728"
+     height="7.2727289"
+     x="40.72728"
+     y="40.727272"
+     ry="2.2214527" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.9091;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.27273,30.818183 c 4.70421,0 12.81317,14.545457 17.45457,14.545457"
+     id="path269959" />
+  <defs
+     id="defs31" />
+  <ellipse
+     cx="22.667"
+     cy="42.667"
+     r="2.6667"
+     fill="#b0b0b0"
+     stroke-width="1.3333"
+     style="paint-order:normal"
+     id="ellipse20" />
+  <g
+     transform="matrix(1.3,0,0,1.3,-567.28992,-750.44448)"
+     id="g59830">
+    <g
+       font-size="12.666px"
+       stroke-width="0.76923"
+       id="g59826">
+      <text
+         x="730.88"
+         y="132.19"
+         font-family="'Droid Sans'"
+         stroke-width="0.76923"
+         id="text59824" />
+    </g>
+  </g>
+</svg>
