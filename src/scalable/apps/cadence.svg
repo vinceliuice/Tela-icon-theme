@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Flamingo"
+   width="64"
+   height="64"
+   enable-background="new 0 0 1024 1024"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   viewBox="0 0 64 64"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31" />
+  <ellipse
+     cx="22.667"
+     cy="42.667"
+     r="2.6667"
+     fill="#b0b0b0"
+     stroke-width="1.3333"
+     style="paint-order:normal"
+     id="ellipse20" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#ff4b68"
+     stroke-width="0.9"
+     style="paint-order:stroke markers fill;fill:#ef4360;fill-opacity:1"
+     id="circle16921" />
+  <path
+     id="path217507"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.492728;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 36.971034,19.049685 c 0,2.23658 -4.971032,9.056985 -4.971032,9.056985 0,0 -4.971032,-6.820405 -4.971032,-9.056985 0,-2.23658 2.225603,-4.049685 4.971032,-4.049685 2.745425,0 4.971032,1.813105 4.971032,4.049685 z" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="path546959"
+     transform="matrix(1.4003391,0,0,1.4090909,-13.006781,-13.181818)"
+     d="m 32.139916,29.301505 1.758138,3.045185 1.758138,3.045185 -3.516277,0 -3.516276,0 1.758138,-3.045185 z" />
+  <path
+     id="path547063"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.492728;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 42.233324,45.548995 c -1.924903,-1.118288 -5.309346,-8.860441 -5.309346,-8.860441 0,0 8.355475,-0.92174 10.280377,0.196551 1.924907,1.118288 2.372548,3.964317 0.999835,6.356785 -1.372715,2.392469 -4.04596,3.425392 -5.970866,2.307105 z" />
+  <path
+     id="path547067"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.492728;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 16.795639,36.885099 c 1.924905,-1.118289 10.280381,-0.196547 10.280381,-0.196547 0,0 -3.384444,7.742149 -5.309349,8.860437 -1.924903,1.11829 -4.598149,0.08536 -5.970862,-2.3071 -1.372712,-2.392469 -0.925072,-5.2385 0.99983,-6.35679 z" />
+  <g
+     transform="matrix(1.3,0,0,1.3,-567.28992,-750.44448)"
+     id="g59830">
+    <g
+       font-size="12.666px"
+       stroke-width="0.76923"
+       id="g59826">
+      <text
+         x="730.88"
+         y="132.19"
+         font-family="'Droid Sans'"
+         stroke-width="0.76923"
+         id="text59824" />
+    </g>
+  </g>
+</svg>
