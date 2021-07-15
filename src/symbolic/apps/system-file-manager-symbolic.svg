@@ -1,12 +1,8 @@
-<svg width="16" height="16.003" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+<svg width="16" height="16.003" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <title>Paper Symbolic Icon Theme</title>
- <defs>
-  <filter color-interpolation-filters="sRGB">
-   <feBlend in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
  <g transform="translate(-604 -508)" fill="#555555">
-  <path d="m606 509s-1 0-1 1v1h7 1 6s0-1-1-1h-6l-1-1h-5z" color="#000000" enable-background="accumulate" style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"/>
-  <path d="m605 512c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-14zm5.25 2h3.5c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-3.5c-0.1385 0-0.25-0.1115-0.25-0.25v-0.5c0-0.1385 0.1115-0.25 0.25-0.25z"/>
+  <path d="m606 509s-1 0-1 1v1h14s0-1-1-1h-6l-1-1h-5z" color="#000000" enable-background="accumulate" style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"/>
  </g>
+ <path d="m2 4c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-12zm0 2h12v8h-12v-8z" fill="#555555" stroke-linecap="square" stroke-width="2" style="paint-order:fill markers stroke"/>
+ <rect x="5" y="7" width="6" height="2" rx="1" ry="1" fill="#555555" stroke-linecap="square" stroke-width="2" style="paint-order:fill markers stroke"/>
 </svg>
