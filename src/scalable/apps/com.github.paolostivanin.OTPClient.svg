@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="32" r="27" fill="#fa6e6e" stroke-width="1.1739"/>
+ <circle cx="32" cy="32" r="22" fill="#ffffff" stroke-width=".95652"/>
+ <path d="m32.006 14.391c-0.35234 0-3.2447-0.13289-6.069 1.2427-2.1611 1.0525-0.56385 4.2513 1.5728 3.1503 1.8736-0.96613 3.6743-0.87104 4.4961-0.87104 7.8651 0 14.087 6.2217 14.087 14.087 1.03e-4 7.8652-6.2219 14.087-14.087 14.087s-14.086-6.2214-14.087-14.087c-1.65e-4 -0.82082-0.09454-2.6219 0.87127-4.4962 1.1011-2.1368-2.0978-3.7339-3.1503-1.5728-1.375 2.8244-1.2422 5.7158-1.2421 6.0691 0.0019 9.7431 7.8653 17.609 17.609 17.609 9.7434 0 17.609-7.8652 17.609-17.609-1.27e-4 -9.7435-7.8653-17.609-17.609-17.609z" fill="#fa6e6e" stroke-width="1.1739"/>
+ <rect x="29.652" y="22.609" width="4.6957" height="18.783" ry="2.3478" fill="#65b5f7" stroke-width="1.1739" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(240)" x="-46.061" y="2.3215" width="4.6957" height="18.783" ry="2.3478" fill="#65b5f7" stroke-width="1.1739" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(120)" x="9.365" y="-53.105" width="4.6957" height="18.783" ry="2.3478" fill="#65b5f7" stroke-width="1.1739" style="paint-order:stroke fill markers"/>
+</svg>

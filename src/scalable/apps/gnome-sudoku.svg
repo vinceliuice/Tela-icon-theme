@@ -1,7 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(0 -280.07)">
-  <rect x="1.588" y="281.65" width="13.758" height="13.758" rx=".825" ry=".825" fill="#ac8fac" paint-order="markers stroke fill"/>
-  <rect x="2.646" y="282.71" width="11.642" height="11.642" rx=".265" ry=".265" fill="#fff" paint-order="markers stroke fill"/>
+  <rect x="1.588" y="281.65" width="13.758" height="13.758" rx="2.1171" ry="2.1171" fill="#ac8fac" paint-order="markers stroke fill"/>
+  <rect x="2.646" y="282.71" width="11.642" height="11.642" rx="1.0591" ry="1.0591" fill="#ffffff" paint-order="markers stroke fill"/>
   <path d="m10.451 282.71v3.681h-3.969v-3.681zm4.101 3.981v3.681h-3.969v-3.681zm-4.101 3.957v3.681h-3.969v-3.681zm-3.836-3.969v3.681h-3.969v-3.681z" opacity=".05" paint-order="markers stroke fill"/>
   <path d="m6.085 282.71h0.529v11.642h-0.529zm4.234 0h0.529v11.642h-0.529z" fill="#e6dae6" paint-order="markers stroke fill"/>
   <path d="m14.288 286.15v0.529h-11.642v-0.529zm0 4.233v0.529h-11.642v-0.529z" fill="#e6dae6" paint-order="markers stroke fill"/>

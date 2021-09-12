@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="30.583" r="27" fill="#f2f2f2" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.73077 0 0 .73077 8.6154 8.6154)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-54" y="-54" width="14" height="14" rx="7" ry="7" fill="#df82d9"/>
+  <path d="m8 38 8.4298-12.768 6.8422 11.851z" fill="#72acef"/>
+  <path d="m6 27 14-7v14z" fill="#4c95eb"/>
+  <path d="m8 17.849 14.988-3.0672-3.541 13.218z" fill="#3a8ae9"/>
+  <path d="M 14,9.2324 29.272,10.1492 22.43,22 Z" fill="#3074c3"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-48" y="-58" width="40" height="40" rx="20" ry="20" fill="#d761cf"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-56" y="-36" width="14" height="14" rx="7" ry="7" fill="#df82d9"/>
+  <g transform="matrix(1.3333 0 0 1.2727 8.6666 -2.3636)" fill="#ffffff">
+   <ellipse cx="26" cy="22" rx="4" ry="5"/>
+   <ellipse cx="30" cy="21" rx="4" ry="5"/>
+  </g>
+  <ellipse cx="45.5" cy="26" rx="1.5" ry="2" fill="#1b1b1b"/>
+  <path d="m50.598 36c-2.1846 0.5246-3.5292 2.2854-5.6848 2.7626-1.5514 0.30192-3.5934-0.97948-5.0466-0.26364-0.81314 0.40054-2.9228 1.4576-1.2209 2.14 0 0 1.0038 0.40464 2.2678 0.76656 1.264 0.36194 2.7302 0.77398 4.2788 0.51182 1.751-0.29646 3.1612-1.3102 4.356-2.2024 1.1948-0.89222 2.08-1.73 2.08-1.73 0.824-0.758 0.192-1.976-1.03-1.986z" fill-rule="evenodd" opacity=".6"/>
+  <ellipse cx="51.5" cy="24" rx="1.5" ry="2" fill="#1b1b1b"/>
+ </g>
+</svg>
