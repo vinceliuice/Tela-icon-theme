@@ -1,12 +1,10 @@
-<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
  </defs>
- <g class="ColorScheme-Text" transform="translate(4,-2)" color="#727272" fill="currentColor">
-  <path d="m8 7a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7zm0 2v5h5a5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 0.025391-0.5 5 5 0 0 1 4.9746-4.5z"/>
-  <g transform="translate(0,6)">
-   <path d="m3 8a5 5 0 0 0 5 5v-5z" opacity=".35"/>
-   <path d="m13 8a5 5 0 0 1-5 5v-5z" opacity=".75"/>
-  </g>
- </g>
+ <path d="m12 2a10 10 0 0 0-10 10 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 10 0 0 0-10-10zm0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z" class="ColorScheme-Text" fill="currentColor"/>
+ <path d="m6 12a6 6 0 0 0 6 6v-6z" opacity=".35" class="ColorScheme-Text" fill="currentColor"/>
+ <path d="m18 12a6 6 0 0 1-6 6v-6z" opacity=".5" class="ColorScheme-Text" fill="currentColor"/>
+ <path d="m6 12a6 6 0 0 1 6-6v6z" class="ColorScheme-Text" fill="currentColor"/>
+ <path d="m18 12a6 6 0 0 0-6-6v6z" opacity=".75" class="ColorScheme-Text" fill="currentColor"/>
 </svg>
