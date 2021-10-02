@@ -7,7 +7,9 @@ A flat colorful Design icon theme
 ## Installation
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
+
 eg.. to install noctis color variant `./install.sh noctis`
+
 
 |  OPTIONS: |                                                                               |
 |:----------|:------------------------------------------------------------------------------|
