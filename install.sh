@@ -161,7 +161,7 @@ while [ $# -gt 0 ]; do
 done
 
 # Default name is 'Tela'
-: "${NAME:=TelaNoctis}"
+: "${NAME:=Tela}"
 
 # By default, only the standard color variant is selected
 for color in "${colors[@]:-standard}"; do

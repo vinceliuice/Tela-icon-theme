@@ -23,6 +23,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | brown           | Brown color folder version            |
 | green           | Green color folder version            |
 | grey            | Grey color folder version             |
+| noctis          | Noctis color folder version           |
 | orange          | Orange color folder version           |
 | pink            | Pink color folder version             |
 | purple          | Purple color folder version           |
