@@ -2,8 +2,8 @@
  <title>Canvas icon theme</title>
  <defs>
   <linearGradient id="a" x1="13.229" x2="2.1167" y1="297" y2="280.07" gradientTransform="matrix(1.0714 0 0 1 -.60476 0)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#08857e" offset="0"/>
-   <stop stop-color="#77ecb5" offset="1"/>
+   <stop stop-color="#71e4f7" offset="0"/>
+   <stop stop-color="#a5ec77" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="translate(0 -280.07)">
