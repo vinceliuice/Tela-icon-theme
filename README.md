@@ -8,9 +8,6 @@ A flat colorful Design icon theme
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
-eg.. to install noctis color variant `./install.sh noctis`
-
-
 |  OPTIONS: |                                                                               |
 |:----------|:------------------------------------------------------------------------------|
 | -a        | Install all color versions                                                    |
@@ -26,7 +23,6 @@ eg.. to install noctis color variant `./install.sh noctis`
 | brown           | Brown color folder version            |
 | green           | Green color folder version            |
 | grey            | Grey color folder version             |
-| noctis          | Noctis color folder version           |
 | orange          | Orange color folder version           |
 | pink            | Pink color folder version             |
 | purple          | Purple color folder version           |
