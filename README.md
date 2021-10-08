@@ -3,7 +3,7 @@ A flat colorful Design icon theme
 
 ![Tela](../master/tela-dark.png)
 ![Tela](../master/tela-light.png)
-![Tela](../master/folders.png)
+
 ## Installation
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
