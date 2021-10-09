@@ -75,8 +75,8 @@ install_theme() {
   if [ -z "${brightprefix}" ]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
-    if [ ${ICON_VERION} == 'elementary' ]; then
-      cp -r "${SRC_DIR}"/links/elementary/*                                      "${THEME_DIR}"
+    if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
+      cp -r "${SRC_DIR}"/elementary/*                                            "${THEME_DIR}"
     fi
     if [ -n "${colorprefix}" ]; then
       install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/scalable/*.svg   "${THEME_DIR}/scalable/places"
