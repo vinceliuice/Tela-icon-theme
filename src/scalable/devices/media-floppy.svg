@@ -1,5 +1,5 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <rect transform="matrix(0 -1 -1 0 0 0)" x="-58" y="-58" width="52" height="52" rx="2.5" ry="2.5" fill="#4f4f4f"/>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-58" y="-58" width="52" height="52" rx="6" ry="6" fill="#4f4f4f"/>
  <rect x="12" y="30" width="40" height="24" rx="2.5" ry="2.5" fill="#fff"/>
  <path d="M12 48v3.5c0 1.384 1.115 2.5 2.5 2.5h35c1.384 0 2.5-1.116 2.5-2.5V48z" fill="#ffae3f"/>
  <path d="M20 6v17.5c0 1.386 1.114 2.5 2.5 2.5h27c1.384 0 2.5-1.114 2.5-2.5V6zm20 4h6c1.108 0 2 .892 2 2v8c0 1.108-.892 2-2 2h-6c-1.108 0-2-.892-2-2v-8c0-1.108.892-2 2-2z" fill="#fff" opacity=".75"/>
