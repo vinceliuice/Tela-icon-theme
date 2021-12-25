@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#f2f2f2" stop-color="#000000"/>
+ <g transform="translate(-.16255 -.54226)" fill="#ff8a2c">
+  <circle transform="rotate(-45)" cx="-.26327" cy="12.466" r="3.1749" stop-color="#000000"/>
+  <rect transform="rotate(-45)" x="-6.084" y="9.2915" width="6.3499" height="1.3229" rx=".66145" ry=".66145" stop-color="#000000"/>
+  <rect transform="rotate(75)" x="5.6059" y="-9.1526" width="6.3499" height="1.3229" rx=".66145" ry=".66145" stop-color="#000000"/>
+  <rect transform="rotate(195)" x="-16.516" y="-9.6207" width="6.3499" height="1.3229" rx=".66145" ry=".66145" stop-color="#000000"/>
+ </g>
+ <path d="m8.4668 5.8204a2.6461 2.6461 0 0 0-2.6461 2.6461 2.6461 2.6461 0 0 0 2.6461 2.6461 2.6461 2.6461 0 0 0 2.6455-2.6461 2.6461 2.6461 0 0 0-2.6455-2.6461zm0 1.6114a1.0347 1.0347 0 0 1 1.0347 1.0347 1.0347 1.0347 0 0 1-1.0347 1.0347 1.0347 1.0347 0 0 1-1.0354-1.0347 1.0347 1.0347 0 0 1 1.0354-1.0347z" fill="#ffffff" fill-opacity=".099" stroke-width=".67058"/>
+ <path d="m8.4668 6.3499a2.117 2.117 0 0 0-2.117 2.1163 2.117 2.117 0 0 0 2.117 2.117 2.117 2.117 0 0 0 2.1163-2.117 2.117 2.117 0 0 0-2.1163-2.1163zm0 1.2886a0.82766 0.82766 0 0 1 0.82766 0.82766 0.82766 0.82766 0 0 1-0.82766 0.82766 0.82766 0.82766 0 0 1-0.82841-0.82766 0.82766 0.82766 0 0 1 0.82841-0.82766z" fill="#ffffff" stroke-width=".68688"/>
+ <circle cx="8.4665" cy="8.4665" r="1.0583" color="#000000" display="block" fill="#2e57b1" overflow="visible" stroke-width=".67109" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+</svg>
