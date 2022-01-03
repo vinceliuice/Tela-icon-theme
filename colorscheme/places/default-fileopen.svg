@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }
+  </style>
+  <linearGradient id="c" x1="-197.1" x2="-196.91" y1="217.68" y2="219.36" gradientTransform="matrix(2.6724 -2.6724 2.6724 2.6724 .00076124 -1056.4)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path class="ColorScheme-Highlight" d="m27 10.996-13.998 0.003906c-1.1111 0-1.4937 1.0175-2.0039 2.0039h-2.9961a1.9955 1.9955 0 0 0-2.0039 1.9961v11h-1.998c-1.1076 0-2 0.89242-2 2v28c0 1.1076 0.89242 2 2 2h55.996c1.1076 0 2-0.89242 2-2v-17.961c2.6e-4 -0.013307 0.003906-0.02569 0.003906-0.039062v-15c0-1.1073-0.89658-2-2.0039-2h-1.998v-6a1.9955 1.9955 0 0 0-2.0039-2h-26.99c-0.58579-0.94104-0.8928-2.0039-2.0039-2.0039z" fill="currentColor"/>
+ <path d="m27 10.996-13.998 0.0039c-1.1111 0-1.4937 1.0175-2.0039 2.0039h-2.9961a1.9955 1.9955 0 0 0-2.0039 1.9961v11h22.252l1.75-3c0.55556-0.95616 0.89267-2.0039 2-2.0039v0.003912h25.998v-6a1.9955 1.9955 0 0 0-2.0039-2h-26.99c-0.58579-0.94104-0.8928-2.0039-2.0039-2.0039z" fill="#000000" opacity=".2"/>
+ <path d="m10.998 6.502c-1.3759 0-2.498 1.1241-2.498 2.5v16.998h1v-16.998c0-0.83923 0.65882-1.5 1.498-1.5h42c0.83923 0 1.498 0.66077 1.498 1.5v11.998h1v-11.998c0-1.3759-1.1221-2.5-2.498-2.5h-42z" fill="#000000" opacity=".1"/>
+ <path d="m10.998 7.002c-1.1076 0-1.998 0.89242-1.998 2v16.998h19.25l1.75-3c0.55556-0.95616 0.89267-2.0039 2-2.0039v0.003906h22.996v-11.998c0-1.1076-0.89047-2-1.998-2h-42z" fill="#ffffff"/>
+ <path d="m17 23c-0.55484 0-1.002 0.44621-1.002 1s0.44712 1 1.002 1h11.834l1.166-2h-13z" fill="#000000" opacity=".15" stroke-width="3.7793" style="paint-order:stroke markers fill"/>
+ <path d="m61.996 45.997-11.997 11.999h9.9992c1.1076 0 1.9978-0.8903 1.9978-1.9978z" fill="url(#c)" opacity=".1" stroke-width="3.7793" style="paint-order:stroke markers fill"/>
+ <rect x="15.998" y="11.001" width="31.999" height="1.9992" ry="1.0015" fill="#000000" opacity=".15" stroke-width="3.7793" style="paint-order:stroke markers fill"/>
+ <rect x="15.998" y="14.999" width="31.999" height="1.9992" ry="1.0015" fill="#000000" opacity=".15" stroke-width="3.7793" style="paint-order:stroke markers fill"/>
+ <rect x="15.998" y="19.002" width="31.999" height="1.9992" ry="1.0015" fill="#000000" opacity=".15" stroke-width="3.7793" style="paint-order:stroke markers fill"/>
+</svg>
