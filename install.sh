@@ -12,22 +12,11 @@ readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orang
                          "pink" "purple" "red" "yellow" "manjaro" "ubuntu")
 readonly BRIGHT_VARIANTS=("" "dark")
 
-if command -v lsb_release &> /dev/null; then
-  Distributor_ID=$(lsb_release -i)
-  if [[ "${Distributor_ID}" == "Distributor ID:	elementary" || "${Distributor_ID}" == "Distributor ID:	Elementary" ]]; then
-    ICON_VERION="elementary"
-  else
-    ICON_VERION="normal"
-  fi
-  echo -e "Install $ICON_VERION version! ..."
-else
-  ICON_VERION="normal"
-fi
-
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
+  printf "  %-25s%s\n"   "-c"       "Install colorshceme version for KDE plasma (folder color follow the colorscheme)"
   printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
   printf "  %-25s%s\n"   "-h"       "Show this help"
@@ -75,11 +64,10 @@ install_theme() {
   if [ -z "${brightprefix}" ]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
-    if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
-      cp -r "${SRC_DIR}"/elementary/*                                            "${THEME_DIR}"
-    fi
     if [ -n "${colorprefix}" ]; then
-      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/scalable/*.svg   "${THEME_DIR}/scalable/places"
+      install -m644 "${SRC_DIR}"/colors/color${colorprefix}/scalable/*.svg       "${THEME_DIR}/scalable/places"
+    elif [ "${colorscheme}" == "true" ]; then
+      install -m644 "${SRC_DIR}"/colorscheme/places/*.svg                        "${THEME_DIR}/scalable/places"
     fi
   else
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
@@ -116,7 +104,7 @@ install_theme() {
   fi
 
   if [ -n "${colorprefix}" ]; then
-    install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/16/*.svg           "${THEME_DIR}/16/places"
+    install -m644 "${SRC_DIR}"/colors/color${colorprefix}/16/*.svg              "${THEME_DIR}/16/places"
   fi
 
   ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@2x"
@@ -137,6 +125,10 @@ install_theme() {
 while [ $# -gt 0 ]; do
   if [[ "$1" = "-a" ]]; then
     colors=("${COLOR_VARIANTS[@]}")
+  elif [[ "$1" = "-c" ]]; then
+    colorscheme="true"
+    echo "Folder color will follow the colorscheme on KDE plasma ..."
+    shift
   elif [[ "$1" = "-d" ]]; then
     DEST_DIR="$2"
     shift
