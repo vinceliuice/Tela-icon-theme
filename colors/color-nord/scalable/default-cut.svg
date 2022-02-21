@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="-197.1" x2="-196.91" y1="217.68" y2="219.36" gradientTransform="matrix(1.6035 -1.6035 1.6035 1.6035 3.8025 -613.72)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="-197.1" x2="-196.91" y1="217.68" y2="219.36" gradientTransform="matrix(1.6035 -1.6035 1.6035 1.6035 22.8 -628.73)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <path d="m3.07 7.09c-0.177 0-0.237 0.162-0.318 0.318h-0.477a0.317 0.317 0 0 0-0.317 0.317v3.175c0 0.176 0.142 0.318 0.317 0.318h7.62a0.317 0.317 0 0 0 0.318-0.318v-3.175a0.317 0.317 0 0 0-0.318-0.317h-4.285c-0.093-0.15-0.141-0.318-0.317-0.318z" fill="#4d576a" style="paint-order:markers stroke fill"/>
+ <path d="m3.07 7.09c-0.177 0-0.237 0.162-0.318 0.318h-0.477a0.317 0.317 0 0 0-0.317 0.317v3.175c0 0.176 0.142 0.318 0.317 0.318h7.62a0.317 0.317 0 0 0 0.318-0.318v-3.175a0.317 0.317 0 0 0-0.318-0.317h-4.285c-0.093-0.15-0.141-0.318-0.317-0.318z" fill="#000000" opacity=".18" style="paint-order:markers stroke fill"/>
+ <rect x="2.434" y="7.884" width="7.303" height="3.016" ry=".159" fill="#f2f2f2" style="paint-order:markers stroke fill"/>
+ <path transform="scale(.26458)" d="m22.998 31c-0.66143 0-0.86088 0.62485-1.1973 1.2031l-0.69922 1.1973h-14.902c-0.66377 0-1.1992 0.5335-1.1992 1.1973v19.205c0 0.66377 0.53545 1.1973 1.1992 1.1973h33.604c0.66377 0 1.1992-0.5335 1.1992-1.1973v-12.605-6.5996-2.3984c0-0.66521-0.53792-1.1992-1.2031-1.1992h-16.801z" fill="#4d576a" stroke-width="3.7796" style="paint-order:markers stroke fill"/>
+ <rect x="3.228" y="7.249" width="1.905" height=".317" ry=".159" opacity=".25" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m41.002 47.799-7.2012 7.2012h6.002c0.6646 0 1.1992-0.53657 1.1992-1.2012v-6z" fill="url(#c)" opacity=".1" stroke-width="2.2678" style="paint-order:stroke markers fill"/>
+ <path d="m8.096 3.122c-0.176 0-0.236 0.161-0.317 0.317h-0.477a0.317 0.317 0 0 0-0.317 0.318v3.175c0 0.176 0.142 0.317 0.317 0.317h7.62a0.317 0.317 0 0 0 0.318-0.317v-3.175a0.317 0.317 0 0 0-0.318-0.318h-4.286c-0.093-0.149-0.141-0.317-0.317-0.317z" fill="#4d576a" style="paint-order:markers stroke fill"/>
+ <path d="m8.096 3.122c-0.176 0-0.236 0.161-0.317 0.317h-0.477a0.317 0.317 0 0 0-0.317 0.318v3.175c0 0.176 0.142 0.317 0.317 0.317h7.62a0.317 0.317 0 0 0 0.318-0.317v-3.175a0.317 0.317 0 0 0-0.318-0.318h-4.286c-0.093-0.149-0.141-0.317-0.317-0.317z" opacity=".18" style="paint-order:markers stroke fill"/>
+ <rect x="7.461" y="3.915" width="7.303" height="3.016" ry=".159" fill="#fff" style="paint-order:markers stroke fill"/>
+ <path transform="scale(.26458)" d="m11.604 26.797c-0.66899 0-0.89502 0.61351-1.2012 1.2031h-1.8047a1.1981 1.1981 0 0 0-1.1973 1.1973v4.2031h-1.2012c-0.66377 0-1.1992 0.5335-1.1992 1.1973v19.205c0 0.66377 0.53545 1.1973 1.1992 1.1973h33.604c0.66377 0 1.1992-0.5335 1.1992-1.1973v-12.605-6.5996-2.3984c0-0.66521-0.53792-1.1992-1.2031-1.1992h-1.1973v-1.8027a1.1981 1.1981 0 0 0-1.2031-1.1973h-16.195c-0.3515-0.56694-0.53206-1.2031-1.1973-1.2031h-8.4023z" fill="#ffffff" opacity=".35" stroke-width="3.7796" style="paint-order:markers stroke fill"/>
+ <path transform="scale(.26458)" d="m42.002 16v0.001953c-0.66521 0-0.86479 0.6285-1.2012 1.1992l-0.69922 1.1973h-14.902c-0.66377 0-1.1992 0.53545-1.1992 1.1992v19.203c0 0.66377 0.53545 1.1992 1.1992 1.1992h33.604c0.66377 0 1.1992-0.53545 1.1992-1.1992v-12.598-6.6055-2.4004c0-0.66143-0.53792-1.1973-1.2031-1.1973h-16.797z" fill="#4d576a" stroke-width="3.7796" style="paint-order:markers stroke fill"/>
+ <rect x="8.255" y="3.28" width="1.905" height=".317" ry=".159" opacity=".25" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m60 32.797-7.2012 7.2012h6.002c0.6646 0 1.1992-0.53657 1.1992-1.2012v-6z" fill="url(#d)" opacity=".1" stroke-width="2.2678" style="paint-order:stroke markers fill"/>
+</svg>

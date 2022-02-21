@@ -1,0 +1,21 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <title>Canvas icon theme</title>
+ <g transform="matrix(3.7795 0 0 3.7792 2.6317e-5 .0054569)">
+  <rect x=".52917" y="2.38" width="15.875" height="12.171" ry=".2646" fill="#6b7894" style="paint-order:stroke markers fill"/>
+  <g transform="translate(0,-280.07)">
+   <rect x="1.5875" y="282.71" width="1.0583" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="7.1437" y="282.71" width="2.6458" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="15.081" y="282.71" width=".52917" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="14.023" y="282.71" width=".79375" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="13.229" y="282.71" width=".52917" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
+  </g>
+  <path d="m3.9687 13.494c-0.29315 0-0.52916 0.23601-0.52916 0.52916v0.52916h10.054v-0.52916c0-0.29316-0.23601-0.52916-0.52916-0.52916z" fill="#ffffff" opacity=".35" stroke-width=".26458" style="paint-order:stroke markers fill"/>
+  <path d="m0.79374 2.3812c-0.14659 0-0.26458 0.11799-0.26458 0.26458v0.79374h15.875v-0.79374c0-0.14659-0.118-0.26458-0.26458-0.26458z" opacity=".35" stroke-width=".26458" style="paint-order:stroke markers fill"/>
+  <g fill="#c4c9d4">
+   <rect x="4.498" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="6.703" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="8.908" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="11.113" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+  </g>
+ </g>
+</svg>
