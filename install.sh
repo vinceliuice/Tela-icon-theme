@@ -11,6 +11,18 @@ readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange" "pink" "purple" "red" "yellow" "manjaro" "ubuntu" "nord")
 readonly BRIGHT_VARIANTS=("" "dark")
 
+if command -v lsb_release &> /dev/null; then
+  Distributor_ID=$(lsb_release -i)
+  if [[ "${Distributor_ID}" == "Distributor ID:	elementary" || "${Distributor_ID}" == "Distributor ID:	Elementary" ]]; then
+    ICON_VERION="elementary"
+  else
+    ICON_VERION="normal"
+  fi
+  echo -e "Install $ICON_VERION version! ..."
+else
+  ICON_VERION="normal"
+fi
+
 usage() {
 cat << EOF
 Usage: $0 [OPTION] | [COLOR VARIANTS]...
@@ -69,6 +81,9 @@ install_theme() {
   if [ -z "${brightprefix}" ]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
+    if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
+      cp -r "${SRC_DIR}"/elementary/*                                            "${THEME_DIR}"
+    fi
     if [ -n "${colorprefix}" ]; then
       install -m644 "${SRC_DIR}"/colors/color${colorprefix}/scalable/*.svg       "${THEME_DIR}/scalable/places"
     elif [ "${colorscheme}" == "true" ]; then
