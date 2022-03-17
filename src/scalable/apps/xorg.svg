@@ -1,6 +1,6 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <g transform="matrix(1.3 0 0 1.3 .8 -20)" stroke-width=".76923">
-  <rect x="4" y="20" width="40" height="40" rx="3" fill="#dae0e2"/>
+  <rect x="4" y="20" width="40" height="40" rx="6.1538" ry="6.1538" fill="#dae0e2"/>
   <g transform="translate(-384.57,-483.8)" font-size="12.666px">
    <text x="730.88" y="132.19" font-family="'Droid Sans'" stroke-width=".76923"/>
   </g>

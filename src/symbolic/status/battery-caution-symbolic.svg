@@ -1,4 +1,0 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path class="error" d="m10 1v1h3s-3e-5 0.446-3e-5 1v11c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-11c0-0.554 3e-5 -1 3e-5 -1h3v-1z" fill="#e74c3c" opacity=".35"/>
- <path class="error" d="m13 12v2c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-2z" fill="#e74c3c"/>
-</svg>
