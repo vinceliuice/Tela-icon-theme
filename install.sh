@@ -29,7 +29,7 @@ Usage: $0 [OPTION] | [COLOR VARIANTS]...
 
 OPTIONS:
   -a                       Install all color folder versions
-  -c                       Install circular folder version
+  -c                       Install plasma colorscheme folder version
   -d DIR                   Specify theme destination directory (Default: $HOME/.local/share/icons)
   -n NAME                  Specify theme name (Default: Tela)
   -h                       Show this help
