@@ -1,8 +1,6 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g paint-order="stroke markers fill">
-  <path d="M1.587 2.91h13.758v11.113H1.587z" fill="#698bcf"/>
-  <path d="M1.587 2.91l13.759 8.732V2.91z" opacity=".08"/>
-  <path d="m15.346 5.292-13.758 8.73h13.758z" fill="#fff" opacity=".15"/>
-  <path d="m10.319 8.467-4.234 2.645v-5.291z" fill="#fff"/>
- </g>
+ <rect x="1.5875" y="2.9104" width="13.758" height="11.112" rx="1.5878" ry="1.588" fill="#698bcf" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52914"/>
+ <path d="m15.346 5.2926-13.184 8.3657c0.26979 0.22365 0.6155 0.35901 0.99372 0.3638h10.623c0.87003-0.01102 1.5673-0.71465 1.5673-1.5875z" fill="#ffffff" opacity=".15" style="paint-order:stroke markers fill"/>
+ <path d="m3.1755 2.9104c-0.38617 0-0.73921 0.13674-1.0139 0.36431l13.184 8.3668v-7.1431c0-0.87974-0.70833-1.588-1.588-1.588z" fill="#000000" opacity=".08" style="paint-order:stroke markers fill"/>
+ <path d="m10.319 8.467-4.234 2.645v-5.291z" fill="#ffffff" style="paint-order:stroke markers fill"/>
 </svg>
