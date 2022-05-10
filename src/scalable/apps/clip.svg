@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="8" width="56" height="48" rx="7" ry="7" fill="#9960d2" stroke-width="4.4444" style="paint-order:stroke fill markers"/>
+ <circle cx="31.999" cy="29.968" r="14.001" fill="#ffffff" opacity=".3" stroke-width="1.5556"/>
+ <circle cx="31.999" cy="30.001" r="11.001" fill="#6746c3" stroke-width="1.2223"/>
+ <path d="m28.967 24.947c-0.55354 0.01011-0.99883 0.45704-0.99885 1.0105v8.0844c1.98e-4 0.80694 0.89967 1.2882 1.5713 0.8407l7.0752-4.0421c0.59988-0.40014 0.59988-1.2815 0-1.6816l-7.0752-4.0421c-0.16937-0.113-0.3689-0.17212-0.57247-0.1698z" color="#000000" color-rendering="auto" fill="#ffffff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.0107" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ <rect x="26" y="48" width="28" height="3.0002" rx="1.5001" ry="1.5001" fill="#ffffff" opacity=".25" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0001"/>
+ <rect x="10" y="48" width="19" height="3" rx="1.5" ry="1.5" fill="#6746c3" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6475"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="5" y="5" width="54" height="54" rx="9" ry="9" fill="#54de90" stroke-width="1.0384"/>
+ <path class="ColorScheme-Text" d="m30.131 14.009-13.148 30h4.0723l3.5684-8.1855h14.783l3.457 8.1855h4.1191l-12.756-30zm2.0391 3.6211c0.33975 1.026 2.1349 5.6802 5.3906 13.951l0.67383 1.5176h-12.428z" color="#eff0f1" fill="#ffffff"/>
+ <path class="ColorScheme-PositiveText" d="m14 46.991v3h36v-3z" color="#27ae60" fill="#ffffff" opacity=".5"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <rect transform="scale(1,-1)" x="8" y="-58" width="46" height="52" rx="4.9775" ry="4.9777" fill="#478aeb" stroke-width="3.7795"/>
+ <path d="m53.904 10.016c0.06425 0.3175 0.09827 0.6426 0.09827 0.9827v16.018a1.9919 1.9919 0 0 0 1.9918-1.9994v-12.998a1.9919 1.9919 0 0 0-1.9956-1.9994z" fill="#5ad85d" stroke-width="3.7796"/>
+ <path d="m54.002 23.016v17.001a1.9919 1.9919 0 0 0 1.9956-1.9994v-13.002a1.9919 1.9919 0 0 0-1.9956-1.9994z" fill="#ff584c" stroke-width="3.7796"/>
+ <path d="m54.002 37.016v15.999a1.9956 1.9956 0 0 0 1.9956-2.0032v-12a1.9919 1.9919 0 0 0-1.9956-1.9956z" fill="#ffce3d" stroke-width="3.7796"/>
+ <circle cx="31.002" cy="32.016" r="16" fill="#ffffff" opacity=".2" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9105"/>
+ <path d="m31.002 22.016c-2.7614 0-5 2.2386-5 5s2.2386 5 5 5 5-2.2386 5-5-2.2386-5-5-5zm0 2c1.6569 0 3 1.3431 3 3s-1.3431 3-3 3-3-1.3431-3-3 1.3431-3 3-3zm-5.1816 10c-1.561 0-2.8184 1.2573-2.8184 2.8184v5.1816h2v-6h12v6h2v-5.1816c0-1.5611-1.2573-2.8183-2.8184-2.8184z" fill="#ffffff"/>
+</svg>
