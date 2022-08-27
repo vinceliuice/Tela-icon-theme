@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.934 16.934" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.323" y="1.323" width="14.288" height="14.288" rx="7.144" ry="7.144" fill="#ffdcc2"/>
+ <ellipse transform="matrix(.97675 -.2144 .25781 .9662 0 0)" cx="8.6426" cy="5.9425" rx="4.4256" ry="1.5128" fill="#d47938" stroke-width=".35066" style="paint-order:markers stroke fill"/>
+ <ellipse transform="rotate(-2.393)" cx="11.517" cy="6.6449" rx="3.2999" ry="1.5082" fill="#d47938" stroke-width=".31228" style="paint-order:markers stroke fill"/>
+ <rect x="2.9105" y="2.9105" width="11.113" height="11.113" rx="5.5565" ry="5.5565" fill="#d47938" stroke-width=".77778"/>
+ <circle cx="5.804" cy="9.9608" r=".79378" fill="#000000" stroke-width=".11107" style="paint-order:markers stroke fill"/>
+ <circle cx="11.13" cy="9.9608" r=".79378" fill="#000000" stroke-width=".11107" style="paint-order:markers stroke fill"/>
+</svg>
