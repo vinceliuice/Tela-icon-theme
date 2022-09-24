@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.3229" y="2.1166" width="14.287" height="12.7" rx="1.5875" ry="1.5875" fill="#74c9d0" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52916"/>
+ <path d="m2.9104 2.1166c-0.87946 0-1.5875 0.70801-1.5875 1.5875v1.5875h14.287v-1.5875c0-0.87946-0.70801-1.5875-1.5875-1.5875h-11.112z" fill="#333" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52916"/>
  <g paint-order="stroke markers fill">
-  <path d="M1.587 5.292v9.26c0 .147.119.265.265.265h13.23a.264.264 0 0 0 .264-.265v-9.26H1.587z" fill="#74c9d0"/>
-  <path d="M1.852 2.117a.264.264 0 0 0-.265.264v2.91h13.759v-2.91a.264.264 0 0 0-.265-.264z" fill="#333"/>
   <path d="m4.895 2.117h1.852l1.058 1.587h-1.852zm0 3.175h1.852l1.058-1.588h-1.852zm5.159-3.175h1.852l1.059 1.587h-1.852zm0 3.175h1.852l1.059-1.588h-1.852z" fill="#fff"/>
  </g>
 </svg>

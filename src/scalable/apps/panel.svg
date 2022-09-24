@@ -1,22 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 8c-3.324 0-6 2.676-6 6v36c0 3.324 2.676 6 6 6h48c3.324 0 6-2.676 6-6v-36c0-3.324-2.676-6-6-6h-48zm0 1h48c2.77 0 5 2.23 5 5v36c0 2.77-2.23 5-5 5h-48c-2.77 0-5-2.23-5-5v-36c0-2.77 2.23-5 5-5z" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="3" y="9" width="58" height="46" rx="5" ry="5" fill="#fff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.925"/>
  <g stroke-width="3.7796">
-  <path d="m2.0032 45.998v-35.997c0-0.5556 0.44221-1.0016 0.99781-1.0016h58.002a0.99781 0.99781 0 0 1 0.99782 1.0016v36.001h-59.997z" fill="#fff" style="paint-order:markers stroke fill"/>
-  <path d="m3.001 56c-0.55403 0.0021-1.0037-0.44756-1.0016-1.0016v-8.9969h60.001v8.9969c0.002093 0.55255-0.44526 1.0016-0.99782 1.0016z" fill="#666" style="paint-order:stroke markers fill"/>
-  <path d="m2.0032 45.996v-36.995c0-0.5556 0.44221-1.0016 0.99781-1.0016h58.002c0.55256-4e-6 0.99991 0.44904 0.99782 1.0016v36.998h-0.99782v-36.042c0-0.52914-0.43465-0.95624-0.96758-0.95624h-56.067c-0.53168-0.0041906-0.9655 0.42455-0.96758 0.95624v36.042h-1.0016z" opacity=".1" style="paint-order:markers stroke fill"/>
-  <path d="m62.001 42.294a36.303 36.303 0 0 1-12.828 12.707h11.83a0.99781 0.99781 0 0 0 0.99782-1.0016z" opacity=".05" style="paint-order:markers stroke fill"/>
+  <path d="m2 46.002v3.998c0 3.324 2.676 6 6 6h48c3.324 0 6-2.676 6-6v-3.998h-60z" fill="#666" style="paint-order:stroke markers fill"/>
  </g>
- <g>
-  <path d="m10 48a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" opacity=".35" style="paint-order:fill markers stroke"/>
-  <g>
-   <rect x="40" y="49" width="16" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
-   <rect x="18" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
-   <rect x="24" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
-   <rect x="30" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
-  </g>
- </g>
- <path d="m32.002 14.502a13.002 13.002 0 0 0-13.002 13.002 13.002 13.002 0 0 0 13.002 12.998 13.002 13.002 0 0 0 13.002-13.002 13.002 13.002 0 0 0-13.002-13.002zm0 5.265a7.7331 7.7331 0 0 1 7.7331 7.7331 7.7331 7.7331 0 0 1-7.7331 7.7293 7.7331 7.7331 0 0 1-7.7331-7.7293 7.7331 7.7331 0 0 1 7.7331-7.7331z" fill="#ccc" opacity=".15" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m10 48a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="40" y="49" width="16" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="18" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="24" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="30" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
+ <path d="m32.002 14.502a13.002 13.002 0 0 0-13.002 13.002 13.002 13.002 0 0 0 13.002 12.998 13.002 13.002 0 0 0 13.002-13.002 13.002 13.002 0 0 0-13.002-13.002zm0 5.265a7.7331 7.7331 0 0 1 7.7331 7.7331 7.7331 7.7331 0 0 1-7.7331 7.7293 7.7331 7.7331 0 0 1-7.7331-7.7293 7.7331 7.7331 0 0 1 7.7331-7.7331z" fill="#ccc" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
  <g transform="matrix(3.7796 0 0 3.7796 -3.32e-7 -1067.6)" fill="#ccc" style="paint-order:stroke markers fill">
-  <path d="m8.467 286.83a2.91 2.91 0 0 0-2.91 2.91 2.91 2.91 0 0 0 2.91 2.911 2.91 2.91 0 0 0 2.91-2.91 2.91 2.91 0 0 0-2.91-2.91zm0 1.323a1.587 1.587 0 0 1 1.587 1.588 1.587 1.587 0 0 1-1.587 1.587 1.587 1.587 0 0 1-1.588-1.587 1.587 1.587 0 0 1 1.588-1.588z"/>
-  <path d="m7.938 285.64h1.058v1.852h-1.058zm0 6.35h1.058v1.852h-1.058zm4.63-2.778v1.058h-1.852v-1.058zm-6.35 0v1.058h-1.852v-1.058zm5.522 3.055-0.747 0.748-1.31-1.31 0.748-0.748zm-4.49-4.49-0.747 0.748-1.31-1.31 0.748-0.748zm-1.309 5.238-0.748-0.748 1.31-1.31 0.748 0.748zm4.49-4.49-0.748-0.748 1.31-1.31 0.748 0.748z"/>
+  <path d="m7.9379 285.64v1.2402a2.91 2.91 0 0 0-1.1208 0.46301l-0.8759-0.87641-0.74826 0.74774 0.87642 0.87642a2.91 2.91 0 0 0-0.46198 1.1208h-1.2412v1.0578h1.2412a2.91 2.91 0 0 0 0.4625 1.1203l-0.87693 0.87693 0.74826 0.74774 0.87693-0.87693a2.91 2.91 0 0 0 1.1198 0.4625v1.2418h1.0583v-1.2418a2.91 2.91 0 0 0 1.1198-0.4625l0.87693 0.87693 0.74723-0.74774-0.8759-0.87693a2.91 2.91 0 0 0 0.46198-1.1203h1.2418v-1.0578h-1.2397a2.91 2.91 0 0 0-0.46404-1.1203l0.87693-0.87694-0.74826-0.74774-0.87642 0.87641a2.91 2.91 0 0 0-1.1203-0.46352v-1.2397h-1.0583zm0.52916 2.513a1.587 1.587 0 0 1 1.587 1.588 1.587 1.587 0 0 1-1.587 1.587 1.587 1.587 0 0 1-1.588-1.587 1.587 1.587 0 0 1 1.588-1.588z"/>
  </g>
 </svg>
