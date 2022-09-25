@@ -2,7 +2,7 @@
   <defs>
     <style id="current-color-scheme" type="text/css">
       .ColorScheme-Text { color:#dfdfdf; }
-      .ColorScheme-Highlight { color:#5294e2; }
+      .ColorScheme-ActiveText { color:#5294e2; }
     </style>
   </defs>
  <path d="m8 5c0.61792 0.00131 1.22 0.19417 1.7246 0.55078l0.27539-0.55078 1 2h-2l0.26953-0.53906c-0.35718-0.29597-0.80566-0.45952-1.2695-0.46094-1.1046 0-2 0.89543-2 2h-1c0-1.6569 1.3431-3 3-3zm2 3h1c0 1.6569-1.3431 3-3 3-0.61802-0.001663-1.2201-0.19387-1.7246-0.55078l-0.27539 0.55078-1-2h2l-0.26953 0.53906c0.35718 0.29597 0.80566 0.45952 1.2695 0.46094 1.1046 0 2-0.89543 2-2z" class="ColorScheme-Text" fill="currentColor"/>

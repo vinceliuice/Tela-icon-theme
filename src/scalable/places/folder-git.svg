@@ -6,7 +6,7 @@
       .ColorScheme-Background{
         color:#ffffff;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-ActiveText {
         color:#5294e2;
       }</style>
   <linearGradient id="a" x1="-197.1" x2="-196.91" y1="217.68" y2="219.37" gradientTransform="matrix(2.6726 -2.6726 2.6726 2.6726 -.0085892 -1059.5)" gradientUnits="userSpaceOnUse">

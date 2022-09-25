@@ -2,7 +2,7 @@
   <defs>
     <style id="current-color-scheme" type="text/css">
       .ColorScheme-Text { color:#dfdfdf; }
-      .ColorScheme-Highlight { color:#5294e2; }
+      .ColorScheme-ActiveText { color:#5294e2; }
     </style>
   </defs>
  <path class="error" d="m5 5h1l2 2 2-2h1v1l-2 2 2 2v1h-1l-2-2-2 2h-1v-1l2-2-2-2z" fill="#e74c3c"/>

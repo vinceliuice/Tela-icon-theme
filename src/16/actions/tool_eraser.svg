@@ -1,7 +1,7 @@
 <svg width="16" height="16" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#565656; } .ColorScheme-ActiveText { color:#5294e2; }
   </style>
  </defs>
  <g transform="matrix(1.3131 0 0 1.3131 -3.2176 -3.4097)" style="fill:currentColor" class="ColorScheme-Text">

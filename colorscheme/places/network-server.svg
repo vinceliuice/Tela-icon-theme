@@ -3,12 +3,12 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#333333;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-ActiveText {
         color:#5294e2;
       }
   </style>
  </defs>
- <path class="ColorScheme-Highlight" d="m8 11c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h19v6h-19c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h19v6h-19c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h48c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-19v-6h19c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-19v-6h19c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-48z" fill="currentColor"/>
+ <path class="ColorScheme-ActiveText" d="m8 11c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h19v6h-19c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h19v6h-19c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h48c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-19v-6h19c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-19v-6h19c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-48z" fill="currentColor"/>
  <path d="M12 15h24v2H12z" fill="#ffffff"/>
  <ellipse cx="43" cy="16" rx="2" ry="2" fill="#ffffff"/>
  <ellipse cx="51" cy="16" rx="2" ry="2" fill="#ffffff"/>
