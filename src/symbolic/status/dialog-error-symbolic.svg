@@ -1,3 +1,4 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path class="error" d="m7.9998 0.99945c-3.866 0-7 3.1341-7 7 0 3.866 3.134 7 7 7s7-3.134 7-7c0-3.8659-3.134-7-7-7zm-1 2h2v6.0039h-2zm0 8.0039h2v1.9961h-2z" fill="#f44336"/>
+ <path d="m8 16a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-8 8zm0-2a6 6 0 0 0 6-6 6 6 0 0 0-6-6 6 6 0 0 0-6 6 6 6 0 0 0 6 6z" fill="#555555"/>
+ <rect transform="matrix(0,1,1,0,0,0)" x="7" y="4" width="2" height="8" fill="#555555" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5298" style="paint-order:stroke fill markers"/>
 </svg>

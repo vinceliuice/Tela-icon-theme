@@ -1,7 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1,0,0,-1,0,16)" fill="#555555">
-  <path d="m7 7h2v5h-2z"/>
-  <circle cx="8" cy="5" r="1" stroke-linecap="square" stroke-width="2" style="paint-order:fill markers stroke"/>
-  <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z"/>
- </g>
-</svg>
+dialog-warning-symbolic.svg
