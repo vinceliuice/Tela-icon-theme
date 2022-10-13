@@ -1,9 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
-  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#71a5e8"/>
-  <circle cx="8.4665" cy="288.54" r="3.1749" opacity=".15"/>
-  <circle cx="8.4665" cy="288.54" r="1.852" fill="#71a5e8"/>
-  <path d="m4.4978 284.57 4.4982 3.4362-1.059 1.058z" fill="#fff"/>
-  <path d="m12.435 292.51-4.4982-3.4402 1.059-1.059z" fill="#e6e6e6"/>
- </g>
+ <circle cx="8.466" cy="8.46" r="7.144" fill="#5294e2" style="paint-order:stroke markers fill"/>
+ <circle cx="8.466" cy="8.46" r="7.144" fill="#ffffff" opacity=".1" style="paint-order:stroke markers fill"/>
+ <path d="m8.466 5.2952a3.175 3.175 0 0 0-3.1749 3.1749 3.175 3.175 0 0 0 3.1749 3.1749 3.175 3.175 0 0 0 3.1749-3.1749 3.175 3.175 0 0 0-3.1749-3.1749zm0 1.3229a1.852 1.852 0 0 1 1.852 1.852 1.852 1.852 0 0 1-1.852 1.852 1.852 1.852 0 0 1-1.852-1.852 1.852 1.852 0 0 1 1.852-1.852z" fill="#000000" opacity=".15" style="paint-order:stroke markers fill"/>
+ <path d="m4.498 4.5 4.498 3.436-1.059 1.058z" fill="#ffffff" style="paint-order:stroke markers fill"/>
+ <path d="M 12.435,12.44 7.937,9 8.996,7.94 Z" fill="#e6e6e6" style="paint-order:stroke markers fill"/>
 </svg>

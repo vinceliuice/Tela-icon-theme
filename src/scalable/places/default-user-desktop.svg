@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x1="13.229" x2="2.1167" y1="297" y2="280.07" gradientTransform="matrix(1.0714 0 0 1 -.60476 0)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#66bcff" offset="0"/>
-   <stop stop-color="#b29aff" offset="1"/>
-  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Background {
+        color:#ffffff;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }</style>
  </defs>
- <g transform="matrix(3.7795 0 0 3.7792 -4.1634e-6 -1058.4)">
-  <rect x=".52917" y="282.45" width="15.875" height="12.171" ry=".2646" fill="url(#a)" style="paint-order:stroke markers fill"/>
-  <rect x="1.5875" y="282.71" width="1.0583" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="7.1437" y="282.71" width="2.6458" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="15.081" y="282.71" width=".52917" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="14.023" y="282.71" width=".79375" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="13.229" y="282.71" width=".52917" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m15 51c-1.108 0-2 0.89201-2 2v2h38v-2c0-1.108-0.89201-2-2-2z" fill="#fff" opacity=".35" style="paint-order:stroke markers fill"/>
-  <g fill="#ccdfff">
-   <rect x="4.4979" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
-   <rect x="6.7028" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
-   <rect x="8.9076" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
-   <rect x="11.112" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
-  </g>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m3 9c-0.55403 0-1 0.44597-1 1v3h60v-3c0-0.55403-0.44597-1-1-1z" opacity=".35" style="paint-order:stroke markers fill"/>
- </g>
+ <rect class="ColorScheme-Highlight" x="2" y="9" width="60" height="46" rx="4" ry="4" fill="currentColor"/>
+ <rect id="highlight" x="2" y="9" width="60" height="46" rx="4" ry="4" fill="#ffffff" opacity=".25"/>
+ <path class="ColorScheme-Background" d="m15.003 50.998c-1.1077 0-1.9999 0.89231-1.9999 1.9999v2.0019h37.999v-2.0019c0-1.1077-0.89231-1.9999-1.9999-1.9999z" fill="currentColor" opacity=".35"/>
+ <path class="ColorScheme-Highlight" d="m18.002 47c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm7.9961 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1z" fill="currentColor"/>
+ <path class="ColorScheme-Background" d="m18.002 47c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm7.9961 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1z" fill="currentColor" opacity=".65"/>
+ <path d="m6 9c-2.2153 0-3.9989 1.783-4 3.998h60c-0.001059-2.2151-1.7847-3.998-4-3.998z" opacity=".25"/>
+ <rect x="5.9991" y="9.9978" width="3.9987" height="1.9993" ry="1.0016" opacity=".35"/>
+ <rect x="27.002" y="9.9978" width="10" height="1.9993" ry="1.0016" opacity=".35"/>
+ <rect x="56.999" y="9.9978" width="1.9993" height="1.9993" ry="1.0016" opacity=".35"/>
+ <rect x="53.001" y="9.9978" width="3.0009" height="1.9993" ry="1.0016" opacity=".35"/>
+ <rect x="50" y="9.9978" width="1.9993" height="1.9993" ry="1.0016" opacity=".35"/>
 </svg>
