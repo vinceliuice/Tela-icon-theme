@@ -1,1 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="36.834" y1="56.066" x2="36.577" y2="8.126" gradientUnits="userSpaceOnUse"/></defs><g transform="translate(-1.23 -1.23) scale(.53846)" stroke-width="1.857"><g fill="#8e8e8e"><path d="M24 58h-2V6h2zM18 58h-2V6h2zM42 58h-2V6h2zM36 58h-2V6h2zM30 58h-2V6h2zM48 58h-2V6h2z"/><path d="M12 24v-2h40v2zM12 18v-2h40v2zM12 12v-2h40v2zM12 42v-2h40v2zM12 36v-2h40v2zM12 30v-2h40v2zM12 48v-2h40v2zM12 54v-2h40v2z"/></g><rect transform="matrix(0 -1 -1 0 0 0)" ry="2.5" rx="2.5" y="-50" x="-56" height="36" width="48" fill="#4f4f4f"/><path opacity=".4" fill="#40d85c" d="M41 14v12h-2V14zM41 28v6h-2v-6zM41 36v14h-2V36zM33 14v16h-2V14zM33 32v16h-2V32zM25 14v6h-2v-6zM25 22v6h-2v-6zM25 30v12h-2V30z"/><path d="M43.855 8a38.303 39.008 0 0 1 2.836 14.662A38.303 39.008 0 0 1 28.205 56H47.5c1.385 0 2.5-1.115 2.5-2.5v-43C50 9.115 48.885 8 47.5 8z" opacity=".25" fill="url(#b)"/></g></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect y="8" width="32" height="16" rx="2" ry="2" fill="#388e3c" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9568" style="paint-order:stroke fill markers"/>
+ <path d="m4.75 8v4.5l-1 1v1l1.5 1.5h19l3.5-4h2v-0.5h-2v-2l-4 4.5h-1.5l4-4.5v-1.5zm2.75 9-5 4v1.5l3-2v1l-3 2h2v0.5h1.5v-2c0-0.554 0.446-1 1-1h1.6992l1.8008-1.5h1.5l-1.8008 1.5h13.801c0.554 0 1 0.446 1 1v2h3.5v-1.5449l-3.5-4.4551h-1l-1-1z" fill="#ffffff" opacity=".15"/>
+ <circle cx="2" cy="10" r="1" fill="#fbc02d" stroke-width=".66667"/>
+ <circle cx="2" cy="10" r=".5" fill="#263238"/>
+ <circle cx="30" cy="10" r="1" fill="#fbc02d" stroke-width=".66667"/>
+ <circle cx="30" cy="10" r=".5" fill="#263238"/>
+ <circle cx="2" cy="22" r="1" fill="#fbc02d" stroke-width=".66667"/>
+ <circle cx="2" cy="22" r=".5" fill="#263238"/>
+ <circle cx="30" cy="22" r="1" fill="#fbc02d" stroke-width=".66667"/>
+ <circle cx="30" cy="22" r=".5" fill="#263238"/>
+ <g transform="translate(1)">
+  <rect x="2" y="12" width="7" height="7" rx="1" ry="1" fill="#263238" stroke-width=".33072"/>
+  <rect x="3" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="3" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="3" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+ </g>
+ <g transform="translate(10)">
+  <rect x="2" y="12" width="7" height="7" rx="1" ry="1" fill="#263238" stroke-width=".33072"/>
+  <rect x="3" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="3" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="3" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+ </g>
+ <g transform="translate(19)">
+  <rect x="2" y="12" width="7" height="7" rx="1" ry="1" fill="#263238" stroke-width=".33072"/>
+  <rect x="3" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="13" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="3" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="15" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="3" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="5" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+  <rect x="7" y="17" width="1" height="1" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7071" style="paint-order:stroke fill markers"/>
+ </g>
+ <rect x="7" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="9" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="11" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="13" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="15" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="17" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="19" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="21" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="23" y="22" width="1" height="2" rx="0" ry="0" fill="#fbc02d" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+</svg>
