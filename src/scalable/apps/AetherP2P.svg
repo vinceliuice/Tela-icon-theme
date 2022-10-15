@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#eb6c37" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8909" style="paint-order:stroke fill markers"/>
+ <path d="m32 9c-12.742 0-23 10.258-23 23s10.258 23 23 23 23-10.258 23-23-10.258-23-23-23zm0 4c10.526 0 19 8.474 19 19s-8.474 19-19 19-19-8.474-19-19 8.474-19 19-19z" fill="#ffffff" stroke-width=".85185"/>
+ <rect x="30" y="17" width="4" height="30" rx="2" ry="2" fill="#ffffff" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.2106" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(45)" x="43.255" y="-15" width="4" height="30" rx="2" ry="2" fill="#ffffff" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.2106" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(90)" x="30" y="-47" width="4" height="30" rx="2" ry="2" fill="#ffffff" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.2106" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(135)" x="-2" y="-60.255" width="4" height="30" rx="2" ry="2" fill="#ffffff" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.2106" style="paint-order:stroke fill markers"/>
+</svg>

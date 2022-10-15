@@ -1,0 +1,5 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#3f3f3f" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8909" style="paint-order:stroke fill markers"/>
+ <path d="M15.6875 18.8182V45H22.7955V38.25L25.1477 35.1818L31.0284 45H39.517L30.4659 30.4773L39.3125 18.8182H31.0284L23.1534 29.4034H22.7955V18.8182H15.6875ZM48 25H41V45H48V25Z" clip-rule="evenodd" fill="#F4F4F4" fill-rule="evenodd"/>
+ <circle cx="44.5" cy="20.5" r="3.5" fill="#FF6D00"/>
+</svg>
