@@ -2,6 +2,6 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
  </defs>
- <path class="ColorScheme-Text" d="m7 2a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 2a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm0 7a9 5 0 0 0-7 1.8672v2.1328h14v-2.1426a9 5 0 0 0-7-1.8574z" fill="currentColor"/>
- <path class="ColorScheme-Text" d="m11 2a4 4 0 0 0-0.86523 0.10742 5 5 0 0 1 1.4902 1.9961 2 2 0 0 1 1.375 1.8965 2 2 0 0 1-1.3828 1.8906 5 5 0 0 1-1.4922 2 4 4 0 0 0 0.875 0.10938 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm1.959 9.1289a9 4.5 0 0 1 2.041 1.3242v2.5469h0.93555 0.064453v-3.1445a9 5 0 0 0-3.041-0.72656z" class="ColorScheme-Text" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m12.5 8c2 0 2 3 0 3s-2-3 0-3zm0 4c2.5 0 2.5 1.5 2.5 1.5v0.5h-5v-0.5s0-1.5 2.5-1.5z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m2.5 2c-0.831 0-1.5 0.669-1.5 1.5v8.5c0 1.108 0.892 2 2 2h6v-0.5s0.022526-0.76375 0.54492-1.3906c0.031394-0.03767 0.066219-0.07334 0.10156-0.10938h-6.6465v-6h10v1.0488c0.55044 0.1056 1.0383 0.37927 1.373 0.75586 0.31245 0.3515 0.49765 0.7669 0.57812 1.1953h0.04883v-3c0-1.108-0.892-2-2-2h-5l-2-2h-3.5z" fill="currentColor"/>
 </svg>
