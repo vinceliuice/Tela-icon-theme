@@ -21,7 +21,7 @@
   <rect x="3.704" y="2.64" width="3.175" height=".529" rx=".2645" ry=".2645" opacity=".25"/>
   <path transform="scale(.26458)" d="m62 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2"/>
  </g>
- <g class="ColorScheme-Background" transform="matrix(2.7972 0 0 2.7972 9.7972 -773.01)" color="#ffffff" fill="currentColor">
+ <g class="ColorScheme-Background" transform="matrix(2.7972 0 0 2.7972 9.7972 -773.01)" fill="currentColor">
   <path d="m9.213 290.92a1.587 1.587 0 0 1-1.275 0.646 1.587 1.587 0 0 1-1.276-0.645 3.704 2.381 0 0 0-2.429 2.232h7.409a3.704 2.381 0 0 0-2.429-2.233z"/>
   <circle cx="7.938" cy="287.59" r="1.587"/>
   <path d="m6.35 287.59a1.587 2.646 0 0 0 1.587 2.646 1.587 2.646 0 0 0 1.588-2.646z"/>
