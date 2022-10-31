@@ -59,48 +59,63 @@ install_theme() {
   case "$1" in
     standard)
       local -r theme_color='#5294e2'
+      local -r theme_back_color='#ffffff'
       ;;
     black)
       local -r theme_color='#4d4d4d'
+      local -r theme_back_color='#ffffff'
       ;;
     blue)
       local -r theme_color='#5677fc'
+      local -r theme_back_color='#ffffff'
       ;;
     brown)
       local -r theme_color='#795548'
+      local -r theme_back_color='#ffffff'
       ;;
     green)
       local -r theme_color='#66bb6a'
+      local -r theme_back_color='#ffffff'
       ;;
     grey)
       local -r theme_color='#bdbdbd'
+      local -r theme_back_color='#666666'
       ;;
     orange)
       local -r theme_color='#ff9800'
+      local -r theme_back_color='#ffffff'
       ;;
     pink)
       local -r theme_color='#f06292'
+      local -r theme_back_color='#ffffff'
       ;;
     purple)
       local -r theme_color='#7e57c2'
+      local -r theme_back_color='#ffffff'
       ;;
     red)
       local -r theme_color='#ef5350'
+      local -r theme_back_color='#ffffff'
       ;;
     yellow)
       local -r theme_color='#ffca28'
+      local -r theme_back_color='#ffffff'
       ;;
     manjaro)
       local -r theme_color='#16a085'
+      local -r theme_back_color='#ffffff'
       ;;
     ubuntu)
       local -r theme_color='#fb8441'
+      local -r theme_back_color='#ffffff'
       ;;
     dracula)
       local -r theme_color='#44475a'
+      local -r theme_back_color='#f8f8f2'
       ;;
     nord)
       local -r theme_color='#4d576a'
+      local -r theme_back_color='#ffffff'
       ;;
   esac
 
@@ -133,7 +148,7 @@ install_theme() {
     if [[ "$1" != "standard" ]]; then
       sed -i "s/#5294e2/${theme_color}/g" "${THEME_DIR}/scalable/apps/"*.svg "${THEME_DIR}/scalable/places/"default-*.svg "${THEME_DIR}/16/places/"folder*.svg
       sed -i "/\ColorScheme-Highlight/s/currentColor/${theme_color}/" "${THEME_DIR}/scalable/places/"default-*.svg "${THEME_DIR}/16/places/"folder*.svg
-      sed -i "/\ColorScheme-Background/s/currentColor/#ffffff/" "${THEME_DIR}/scalable/places/"default-*.svg
+      sed -i "/\ColorScheme-Background/s/currentColor/${theme_back_color}/" "${THEME_DIR}/scalable/places/"default-*.svg
 
       if [[ "$1" == "dracula" ]]; then
         sed -i '/\id="shadow"/s/#000000/#bd93f9/' "${THEME_DIR}/scalable/apps/"*.svg "${THEME_DIR}/scalable/places/"default-*.svg
