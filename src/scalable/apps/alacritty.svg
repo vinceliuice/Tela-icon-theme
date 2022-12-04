@@ -1,7 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#1e3440" fill-rule="evenodd" stroke-width=".95985"/>
+ <rect x="10" y="10" width="44" height="44" rx="4" ry="4" fill="#ffffff" fill-rule="evenodd" opacity=".1" stroke-width=".81218"/>
  <g transform="matrix(1.1739 0 0 1.1739 3.8261 -14.957)">
-  <circle cx="24" cy="40" r="23" fill="#1e3440"/>
-  <circle cx="24" cy="40.001" r="19.593" fill="#fff" opacity=".1" stroke-width=".85188"/>
   <g clip-rule="evenodd" fill-rule="evenodd">
    <path d="m21.932 41.828-0.93164 2.1719 3 9 3-9-0.93164-2.1719z" enable-background="new" fill="#1fa3f7" style="paint-order:normal"/>
    <path d="m22 27-9 23h4l7-17 7 17h4l-9-23z" enable-background="new" fill="#f8901b" style="paint-order:normal"/>

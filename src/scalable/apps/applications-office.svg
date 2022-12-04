@@ -1,7 +1,5 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)">
-  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#3f51b5" style="paint-order:stroke markers fill"/>
-  <path d="M8.464 282.977a5.556 5.556 0 1 0 5.559 5.56l-.567-.567a5.027 5.027 0 0 0-4.43-4.43l-.562-.563z" fill="#fff" paint-order="stroke markers fill"/>
-  <path d="M5.292 292.238v-.53H9.79v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53z" fill="#ccc"/>
- </g>
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#3f51b5" stroke-width="1.0408" style="paint-order:markers stroke fill"/>
+ <path d="m3.7041 2.6458c-0.58631 0-1.0583 0.47201-1.0583 1.0583v9.5249c0 0.58631 0.47201 1.0583 1.0583 1.0583h9.5253c0.58631 0 1.0583-0.47201 1.0583-1.0583v-6.3499l-4.2333-4.2333zm7.9373 0 2.6463 2.6453v-1.587c0-0.58631-0.47201-1.0583-1.0583-1.0583z" fill="#ffffff" style="paint-order:markers stroke fill"/>
+ <path d="m5.292 11.907v-0.53h4.498v0.53zm0-1.323v-0.53h6.35v0.53zm0-1.323v-0.53h6.35v0.53zm0-1.323v-0.53h6.35v0.53z" fill="#cccccc"/>
 </svg>
