@@ -1,6 +1,6 @@
-<svg id="Flamingo" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="Flamingo" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#aaaaaa" stroke-width=".92857"/>
  <circle cx="89.087" cy="42.667" r="0" fill="#b0b0b0" stroke-width="1.3333" style="paint-order:normal"/>
- <circle cx="32" cy="32" r="27" fill="#aaaaaa" stroke-width=".9" style="paint-order:stroke markers fill"/>
  <rect x="16" y="16" width="32" height="32" rx="2.6667" fill="#3d3d3d" stroke-width="1.3333" style="paint-order:normal"/>
  <circle transform="rotate(-90)" cx="-42" cy="32" r="3" fill="#808080" stroke-width="1.5" style="paint-order:normal"/>
  <path d="m35 42a3 3 0 0 0-0.40722-1.5h-2.5927a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h2.5957a3 3 0 0 0 0.40429-1.5z" fill="#ffffff" opacity=".25" stroke-width="1.5" style="paint-order:normal"/>
