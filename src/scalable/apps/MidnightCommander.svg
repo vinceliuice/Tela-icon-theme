@@ -1,0 +1,11 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#005491" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26253"/>
+ <g fill="#ffffff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".45775" aria-label="M">
+  <path d="m3.7169 10.502h0.73056v-1.6973c0-0.39-0.065916-0.95028-0.10437-1.3348h0.021972l0.32409 0.95578 0.63169 1.7083h0.4669l0.6262-1.7083 0.32958-0.95578h0.027465c-0.043944 0.38451-0.10437 0.94479-0.10437 1.3348v1.6973h0.74155v-4.0703h-0.90085l-0.68113 1.9116c-0.082395 0.24718-0.1538 0.51634-0.24169 0.77451h-0.027465c-0.082394-0.25817-0.1593-0.52733-0.24718-0.77451l-0.69211-1.9116h-0.90085z"/>
+ </g>
+ <g fill="#ffffff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".45775" aria-label="C">
+  <path d="m11.381 10.576c0.53282 0 0.96676-0.20873 1.3018-0.59873l-0.43394-0.50535c-0.21423 0.2362-0.48338 0.40099-0.83493 0.40099-0.64268 0-1.0546-0.53282-1.0546-1.4172 0-0.87338 0.45592-1.4007 1.0711-1.4007 0.30761 0 0.5438 0.14282 0.75254 0.34056l0.42296-0.51634c-0.26366-0.27465-0.67014-0.52183-1.192-0.52183-1.0272 0-1.8896 0.78549-1.8896 2.1258 0 1.3568 0.83493 2.0928 1.8566 2.0928z"/>
+ </g>
+ <path d="m8.4665 1.5875v13.758h4.7624c1.1726 0 2.1166-0.94402 2.1166-2.1166v-9.5248c0-1.1726-0.94402-2.1166-2.1166-2.1166h-4.7624z" fill="#ffffff" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26253"/>
+ <rect x="2.6458" y="2.6458" width="11.641" height="11.641" rx="1.0583" ry="1.0583" fill="#ffffff" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-width=".22214"/>
+</svg>

@@ -1,11 +1,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
-  <path d="M1.587 282.977h13.758v11.113H1.587z" fill="#fff" stroke="#000" stroke-opacity=".098039" stroke-width=".265"/>
-  <path d="M1.587 282.977h13.758v11.113H1.587z" fill="#fff"/>
-  <path d="M2.381 283.771h12.171v9.525H2.381z" fill="#4985cc"/>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M12.678 26.002A36.125 36.125 0 0 0 9 26.23V50h37.668a36.125 36.125 0 0 0-33.99-23.998z" opacity=".15"/>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M55 33.22A36.125 36.125 0 0 0 29.932 50H55V33.22z" opacity=".15"/>
- </g>
+ <rect x="1.0583" y="2.1166" width="14.816" height="12.7" rx="1.852" ry="1.852" fill="#f2f2f2" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".29352"/>
+ <rect x="2.1166" y="3.1749" width="12.7" height="10.583" rx=".79373" ry=".79373" fill="#4985cc" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".24807"/>
+ <path d="m3.1501 7.0153a10.15 10.15 0 0 0-1.0335 0.064078v5.8848c0 0.43973 0.35401 0.79374 0.79373 0.79374h9.7894a10.15 10.15 0 0 0-9.5496-6.7426z" fill="#000000" opacity=".15" stroke-width=".28096" style="paint-order:stroke markers fill"/>
+ <path d="m14.816 8.2679a11.82 11.82 0 0 0-8.2019 5.49h7.4082c0.43973 0 0.79373-0.35401 0.79373-0.79374v-4.6963z" fill="#000000" opacity=".15" stroke-width=".32719" style="paint-order:stroke markers fill"/>
  <g transform="translate(-.13313 -.1713)" fill="#fff" opacity=".5" stroke-width=".26458">
   <path d="m5.1601 5.1983v1.852h0.52916v-1.3229h1.3229v-0.52916zm5.027 0v0.52916h1.3229v1.3229h0.52916v-1.852zm-5.027 5.027v1.852h1.852v-0.52916h-1.3229v-1.3229zm6.3499 0v1.3229h-1.3229v0.52916h1.852v-1.852z"/>
   <rect transform="rotate(45)" x="11.253" y="-2.4049" width=".52916" height="2.1166"/>
