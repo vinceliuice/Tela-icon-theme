@@ -1,14 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -1058.5)">
-  <rect x="-80" y="1058.5" width="64" height="64" ry="0" fill="none" opacity=".2"/>
-  <rect x="3" y="1067.5" width="58" height="46" ry="3.0666" fill="#37474f"/>
-  <g transform="matrix(1.0417 0 0 1.027 -1.3333 -29.473)" stroke-width=".96682">
-   <path d="m8 1072v37h48v-37z" fill="#a341b4"/>
-   <g fill-rule="evenodd">
-    <path d="m8 1072v37l22-37z" fill="#f4416b"/>
-    <path d="m56 1077.1-48 31.924h-1e-6 48z" fill="#8a5cd8"/>
-    <path d="m56 1099.3-48 9.7305h-1e-6 48z" fill="#46a9d6"/>
-   </g>
-  </g>
- </g>
+ <rect x="3" y="9" width="58" height="46" rx="6" ry="6" fill="#37474f"/>
+ <rect x="7" y="13" width="50" height="38" rx="2" ry="2" fill="#a341b4" stop-color="#000000" stroke-width="0"/>
+ <path d="m9 13c-1.108 0-2 0.892-2 2v34c0 0.4775 0.172 0.90879 0.44922 1.252l22.469-37.252h-20.918z" fill="#f4416b" fill-rule="evenodd"/>
+ <path d="m57 18.211-49.283 32.314c0.33345 0.28064 0.7561 0.45508 1.2246 0.46875h46.117c1.08-0.031511 1.9414-0.90621 1.9414-1.9941v-30.789z" fill="#8a5cd8" fill-rule="evenodd"/>
+ <path d="m57 41.006-48.898 9.7734c0.27112 0.13688 0.57287 0.2207 0.89844 0.2207h46c1.108 0 2-0.892 2-2v-7.9941z" fill="#46a9d6" fill-rule="evenodd"/>
 </svg>

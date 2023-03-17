@@ -1,11 +1,11 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="a" x1="32" x2="58" y1="32" y2="32" gradientTransform="matrix(-.26458 0 0 .26458 16.933 0)" gradientUnits="userSpaceOnUse">
    <stop offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx=".7079" ry=".7079" fill="#d05555" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#d05555" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
  <path d="m8.4665 1.5875v13.758h-6.1711c-0.39218 0-0.70795-0.31578-0.70795-0.70795v-12.342c0-0.39218 0.31578-0.70795 0.70795-0.70795z" fill="url(#a)" fill-rule="evenodd" opacity=".1" style="paint-order:fill markers stroke"/>
  <g transform="translate(0 -280.07)">
   <g fill="#fff">

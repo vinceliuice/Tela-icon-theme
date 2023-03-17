@@ -1,21 +1,23 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x1="13.229" x2="2.117" y1="297" y2="280.07" gradientTransform="matrix(.96429 0 0 1.1739 .30312 -330.25)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient9555-3" x1="14.679" x2="2.2933" y1="293.79" y2="282.98" gradientTransform="matrix(.99998 0 0 1.0434 -.0002301 -292.59)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#66bcff" offset="0"/>
    <stop stop-color="#b29aff" offset="1"/>
   </linearGradient>
  </defs>
- <g>
-  <rect x="1.3229" y="1.3229" width="14.287" height="14.287" ry="7.1436" fill="url(#a)" style="paint-order:stroke markers fill"/>
-  <path d="m8.4665 1.3229c-1.3783 0-2.6625 0.38744-3.7516 1.0583h7.5033c-1.0891-0.67088-2.3734-1.0583-3.7516-1.0583z" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="7.1436" y="1.5875" width="2.6458" height=".52916" ry=".26508" opacity=".35" style="paint-order:stroke markers fill"/>
- </g>
- <path transform="scale(.26458)" d="m12.785 50.998c1.9818 2.0044 4.2779 3.6942 6.8086 5h24.812c2.5307-1.3058 4.8268-2.9956 6.8086-5h-38.43z" fill="#fff" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
- <g fill="#ccdfff">
-  <rect x="4.498" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
-  <rect x="6.703" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
-  <rect x="8.908" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
-  <rect x="11.113" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+ <rect x="1.0583" y="2.1166" width="14.816" height="12.7" rx="1.3229" ry="1.3229" fill="url(#linearGradient9555-3)" stroke-width=".98684"/>
+ <rect x="1.8518" y="2.6458" width="13.229" height="1.0583" rx=".52915" ry=".52915" fill="#000000" opacity=".35" stop-color="#000000" stroke-width="0"/>
+ <rect x="2.1166" y="2.9104" width="1.058" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="7.144" y="2.9104" width="2.646" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="14.287" y="2.9104" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="13.229" y="2.9104" width=".794" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="12.435" y="2.9104" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="3.44" y="12.7" width="10.053" height="1.323" rx=".26458" ry=".26458" fill="#ffffff" opacity=".35" paint-order="markers stroke fill"/>
+ <g transform="translate(0 1.7225)" fill="#ccdfff">
+  <rect x="4.2333" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
+  <rect x="6.6145" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
+  <rect x="8.9956" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
+  <rect x="11.376" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
  </g>
  <path d="m8.467 4.763a0.794 0.794 0 0 0-0.265 1.54v0.84h-1.19a0.132 0.132 0 0 0-0.133 0.133v0.264c0 0.074 0.06 0.133 0.132 0.133h1.191v2.645a0.265 0.265 0 0 1-0.264 0.265h-0.133c-0.198 0-0.787-0.228-1.148-0.408-0.446-0.223-0.446-0.334-0.417-0.386 0.09-0.158 0.242-0.026 0.242-0.026s0.054-0.238-0.264-0.503c-0.107-0.088-0.328-0.2-0.397-0.265-0.139-0.128-0.136-0.264-0.212-0.264-0.098 0-0.317 0.483-0.317 0.794 0 0.31 0 0.653 0.264 0.793 0-0.12 0.106-0.264 0.265-0.185 0.073 0.037 0.427 0.273 0.815 0.517 0.574 0.36 1.444 0.47 1.83 0.991 0.388-0.52 1.257-0.63 1.831-0.991 0.388-0.244 0.745-0.473 0.815-0.517 0.13-0.08 0.265-0.08 0.265 0.185 0.265-0.14 0.265-0.484 0.265-0.793 0-0.31-0.246-0.794-0.344-0.794-0.072 0-0.047 0.136-0.186 0.264-0.07 0.065-0.29 0.177-0.396 0.265-0.319 0.265-0.265 0.503-0.265 0.503s0.152-0.132 0.242 0.026c0.03 0.052 0.029 0.164-0.417 0.386-0.36 0.18-0.95 0.408-1.148 0.408h-0.132a0.265 0.265 0 0 1-0.265-0.265v-2.645h1.19a0.132 0.132 0 0 0 0.133-0.133v-0.264c0-0.074-0.06-0.117-0.132-0.133h-1.19v-0.84a0.794 0.794 0 0 0-0.265-1.54m0 0.528a0.265 0.265 0 1 1 0 0.53 0.265 0.265 0 0 1 0-0.53z" opacity=".35"/>
 </svg>

@@ -1,68 +1,23 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="m" x1="13.229" x2="2.117" y1="297" y2="280.07" gradientTransform="matrix(4.0495 0 0 3.7796 -2.2867 -1058.5)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient9555" x1="14.679" x2="2.2933" y1="293.79" y2="282.98" gradientTransform="matrix(3.7795 0 0 3.9436 -.00086969 -1105.9)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#66bcff" offset="0"/>
    <stop stop-color="#b29aff" offset="1"/>
   </linearGradient>
-  <clipPath id="l">
-   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#g)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
-  </clipPath>
-  <clipPath id="k">
-   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#f)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
-  </clipPath>
-  <clipPath id="j">
-   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#e)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
-  </clipPath>
-  <clipPath id="i">
-   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#d)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
-  </clipPath>
-  <clipPath id="h">
-   <rect x=".529" y="282.45" width="15.875" height="12.171" ry=".265" fill="url(#c)" stroke-opacity=".039" stroke-width=".554" style="paint-order:stroke markers fill"/>
-  </clipPath>
  </defs>
- <linearGradient id="c">
-  <stop stop-color="#bec900" offset="0"/>
-  <stop stop-color="#9ec80a" offset=".3125"/>
-  <stop stop-color="#71b93d" offset=".5625"/>
-  <stop stop-color="#35a48f" offset=".75"/>
-  <stop stop-color="#018fca" offset="1"/>
- </linearGradient>
- <linearGradient id="d">
-  <stop stop-color="#c1cc00" offset="0"/>
-  <stop stop-color="#dfcd00" offset=".3125"/>
-  <stop stop-color="#f0cc00" offset=".5625"/>
-  <stop stop-color="#fd8c08" offset=".75"/>
-  <stop stop-color="#f25c13" offset="1"/>
- </linearGradient>
- <linearGradient id="e" x1="8" x2="24" y1="24" y2="8" gradientTransform="matrix(-.40404 -1.5079 1.5079 -.40404 34.508 61.886)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
- <linearGradient id="f" x1="394.57" x2="408.57" y1="523.8" y2="537.8" gradientTransform="translate(-442.1 -483.22)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#292c2f" offset="0"/>
-  <stop stop-color="#292c2f" stop-opacity=".035714" offset="1"/>
- </linearGradient>
- <linearGradient id="g" x1="400.57" x2="400.57" y1="536.8" y2="522.8" gradientTransform="matrix(.99946 0 0 .99953 -366.33 -499.08)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#eff0f1" offset="0"/>
-  <stop stop-color="#fcfcfc" offset="1"/>
- </linearGradient>
- <rect x="1.9994" y="9.0481" width="60.001" height="46.002" ry="1.0016" fill="url(#m)" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
- <path transform="matrix(3.7796,0,0,3.7796,2.7607e-8,-1058.5)" d="m0.553 283.51h2.887v11.113h-2.887" clip-path="url(#l)" fill="#9ab9dd"/>
- <path transform="matrix(3.7796,0,0,3.7796,2.7607e-8,-1058.5)" d="m3.44 283.51h2.886v11.113h-2.886" clip-path="url(#k)" fill="#9add9c"/>
- <path transform="matrix(3.7796,0,0,3.7796,2.7607e-8,-1058.5)" d="m6.326 283.51h4.33v11.113h-4.33" clip-path="url(#j)" fill="#f3f284"/>
- <path transform="matrix(3.7796,0,0,3.7796,2.7607e-8,-1058.5)" d="m10.655 283.51h2.887v11.113h-2.887" clip-path="url(#i)" fill="#edb968"/>
- <path transform="matrix(3.7796,0,0,3.7796,2.7607e-8,-1058.5)" d="m13.542 283.51h2.886v11.113h-2.886" clip-path="url(#h)" fill="#ed8e68"/>
- <g stroke-width="3.7796">
-  <rect x="5.9982" y="10.031" width="3.9988" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="27.001" y="10.031" width="10.001" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="57" y="10.031" width="1.9994" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="53.001" y="10.031" width="3.001" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="50" y="10.031" width="1.9994" height="1.9994" ry="1.0016" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="4" y="7.9999" width="55.999" height="48.001" rx="5" ry="5" fill="url(#linearGradient9555)" stroke-width="3.7299"/>
+ <rect x="6.9991" y="10" width="50" height="4" rx="2" ry="2" fill="#000000" opacity=".35" stop-color="#000000" stroke-width="0"/>
+ <rect x="7.9999" y="11" width="3.9988" height="1.9994" ry="1.0016" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect x="27.001" y="11" width="10.001" height="1.9994" ry="1.0016" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect x="53.999" y="11" width="1.9994" height="1.9994" ry="1.0016" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect x="50" y="11" width="3.001" height="1.9994" ry="1.0016" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect x="46.999" y="11" width="1.9994" height="1.9994" ry="1.0016" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect x="13.002" y="48.001" width="37.996" height="5.0004" rx="1" ry="1" fill="#ffffff" opacity=".35" stroke-width="3.7796" paint-order="markers stroke fill"/>
+ <g transform="matrix(3.7796 0 0 3.7796 0 6.5104)" fill="#ccdfff">
+  <rect x="4.2333" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
+  <rect x="6.6145" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
+  <rect x="8.9956" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
+  <rect x="11.376" y="10.448" width="1.323" height="1.323" rx=".26433" ry=".26433" style="paint-order:stroke markers fill"/>
  </g>
- <g fill="#fff" stroke-width="3.7796">
-  <path d="m15.002 51.039c-1.1077 0-2 0.89233-2 2v2.0098h38v-2.0098c0-1.1077-0.89233-2-2-2h-34z" opacity=".35" style="paint-order:stroke markers fill"/>
-  <rect x="17.001" y="48.053" width="5.0004" height="5.0004" ry=".49891" style="paint-order:stroke markers fill"/>
-  <rect x="25.335" y="48.053" width="5.0004" height="5.0004" ry=".49891" style="paint-order:stroke markers fill"/>
-  <rect x="33.669" y="48.053" width="5.0004" height="5.0004" ry=".49891" style="paint-order:stroke markers fill"/>
-  <rect x="42.003" y="48.053" width="5.0004" height="5.0004" ry=".49891" style="paint-order:stroke markers fill"/>
- </g>
- <path d="m3.001 9.048a0.99781 0.99781 0 0 0-1.0016 1.0016v2.9972h60.001v-2.9972a0.99781 0.99781 0 0 0-0.99781-1.0016z" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
  <path d="m40.452 23.008a2.25 10.125 44.998 0 0-8.3756 5.735 2.25 10.125 44.998 0 0-3.9857 4.6275c1.2105 0.38547 2.1545 1.3295 2.5399 2.5401a2.25 10.125 44.998 0 0 4.6272-3.986 2.25 10.125 44.998 0 0 5.5676-8.7497 2.25 10.125 44.998 0 0-0.37351-0.16701m-12.952 11.989c-4.4998 1.2058-1.125 4.0545-4.4998 6.0031 4.5036 0 6.7497-2.251 6.7497-3.753 0-0.74802 0.07599-2.1257-2.2499-2.2501z" fill="#fff"/>
 </svg>

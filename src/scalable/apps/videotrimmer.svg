@@ -1,8 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <circle cx="32" cy="32" r="27" fill="#4f4f4f" stroke-width="1.1739"/>
- <g transform="matrix(1.7747 0 0 1.7747 -24.79 -24.79)" stroke-linejoin="round" stroke-opacity=".54328">
-  <path d="m16.786 21.435v21.13h30.427v-21.13zm6.9964 1.1739h2.3478v2.3478h-2.3478zm4.6956 0h2.3478v2.3478h-2.3478zm4.6956 0h2.3478v2.3478h-2.3478zm4.6956 0h2.3478v2.3478h-2.3478zm-14.087 16.435h2.3478v2.3478h-2.3478zm4.6956 0h2.3478v2.3478h-2.3478zm4.6956 0h2.3478v2.3478h-2.3478zm4.6956 0h2.3478v2.3478h-2.3478z" fill="#5397e9" stroke-width="1.917"/>
-  <path d="m16.786 26.13v11.739h8.1703v-11.739zm10.518 0v11.739h9.3912v-11.739zm11.739 0v11.739h8.1703v-11.739z" fill="#ffffff" stroke-width="2.2385"/>
-  <path d="m21.435 17.913v28.174h4.6956v-2.3478h-2.3478v-23.478h2.3478v-2.3478zm16.435 0v2.3478h2.3478v23.478h-2.3478v2.3478h4.6956v-28.174z" fill="#f9e37d" stroke-width="2.3478"/>
- </g>
+ <rect x="5" y="13" width="54" height="38" rx="3.121" ry="3.121" fill="#5397e9" stop-color="#000000" stroke-width="0"/>
+ <path d="m16 15v5h5v-5zm9 0v5h5v-5zm9 0v5h5v-5zm9 0v5h5v-5zm-27 28v5h5v-5zm9 0v5h5v-5zm9 0v5h5v-5zm9 0v5h5v-5z" fill="#4f4f4f" stop-color="#000000" stroke-width="0"/>
+ <path d="m5 22v19h13c0.554 0 1-0.446 1-1v-17c0-0.554-0.446-1-1-1zm20 0c-0.554 0-1 0.446-1 1v17c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-17c0-0.554-0.446-1-1-1zm21 0c-0.554 0-1 0.446-1 1v17c0 0.554 0.446 1 1 1h13v-19z" fill="#ffffff" stop-color="#000000" stroke-width="0"/>
+ <path d="m18 7c-2.77 0-5 2.23-5 5v40c0 2.77 2.23 5 5 5h4v-4h-4c-0.554 0-1-0.446-1-1v-40c0-0.554 0.446-1 1-1h4v-4h-4zm24 0v4h4c0.554 0 1 0.446 1 1v40c0 0.554-0.446 1-1 1h-4v4h4c2.77 0 5-2.23 5-5v-40c0-2.77-2.23-5-5-5h-4z" fill="#f9e37d" stop-color="#000000" stroke-width="0"/>
 </svg>

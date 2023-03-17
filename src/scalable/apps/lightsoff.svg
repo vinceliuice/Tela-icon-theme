@@ -1,6 +1,4 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="matrix(1.04 0 0 1.04 -.339 -291.61)" stroke-width=".962" paint-order="markers stroke fill">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx=".794" ry=".794" fill="#4d4d4d"/>
-  <path d="M14.287 281.919c.44 0 .794.354.794.794v5.82H8.467v-6.614zM2.646 295.148a.792.792 0 0 1-.794-.794v-5.82h6.615v6.614z" fill="#1f8fd7"/>
- </g>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#4d4d4d" stop-color="#000000" stroke-width="0"/>
+ <path d="m8.4665 1.5875v6.877h6.8785v-4.782c-0.011643-1.1625-0.95079-2.0949-2.1161-2.0949h-4.7624zm-6.879 6.878v4.7634c0 1.1506 0.90913 2.0805 2.051 2.1151h4.828v-6.8785h-6.879z" fill="#1f8fd7" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
 </svg>
