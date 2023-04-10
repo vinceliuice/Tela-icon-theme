@@ -4,6 +4,9 @@
 
 A flat, colorful icon theme
 
+![Tela-dark](tela-dark.png)
+![Tela-light](tela-light.png)
+
 ## Donate
 
 If you like my project, you can buy me a coffee:
