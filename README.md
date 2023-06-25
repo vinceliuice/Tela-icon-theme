@@ -1,6 +1,5 @@
 ## Tela Icon Theme
-![Discord](https://img.shields.io/discord/953321802124378202?logo=discord)
-![Twitter Follow](https://img.shields.io/twitter/follow/vinceliuice)
+<span class="paypal"><a href="https://twitter.com/intent/follow?screen_name=vinceliuice" title="Twitter Follow"><img src="https://img.shields.io/twitter/follow/vinceliuice"/></a></span>
 
 A flat, colorful icon theme
 
