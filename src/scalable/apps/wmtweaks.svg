@@ -1,12 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <path d="m16.404 4.7619-15.874 1e-3v8.2428c0.021784 0.86019 0.72081 1.5461 1.5864 1.5461h12.7c0.87946 0 1.5875-0.70802 1.5875-1.5875z" fill="#f2f2f2"/>
- <path d="m2.1166 2.3812c-0.87946 0-1.5875 0.70802-1.5875 1.5875v0.79322h15.875v-0.79322c0-0.87945-0.70801-1.5875-1.5875-1.5875z" fill="#666666"/>
- <rect x="4.233" y="6.879" width="8.467" height=".529" ry=".265" opacity=".35" paint-order="stroke markers fill"/>
- <circle cx="10.054" cy="7.143" r="1.058" fill="#308fcf" paint-order="stroke markers fill"/>
- <rect x="4.233" y="11.112" width="8.467" height=".529" ry=".265" opacity=".35" paint-order="stroke markers fill"/>
- <circle cx="6.615" cy="11.377" r="1.587" opacity=".15" paint-order="markers stroke fill"/>
- <circle cx="6.615" cy="11.377" r="1.058" fill="#308fcf" paint-order="markers stroke fill"/>
- <rect x="14.155" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" paint-order="stroke markers fill"/>
- <rect x="12.567" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" paint-order="stroke markers fill"/>
- <rect x="10.98" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" paint-order="stroke markers fill"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><path fill="#f2f2f2" d="M16.404 4.762H.53v8.244c.022.86.72 1.546 1.586 1.546h12.7c.88 0 1.588-.708 1.588-1.588z"/><path fill="#666" d="M2.117 2.381c-.88 0-1.588.708-1.588 1.588v.793h15.875v-.793c0-.88-.708-1.588-1.587-1.588z"/><rect width="8.467" height=".529" x="4.233" y="6.879" opacity=".35" paint-order="stroke markers fill" ry=".265"/><circle cx="10.054" cy="7.143" r="1.058" fill="#308fcf" paint-order="stroke markers fill"/><rect width="8.467" height=".529" x="4.233" y="11.112" opacity=".35" paint-order="stroke markers fill" ry=".265"/><circle cx="6.615" cy="11.377" r="1.587" opacity=".15" paint-order="markers stroke fill"/><circle cx="6.615" cy="11.377" r="1.058" fill="#308fcf" paint-order="markers stroke fill"/><rect width=".794" height=".794" x="14.155" y="3.175" opacity=".35" paint-order="stroke markers fill" ry=".397"/><rect width=".794" height=".794" x="12.567" y="3.175" opacity=".35" paint-order="stroke markers fill" ry=".397"/><rect width=".794" height=".794" x="10.98" y="3.175" opacity=".35" paint-order="stroke markers fill" ry=".397"/></svg>

@@ -1,9 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="translate(0 -280.07)">
-  <rect x="1.588" y="281.65" width="13.758" height="13.758" rx="2.1171" ry="2.1171" fill="#4d4d4d" paint-order="markers stroke fill"/>
-  <circle transform="matrix(.26458 0 0 .26458 2.11 282.18)" cx="13.524" cy="13.526" r="9.5" fill="#fff"/>
-  <circle transform="matrix(.26458 0 0 .26458 2.11 282.19)" cx="34.523" cy="13.479" r="9.5" fill="#333"/>
-  <circle transform="matrix(.26458 0 0 .26458 2.11 282.17)" cx="13.524" cy="34.558" r="9.5" fill="#333"/>
-  <circle transform="matrix(.26458 0 0 .26458 2.123 282.19)" cx="34.476" cy="34.483" r="9.5" fill="#fff"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.07)"><rect width="13.758" height="13.758" x="1.588" y="281.65" fill="#4d4d4d" paint-order="markers stroke fill" rx="2.117" ry="2.117"/><circle cx="13.524" cy="13.526" r="9.5" fill="#fff" transform="translate(2.11 282.18) scale(.26458)"/><circle cx="34.523" cy="13.479" r="9.5" fill="#333" transform="translate(2.11 282.19) scale(.26458)"/><circle cx="13.524" cy="34.558" r="9.5" fill="#333" transform="translate(2.11 282.17) scale(.26458)"/><circle cx="34.476" cy="34.483" r="9.5" fill="#fff" transform="translate(2.123 282.19) scale(.26458)"/></g></svg>

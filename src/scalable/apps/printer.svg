@@ -1,7 +1,1 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <path d="m12 30v-21c0-1.662 1.338-3 3-3h34c1.662 0 3 1.338 3 3v21z" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.6066" style="paint-order:stroke fill markers"/>
- <rect x="4" y="18" width="56" height="28" rx="6" ry="6" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="10.184" style="paint-order:stroke fill markers"/>
- <rect x="9" y="30" width="46" height="4" rx="2" ry="2" fill="#ffffff" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.4884" style="paint-order:stroke fill markers"/>
- <path d="m12 34v21c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3v-21z" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.6066" style="paint-order:stroke fill markers"/>
- <rect x="8" y="22" width="3" height="3" rx="3" ry="3" fill="#f2f2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" style="paint-order:stroke fill markers"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><path fill="#ececec" d="M12 30V9c0-1.662 1.338-3 3-3h34c1.662 0 3 1.338 3 3v21z" style="paint-order:stroke fill markers"/><rect width="56" height="28" x="4" y="18" fill="#4d4d4d" rx="6" ry="6" style="paint-order:stroke fill markers"/><rect width="46" height="4" x="9" y="30" fill="#fff" opacity=".35" rx="2" ry="2" style="paint-order:stroke fill markers"/><path fill="#ececec" d="M12 34v21c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3V34z" style="paint-order:stroke fill markers"/><rect width="3" height="3" x="8" y="22" fill="#f2f2f2" rx="3" ry="3" style="paint-order:stroke fill markers"/></svg>

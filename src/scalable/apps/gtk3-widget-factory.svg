@@ -1,10 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#38a0d4" stroke-width="1.0408" paint-order="stroke markers fill"/>
- <rect x="4.233" y="9.26" width="8.467" height=".529" ry=".265" fill="#ffffff" opacity=".75" paint-order="stroke markers fill"/>
- <circle cx="6.615" cy="9.525" r="1.058" fill="#ffffff" paint-order="markers stroke fill"/>
- <rect x="3.704" y="3.704" width="9.525" height="1.058" ry=".529" opacity=".35" paint-order="markers stroke fill"/>
- <rect x="3.704" y="6.085" width="4.233" height="1.058" ry=".529" opacity=".35" paint-order="markers stroke fill"/>
- <rect x="4.233" y="11.906" width="8.467" height=".529" ry=".265" fill="#ffffff" opacity=".75" paint-order="stroke markers fill"/>
- <circle cx="10.054" cy="12.17" r="1.058" fill="#ffffff" paint-order="markers stroke fill"/>
- <rect x="8.996" y="6.085" width="4.233" height="1.058" ry=".529" opacity=".35" paint-order="markers stroke fill"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#38a0d4" paint-order="stroke markers fill" rx="2.117" ry="2.117"/><rect width="8.467" height=".529" x="4.233" y="9.26" fill="#fff" opacity=".75" paint-order="stroke markers fill" ry=".265"/><circle cx="6.615" cy="9.525" r="1.058" fill="#fff" paint-order="markers stroke fill"/><rect width="9.525" height="1.058" x="3.704" y="3.704" opacity=".35" paint-order="markers stroke fill" ry=".529"/><rect width="4.233" height="1.058" x="3.704" y="6.085" opacity=".35" paint-order="markers stroke fill" ry=".529"/><rect width="8.467" height=".529" x="4.233" y="11.906" fill="#fff" opacity=".75" paint-order="stroke markers fill" ry=".265"/><circle cx="10.054" cy="12.17" r="1.058" fill="#fff" paint-order="markers stroke fill"/><rect width="4.233" height="1.058" x="8.996" y="6.085" opacity=".35" paint-order="markers stroke fill" ry=".529"/></svg>

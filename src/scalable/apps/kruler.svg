@@ -1,16 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <rect x="8" y="4" width="48" height="56" rx="7" ry="7" fill="#4db6ac"/>
- <rect x="15.989" y="51" width="26.943" height="2" fill="#e0f2f1"/>
- <rect x="15" y="39" width="45" height="10" rx="2" ry="2" fill="#ffb74d"/>
- <g transform="translate(0,-1058.5)" fill="#e0f2f1">
-  <rect x="15.989" y="1070.5" width="8.9809" height="2" ry="0"/>
-  <rect x="15.989" y="1077.5" width="30.934" height="2"/>
-  <rect x="15.989" y="1081.5" width="26.943" height="1.9999"/>
-  <rect x="15.989" y="1085.5" width="29.936" height="2"/>
-  <rect x="15.989" y="1089.5" width="22.951" height="1.9999"/>
-  <rect x="15.989" y="1093.5" width="27.94" height="2"/>
- </g>
- <path d="m17.985 44.9v3h0.99787v-3zm5.9872 0v3h0.99787v-3zm5.9872 0v3h0.99787v-3zm5.9872 0v3h0.99787v-3zm5.9872 0v3h0.99787v-3zm5.9872 0v3h0.99787v-3zm5.9872 0v3h0.99787v-3zm-32.93 1v2h0.99787v-2zm5.9872 0v2h0.99787v-2zm5.9872 0v2h0.99787v-2zm5.9872 0v2h0.99787v-2zm5.9872 0v2h0.99787v-2zm5.9872 0v2h0.99787v-2z" fill="#f57c00"/>
- <path d="m46.923 54v-8h-1.9957l2.9936-4 2.9936 4h-1.9957v8z" fill="#37474f" fill-rule="evenodd"/>
- <path d="m47.921 57a1.9957 2 0 0 1-1.9957-2 1.9957 2 0 0 1 1.9957-2 1.9957 2 0 0 1 1.9957 2 1.9957 2 0 0 1-1.9957 2zm0-1a0.99787 1 0 0 0 0.99787-1 0.99787 1 0 0 0-0.99787-1 0.99787 1 0 0 0-0.99787 1 0.99787 1 0 0 0 0.99787 1z" fill="#37474f"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="48" height="56" x="8" y="4" fill="#4db6ac" rx="7" ry="7"/><path fill="#e0f2f1" d="M15.989 51h26.943v2H15.989z"/><rect width="45" height="10" x="15" y="39" fill="#ffb74d" rx="2" ry="2"/><g fill="#e0f2f1" transform="translate(0 -1058.5)"><rect width="8.981" height="2" x="15.989" y="1070.5" ry="0"/><path d="M15.989 1077.5h30.934v2H15.989zM15.989 1081.5h26.943v2H15.989zM15.989 1085.5h29.936v2H15.989zM15.989 1089.5H38.94v2H15.989zM15.989 1093.5h27.94v2h-27.94z"/></g><path fill="#f57c00" d="M17.985 44.9v3h.998v-3zm5.987 0v3h.998v-3zm5.987 0v3h.998v-3zm5.988 0v3h.997v-3zm5.987 0v3h.998v-3zm5.987 0v3h.998v-3zm5.987 0v3h.998v-3zm-32.93 1v2h.998v-2zm5.987 0v2h.998v-2zm5.988 0v2h.997v-2zm5.987 0v2h.998v-2zm5.987 0v2h.998v-2zm5.987 0v2h.998v-2z"/><path fill="#37474f" fill-rule="evenodd" d="M46.923 54v-8h-1.996l2.994-4 2.994 4h-1.996v8z"/><path fill="#37474f" d="M47.921 57a1.996 2 0 0 1-1.996-2 1.996 2 0 0 1 1.996-2 1.996 2 0 0 1 1.996 2 1.996 2 0 0 1-1.996 2zm0-1a.998 1 0 0 0 .998-1 .998 1 0 0 0-.998-1 .998 1 0 0 0-.998 1 .998 1 0 0 0 .998 1z"/></svg>

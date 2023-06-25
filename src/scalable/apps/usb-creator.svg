@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <rect x="13" y="8" width="38" height="22" rx="2" ry="2" fill="#b7b7b7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:markers stroke fill"/>
- <rect x="6.0003" y="26" width="52" height="32" rx="5.0003" ry="5.0003" fill="#4d4d4d" stroke-width="1.0001"/>
- <path d="m18 16h8.9997v5.0004h-8.9997z" opacity=".5" stroke-width="1.0001"/>
- <path d="m37 16h8.9997v5.0004h-8.9997z" opacity=".5" stroke-width="1.0001"/>
- <rect x="24.572" y="51" width="12" height="2" rx="1" ry="1" opacity=".4" stroke-width=".89881"/>
- <rect x="22" y="47" width="17.144" height="2" rx="1" ry="1" opacity=".4" stroke-width="1.0743"/>
- <rect x="19" y="43" width="23.144" height="2" rx="1" ry="1" opacity=".4" stroke-width="1.2482"/>
- <circle cx="48" cy="48" r="14" fill="#45d157"/>
- <path d="M41 49l7 8 7-8h-4V39h-6v10z" fill="#fff"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><rect width="38" height="22" x="13" y="8" fill="#b7b7b7" rx="2" ry="2" style="paint-order:markers stroke fill"/><rect width="52" height="32" x="6" y="26" fill="#4d4d4d" rx="5" ry="5"/><path d="M18 16h9v5h-9zM37 16h9v5h-9z" opacity=".5"/><rect width="12" height="2" x="24.572" y="51" opacity=".4" rx="1" ry="1"/><rect width="17.144" height="2" x="22" y="47" opacity=".4" rx="1" ry="1"/><rect width="23.144" height="2" x="19" y="43" opacity=".4" rx="1" ry="1"/><circle cx="48" cy="48" r="14" fill="#45d157"/><path fill="#fff" d="m41 49 7 8 7-8h-4V39h-6v10z"/></svg>

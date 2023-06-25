@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientTransform="matrix(1.1304 0 0 1.1304 4.8696 4.8696)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#3e4150" offset="0"/>
-   <stop stop-color="#353845" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="url(#bg)" stroke-width="1.1304"/>
- <path d="m38.333 31.667 10.667 7.3333-10.667 7.3333 2.6667-5.3333h-24v-4h24z" fill="#f76969" stroke-width="1.3333" style="paint-order:normal"/>
- <path d="m25.667 17.667-10.667 7.3333 10.667 7.3333-2.6667-5.3333h24v-4h-24z" fill="#7a78ed" stroke-width="1.3333" style="paint-order:normal"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><defs><linearGradient id="a" x2="0" y1="1" y2="47" gradientTransform="translate(4.87 4.87) scale(1.1304)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3e4150"/><stop offset="1" stop-color="#353845"/></linearGradient></defs><rect width="52" height="52" x="6" y="6" fill="url(#a)" rx="8" ry="8"/><path fill="#f76969" d="M38.333 31.667 49 39l-10.667 7.334L41 41H17v-4h24z" style="paint-order:normal"/><path fill="#7a78ed" d="M25.667 17.667 15 25l10.667 7.334L23 27h24v-4H23z" style="paint-order:normal"/></svg>

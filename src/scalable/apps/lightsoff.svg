@@ -1,4 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#4d4d4d" stop-color="#000000" stroke-width="0"/>
- <path d="m8.4665 1.5875v6.877h6.8785v-4.782c-0.011643-1.1625-0.95079-2.0949-2.1161-2.0949h-4.7624zm-6.879 6.878v4.7634c0 1.1506 0.90913 2.0805 2.051 2.1151h4.828v-6.8785h-6.879z" fill="#1f8fd7" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#4d4d4d" rx="2.117" ry="2.117"/><path fill="#1f8fd7" d="M8.466 1.587v6.877h6.879V3.682a2.112 2.112 0 0 0-2.116-2.094H8.466zM1.588 8.466v4.764c0 1.15.909 2.08 2.05 2.115h4.829V8.466h-6.88z" style="paint-order:markers stroke fill"/></svg>

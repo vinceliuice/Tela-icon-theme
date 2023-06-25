@@ -9,7 +9,7 @@ fi
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
 readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange" "pink" "purple" "red" "yellow" "manjaro" "ubuntu" "dracula" "nord")
-readonly BRIGHT_VARIANTS=("" "dark")
+readonly BRIGHT_VARIANTS=("" "light" "dark")
 
 if command -v lsb_release &> /dev/null; then
   Distributor_ID=$(lsb_release -i)
@@ -129,7 +129,7 @@ install_theme() {
   local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
-  if [ -d "${THEME_DIR}" ]; then
+  if [[ -d "${THEME_DIR}" ]]; then
     rm -r "${THEME_DIR}"
   fi
 
@@ -142,7 +142,7 @@ install_theme() {
   # Update the name in index.theme
   sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
 
-  if [ -z "${brightprefix}" ]; then
+  if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
 
     if [[ "$1" != "standard" ]]; then
@@ -172,7 +172,46 @@ install_theme() {
     if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
       cp -r "${SRC_DIR}/elementary/"*                                            "${THEME_DIR}"
     fi
-  else
+  fi
+
+  if [[ "${brightprefix}" == '-light' ]]; then
+    local -r STD_THEME_DIR="${THEME_DIR%-light}"
+
+    install -d "${THEME_DIR}"/{16,22,24}
+
+    cp -r "${SRC_DIR}"/src/16/panel                                              "${THEME_DIR}/16"
+    cp -r "${SRC_DIR}"/src/22/panel                                              "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}"/src/24/panel                                              "${THEME_DIR}/24"
+
+    # Change icon color for dark theme
+    sed -i "s/#dfdfdf/#505050/g" "${THEME_DIR}"/{16,22,24}/panel/*.svg
+
+    cp -r "${SRC_DIR}"/links/16/panel                                            "${THEME_DIR}/16"
+    cp -r "${SRC_DIR}"/links/22/panel                                            "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}"/links/24/panel                                            "${THEME_DIR}/24"
+
+    # Link the common icons
+    ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
+    ln -sr "${STD_THEME_DIR}/32"                                                 "${THEME_DIR}/32"
+    ln -sr "${STD_THEME_DIR}/16/actions"                                         "${THEME_DIR}/16/actions"
+    ln -sr "${STD_THEME_DIR}/16/apps"                                            "${THEME_DIR}/16/apps"
+    ln -sr "${STD_THEME_DIR}/16/devices"                                         "${THEME_DIR}/16/devices"
+    ln -sr "${STD_THEME_DIR}/16/mimetypes"                                       "${THEME_DIR}/16/mimetypes"
+    ln -sr "${STD_THEME_DIR}/16/places"                                          "${THEME_DIR}/16/places"
+    ln -sr "${STD_THEME_DIR}/16/status"                                          "${THEME_DIR}/16/status"
+    ln -sr "${STD_THEME_DIR}/22/actions"                                         "${THEME_DIR}/22/actions"
+    ln -sr "${STD_THEME_DIR}/22/devices"                                         "${THEME_DIR}/22/devices"
+    ln -sr "${STD_THEME_DIR}/22/emblems"                                         "${THEME_DIR}/22/emblems"
+    ln -sr "${STD_THEME_DIR}/22/mimetypes"                                       "${THEME_DIR}/22/mimetypes"
+    ln -sr "${STD_THEME_DIR}/22/places"                                          "${THEME_DIR}/22/places"
+    ln -sr "${STD_THEME_DIR}/24/actions"                                         "${THEME_DIR}/24/actions"
+    ln -sr "${STD_THEME_DIR}/24/animations"                                      "${THEME_DIR}/24/animations"
+    ln -sr "${STD_THEME_DIR}/24/devices"                                         "${THEME_DIR}/24/devices"
+    ln -sr "${STD_THEME_DIR}/24/places"                                          "${THEME_DIR}/24/places"
+    ln -sr "${STD_THEME_DIR}/symbolic"                                           "${THEME_DIR}/symbolic"
+  fi
+
+  if [[ "${brightprefix}" == '-dark' ]]; then
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
 
     install -d "${THEME_DIR}"/{16,22,24,symbolic}

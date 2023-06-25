@@ -1,6 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <rect x="1.587" y="3.439" width="13.758" height="10.054" rx=".265" ry=".265" fill="#638df5" style="paint-order:markers stroke fill"/>
- <rect x="1.323" y="3.175" width="6.879" height="4.762" rx=".265" ry=".265" fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".098" stroke-width=".265" style="paint-order:markers stroke fill"/>
- <rect x="1.323" y="3.175" width="6.879" height="4.7624" rx=".265" ry=".26502" fill="#ffffff" style="paint-order:markers stroke fill"/>
- <rect x="8.7311" y="8.9957" width="6.879" height="4.7624" rx=".265" ry=".26502" fill="#ffffff" opacity=".35" style="paint-order:markers stroke fill"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="10.054" x="1.587" y="3.439" fill="#638df5" rx=".265" ry=".265" style="paint-order:markers stroke fill"/><rect width="6.879" height="4.762" x="1.323" y="3.175" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".098" stroke-width=".265" rx=".265" ry=".265" style="paint-order:markers stroke fill"/><rect width="6.879" height="4.762" x="1.323" y="3.175" fill="#fff" rx=".265" ry=".265" style="paint-order:markers stroke fill"/><rect width="6.879" height="4.762" x="8.731" y="8.996" fill="#fff" opacity=".35" rx=".265" ry=".265" style="paint-order:markers stroke fill"/></svg>

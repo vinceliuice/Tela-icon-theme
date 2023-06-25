@@ -1,12 +1,1 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="d" x1="-55" x2="-22" y1="-32" y2="-32" gradientTransform="translate(77)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#388dd4" offset="0"/>
-   <stop stop-color="#388dd4" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-59" y="-54" width="54" height="44" rx="6" ry="6" fill="#4f4f4f" stroke-width="1.043"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-55" y="-50" width="46" height="36" rx="2" ry="2" fill="#ffffff"/>
- <rect transform="rotate(90)" x="22" y="-50" width="33" height="36" rx="0" ry="0" fill="url(#d)" opacity=".5"/>
- <rect x="3.5" y="21" width="57" height="3" rx="1" ry="1.006" fill="#388dd4" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><defs><linearGradient id="a" x1="-55" x2="-22" y1="-32" y2="-32" gradientTransform="translate(77)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#388dd4"/><stop offset="1" stop-color="#388dd4" stop-opacity="0"/></linearGradient></defs><rect width="54" height="44" x="-59" y="-54" fill="#4f4f4f" rx="6" ry="6" transform="matrix(0 -1 -1 0 0 0)"/><rect width="46" height="36" x="-55" y="-50" fill="#fff" rx="2" ry="2" transform="matrix(0 -1 -1 0 0 0)"/><rect width="33" height="36" x="22" y="-50" fill="url(#a)" opacity=".5" rx="0" ry="0" transform="rotate(90)"/><rect width="57" height="3" x="3.5" y="21" fill="#388dd4" fill-rule="evenodd" rx="1" ry="1.006"/></svg>

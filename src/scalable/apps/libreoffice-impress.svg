@@ -1,10 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="translate(-1.0589e-8 -280.07)" paint-order="markers stroke fill">
-  <rect x="2.117" y="281.65" width="12.7" height="13.758" rx="2.1172" ry="2.1172" fill="#ff5722"/>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m16 10c-2.216 0-4 1.784-4 4v36c0 2.216 1.784 4 4 4h32c2.216 0 4-1.784 4-4v-24l-16-16zm25.998 0 10.002 9.998v-5.998c0-2.216-1.784-4-4-4z" fill="#ffffff" stroke-width="3.7796"/>
- </g>
- <path d="m6.88 7.673a1.323 1.323 0 0 0-1.324 1.323 1.323 1.323 0 0 0 1.323 1.322 1.323 1.323 0 0 0 1.323-1.322h-1.322z" fill="#cccccc" style="paint-order:markers stroke fill"/>
- <rect x="8.731" y="7.673" width="2.646" height=".529" rx="0" ry="0" fill="#cccccc" style="paint-order:markers stroke fill"/>
- <rect x="8.731" y="9.26" width="2.646" height=".529" rx="0" ry="0" fill="#cccccc" style="paint-order:markers stroke fill"/>
- <rect x="5.556" y="10.848" width="4.762" height=".529" rx="0" ry="0" fill="#cccccc" style="paint-order:markers stroke fill"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g paint-order="markers stroke fill" transform="translate(0 -280.07)"><rect width="12.7" height="13.758" x="2.117" y="281.65" fill="#ff5722" rx="2.117" ry="2.117"/><path fill="#fff" d="M4.233 282.716c-.586 0-1.058.472-1.058 1.058v9.525c0 .586.472 1.058 1.058 1.058H12.7c.586 0 1.058-.472 1.058-1.058v-6.35l-4.233-4.233zm6.879 0 2.646 2.645v-1.587c0-.586-.472-1.058-1.058-1.058z"/></g><path fill="#ccc" d="M6.88 7.673a1.323 1.323 0 0 0-1.324 1.323 1.323 1.323 0 0 0 1.323 1.322 1.323 1.323 0 0 0 1.323-1.322H6.88z" style="paint-order:markers stroke fill"/><rect width="2.646" height=".529" x="8.731" y="7.673" fill="#ccc" rx="0" ry="0" style="paint-order:markers stroke fill"/><rect width="2.646" height=".529" x="8.731" y="9.26" fill="#ccc" rx="0" ry="0" style="paint-order:markers stroke fill"/><rect width="4.762" height=".529" x="5.556" y="10.848" fill="#ccc" rx="0" ry="0" style="paint-order:markers stroke fill"/></svg>

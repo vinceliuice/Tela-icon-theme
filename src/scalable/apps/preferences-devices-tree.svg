@@ -1,12 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#f2f2f2" style="paint-order:markers stroke fill"/>
- <path d="m31.376 15.22-10 8-0.376 0.78v11.52l-9.626 7.7 1.25 1.56 9.376-7.5 9.376 7.5 1.248-1.56-9.624-7.7v-11.04l9-7.2 9 7.2v11.52l0.376 0.78 10 8 1.25-1.56-9.626-7.7v-11.52l-0.376-0.78-10-8z" fill="#474f50"/>
- <rect x="26" y="9" width="12" height="12" rx="1.5" fill="#e16e7b"/>
- <rect x="16" y="23" width="12" height="12" rx="1.5" fill="#a779be"/>
- <rect x="36" y="23" width="12" height="12" rx="1.5" fill="#a779be"/>
- <g fill="#58b072">
-  <rect x="42" y="42" width="12" height="12" rx="1.5"/>
-  <rect x="26" y="42" width="12" height="12" rx="1.5"/>
-  <rect x="10" y="42" width="12" height="12" rx="1.5"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="52" height="52" x="6" y="6" fill="#f2f2f2" rx="8" ry="8" style="paint-order:markers stroke fill"/><path fill="#474f50" d="m31.376 15.22-10 8L21 24v11.52l-9.626 7.7 1.25 1.56L22 37.28l9.376 7.5 1.248-1.56L23 35.52V24.48l9-7.2 9 7.2V36l.376.78 10 8 1.25-1.56L43 35.52V24l-.376-.78-10-8z"/><rect width="12" height="12" x="26" y="9" fill="#e16e7b" rx="1.5"/><rect width="12" height="12" x="16" y="23" fill="#a779be" rx="1.5"/><rect width="12" height="12" x="36" y="23" fill="#a779be" rx="1.5"/><g fill="#58b072"><rect width="12" height="12" x="42" y="42" rx="1.5"/><rect width="12" height="12" x="26" y="42" rx="1.5"/><rect width="12" height="12" x="10" y="42" rx="1.5"/></g></svg>

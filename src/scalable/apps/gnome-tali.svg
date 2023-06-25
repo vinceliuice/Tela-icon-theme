@@ -1,18 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="b" x1="46.168" x2="46.168" y1="57" y2="27.346" gradientTransform="matrix(.26458 0 0 .26458 0 280.07)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <g transform="translate(0 -280.07)" paint-order="markers stroke fill">
-  <g transform="matrix(1.04 0 0 1.04 -.339 -11.541)" stroke-width=".962">
-   <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#ff5555"/>
-  </g>
-  <circle cx="5.027" cy="285.09" r="1.058" fill="#fff"/>
-  <circle cx="11.906" cy="285.09" r="1.058" fill="#fff"/>
-  <circle cx="5.027" cy="291.97" r="1.058" fill="#fff"/>
-  <circle cx="11.906" cy="291.97" r="1.058" fill="#fff"/>
-  <circle cx="8.467" cy="288.53" r="1.058" fill="#fff"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g paint-order="markers stroke fill" transform="translate(0 -280.07)"><rect width="13.229" height="13.229" x="1.852" y="281.92" fill="#f55" stroke-width=".962" rx="2.035" ry="2.035" transform="matrix(1.04 0 0 1.04 -.339 -11.541)"/><circle cx="5.027" cy="285.09" r="1.058" fill="#fff"/><circle cx="11.906" cy="285.09" r="1.058" fill="#fff"/><circle cx="5.027" cy="291.97" r="1.058" fill="#fff"/><circle cx="11.906" cy="291.97" r="1.058" fill="#fff"/><circle cx="8.467" cy="288.53" r="1.058" fill="#fff"/></g></svg>

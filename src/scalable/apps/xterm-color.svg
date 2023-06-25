@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a-6" x1="47" x2="59.998" y1="41" y2="53.978" gradientTransform="matrix(.26458 0 0 .26458 -.004 .27)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-color="#242424" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="1.058" y="2.381" width="14.816" height="12.171" rx="1.372" ry="1.323" fill="#5d6065"/>
- <path d="m15.872 9.215-5.337 5.337h4.767c0.316 0 0.57-0.238 0.57-0.535z" fill="url(#a-6)" opacity=".15"/>
- <rect x="5.2918" y="9.5256" width="4.2328" height=".52899" ry=".26499" fill="#3faec7" stroke-width=".99997" style="paint-order:stroke markers fill"/>
- <path d="m3.9729 4.7257a0.26399 0.26399 0 0 0-0.26199 0.13 0.26399 0.26399 0 0 0 0.096996 0.36199l2.8419 1.64-2.8419 1.641a0.26399 0.26399 0 0 0-0.096996 0.36199c0.073997 0.127 0.23499 0.17 0.36199 0.096998l3.2069-1.852a0.25999 0.25999 0 0 0 0.12699-0.225c2e-3 -8e-3 1e-3 -0.015 2e-3 -0.022 0-8e-3 0-0.015-2e-3 -0.023a0.25999 0.25999 0 0 0-0.12699-0.22399l-3.2069-1.853a0.26599 0.26599 0 0 0-0.099996-0.032999z" fill="#3faec7" stroke-width=".99997" style="paint-order:stroke markers fill"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><defs><linearGradient id="a" x1="47" x2="59.998" y1="41" y2="53.978" gradientTransform="translate(-.004 .27) scale(.26458)" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop offset="1" stop-color="#242424" stop-opacity="0"/></linearGradient></defs><rect width="14.816" height="12.171" x="1.058" y="2.381" fill="#5d6065" rx="1.372" ry="1.323"/><path fill="url(#a)" d="m15.872 9.215-5.337 5.337h4.767c.316 0 .57-.238.57-.535z" opacity=".15"/><rect width="4.233" height=".529" x="5.292" y="9.526" fill="#3faec7" ry=".265" style="paint-order:stroke markers fill"/><path fill="#3faec7" d="M3.973 4.726a.264.264 0 0 0-.262.13.264.264 0 0 0 .097.362l2.842 1.64-2.842 1.64a.264.264 0 0 0-.097.363c.074.127.235.17.362.097L7.28 7.106a.26.26 0 0 0 .127-.225c.002-.008 0-.015.002-.022 0-.008 0-.015-.002-.023a.26.26 0 0 0-.127-.224L4.073 4.759a.266.266 0 0 0-.1-.033z" style="paint-order:stroke markers fill"/></svg>

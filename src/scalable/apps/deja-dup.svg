@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="translate(0 -280.07)">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="1.8521" ry="1.8521" fill="#4d4d4d" paint-order="markers stroke fill"/>
-  <rect transform="matrix(0 -1 -1 0 0 0)" x="-292.77" y="-12.7" width="8.467" height="8.467" rx="4.233" ry="4.233" fill="#fff" opacity=".1"/>
-  <rect transform="matrix(0 -1 -1 0 0 0)" x="-291.97" y="-11.906" width="6.879" height="6.879" rx="3.44" ry="3.44" fill="#fff" opacity=".25"/>
-  <path d="M8.467 285.623l-.786.943a2.117 2.117 0 1 0 1.571 0z" fill="#fff"/>
-  <circle cx="3.5719" cy="283.64" r=".661" opacity=".15" paint-order="stroke fill markers"/>
-  <circle cx="3.5719" cy="283.64" r=".397" fill="#0090ff" paint-order="stroke fill markers"/>
-  <path d="M8.202 282.977h.529v1.058h-.529zM9.65 283.098l.51.137-.273 1.022-.511-.137zM11.015 283.59l.458.264-.529.916-.458-.264zM12.208 284.417l.374.374-.748.749-.374-.374zM13.146 285.526l.265.458-.916.53-.265-.459zM13.766 286.84l.137.511-1.022.274-.137-.511zM14.023 288.269v.529h-1.058v-.529z" opacity=".25" paint-order="stroke fill markers"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.07)"><rect width="13.229" height="13.229" x="1.852" y="281.92" fill="#4d4d4d" paint-order="markers stroke fill" rx="1.852" ry="1.852"/><rect width="8.467" height="8.467" x="-292.77" y="-12.7" fill="#fff" opacity=".1" rx="4.233" ry="4.233" transform="matrix(0 -1 -1 0 0 0)"/><rect width="6.879" height="6.879" x="-291.97" y="-11.906" fill="#fff" opacity=".25" rx="3.44" ry="3.44" transform="matrix(0 -1 -1 0 0 0)"/><path fill="#fff" d="m8.467 285.623-.786.943a2.117 2.117 0 1 0 1.571 0z"/><circle cx="3.572" cy="283.64" r=".661" opacity=".15" paint-order="stroke fill markers"/><circle cx="3.572" cy="283.64" r=".397" fill="#0090ff" paint-order="stroke fill markers"/><path d="M8.202 282.977h.529v1.058h-.529zm1.448.121.51.137-.273 1.022-.511-.137zm1.365.492.458.264-.529.916-.458-.264zm1.193.827.374.374-.748.749-.374-.374zm.938 1.109.265.458-.916.53-.265-.459zm.62 1.314.137.511-1.022.274-.137-.511zm.257 1.429v.529h-1.058v-.529z" opacity=".25" paint-order="stroke fill markers"/></g></svg>

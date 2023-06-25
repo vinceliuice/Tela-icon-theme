@@ -1,7 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)">
-  <rect x="1.5875" y="281.66" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#24af6d" overflow="visible" stroke="#19774a" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
-  <rect x="2.6468" y="293.56" width="11.64" height="1.5875" rx=".79373" ry=".79373" fill-opacity=".098" stroke-width="1.0487"/>
- </g>
- <path d="m9.6201 11.377-1.6471-2.8404-0.64762 0.72411v2.1163h-1.5047v-6.879h1.5043v3.0545l2.2233-3.0545h1.7491l-2.3452 2.9523 2.4421 3.9268h-1.7746z" fill="#fff" stroke-width=".83548"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.07)"><rect width="13.758" height="13.758" x="1.587" y="281.66" fill="#24af6d" overflow="visible" rx="2.117" ry="2.117"/><rect width="11.64" height="1.587" x="2.647" y="293.56" fill-opacity=".098" rx=".794" ry=".794"/></g><path fill="#fff" d="m9.62 11.377-1.647-2.84-.648.724v2.116H5.821V4.498h1.504v3.055l2.223-3.055h1.75L8.951 7.45l2.442 3.927H9.62z"/></svg>

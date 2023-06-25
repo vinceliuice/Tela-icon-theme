@@ -1,5 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="2.3812" y="1.3229" width="12.171" height="14.287" rx=".79373" ry=".79373" fill="#c83737" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
- <path d="m4.4978 1.3229v6.3489l1.0588-1.0588 1.0578 1.0578v-6.3489z" fill="#fff"/>
- <path d="m3.1749 1.3229c-0.43973 0-0.79373 0.35401-0.79373 0.79373v12.7c0 0.43973 0.35401 0.79373 0.79373 0.79373h0.79373v-14.287z" fill-rule="evenodd" opacity=".2" style="paint-order:fill markers stroke"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="12.171" height="14.287" x="2.381" y="1.323" fill="#c83737" fill-rule="evenodd" rx=".794" ry=".794" style="paint-order:fill markers stroke"/><path fill="#fff" d="M4.498 1.323v6.349l1.059-1.059 1.057 1.058V1.32z"/><path fill-rule="evenodd" d="M3.175 1.323a.792.792 0 0 0-.794.794v12.7c0 .44.354.793.794.793h.794V1.323z" opacity=".2" style="paint-order:fill markers stroke"/></svg>

@@ -1,5 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#3f51b5" stroke-width="1.0408" style="paint-order:markers stroke fill"/>
- <path d="m3.7041 2.6458c-0.58631 0-1.0583 0.47201-1.0583 1.0583v9.5249c0 0.58631 0.47201 1.0583 1.0583 1.0583h9.5253c0.58631 0 1.0583-0.47201 1.0583-1.0583v-6.3499l-4.2333-4.2333zm7.9373 0 2.6463 2.6453v-1.587c0-0.58631-0.47201-1.0583-1.0583-1.0583z" fill="#ffffff" style="paint-order:markers stroke fill"/>
- <path d="m5.292 11.907v-0.53h4.498v0.53zm0-1.323v-0.53h6.35v0.53zm0-1.323v-0.53h6.35v0.53zm0-1.323v-0.53h6.35v0.53z" fill="#cccccc"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#3f51b5" rx="2.117" ry="2.117" style="paint-order:markers stroke fill"/><path fill="#fff" d="M3.704 2.646c-.586 0-1.058.472-1.058 1.058v9.525c0 .586.472 1.058 1.058 1.058h9.525c.587 0 1.059-.472 1.059-1.058v-6.35l-4.234-4.233zm7.937 0 2.647 2.645V3.704c0-.586-.472-1.058-1.059-1.058z" style="paint-order:markers stroke fill"/><path fill="#ccc" d="M5.292 11.907v-.53H9.79v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53z"/></svg>

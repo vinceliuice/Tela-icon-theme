@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <rect x="14" y="4" width="36" height="53" rx="5" ry="5" fill="#dce1e4" stop-color="#000000" stroke-width="0"/>
- <rect x="18" y="14" width="11" height="9" rx="1" ry="1" fill="#202224" stroke-opacity=".55" stroke-width="2.8428"/>
- <rect x="21" y="14" width="5" height="9" fill="#fdbc4a" stroke-opacity=".55" stroke-width="2.9277"/>
- <path d="m19.228 26.425c-0.18047 0.0224-0.35981 0.0812-0.52773 0.17766-0.67169 0.3878-0.89912 1.2397-0.51132 1.9114l4.6019 7.9706c-13.182 5.446-13.191 22.343-13.191 23.516h44.8c-1.1e-5 -1.1731-0.0083-18.068-13.188-23.516l4.6019-7.9706c0.3878-0.67172 0.15763-1.5236-0.51407-1.9114s-1.5235-0.1603-1.9113 0.51142l-4.8945 8.4766c-1.9264-0.49812-4.0723-0.7903-6.4942-0.7903s-4.5676 0.29218-6.4942 0.7903l-4.8917-8.4766c-0.29085-0.50386-0.84489-0.75698-1.3863-0.68908z" fill="#84b938" stroke-opacity=".55" stroke-width="2.8"/>
- <rect x="18" y="55" width="28" height="2" rx="1" ry="1" fill="#ffffff" stroke-width=".84516"/>
- <circle cx="24" cy="48" r="3" fill="#ffffff" stroke-width="1.0714"/>
- <rect x="35" y="14" width="11" height="9" rx="1" ry="1" fill="#202224" stroke-opacity=".55" stroke-width="2.8428"/>
- <rect x="38" y="14" width="5" height="9" fill="#fdbc4a" stroke-opacity=".55" stroke-width="2.9277"/>
- <circle cx="40" cy="48" r="3" fill="#ffffff" stroke-width="1.0714"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="36" height="53" x="14" y="4" fill="#dce1e4" rx="5" ry="5"/><rect width="11" height="9" x="18" y="14" fill="#202224" rx="1" ry="1"/><path fill="#fdbc4a" d="M21 14h5v9h-5z"/><path fill="#84b938" d="M19.228 26.425c-.18.022-.36.081-.528.178-.671.387-.899 1.24-.511 1.911l4.602 7.97C9.609 41.932 9.6 58.829 9.6 60.002h44.8c0-1.173-.008-18.068-13.188-23.516l4.602-7.97c.388-.673.157-1.525-.514-1.912s-1.524-.16-1.912.511l-4.894 8.477c-1.927-.498-4.072-.79-6.494-.79s-4.568.292-6.495.79l-4.891-8.477a1.398 1.398 0 0 0-1.387-.689z"/><rect width="28" height="2" x="18" y="55" fill="#fff" rx="1" ry="1"/><circle cx="24" cy="48" r="3" fill="#fff"/><rect width="11" height="9" x="35" y="14" fill="#202224" rx="1" ry="1"/><path fill="#fdbc4a" d="M38 14h5v9h-5z"/><circle cx="40" cy="48" r="3" fill="#fff"/></svg>

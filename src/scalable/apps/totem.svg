@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <path d="m1.3229 5.2916v7.9373c0 0.87947 0.70799 1.5875 1.5875 1.5875h11.112c0.87947 0 1.5875-0.708 1.5875-1.5875v-7.9373h-14.287z" fill="#74c9d0"/>
- <path d="m2.9104 2.1166c-0.87946 0-1.5875 0.70801-1.5875 1.5875v1.5875h14.287v-1.5875c0-0.87946-0.70801-1.5875-1.5875-1.5875h-11.112z" fill="#333" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52916"/>
- <g paint-order="stroke markers fill">
-  <path d="m4.895 2.117h1.852l1.058 1.587h-1.852zm0 3.175h1.852l1.058-1.588h-1.852zm5.159-3.175h1.852l1.059 1.587h-1.852zm0 3.175h1.852l1.059-1.588h-1.852z" fill="#fff"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><path fill="#74c9d0" d="M1.323 5.292v7.937c0 .88.708 1.587 1.587 1.587h11.112c.88 0 1.588-.708 1.588-1.587V5.292H1.323z"/><path fill="#333" fill-rule="evenodd" d="M2.91 2.117c-.88 0-1.587.708-1.587 1.587v1.588H15.61V3.704c0-.88-.708-1.587-1.588-1.587H2.91z"/><path fill="#fff" d="M4.895 2.117h1.852l1.058 1.587H5.953zm0 3.175h1.852l1.058-1.588H5.953zm5.159-3.175h1.852l1.059 1.587h-1.852zm0 3.175h1.852l1.059-1.588h-1.852z" paint-order="stroke markers fill"/></svg>

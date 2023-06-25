@@ -1,5 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="1.5874" ry="1.5874" fill="#498cd8" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
- <rect x="2.3812" y="13.493" width="12.171" height="1.5875" rx=".79375" ry=".79375" fill-rule="evenodd" opacity=".15" stroke-width=".95916" style="paint-order:fill markers stroke"/>
- <path d="m8.4676 5.3445-1.1655 3.1601h2.3343zm-0.4849-0.84665h0.9742l2.419 6.3499h-0.89283l-0.57836-1.6295h-2.8621l-0.57836 1.6295h-0.90712z" fill="#ffffff" font-size="7.922px" font-weight="400" letter-spacing="0" stroke-width=".21771" word-spacing="0" aria-label="A"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#498cd8" fill-rule="evenodd" rx="1.587" ry="1.587" style="paint-order:fill markers stroke"/><rect width="12.171" height="1.587" x="2.381" y="13.493" fill-rule="evenodd" opacity=".15" rx=".794" ry=".794" style="paint-order:fill markers stroke"/><path fill="#fff" d="m8.468 5.345-1.166 3.16h2.334zm-.485-.847h.974l2.419 6.35h-.893l-.578-1.63H7.043l-.579 1.63h-.907z" aria-label="A" font-size="7.922" font-weight="400" letter-spacing="0" word-spacing="0"/></svg>

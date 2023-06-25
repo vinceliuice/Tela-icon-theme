@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.3229" y="1.3229" width="14.287" height="14.287" rx="7.1436" ry="7.1436" fill="#b3b3b3" stroke="#000" stroke-opacity=".13725" stroke-width=".26458" style="paint-order:markers stroke fill"/>
- <rect x="1.3229" y="1.3229" width="14.287" height="14.287" rx="7.1437" ry="7.1437" fill="#f9f9f9" style="paint-order:markers stroke fill"/>
- <g transform="matrix(.79881 0 0 .79881 1.5783 1.8145)">
-  <path transform="matrix(.26458 0 0 .26458 -17.005 .21525)" d="m94.581 38.458c2.5 1.5 8.6 0.6 13.4 3.7s7.5 8.1 7.6 8.3 0.1 0.4-0.2 0.7-0.8 0.3-0.8 0.3-11.1 1.8-18.2-4.9c-7.2-6.7-6.6-13.5-6.6-13.5s0.4 2.9 4.8 5.4z" clip-rule="evenodd" fill="#f08616" fill-rule="evenodd" stroke-width="1.393"/>
-  <path transform="matrix(.26458 0 0 .26458 -17.005 .21525)" d="m89.681 28.358s-0.5-6.9 6.6-13.5c7.2-6.8 18.3-5 18.3-5s0.5 0.1 0.8 0.3 0.3 0.5 0.2 0.7-2.8 5.3-7.6 8.3-10.9 2.2-13.4 3.7c-4.3 2.6-4.9 5.5-4.9 5.5z" clip-rule="evenodd" fill="#09b2df" fill-rule="evenodd" stroke-width="1.393"/>
-  <g transform="matrix(.26458 0 0 .26458 .34659 -.13989)" stroke-width="1.2519">
-   <path d="m24 32c0 11.6 9.4 21 21 21h-14c-11.6 0-21-9.4-21-21s9.4-21 21-21h14c-11.6 0-21 9.4-21 21z" clip-rule="evenodd" fill="#1b1f24" fill-rule="evenodd" stroke-width="1.2519"/>
-  </g>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="14.287" height="14.287" x="1.323" y="1.323" fill="#b3b3b3" stroke="#000" stroke-opacity=".137" stroke-width=".265" rx="7.144" ry="7.144" style="paint-order:markers stroke fill"/><rect width="14.287" height="14.287" x="1.323" y="1.323" fill="#f9f9f9" rx="7.144" ry="7.144" style="paint-order:markers stroke fill"/><path fill="#f08616" fill-rule="evenodd" d="M7.984 10.115c.529.317 1.818.126 2.832.782s1.585 1.711 1.606 1.754.022.084-.042.148-.169.063-.169.063-2.346.38-3.846-1.036C6.843 10.41 6.97 8.973 6.97 8.973s.084.613 1.014 1.142z" clip-rule="evenodd"/><path fill="#09b2df" fill-rule="evenodd" d="M6.949 7.98s-.106-1.458 1.394-2.853c1.522-1.438 3.868-1.057 3.868-1.057s.106.021.17.063.063.106.041.148-.591 1.12-1.606 1.754-2.303.465-2.832.782C7.075 7.367 6.95 7.98 6.95 7.98z" clip-rule="evenodd"/><path fill="#1b1f24" fill-rule="evenodd" stroke-width="1.252" d="M6.928 8.466a4.438 4.438 0 0 0 4.438 4.438H8.407a4.438 4.438 0 1 1 0-8.876h2.959a4.438 4.438 0 0 0-4.438 4.438z" clip-rule="evenodd"/></svg>

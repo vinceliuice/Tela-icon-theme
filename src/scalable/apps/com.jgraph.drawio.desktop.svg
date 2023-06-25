@@ -1,15 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <style type="text/css">.st0{fill:#F08705;}
-	.st1{fill:#DF6C0C;}
-	.st2{fill:#FFFFFF;}
-	.st3{fill:#333333;}</style>
- <rect x="6" y="6" width="52" height="52" rx="6.9745" ry="6.9745" fill="#f08705" style="paint-order:stroke fill markers"/>
- <rect x="10" y="10" width="44" height="44" rx="3" ry="3" fill="#fff" opacity=".1" stroke-width=".84615" style="paint-order:stroke fill markers"/>
- <path d="m26.357 26-5.8633 10h3.375l5.8262-9.9512h4.6445l5.8594 9.9512h3.3613l-5.8828-10z" fill="#fff" opacity=".35" stroke-width=".33418"/>
- <path d="m26 12c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h12v10h-12z" fill="#fff" style="paint-order:stroke fill markers"/>
- <rect x="26" y="14" width="12" height="10" ry="0" fill="#fff" opacity=".5" style="paint-order:stroke fill markers"/>
- <path d="m14 36c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h12v10h-12z" fill="#fff" style="paint-order:stroke fill markers"/>
- <path d="m38 36c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h12v10h-12z" fill="#fff" style="paint-order:stroke fill markers"/>
- <rect x="14" y="38" width="12" height="10" ry="0" fill="#fff" opacity=".5" style="paint-order:stroke fill markers"/>
- <rect x="38" y="38" width="12" height="10" ry="0" fill="#fff" opacity=".5" style="paint-order:stroke fill markers"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><style>.st0{fill:#f08705}.st1{fill:#df6c0c}.st2{fill:#fff}.st3{fill:#333}</style><rect width="52" height="52" x="6" y="6" fill="#f08705" rx="6.974" ry="6.974" style="paint-order:stroke fill markers"/><rect width="44" height="44" x="10" y="10" fill="#fff" stroke-width=".846" opacity=".1" rx="3" ry="3" style="paint-order:stroke fill markers"/><path fill="#fff" stroke-width=".334" d="m26.357 26-5.863 10h3.375l5.826-9.951h4.644L40.2 36h3.361l-5.883-10z" opacity=".35"/><path fill="#fff" d="M26 12c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V14c0-1.108-.892-2-2-2zm0 2h12v10H26z" style="paint-order:stroke fill markers"/><rect width="12" height="10" x="26" y="14" fill="#fff" opacity=".5" ry="0" style="paint-order:stroke fill markers"/><path fill="#fff" d="M14 36c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V38c0-1.108-.892-2-2-2zm0 2h12v10H14zM38 36c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V38c0-1.108-.892-2-2-2zm0 2h12v10H38z" style="paint-order:stroke fill markers"/><rect width="12" height="10" x="14" y="38" fill="#fff" opacity=".5" ry="0" style="paint-order:stroke fill markers"/><rect width="12" height="10" x="38" y="38" fill="#fff" opacity=".5" ry="0" style="paint-order:stroke fill markers"/></svg>

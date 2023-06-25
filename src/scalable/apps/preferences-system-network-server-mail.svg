@@ -1,18 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <rect x="6" y="6" width="52" height="52" rx="2" ry="2" fill="#3e4245" style="paint-order:stroke markers fill"/>
- <path d="m12 15h24v2h-24z" fill="#fff"/>
- <circle cx="43" cy="16" r="2" fill="#72d406"/>
- <circle cx="51" cy="16" r="2" fill="#72d406"/>
- <g fill="#fff">
-  <path d="m12 31h24v2h-24z"/>
-  <circle cx="43" cy="32" r="2"/>
-  <circle cx="51" cy="32" r="2"/>
-  <path d="m12 47h24v2h-24z"/>
- </g>
- <g fill-rule="evenodd">
-  <rect x="6" y="22" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
-  <rect x="6" y="38" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
-  <circle cx="46" cy="46" r="18" fill="#5687e3" style="paint-order:fill markers stroke"/>
-  <path d="m33.975 34a17 17 0 0 0-1.9746 2.3594v19.252a17 17 0 0 0 1.9727 2.3887h24.053a17 17 0 0 0 1.9746-2.3594v-19.252a17 17 0 0 0-1.9727-2.3887h-24.053zm1.4395 2h21.172l-10.586 10.586-10.586-10.586zm-1.4141 1.4141 7.8672 7.8672-7.8672 9.1797v-17.047zm24 0v17.051l-7.8672-9.1836 7.8672-7.8672zm-14.715 9.2852 2.7148 2.7148 2.7148-2.7148 7.9688 9.3008h-21.371l7.9727-9.3008z" fill="#fff" style="paint-order:fill markers stroke"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="52" height="52" x="6" y="6" fill="#3e4245" rx="2" ry="2" style="paint-order:stroke markers fill"/><path fill="#fff" d="M12 15h24v2H12z"/><circle cx="43" cy="16" r="2" fill="#72d406"/><circle cx="51" cy="16" r="2" fill="#72d406"/><g fill="#fff"><path d="M12 31h24v2H12z"/><circle cx="43" cy="32" r="2"/><circle cx="51" cy="32" r="2"/><path d="M12 47h24v2H12z"/></g><g fill-rule="evenodd"><rect width="52" height="3" x="6" y="22" fill="#00000f" opacity=".5" rx="0" ry="0" style="paint-order:fill markers stroke"/><rect width="52" height="3" x="6" y="38" fill="#00000f" opacity=".5" rx="0" ry="0" style="paint-order:fill markers stroke"/><circle cx="46" cy="46" r="18" fill="#5687e3" style="paint-order:fill markers stroke"/><path fill="#fff" d="M33.975 34A17 17 0 0 0 32 36.36V55.61a17 17 0 0 0 1.973 2.39h24.053a17 17 0 0 0 1.975-2.36V36.389A17 17 0 0 0 58.028 34H33.975zm1.44 2h21.172L46 46.586 35.416 36zM34 37.414l7.868 7.867L34 54.461V37.414zm24 0v17.051l-7.867-9.184L58 37.414zM43.285 46.7 46 49.414l2.715-2.715L56.684 56H35.313l7.973-9.3z" style="paint-order:fill markers stroke"/></g></svg>

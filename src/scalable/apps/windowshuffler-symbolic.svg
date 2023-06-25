@@ -1,18 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)">
-  <g transform="matrix(1.04 0 0 1.04 -.339 -11.541)" stroke-width=".962" paint-order="markers stroke fill">
-   <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="1.5261" ry="1.5261" fill="#4d4d4d"/>
-  </g>
-  <g fill="#fff">
-   <rect x="2.91" y="282.98" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="6.879" y="282.98" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="10.848" y="282.98" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="2.91" y="286.95" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="6.879" y="286.95" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="10.848" y="286.95" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="2.91" y="290.92" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="6.879" y="290.92" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-   <rect x="10.848" y="290.92" width="3.175" height="3.175" rx=".529" ry=".529" opacity=".75"/>
-  </g>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.229" height="13.229" x="1.852" y="281.92" fill="#4d4d4d" stroke-width=".962" paint-order="markers stroke fill" rx="1.526" ry="1.526" transform="matrix(1.04 0 0 1.04 -.339 -291.611)"/><g fill="#fff" transform="translate(0 -280.07)"><rect width="3.175" height="3.175" x="2.91" y="282.98" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="6.879" y="282.98" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="10.848" y="282.98" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="2.91" y="286.95" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="6.879" y="286.95" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="10.848" y="286.95" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="2.91" y="290.92" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="6.879" y="290.92" opacity=".75" rx=".529" ry=".529"/><rect width="3.175" height="3.175" x="10.848" y="290.92" opacity=".75" rx=".529" ry=".529"/></g></svg>

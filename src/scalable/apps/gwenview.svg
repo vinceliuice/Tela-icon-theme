@@ -1,7 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <rect x="3" y="9" width="58" height="46" rx="6" ry="6" fill="#37474f"/>
- <rect x="7" y="13" width="50" height="38" rx="2" ry="2" fill="#a341b4" stop-color="#000000" stroke-width="0"/>
- <path d="m9 13c-1.108 0-2 0.892-2 2v34c0 0.4775 0.172 0.90879 0.44922 1.252l22.469-37.252h-20.918z" fill="#f4416b" fill-rule="evenodd"/>
- <path d="m57 18.211-49.283 32.314c0.33345 0.28064 0.7561 0.45508 1.2246 0.46875h46.117c1.08-0.031511 1.9414-0.90621 1.9414-1.9941v-30.789z" fill="#8a5cd8" fill-rule="evenodd"/>
- <path d="m57 41.006-48.898 9.7734c0.27112 0.13688 0.57287 0.2207 0.89844 0.2207h46c1.108 0 2-0.892 2-2v-7.9941z" fill="#46a9d6" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="58" height="46" x="3" y="9" fill="#37474f" rx="6" ry="6"/><rect width="50" height="38" x="7" y="13" fill="#a341b4" rx="2" ry="2"/><path fill="#f4416b" fill-rule="evenodd" d="M9 13c-1.108 0-2 .892-2 2v34c0 .477.172.909.45 1.252L29.917 13H9z"/><path fill="#8a5cd8" fill-rule="evenodd" d="M57 18.211 7.717 50.525c.333.28.756.455 1.225.469h46.117A1.992 1.992 0 0 0 57 49V18.21z"/><path fill="#46a9d6" fill-rule="evenodd" d="M57 41.006 8.102 50.779c.271.137.573.221.898.221h46c1.108 0 2-.892 2-2v-7.994z"/></svg>

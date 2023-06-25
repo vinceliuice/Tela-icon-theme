@@ -1,8 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.04 0 0 1.04 -.339 -291.61)" stroke-width=".962" paint-order="markers stroke fill">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#d35f5f"/>
- </g>
- <g fill="#fff" aria-label="T">
-  <path d="m5.2032 4.6089h6.5266v0.87848h-2.7388v6.8367h-1.049v-6.8367h-2.7388z" fill="#fff" stroke-width=".26458"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.229" height="13.229" x="1.852" y="281.92" fill="#d35f5f" stroke-width=".962" paint-order="markers stroke fill" rx="2.035" ry="2.035" transform="matrix(1.04 0 0 1.04 -.339 -291.61)"/><path fill="#fff" d="M5.203 4.609h6.527v.878H8.99v6.837H7.942V5.487H5.203z" aria-label="T"/></svg>

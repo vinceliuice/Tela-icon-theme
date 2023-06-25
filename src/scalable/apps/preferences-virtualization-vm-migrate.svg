@@ -1,16 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m62 17.998-59.996 0.0038v31.154c0.082334 3.2512 2.7244 5.8438 5.9961 5.8438h48c3.324 0 6-2.676 6-6z" fill="#ececec" stroke-width="3.7796"/>
- <path d="m8 9c-3.324 0-6 2.676-6 6v2.9981h60v-2.9981c0-3.324-2.676-6-6-6z" fill="#666666" stroke-width="3.7796"/>
- <rect x="53.502" y="12" width="3.001" height="3.001" ry="1.5005" opacity=".35" stroke-width="3.7796" paint-order="stroke markers fill"/>
- <rect x="47.5" y="12" width="3.001" height="3.001" ry="1.5005" opacity=".35" stroke-width="3.7796" paint-order="stroke markers fill"/>
- <rect x="41.501" y="12" width="3.001" height="3.001" ry="1.5005" opacity=".35" stroke-width="3.7796" paint-order="stroke markers fill"/>
- <g transform="translate(-.003401 .58592)" stroke-width=".57977">
-  <path d="m12.003 26.414h3.5294l4.1177 11.429 4.1177-11.429h3.5294l-5.8824 16h-3.5294z" fill="#ef4a5b"/>
-  <path d="m24.945 42.414 5.8824-16h3.5294l-5.8824 16zm11.765 0 5.8824-16h3.5294l-5.8824 16z" fill="#3e4143"/>
-  <path d="m21.415 42.414 5.8824-16h3.5294l-5.8824 16zm11.765 0 5.8824-16h3.5294l-5.8824 16z" fill="#949b9d"/>
-  <path d="m36.709 42.414h-3.5294l-5.8824-16h3.5294zm11.765 0h-3.5294l-5.8824-16h3.5294z" fill="#babfc2"/>
-  <path d="m30.827 26.414 5.8824 16h3.5294l-5.8824-16zm11.765 0 5.8824 16h3.5294l-5.8824-16z" fill="#535353"/>
- </g>
- <circle cx="53" cy="48" r="11" fill="#4d4d4d" stop-color="#000000" stroke-width="0"/>
- <path d="m45 49h12.172l-4.586 4.586 1.414 1.414 7-7-7-7-1.414 1.414 4.586 4.586h-12.172z" fill="#ffffff"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path fill="#ececec" d="m62 17.998-59.996.004v31.154A5.985 5.985 0 0 0 8 55h48c3.324 0 6-2.676 6-6z"/><path fill="#666" d="M8 9c-3.324 0-6 2.676-6 6v2.998h60V15c0-3.324-2.676-6-6-6z"/><rect width="3.001" height="3.001" x="53.502" y="12" opacity=".35" paint-order="stroke markers fill" ry="1.5"/><rect width="3.001" height="3.001" x="47.5" y="12" opacity=".35" paint-order="stroke markers fill" ry="1.5"/><rect width="3.001" height="3.001" x="41.501" y="12" opacity=".35" paint-order="stroke markers fill" ry="1.5"/><g stroke-width=".58"><path fill="#ef4a5b" d="M12 27h3.529l4.118 11.429 4.117-11.43h3.53L21.41 43h-3.529z"/><path fill="#3e4143" d="m24.942 43 5.882-16h3.53L28.47 43zm11.765 0 5.882-16h3.53l-5.883 16z"/><path fill="#949b9d" d="m21.412 43 5.882-16h3.53L24.94 43zm11.765 0 5.882-16h3.53l-5.883 16z"/><path fill="#babfc2" d="M36.706 43h-3.53l-5.882-16h3.53zm11.765 0h-3.53L39.06 27h3.53z"/><path fill="#535353" d="m30.824 27 5.882 16h3.53l-5.883-16zm11.765 0 5.882 16h3.53l-5.883-16z"/></g><circle cx="53" cy="48" r="11" fill="#4d4d4d"/><path fill="#fff" d="M45 49h12.172l-4.586 4.586L54 55l7-7-7-7-1.414 1.414L57.172 47H45z"/></svg>
