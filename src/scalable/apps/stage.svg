@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><g stroke-linecap="round" stroke-linejoin="bevel"><path fill="#d34148" d="M15 10h34v8H15z"/><path fill="#884ca1" d="M12 12h40v8H12z"/><path fill="#15bb91" d="M9 14h46v9H9z"/></g><g stroke-linejoin="round" stroke-width="1.63"><path fill="#1ea5f7" d="M6 16h52v38H6z"/><path fill="#0a87e2" d="M6 17.796v33.137L37.91 34.365z"/><path fill="#1392f5" d="m58 23.933-52 27v3.069h52z"/><path fill="#c5eafd" d="m25.864 28.228 12.273 6.137L25.864 40.5z"/></g></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="15" y="10" width="34" height="11" rx="2" ry="2" fill="#d34148" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".2" stroke-width=".42986" style="paint-order:stroke fill markers"/>
+ <rect x="12" y="12" width="40" height="11" rx="2" ry="2" fill="#884ca1" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".2" stroke-width=".46625" style="paint-order:stroke fill markers"/>
+ <rect x="9" y="14" width="46" height="11" rx="2" ry="2" fill="#15bb91" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".2" stroke-width=".5" style="paint-order:stroke fill markers"/>
+ <path d="m10 16c-2.216 0-4 1.784-4 4v30c0 2.216 1.784 4 4 4h44c2.216 0 4-1.784 4-4v-30c0-2.216-1.784-4-4-4h-44z" fill="#1ea5f7" stroke-linejoin="round" stroke-width="1.63"/>
+ <path d="m6.5 18.057c-0.31869 0.57475-0.5 1.2371-0.5 1.9434v30c0 0.30387 0.036004 0.59867 0.099609 0.88281l31.811-16.518-31.41-16.309z" fill="#0a87e2" stroke-linejoin="round" stroke-width="1.63"/>
+ <path d="m58 23.934-51.9 26.949c0.40024 1.788 1.9883 3.1172 3.9004 3.1172h44c2.216 0 4-1.784 4-4v-26.066z" fill="#1392f5" stroke-linejoin="round" stroke-width="1.63"/>
+ <path d="m25.636 27.998 12.273 6.3671-12.273 6.3651z" fill="#c5eafd" stroke-linejoin="round" stroke-width="1.63"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#f2f2f2" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".2" stroke-width=".47273" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.41023 0 0 .41023 -144.66 -185.16)">
+  <g transform="matrix(1.5,0,0,1.5,-192.29,-241.9)">
+   <path class="ColorScheme-Text" d="m425.24 489.13-6 6 11.333 11.333-11.333 11.333 6 6 17.333-17.333z" color="#3b3f42" fill="#4c5357" fill-rule="evenodd"/>
+   <rect x="399.9" y="489.8" width="6.6667" height="6.6667" rx="3.3333" fill="#fa8865" stroke-width="1.0667"/>
+   <rect x="390.57" y="509.13" width="9.3333" height="9.3333" rx="4.6666" fill="#63c605" stroke-width="1.037"/>
+   <rect x="403.9" y="528.46" width="13.333" height="13.333" rx="6.6667" fill="#1b89f3" stroke-width="1.0256"/>
+   <path d="m419.24 517.8 6 6 11.333-11.333-6-6z" fill="#000000" fill-rule="evenodd" opacity=".2"/>
+  </g>
+ </g>
+</svg>

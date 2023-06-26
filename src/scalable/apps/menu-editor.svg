@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.07)"><rect width="13.758" height="12.7" x="1.587" y="282.18" fill="#6961b8" paint-order="stroke markers fill" rx="2.116" ry="2.116"/><rect width="6.879" height="7.938" x="5.027" y="284.56" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".196" stroke-width=".529" paint-order="markers stroke fill" rx=".529" ry=".529"/><path d="M5.027 285.89h6.88v.264h-6.88zm0 1.587h6.88v.265h-6.88zm0 1.588h6.88v.264h-6.88zm0 1.587h6.88v.265h-6.88z" opacity=".1" paint-order="markers stroke fill"/><circle cx="5.821" cy="285.36" r=".265" fill="#6961b8" paint-order="markers stroke fill"/><circle cx="5.821" cy="286.95" r=".265" fill="#6961b8" paint-order="markers stroke fill"/><circle cx="5.821" cy="288.53" r=".265" fill="#6961b8" paint-order="markers stroke fill"/><circle cx="5.821" cy="290.12" r=".265" fill="#6961b8" paint-order="markers stroke fill"/><circle cx="5.821" cy="291.71" r=".265" fill="#6961b8" paint-order="markers stroke fill"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <rect x="1.5875" y="281.66" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#6961b8" stroke-width="1.0408" paint-order="stroke markers fill"/>
+  <rect x="5.027" y="284.56" width="6.879" height="7.938" rx=".529" ry=".529" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".196" stroke-width=".529" paint-order="markers stroke fill"/>
+  <path d="M5.027 285.89h6.88v.264h-6.88zm0 1.587h6.88v.265h-6.88zm0 1.588h6.88v.264h-6.88zm0 1.587h6.88v.265h-6.88z" opacity=".1" paint-order="markers stroke fill"/>
+  <circle cx="5.821" cy="285.36" r=".265" fill="#6961b8" paint-order="markers stroke fill"/>
+  <circle cx="5.821" cy="286.95" r=".265" fill="#6961b8" paint-order="markers stroke fill"/>
+  <circle cx="5.821" cy="288.53" r=".265" fill="#6961b8" paint-order="markers stroke fill"/>
+  <circle cx="5.821" cy="290.12" r=".265" fill="#6961b8" paint-order="markers stroke fill"/>
+  <circle cx="5.821" cy="291.71" r=".265" fill="#6961b8" paint-order="markers stroke fill"/>
+ </g>
+</svg>

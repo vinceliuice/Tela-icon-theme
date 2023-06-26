@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="52" height="52" x="6" y="6" fill="#388e3c" rx="3" ry="3"/><path fill="#43a047" fill-rule="evenodd" d="M16 37 6 45v3l6-4v2l-6 4h4v8h6V47l6-5h3l-6 5v11h36c1.662 0 3-1.338 3-3v-7.092L51 39h-2l-2-2H16z"/><g transform="translate(-5 3)"><circle cx="58.5" cy="50.5" r="1.5" fill="#fbc02d"/><circle cx="58.5" cy="50.5" r=".5" fill="#263238"/></g><g transform="translate(-5 -1)"><circle cx="58.5" cy="11.5" r="1.5" fill="#fbc02d"/><circle cx="58.5" cy="11.5" r=".5" fill="#263238"/></g><g transform="translate(5 3)"><circle cx="5.5" cy="50.5" r="1.5" fill="#fbc02d"/><circle cx="5.5" cy="50.5" r=".5" fill="#263238"/></g><path fill="#43a047" fill-rule="evenodd" d="M9 6c-.353 0-.686.07-1 .182V18l-2 2v2l3 3h38l7-8h4v-1h-4v-4l-8 9h-3l8-9V6z"/><rect width="28" height="16" x="18" y="24" fill="#263238" ry="1"/><rect width="17" height="6" x="10" y="13" fill="#263238" ry="1"/><rect width="17" height="6" x="37" y="44" fill="#eceff1" ry="1"/><rect width="9" height="1" x="38" y="45" fill="#37474f" ry="0"/><path fill="#37474f" d="M38 47h5v1h-5z"/><path fill="#37474f" fill-rule="evenodd" d="m49 49 2-3 2 3z"/><path fill="#fbc02d" fill-rule="evenodd" d="M21 27h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2z" style="paint-order:fill markers stroke"/><g transform="translate(.318 .049)"><circle cx="10.182" cy="10.451" r="1.5" fill="#fbc02d"/><circle cx="10.182" cy="10.451" r=".5" fill="#263238"/></g><path fill="#fff" d="M11 14h4v1h-4zM11 16h8v1h-8zM22 16h3v2h-3z" opacity=".5" style="paint-order:stroke fill markers"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#388e3c"/>
+ <path d="m14 6c-2.3977 0-4.5362 1.0506-6 2.7109v9.2891l-2 2v2l3 3h38l7-8h4v-1h-4v-4l-8 9h-3l8-9v-5.9316c-0.32811-0.040649-0.66054-0.068359-1-0.068359zm2 31-10 8v3l6-4v2l-6 4h4v6.9277c1.1762 0.67827 2.5394 1.0723 4 1.0723h2v-11l6-5h3l-6 5v11h31c4.432 0 8-3.568 8-8v-2.0918l-7-8.9082h-2l-2-2z" fill="#43a047"/>
+ <g transform="translate(-5 3)">
+  <circle cx="58.5" cy="50.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="58.5" cy="50.5" r=".5" fill="#263238"/>
+ </g>
+ <g transform="translate(-5 -1)">
+  <circle cx="58.5" cy="11.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="58.5" cy="11.5" r=".5" fill="#263238"/>
+ </g>
+ <g transform="translate(5 3)">
+  <circle cx="5.5" cy="50.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="5.5" cy="50.5" r=".5" fill="#263238"/>
+ </g>
+ <rect x="18" y="24" width="28" height="16" rx="2" ry="2" fill="#263238"/>
+ <rect x="10" y="13" width="17" height="6" ry="1" fill="#263238"/>
+ <rect x="37" y="44" width="17" height="6" ry="1" fill="#eceff1"/>
+ <rect x="38" y="45" width="9" height="1" ry="0" fill="#37474f"/>
+ <path d="m38 47h5v1h-5z" fill="#37474f"/>
+ <path d="m49 49 2-3 2 3z" fill="#37474f" fill-rule="evenodd"/>
+ <path d="m21 27h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2z" fill="#fbc02d" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <g transform="translate(.318 .049)">
+  <circle cx="10.182" cy="10.451" r="1.5" fill="#fbc02d"/>
+  <circle cx="10.182" cy="10.451" r=".5" fill="#263238"/>
+ </g>
+ <path d="m11 14h4v1h-4zm0 2h8v1h-8zm11 0h3v2h-3z" fill="#fff" opacity=".5" style="paint-order:stroke fill markers"/>
+</svg>
