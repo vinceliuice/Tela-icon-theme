@@ -1,0 +1,9 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#573172" fill-rule="evenodd" stop-color="#000000" style="paint-order:stroke fill markers"/>
+ <g transform="translate(0 -3.1667)" stroke-width="1.3333">
+  <path d="m20 40.5 24 13.333v-6.6667l-21.333-12z" fill="#69cbe8"/>
+  <path d="m44 29.833-24-13.333v6.6667l21.333 12z" fill="#837ece"/>
+  <path d="m20 33.833 24-14.667v6.6667l-24 14.667z" fill="#aae6f3"/>
+  <path d="m20 44.5 24-14.667v6.6667l-24 14.667z" fill="#b39ad5"/>
+ </g>
+</svg>
