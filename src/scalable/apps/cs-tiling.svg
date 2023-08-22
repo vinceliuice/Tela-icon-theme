@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#cccccc" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9441" style="paint-order:stroke fill markers"/>
+ <rect x="9" y="9" width="46" height="46" rx="5" ry="5" fill="#ffffff" fill-rule="evenodd" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7198" style="paint-order:stroke fill markers"/>
+ <g transform="translate(-9,-11)">
+  <rect x="44" y="24" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="38.999" y="24" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="33.999" y="24" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+ <rect x="11" y="11" width="30" height="20" rx="3" ry="3" fill="#ffffff"/>
+ <path d="m14 11c-1.662 0-3 1.338-3 3v4h30v-4c0-1.662-1.338-3-3-3h-24z" fill="#000000" opacity=".5" stroke-width="1.3346" style="paint-order:stroke markers fill"/>
+ <rect x="35.999" y="13" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="30.998" y="13" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="25.998" y="13" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+ <g transform="translate(3.999 11)">
+  <rect x="44" y="24" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="38.999" y="24" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="33.999" y="24" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+ <rect x="11" y="33" width="42" height="20" rx="3" ry="3" fill="#ffffff" stroke-width="1.1832"/>
+ <path d="m14 33c-1.662 0-3 1.338-3 3v4h42v-4c0-1.662-1.338-3-3-3z" fill="#000000" opacity=".5" stroke-width="1.3346" style="paint-order:stroke markers fill"/>
+ <rect x="47.999" y="35" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="42.998" y="35" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="37.998" y="35" width="3.001" height="3.001" ry="1.5" opacity=".35" style="paint-order:stroke markers fill"/>
+</svg>

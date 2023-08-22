@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="14.679" x2="2.293" y1="293.79" y2="282.98" gradientTransform="matrix(1.0714 0 0 1 -.605 -280.07)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#66bcff" offset="0"/>
+   <stop stop-color="#b29aff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x=".529" y="2.381" width="15.875" height="12.171" rx="1.587" ry="1.587" fill="url(#a)"/>
+ <path d="m16.404 9.147a11.636 11.636 0 0 0-8.074 5.405h6.487c0.879 0 1.587-0.708 1.587-1.588z" fill="#ffffff" opacity=".15" style="paint-order:stroke markers fill"/>
+ <path d="m1.714 6.822a11.636 11.636 0 0 0-1.185 0.074v6.068c0 0.88 0.708 1.588 1.587 1.588h10.545a11.636 11.636 0 0 0-10.948-7.73z" fill="#ffffff" opacity=".25" style="paint-order:stroke markers fill"/>
+ <rect x="1.3229" y="3.1749" width="14.287" height="10.583" rx=".79373" ry=".79373" fill="#ffffff" fill-rule="evenodd" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52899" style="paint-order:stroke fill markers"/>
+ <circle cx="13.626" cy="5.367" r="1.455" fill="#ffdb8a" style="paint-order:stroke markers fill"/>
+</svg>

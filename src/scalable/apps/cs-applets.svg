@@ -1,0 +1,22 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="14.679" x2="2.293" y1="293.79" y2="282.98" gradientTransform="matrix(1.0714 0 0 1 -.605 -280.07)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#66bcff" offset="0"/>
+   <stop stop-color="#b29aff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x=".529" y="2.381" width="15.875" height="12.171" rx="1.587" ry="1.587" fill="url(#a)"/>
+ <rect x="1.323" y="2.91" width="14.287" height="1.058" rx=".529" ry=".529" opacity=".35"/>
+ <rect x="1.587" y="3.175" width="1.058" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="7.144" y="3.175" width="2.646" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="14.817" y="3.175" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="13.759" y="3.175" width=".794" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="12.965" y="3.175" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <path d="m0.52916 11.112v1.8526c0 0.8792 0.70775 1.587 1.587 1.587h12.701c0.8792 0 1.587-0.70776 1.587-1.587v-1.8526h-15.875z" fill="#ffffff" fill-rule="evenodd" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52899" style="paint-order:stroke fill markers"/>
+ <rect x="2.6458" y="9.5248" width="2.3812" height="2.3812" rx=".52916" ry=".52916" fill="#ebf2ff" stroke-width="1.7998" style="paint-order:stroke markers fill"/>
+ <rect x="5.8207" y="10.319" width="2.3812" height="2.3812" rx=".52916" ry=".52916" fill="#ccdfff" stroke-width="1.7998" style="paint-order:stroke markers fill"/>
+ <rect x="8.9957" y="10.319" width="2.3812" height="2.3812" rx=".52916" ry=".52916" fill="#ccdfff" stroke-width="1.7998" style="paint-order:stroke markers fill"/>
+ <rect x="12.171" y="10.319" width="2.3812" height="2.3812" rx=".52916" ry=".52916" fill="#ccdfff" stroke-width="1.7998" style="paint-order:stroke markers fill"/>
+ <circle cx="3.8364" cy="12.567" r=".39687" fill="#ffffff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79348" style="paint-order:stroke fill markers"/>
+ <path d="m3.8364 8.7311-0.52916 0.52916h1.0583z" fill="#ffffff"/>
+</svg>
