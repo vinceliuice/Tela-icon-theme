@@ -269,7 +269,6 @@ while [ $# -gt 0 ]; do
   elif [[ "$1" = "-c" ]]; then
     colorscheme="true"
     echo "Folder color will follow the colorscheme on KDE plasma ..."
-    shift
   elif [[ "$1" = "-d" ]]; then
     DEST_DIR="$2"
     shift
