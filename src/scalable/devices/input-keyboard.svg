@@ -1,14 +1,14 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <rect x="6" y="16" width="52" height="32" rx="5" ry="5" fill="#4d4d4d" paint-order="markers stroke fill"/>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="5" y="12" width="54" height="40" rx="6" ry="6" fill="#4d4d4d" stroke-width="1.1393" paint-order="markers stroke fill"/>
  <rect x="11" y="20" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
  <rect x="20" y="20" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
  <rect x="29" y="20" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
- <rect x="39" y="20" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
- <rect x="48" y="20" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
+ <rect x="38" y="20" width="6" height="5" ry="1" fill="#ffffff" paint-order="markers stroke fill"/>
+ <rect x="47" y="20" width="6" height="5" ry="1" fill="#ffffff" paint-order="markers stroke fill"/>
  <rect x="11" y="29" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
  <rect x="20" y="29" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
  <rect x="29" y="29" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
- <rect x="39" y="29" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
- <rect x="48" y="29" width="6" height="5" ry="1" fill="#fff" paint-order="markers stroke fill"/>
+ <rect x="38" y="29" width="6" height="5" ry="1" fill="#ffffff" paint-order="markers stroke fill"/>
+ <rect x="47" y="29" width="6" height="5" ry="1" fill="#ffffff" paint-order="markers stroke fill"/>
  <rect x="20" y="37.975" width="24" height="5" ry="1.025" fill="#fff" paint-order="markers stroke fill"/>
 </svg>

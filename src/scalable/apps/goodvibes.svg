@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#ececec"/>
+ <rect transform="rotate(-15)" x="9.999" y="25.582" width="24" height="1" fill="#abb5b8" stop-color="#000000" stroke-miterlimit="0" stroke-width=".3886"/>
+ <rect x="12" y="22" width="40" height="25" rx="3" ry="3" fill="#f9ae37" stroke-miterlimit="0" stroke-width=".37795"/>
+ <rect x="15" y="25" width="11" height="5" rx="1" ry="1" fill="#ffffff" stroke-miterlimit="0" stroke-width=".37795"/>
+ <path d="m16 26v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2zm4 0v2h1v-2z" fill="#45443f" stop-color="#000000" stroke-miterlimit="0" stroke-width=".37795" style="font-variation-settings:normal"/>
+ <rect x="22" y="25" width="1" height="5" fill="#e64b3b" stop-color="#000000" stroke-miterlimit="0" stroke-width=".42256" style="font-variation-settings:normal"/>
+ <rect x="48" y="31" width="4" height="2" fill="#26ab5e" stop-color="#000000" style="font-variation-settings:normal"/>
+ <rect x="48" y="35" width="4" height="2" fill="#bb382c" stop-color="#000000" style="font-variation-settings:normal"/>
+ <path d="m24.423 42.563a5.655 5.655 0 0 1-7.9961-0.14024 5.655 5.655 0 0 1 0.14024-7.9961 5.655 5.655 0 0 1 7.9961 0.14024 5.655 5.655 0 0 1-0.14024 7.9961z" fill="#a3adad" stop-color="#000000" stroke-miterlimit="0" stroke-width=".3886" style="font-variation-settings:normal"/>
+ <path d="m16.537 34.455a5.655 5.655 0 0 0-0.37565 0.40603l2.2194 2.2194 0.70711-0.70711-2.218-2.218a5.655 5.655 0 0 0-0.33284 0.29969zm-0.9557 1.2402a5.655 5.655 0 0 0-0.74025 2.7014 5.655 5.655 0 0 0 5.556 5.7521 5.655 5.655 0 0 0 5.7521-5.556 5.655 5.655 0 0 0-5.556-5.7521 5.655 5.655 0 0 0-2.8878 0.73611l0.73887 0.73887a4.655 4.655 0 0 1 2.1324-0.47509 4.655 4.655 0 0 1 4.5727 4.7357 4.655 4.655 0 0 1-4.7357 4.5727 4.655 4.655 0 0 1-4.5727-4.7357 4.655 4.655 0 0 1 0.47923-1.9791z" fill="#5d6768" stop-color="#000000" stroke-miterlimit="0" stroke-width=".3886" style="font-variation-settings:normal"/>
+ <circle cx="39.5" cy="34.5" r="9.9" fill="#9aa4a6" stop-color="#000000" style="font-variation-settings:normal"/>
+ <circle transform="rotate(135)" cx="-3.5355" cy="-52.326" r="6.5" fill="#afb7ba" stop-color="#000000" style="font-variation-settings:normal"/>
+ <circle transform="rotate(135)" cx="-3.5355" cy="-52.326" r="2.5" fill="#45443f" stop-color="#000000" style="font-variation-settings:normal"/>
+ <path d="m39.5 24.6a9.9 9.9 0 0 0-9.9004 9.9004 9.9 9.9 0 0 0 9.9004 9.9004 9.9 9.9 0 0 0 9.9004-9.9004 9.9 9.9 0 0 0-9.9004-9.9004zm0 1a8.9 8.9 0 0 1 8.9004 8.9004 8.9 8.9 0 0 1-8.9004 8.9004 8.9 8.9 0 0 1-8.9004-8.9004 8.9 8.9 0 0 1 8.9004-8.9004z" fill="#5d6768" stop-color="#000000" style="font-variation-settings:normal"/>
+</svg>
