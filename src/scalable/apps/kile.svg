@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c-3" x1="413.57" x2="418.57" y1="528.8" y2="533.8" gradientTransform="matrix(1.2698,0,0,1.2698,-113.41,-144.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bdb49e" stop-opacity=".259" offset="0"/>
+   <stop stop-color="#bdb49e" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b-5" x1="43" x2="54" y1="46" y2="57" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#383e51" offset="0"/>
+   <stop stop-color="#655c6f" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="8" y="5" width="48" height="54" rx="6" ry="6" fill="#3491d6"/>
+ <rect x="9" y="6" width="46" height="52" rx="5" ry="5" fill="#4f5690" opacity=".5"/>
+ <rect x="11" y="8" width="42" height="48" rx="3" ry="3" fill="#36a5e6" fill-opacity=".8"/>
+ <path d="m53 44-12 12 3 3h6a5.981 5.981 0 0 0 5.93-5.12l0.07-6.88z" fill="url(#b-5)" opacity=".35"/>
+ <g fill-rule="evenodd" stroke-width=".741">
+  <path d="m53.001 44-12 12v-12z" fill="#ebebeb"/>
+  <path transform="matrix(1.35,0,0,1.35,-520.02,-672.58)" d="m415.57 530.8v8.889l8.889-8.889z" fill="url(#c-3)"/>
+ </g>
+ <text x="-27.930717" y="19.715731"><tspan x="-27.930717" y="56.110737"/></text>
+ <text x="-49.243217" y="15.715731"><tspan x="-49.243217" y="52.110737"/></text>
+ <path d="m16 17v24h4.526v-10.628l10.044 10.628h5.5885v-0.27344l-11.552-12.104 10.661-11.484v-0.13802h-5.6224l-9.1198 10.148v-10.148zm26.115 0.01563c-3.1845 0.18925-4.7839 2.1738-4.7839 5.1302 0 3.2763 2.2123 5.3646 5.2839 5.3646 3.2354-4e-6 5.3854-2.0684 5.3854-5.5495 0-1.5358-0.53226-3.2763-1.638-4.3411l-1.5781 1.5964c0.59383 0.57336 0.94271 1.7817 0.94271 2.7031 0 1.761-0.89934 2.8466-2.1484 3.0104v-7.8828c-0.5196-0.04863-1.0086-0.05828-1.4635-0.03125zm-0.60677 2.4271v5.4453c-1.3105-0.36859-1.9635-1.474-1.9635-2.8255 0-1.4334 0.65301-2.456 1.9635-2.6198zm-8.0885 9.8177v2.4792h14.315v-2.4792zm1.3724 4.513c-1.9453 0-1.9453 2.9505 0 2.9505 1.9453 0 1.9453-2.9505 0-2.9505zm2.8073 0.22656v2.4974h10.135v-2.4974z" fill="#ffffff" stroke-width="1.3333"/>
+</svg>
