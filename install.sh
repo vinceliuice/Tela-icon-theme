@@ -14,13 +14,13 @@ readonly BRIGHT_VARIANTS=("" "light" "dark")
 if command -v lsb_release &> /dev/null; then
   Distributor_ID=$(lsb_release -i)
   if [[ "${Distributor_ID}" == "Distributor ID:	elementary" || "${Distributor_ID}" == "Distributor ID:	Elementary" ]]; then
-    ICON_VERION="elementary"
+    ICON_VERSION="elementary"
   else
-    ICON_VERION="normal"
+    ICON_VERSION="normal"
   fi
-  echo -e "Install $ICON_VERION version! ..."
+  echo -e "Install $ICON_VERSION version! ..."
 else
-  ICON_VERION="normal"
+  ICON_VERSION="normal"
 fi
 
 usage() {
@@ -169,7 +169,7 @@ install_theme() {
 
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
 
-    if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
+    if [[ "${ICON_VERSION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
       cp -r "${SRC_DIR}/elementary/"*                                            "${THEME_DIR}"
     fi
   fi
