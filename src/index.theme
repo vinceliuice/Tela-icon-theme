@@ -126,6 +126,13 @@ Size=24
 Type=Fixed
 
 # 32x32
+[32/actions]
+Context=Actions
+Size=32
+MinSize=32
+MaxSize=256
+Type=Scalable
+
 [32/devices]
 Context=Devices
 Size=32
@@ -134,7 +141,9 @@ Type=Fixed
 [32/status]
 Context=Status
 Size=32
-Type=Fixed
+MinSize=32
+MaxSize=256
+Type=Scalable
 
 # Scalable
 [scalable/apps]

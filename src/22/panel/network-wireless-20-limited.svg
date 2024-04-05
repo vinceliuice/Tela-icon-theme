@@ -1,0 +1,46 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }
+      .ColorScheme-ViewText {
+        color:#dfdfdf;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#dfdfdf;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText{
+        color:#e74c3c;
+      }</style>
+ <g class="ColorScheme-Text" transform="translate(-55.001 -104)" fill="currentColor">
+  <path d="m65.994 109c-2.9623 5e-3 -5.8185 1.107-8.0176 3.0918a1 1 0 0 0-0.07227 1.4121 1 1 0 0 0 1.4121 0.0723c1.8325-1.6538 4.2113-2.5711 6.6797-2.5762 2.4704 3.8e-4 4.8514 0.91565 6.6875 2.5684a1 1 0 0 0 1.4141-0.0742 1 1 0 0 0-0.07422-1.4141c-2.2029-1.9829-5.0635-3.0797-8.0273-3.0801a1.0001 1.0001 0 0 0-2e-3 0z" opacity=".35"/>
+  <path d="m65.996 113c-1.9749 3e-3 -3.8797 0.73749-5.3457 2.0606a1 1 0 0 0-0.07227 1.4121 1 1 0 0 0 1.4121 0.0723c1.0994-0.99224 2.5271-1.5419 4.0078-1.5449 1.4823 2.3e-4 2.91 0.54932 4.0117 1.541a1 1 0 0 0 1.4121-0.0742 1 1 0 0 0-0.07422-1.4121c-1.4685-1.3219-3.3738-2.0544-5.3496-2.0548a1.0001 1.0001 0 0 0-2e-3 0z" opacity=".35"/>
+  <path d="m65.998 117c-0.98726 2e-3 -1.9409 0.36979-2.6738 1.0312a1.0001 1.0001 0 0 0-0.07227 1.4102l2.0039 2.2285a1.0001 1.0001 0 0 0 1.4863-2e-3l2.0059-2.2285a1.0001 1.0001 0 0 0-0.07422-1.4121c-0.73416-0.66077-1.6861-1.0271-2.6738-1.0273a1.0001 1.0001 0 0 0-2e-3 0zm0 2h0.001953c0.12434 1.4e-4 0.21537 0.10816 0.33594 0.13086l-0.33594 0.375-0.33789-0.375c0.12056-0.0229 0.21157-0.13051 0.33594-0.13086z" opacity=".65"/>
+ </g>
+ <g transform="translate(22,-66)">
+  <path d="m-4 78v5h2v-5zm1 6a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="#fdbc4b"/>
+ </g>
+</svg>
