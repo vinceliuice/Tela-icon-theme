@@ -1,1 +1,0 @@
-tools-report-bug.svg

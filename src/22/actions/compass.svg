@@ -2,9 +2,6 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
  </defs>
- <g id="22-22-compass">
-  <circle cx="11" cy="11" r="11" fill="none"/>
-  <path class="ColorScheme-Text" d="m11 3a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" fill="currentColor"/>
-  <path class="ColorScheme-Text" d="m13.482 7.2656-4.2363 1.3242a1.0001 1.0001 0 0 0-0.65625 0.65625l-1.3242 4.2363a1.0001 1.0001 0 0 0 1.252 1.252l4.2363-1.3242a1.0001 1.0001 0 0 0 0.65625-0.65625l1.3242-4.2363a1.0001 1.0001 0 0 0-1.252-1.252zm-1.2285 2.4805-0.59766 1.9102-1.9102 0.59766 0.59766-1.9102z" fill="currentColor" opacity=".45"/>
- </g>
+ <path class="ColorScheme-Text" d="m13.482 7.2656-4.2363 1.3242a1.0001 1.0001 0 0 0-0.65625 0.65625l-1.3242 4.2363a1.0001 1.0001 0 0 0 1.252 1.252l4.2363-1.3242a1.0001 1.0001 0 0 0 0.65625-0.65625l1.3242-4.2363a1.0001 1.0001 0 0 0-1.252-1.252zm-1.2285 2.4805-0.59766 1.9102-1.9102 0.59766 0.59766-1.9102z" fill="currentColor" opacity=".45"/>
+ <path class="ColorScheme-Text" d="m11 2a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="currentColor"/>
 </svg>
