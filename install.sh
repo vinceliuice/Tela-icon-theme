@@ -224,7 +224,7 @@ install_theme() {
     # Change icon color for dark theme
     sed -i "s/#565656/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/actions/*.svg
     sed -i "s/#727272/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/{places,devices}/*.svg
-    sed -i "s/#555555/#aaaaaa/g" "${THEME_DIR}"/symbolic/{actions,apps,categories,devices,emblems,emotes,mimetypes,places,status}/*.svg
+    sed -i "s/#565656/#aaaaaa/g" "${THEME_DIR}"/symbolic/{actions,apps,categories,devices,emblems,emotes,mimetypes,places,status}/*.svg
 
     if [[ "$1" != "standard" ]]; then
       sed -i "s/#5294e2/${theme_color}/g" "${THEME_DIR}/16/places/"folder*.svg

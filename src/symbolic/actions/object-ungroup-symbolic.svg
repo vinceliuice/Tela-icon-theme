@@ -1,5 +1,5 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g fill="#555555">
+ <g fill="#565656">
   <path d="m3 4v1h3.1328a4 4 0 0 1 0.4082-1z" opacity=".25" style="paint-order:normal"/>
   <rect x="3" y="14" width="7" height="1" opacity=".25" style="paint-order:normal"/>
   <rect transform="rotate(90)" x="3" y="-15" width="6" height="1" opacity=".25" style="paint-order:normal"/>
