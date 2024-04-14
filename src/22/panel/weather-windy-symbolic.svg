@@ -1,0 +1,10 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path d="m10.008 3c-0.9733 0-1.8526 0.46796-2.4004 1.1973a1 1 0 0 0 0.19727 1.4004 1 1 0 0 0 1.4004-0.19727c0.18193-0.24219 0.46743-0.40039 0.80273-0.40039 0.56413 0 1 0.43587 1 1s-0.43587 1-1 1h-6a1 1 0 0 0-1 1 1 1 0 0 0 1 1h6c1.645 0 3-1.355 3-3s-1.355-3-3-3z" style="fill:currentColor" class="ColorScheme-Text"/>
+ <path d="m4 13a1 1 0 0 0-1 1 1 1 0 0 0 1 1h10c0.56413 0 1 0.43587 1 1s-0.43587 1-1 1c-0.3353 0-0.62081-0.1582-0.80273-0.40039a1 1 0 0 0-1.4004-0.19726 1 1 0 0 0-0.19727 1.4004c0.54784 0.7293 1.4271 1.1973 2.4004 1.1973 1.645 0 3-1.355 3-3s-1.355-3-3-3z" style="fill:currentColor" class="ColorScheme-Text"/>
+ <path d="m16 6c-0.9733 0-1.8526 0.46796-2.4004 1.1973a1 1 0 0 0 0.19727 1.4004 1 1 0 0 0 1.4004-0.19727c0.18193-0.24219 0.46743-0.40039 0.80273-0.40039 0.56413 0 1 0.43587 1 1s-0.43587 1-1 1h-12a1 1 0 0 0-1 1 1 1 0 0 0 1 1h12c1.645 0 3-1.355 3-3s-1.355-3-3-3z" style="fill:currentColor" class="ColorScheme-Text"/>
+</svg>
