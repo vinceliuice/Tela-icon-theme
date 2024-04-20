@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }</style>
+ </defs>
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#4b8ef5" stroke-width=".92853"/>
+ <path d="m22 14c-3.324 0-6 2.676-6 6v24c0 3.324 2.676 6 6 6h20c3.324 0 6-2.676 6-6v-24c0-3.324-2.676-6-6-6zm1 10h18a1 1 0 1 1 0 2h-18a1 1 0 1 1 0-2zm0 8h18a1 1 0 1 1 0 2h-18a1 1 0 1 1 0-2zm0 8h18a1 1 0 1 1 0 2h-18a1 1 0 1 1 0-2z" fill="#ffffff" fill-rule="evenodd" stroke-width="2" style="paint-order:stroke fill markers"/>
+</svg>
