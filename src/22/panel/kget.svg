@@ -1,0 +1,42 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <g id="22-22-kget" transform="translate(-326 -534.36)">
+  <rect x="326" y="534.36" width="22" height="22" fill="none"/>
+  <rect class="ColorScheme-Text" x="330" y="552.36" width="14" height="2" rx="1" ry="1" fill="currentColor" opacity=".45"/>
+  <path class="ColorScheme-Text" d="m335 536.36c-0.554 0-1 0.446-1 1v7.5859l-1.2441-1.2441c-0.19587-0.19587-0.45141-0.29297-0.70703-0.29297s-0.51116 0.0971-0.70703 0.29297c-0.39174 0.39174-0.39174 1.0223 0 1.4141l4.9512 4.9512c0.0245 0.0245 0.048 0.0469 0.0742 0.0684h2e-3c0.0258 0.021 0.0528 0.0405 0.0801 0.0586h2e-3c0.0273 0.018 0.0554 0.0357 0.084 0.0508h2e-3c0.0285 0.015 0.0564 0.029 0.0859 0.041h2e-3c0.0295 0.012 0.0595 0.0242 0.0898 0.0332h2e-3c0.0303 9e-3 0.0609 0.0174 0.0918 0.0234 0.0951 0.0187 0.19098 0.0229 0.28711 0.0137 0.22285-0.0214 0.43995-0.11768 0.61133-0.28906h2e-3l4.9492-4.9512c0.39174-0.39173 0.39174-1.0223 0-1.4141-0.39173-0.39174-1.0223-0.39174-1.4141 0l-1.2444 1.2441v-7.5859c0-0.554-0.446-1-1-1zm1 2h2v8.5859l-1 1-1-1z" fill="currentColor"/>
+ </g>
+</svg>

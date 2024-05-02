@@ -1,0 +1,36 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#565656;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+ <path class="ColorScheme-Text" d="m7 5e-5v5.8457l-3.3867-2.6348-1.2266 1.5781 4.4512 3.4609-4.502 4.002 1.3281 1.4961 3.3359-2.9648v5.2168h1.4141l5.0938-5.0938-3.5449-2.7578 3.4941-3.1055-5.043-5.043zm2 3.4141 1.543 1.543-1.543 1.3711zm0 6.5195 1.4922 1.1602-1.4922 1.4922z" fill="currentColor" opacity=".35"/>
+</svg>
