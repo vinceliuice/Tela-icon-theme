@@ -142,9 +142,7 @@ Type=Fixed
 [32/status]
 Context=Status
 Size=32
-MinSize=32
-MaxSize=256
-Type=Scalable
+Type=Fixed
 
 # Scalable
 [scalable/apps]
