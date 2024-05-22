@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="m11 4c-3.3137 0-6 2.6863-6 6 0 2.087 1.0708 3.9251 2.6875 5h-0.6875c-2 0-2 2-2 2v1h12v-1s0-2-2-2h-0.6875c1.617-1.075 2.688-2.913 2.688-5 0-3.3137-2.686-6-6-6zm0 4.0039a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
+ <path class="ColorScheme-Text" d="m11 3a7 7 0 0 0-7 7 7 7 0 0 0 3 5.7285v1.2715h-1c-1.108 0-2 0.892-2 2h5c0-1.108 0.892-2 2-2 1.108 0 2 0.892 2 2h5c0-1.108-0.892-2-2-2h-1v-1.2715a7 7 0 0 0 3-5.7285 7 7 0 0 0-7-7zm0 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" fill="currentColor" opacity=".35"/>
+ <circle class="ColorScheme-Text" cx="11" cy="10" r="3" fill="currentColor"/>
 </svg>

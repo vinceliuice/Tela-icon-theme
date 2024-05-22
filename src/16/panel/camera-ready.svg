@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }</style>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,1 C 4.6863,1 2,3.6863 2,7 2,9.087 3.0708,10.925 4.6875,12 H 4 C 2,12 2,14 2,14 V 15 H 14 V 14 C 14,14 14,12 12,12 H 11.313 C 12.93,10.925 14,9.087 14,7 14,3.6863 11.314,1 8,1 Z M 8,5.0039 A 2,2 0 0 1 10,7.004 2,2 0 0 1 8,9.004 2,2 0 0 1 6,7.004 2,2 0 0 1 8,5.0039 Z"/>
+ <path class="ColorScheme-Text" d="m8 1a6 6 0 0 0-6 6 6 6 0 0 0 2 4.4648v1.5352h-2c-0.554 0-1 0.446-1 1v1h5c0-0.554 0.446-1 1-1h2c0.554 0 1 0.446 1 1h5v-1c0-0.554-0.446-1-1-1h-2v-1.5352a6 6 0 0 0 2-4.4648 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4zm0 2a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" fill="currentColor" opacity=".35"/>
 </svg>
