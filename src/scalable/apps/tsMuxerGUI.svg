@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#c1c9d7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.507" style="paint-order:markers fill stroke"/>
+ <circle cx="8.4665" cy="8.4665" r="4.6606" opacity=".15" stroke-width="1.3548" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(1.3548 0 0 1.3548 -3.0048 -382.44)" fill="#ffffff" style="paint-order:stroke markers fill">
+  <path d="m8.467 285.62c-1.6071 0-2.91 1.3028-2.91 2.91s1.3029 2.91 2.91 2.91 2.91-1.3028 2.91-2.91-1.3029-2.91-2.91-2.91z"/>
+  <path d="m7.938 284.43h1.058v1.852h-1.058zm0 6.35h1.058v1.852h-1.058zm4.63-2.778v1.058h-1.852v-1.058zm-6.35 0v1.058h-1.852v-1.058zm5.522 3.056-0.747 0.747-1.31-1.31 0.748-0.747zm-4.49-4.49-0.747 0.747-1.31-1.31 0.748-0.747zm-1.309 5.237-0.748-0.748 1.31-1.31 0.748 0.749zm4.49-4.49-0.748-0.748 1.31-1.31 0.748 0.749z"/>
+ </g>
+ <circle cx="8.4665" cy="8.4665" r="2.3812" fill="#7a9ed3" style="paint-order:markers fill stroke"/>
+ <path d="m7.9373 7.6728-1e-7 1.5875 1.3229-0.79373z" fill="#ffffff" style="paint-order:markers fill stroke"/>
+</svg>

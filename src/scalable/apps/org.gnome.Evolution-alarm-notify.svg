@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <filter id="a" x="0" y="0" width="1" height="1">
+  <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+ </filter>
+ <mask id="d">
+  <g filter="url(#a)">
+   <rect x="-12.8" y="-12.8" width="153.6" height="153.6" fill-opacity=".2929"/>
+  </g>
+ </mask>
+ <clipPath id="e">
+  <rect width="192" height="152"/>
+ </clipPath>
+ <path d="m59 32c0 14.912-12.088 27-27 27s-27-12.088-27-27 12.088-27 27-27 27 12.088 27 27z" fill="#77767b" stroke-width=".45"/>
+ <path d="m56 32c0 13.255-10.745 24-24 24-13.255 0-24-10.745-24-24 0-13.255 10.745-24 24-24 13.255 0 24 10.745 24 24z" fill="#deddda" stroke-width=".44444"/>
+ <path d="m32.328 32.928 13.453 0.072266" fill="#3d3846" fill-rule="evenodd" stroke="#3d3846" stroke-linecap="round" stroke-width="2.0031"/>
+ <path d="m18.619 17.441c3.6309-3.2305 8.3086-5.0391 13.168-5.0957l0.22656 20.154z" fill="#d35f5f" stroke-width=".5"/>
+ <path d="m31.5 32.457-12.492-14.455" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-width="1.0016"/>
+ <path d="m34.754 31.277c0.67578 1.5137-0.0039 3.2871-1.5176 3.9629-1.5137 0.67383-3.2871-0.0059-3.9609-1.5176-0.67578-1.5137 0.0039-3.2871 1.5176-3.9629 1.5117-0.67383 3.2871 0.0059 3.9609 1.5176z" fill="#241f31" stroke-width=".5"/>
+ <path d="m33.014 32.5c0 0.55273-0.44727 1-1 1-0.55078 0-1-0.44727-1-1 0-0.55274 0.44922-1 1-1 0.55273 0 1 0.44726 1 1z" fill="#deddda" stroke-width=".5"/>
+</svg>
