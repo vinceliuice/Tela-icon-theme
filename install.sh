@@ -1,9 +1,13 @@
 #!/usr/bin/env bash
-
-if [ ${UID} -eq 0 ]; then
-  DEST_DIR="/usr/share/icons"
+# check if DEST_DIR is already defined as environment variable
+if [ -n "${TELA_DEST_DIR}" ]; then
+  DEST_DIR="${TELA_DEST_DIR}"
 else
-  DEST_DIR="${HOME}/.local/share/icons"
+  if [ ${UID} -eq 0 ]; then
+    DEST_DIR="/usr/share/icons"
+  else
+    DEST_DIR="${HOME}/.local/share/icons"
+  fi
 fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
