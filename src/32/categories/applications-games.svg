@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="applications-games.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <rect
+     x="1"
+     y="1"
+     width="30"
+     height="30"
+     rx="8"
+     ry="8"
+     fill="#f2f2f2"
+     id="rect1" />
+  <g
+     stroke-linecap="square"
+     stroke-width=".1"
+     id="g2">
+    <path
+       d="m4 14-.941 7.525a2 2 0 0 0 3.479 1.752l.001.004 5.46-6.28zm24 0-8 3 5.46 6.281.003-.004A2 2 0 0 0 29 22a2 2 0 0 0-.059-.475z"
+       fill="#303136"
+       id="path1" />
+    <path
+       d="M10 8a6 6 0 0 0 0 12 6 6 0 0 0 3.31-1h5.38A6 6 0 0 0 22 20a6 6 0 0 0 0-12h-7z"
+       fill="#3f4346"
+       id="path2" />
+  </g>
+  <path
+     d="m 23,11 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     fill="#27ae60"
+     id="path3"
+     style="stroke-width:0.1;stroke-linecap:square;fill:#ffffff" />
+  <path
+     d="m 21,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     fill="#f33777"
+     id="path4"
+     style="stroke-width:0.1;stroke-linecap:square;fill:#ffffff" />
+  <path
+     d="m 25,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     fill="#c0392b"
+     id="path5"
+     style="stroke-width:0.1;stroke-linecap:square;fill:#ffffff" />
+  <path
+     d="m 23,15 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     fill="#2980b9"
+     id="path6"
+     style="stroke-width:0.1;stroke-linecap:square;fill:#ffffff" />
+  <g
+     stroke-linecap="square"
+     id="g9">
+    <path
+       d="M8 11v2H6v2h2v2h2v-2h2v-2h-2v-2z"
+       fill="#fff"
+       id="path7" />
+    <path
+       d="M13 17a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm6 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
+       fill="#303136"
+       id="path8" />
+    <path
+       d="M13 18a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm6 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1z"
+       fill="#fff"
+       id="path9" />
+  </g>
+</svg>

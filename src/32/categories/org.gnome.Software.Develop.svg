@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg14"
+   sodipodi:docname="org.gnome.Software.Develop.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="14.75"
+     inkscape:cx="20.813559"
+     inkscape:cy="9.0847458"
+     inkscape:window-width="1920"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <filter
+     id="b"
+     x="0"
+     y="0"
+     width="1"
+     height="1">
+    <feColorMatrix
+       in="SourceGraphic"
+       values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+       id="feColorMatrix1" />
+  </filter>
+  <rect
+     x="1"
+     y="1"
+     width="30"
+     height="30"
+     rx="8"
+     ry="8"
+     fill="#deddda"
+     id="rect1" />
+  <rect
+     x="3"
+     y="3"
+     width="26"
+     height="26"
+     rx="6.5"
+     ry="6.5"
+     fill="#333333"
+     stroke-width=".86667"
+     id="rect3" />
+  <g
+     transform="translate(0,1)"
+     id="g14">
+    <path
+       d="m6 6h8v1h-8z"
+       fill="#ff7800"
+       stroke-width=".26726"
+       id="path3" />
+    <path
+       d="m6 8h4v1h-4z"
+       fill="#deddda"
+       stroke-width=".25"
+       id="path4" />
+    <path
+       d="m8 10h12v1h-12z"
+       fill="#3584e4"
+       stroke-width=".26726"
+       id="path5" />
+    <path
+       d="m8 12h6v1h-6z"
+       fill="#deddda"
+       stroke-width=".26112"
+       id="path6" />
+    <path
+       d="m8 14h10v1h-10z"
+       fill="#deddda"
+       stroke-width=".26352"
+       id="path7" />
+    <path
+       d="m10 16h5v1h-5z"
+       fill="#8ff0a4"
+       stroke-width=".25"
+       id="path8" />
+    <path
+       d="m15 18h7v1h-7z"
+       fill="#ff7800"
+       stroke-width=".27003"
+       id="path9" />
+    <path
+       d="m6 20h9v1h-9z"
+       fill="#deddda"
+       stroke-width=".26516"
+       id="path10" />
+    <path
+       d="m6 22h5v1h-5z"
+       fill="#3584e4"
+       stroke-width=".26352"
+       id="path11" />
+    <path
+       d="m10 18h4v1h-4z"
+       fill="#8ff0a4"
+       stroke-width=".26726"
+       id="path12" />
+    <path
+       d="m16 16h6v1h-6z"
+       fill="#deddda"
+       stroke-width=".27386"
+       id="path13" />
+    <path
+       d="m19 14h5v1h-5z"
+       fill="#3584e4"
+       stroke-width=".26352"
+       id="path14" />
+  </g>
+</svg>
