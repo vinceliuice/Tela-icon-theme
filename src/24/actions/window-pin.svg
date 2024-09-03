@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 8.0214838,4.00005 a 0.9947634,1.0001 0 1 0 0,2 h 0.978516 V 9.0000499 C 8.9999998,10.32805 7.3042848,11.00005 6,11.00005 v 2 h 5 v 6 l 0.976562,1 1.023438,-1 v -6 h 5 v -2 c -1.304286,0 -3.055749,-0.673171 -3,-2 v -3 h 0.978516 a 0.9947634,1.0001 0 1 0 0,-2 z"/>
+ <g class="ColorScheme-Text" transform="rotate(45 -19.553 67.477)" fill="currentColor">
+  <rect x="-37.46" y="9" width="2" height="7" rx="1" ry="1" opacity=".45" stroke-width="1.4142"/>
+  <path d="m-36.473-4c-0.58264 0.00516-0.94596 0.34193-1.2617 0.76562-0.33072 0.44377-0.58372 1.0012-0.81445 1.7031-0.43869 1.3345-0.71671 3.1742-0.83398 5.2422-1.3683 0.66484-2.3135 1.7559-2.7246 2.9688-0.2191 0.64828 0.26296 1.3202 0.94727 1.3203h9.4004c0.6843-1.268e-4 1.1664-0.67203 0.94727-1.3203-0.41126-1.2156-1.3591-2.3097-2.7305-2.9746-0.11777-2.0689-0.39661-3.9085-0.83594-5.2422-0.23095-0.70108-0.45474-1.2807-0.81445-1.7031-0.30506-0.35827-0.81487-0.79736-1.2656-0.75977-0.49035 0.040899-0.0026 0-0.0039 0h-2e-3c-0.0026 0 0.48416-0.00436-0.0078 0zm0.0098 2.6836c0.06898 0.15907 0.11901 0.20232 0.18555 0.4043 0.37279 1.1317 0.68152 2.9072 0.7793 4.9648 0.02747 0.5806 0.39317 1.0986 0.93164 1.3184 0.38994 0.16017 0.65652 0.39466 0.92188 0.62891h-5.6289c0.26386-0.23271 0.52894-0.46541 0.91602-0.625l2e-3 -0.00195c0.53693-0.22037 0.90042-0.7365 0.92774-1.3164 0.09744-2.056 0.40502-3.8303 0.77734-4.9629 0.06706-0.20401 0.1179-0.24982 0.1875-0.41016z"/>
+ </g>
 </svg>
