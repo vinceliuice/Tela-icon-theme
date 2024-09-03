@@ -1,0 +1,7 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+ <g transform="scale(1.3333)">
+  <path d="m18 12-6 7 6 5-6 5 6 7 6-8 6 8 6-7-6-5 6-5-6-7-6 8z" fill="#928da5"/>
+  <path d="m18 12 6 11 6-11-6 6zm6 13-6 11 6-6 6 6z" fill="#b2ccd1"/>
+ </g>
+</svg>
