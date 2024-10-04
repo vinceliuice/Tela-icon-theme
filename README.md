@@ -22,6 +22,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | -c        | Install colorscheme version for KDE plasma(folder color follow colorscheme)   |
 | -d        | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
 | -n        | Specify theme name (**Default:** _Tela_)                                      |
+| -r, -u    | Remove/uninstall icon themes (Default: all installed)                         |
 | -h        | Show this help                                                                |
 
 |  COLOR VARIANTS |                                       |

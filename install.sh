@@ -18,10 +18,31 @@ if command -v lsb_release &> /dev/null; then
   else
     ICON_VERSION="normal"
   fi
-  echo -e "Install $ICON_VERSION version! ..."
+  # echo -e "Install $ICON_VERSION version! ..."
 else
   ICON_VERSION="normal"
 fi
+
+export c_default="\033[0m"
+export c_blue="\033[1;34m"
+export c_magenta="\033[1;35m"
+export c_cyan="\033[1;36m"
+export c_green="\033[1;32m"
+export c_red="\033[1;31m"
+export c_yellow="\033[1;33m"
+
+prompt() {
+  case "${1}" in
+    "-s")
+      echo -e "  ${c_green}${2}${c_default}" ;;    # print success message
+    "-e")
+      echo -e "  ${c_red}${2}${c_default}" ;;      # print error message
+    "-w")
+      echo -e "  ${c_yellow}${2}${c_default}" ;;   # print warning message
+    "-i")
+      echo -e "  ${c_cyan}${2}${c_default}" ;;     # print info message
+  esac
+}
 
 usage() {
 cat << EOF
@@ -32,6 +53,7 @@ OPTIONS:
   -c                       Install plasma colorscheme folder version
   -d DIR                   Specify theme destination directory (Default: $HOME/.local/share/icons)
   -n NAME                  Specify theme name (Default: Tela)
+  -r, -u                   Remove/uninstall icon themes (Default: all)
   -h                       Show this help
 
 COLOR VARIANTS:
@@ -130,10 +152,10 @@ install_theme() {
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
   if [[ -d "${THEME_DIR}" ]]; then
-    rm -r "${THEME_DIR}"
+    rm -rf "${THEME_DIR}"
   fi
 
-  echo "Installing '${THEME_NAME}'..."
+  prompt -i "Installing '${THEME_NAME}'..."
 
   install -d "${THEME_DIR}"
 
@@ -263,18 +285,37 @@ install_theme() {
   gtk-update-icon-cache "${THEME_DIR}"
 }
 
+uninstall_theme() {
+  # Appends a dash if the variables are not empty
+  if [[ "$1" != "standard" ]]; then
+    local -r colorprefix="-$1"
+  fi
+
+  local -r brightprefix="${2:+-$2}"
+
+  local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
+  local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
+
+  if [[ -d "${THEME_DIR}" ]]; then
+    rm -rf "${THEME_DIR}"
+    prompt -i "Uninstalling '${THEME_DIR}'..."
+  fi
+}
+
 while [ $# -gt 0 ]; do
   if [[ "$1" = "-a" ]]; then
     colors=("${COLOR_VARIANTS[@]}")
   elif [[ "$1" = "-c" ]]; then
     colorscheme="true"
-    echo "Folder color will follow the colorscheme on KDE plasma ..."
+    prompt -s "Folder color will follow the colorscheme on KDE plasma ..."
   elif [[ "$1" = "-d" ]]; then
     DEST_DIR="$2"
     shift
   elif [[ "$1" = "-n" ]]; then
     NAME="$2"
     shift
+  elif [[ "$1" = "-u" || "$1" = "-r" ]]; then
+    uninstall="true"
   elif [[ "$1" = "-h" ]]; then
     usage
     exit 0
@@ -283,8 +324,8 @@ while [ $# -gt 0 ]; do
        [[ "${colors[*]}" != *$1* ]]; then
     colors+=("$1")
   else
-    echo "ERROR: Unrecognized installation option '$1'."
-    echo "Try '$0 -h' for more information."
+    prompt -e "ERROR: Unrecognized installation option '$1'."
+    prompt -w "Try '$0 -h' for more information."
     exit 1
   fi
 
@@ -294,9 +335,17 @@ done
 # Default name is 'Tela'
 : "${NAME:=Tela}"
 
-# By default, only the standard color variant is selected
-for color in "${colors[@]:-standard}"; do
-  for bright in "${BRIGHT_VARIANTS[@]}"; do
-    install_theme "${color}" "${bright}"
+if [[ ${uninstall} == 'true' ]]; then
+  for color in "${COLOR_VARIANTS[@]}"; do
+    for bright in "${BRIGHT_VARIANTS[@]}"; do
+      uninstall_theme "${color}" "${bright}"
+    done
   done
-done
+else
+  # By default, only the standard color variant is selected
+  for color in "${colors[@]:-standard}"; do
+    for bright in "${BRIGHT_VARIANTS[@]}"; do
+      install_theme "${color}" "${bright}"
+    done
+  done
+fi
