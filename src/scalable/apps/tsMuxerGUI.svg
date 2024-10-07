@@ -1,10 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#c1c9d7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.507" style="paint-order:markers fill stroke"/>
- <circle cx="8.4665" cy="8.4665" r="4.6606" opacity=".15" stroke-width="1.3548" style="paint-order:stroke markers fill"/>
- <g transform="matrix(1.3548 0 0 1.3548 -3.0048 -382.44)" fill="#ffffff" style="paint-order:stroke markers fill">
-  <path d="m8.467 285.62c-1.6071 0-2.91 1.3028-2.91 2.91s1.3029 2.91 2.91 2.91 2.91-1.3028 2.91-2.91-1.3029-2.91-2.91-2.91z"/>
-  <path d="m7.938 284.43h1.058v1.852h-1.058zm0 6.35h1.058v1.852h-1.058zm4.63-2.778v1.058h-1.852v-1.058zm-6.35 0v1.058h-1.852v-1.058zm5.522 3.056-0.747 0.747-1.31-1.31 0.748-0.747zm-4.49-4.49-0.747 0.747-1.31-1.31 0.748-0.747zm-1.309 5.237-0.748-0.748 1.31-1.31 0.748 0.749zm4.49-4.49-0.748-0.748 1.31-1.31 0.748 0.749z"/>
- </g>
- <circle cx="8.4665" cy="8.4665" r="2.3812" fill="#7a9ed3" style="paint-order:markers fill stroke"/>
- <path d="m7.9373 7.6728-1e-7 1.5875 1.3229-0.79373z" fill="#ffffff" style="paint-order:markers fill stroke"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#c1c9d7" rx="2.117" ry="2.117" style="paint-order:markers fill stroke"/><circle cx="8.466" cy="8.466" r="4.661" opacity=".15" style="paint-order:stroke markers fill"/><g fill="#fff" style="paint-order:stroke markers fill"><path d="M8.466 4.518a3.942 3.942 0 1 0 0 7.885 3.942 3.942 0 0 0 0-7.885"/><path d="M7.75 2.906h1.433v2.509H7.75zm0 8.603h1.433v2.509H7.75zm6.272-3.764v1.433h-2.509V7.745zm-8.603 0v1.433H2.91V7.745zm7.482 4.14-1.012 1.012-1.775-1.774 1.013-1.012zM6.818 5.802 5.805 6.814 4.031 5.04l1.013-1.012zm-1.774 7.095-1.013-1.013 1.774-1.775 1.014 1.015zm6.083-6.083-1.013-1.013 1.775-1.775 1.013 1.015z"/></g><circle cx="8.466" cy="8.466" r="2.381" fill="#7a9ed3" style="paint-order:markers fill stroke"/><path fill="#fff" d="M7.937 7.673V9.26l1.323-.793z" style="paint-order:markers fill stroke"/></svg>

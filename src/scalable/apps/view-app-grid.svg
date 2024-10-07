@@ -1,14 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#666666"/>
- <g transform="matrix(3,0,0,3,-73,-52)" fill="#ffffff">
-  <circle cx="39" cy="24" r="1"/>
-  <circle cx="35" cy="24" r="1"/>
-  <circle cx="31" cy="24" r="1"/>
-  <circle cx="39" cy="28" r="1"/>
-  <circle cx="35" cy="28" r="1"/>
-  <circle cx="31" cy="28" r="1"/>
-  <circle cx="39" cy="32" r="1"/>
-  <circle cx="35" cy="32" r="1"/>
-  <circle cx="31" cy="32" r="1"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="52" height="52" x="6" y="6" fill="#666" rx="8" ry="8"/><g fill="#fff" transform="matrix(3 0 0 3 -73 -52)"><circle cx="39" cy="24" r="1"/><circle cx="35" cy="24" r="1"/><circle cx="31" cy="24" r="1"/><circle cx="39" cy="28" r="1"/><circle cx="35" cy="28" r="1"/><circle cx="31" cy="28" r="1"/><circle cx="39" cy="32" r="1"/><circle cx="35" cy="32" r="1"/><circle cx="31" cy="32" r="1"/></g></svg>
