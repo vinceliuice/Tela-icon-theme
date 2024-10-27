@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="applications-education.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="15.124894"
+     inkscape:cy="6.8553403"
+     inkscape:window-width="1920"
+     inkscape:window-height="954"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3">
+    <inkscape:grid
+       id="grid4"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="399.57001"
+       x2="399.57001"
+       y1="545.79999"
+       y2="517.79999"
+       gradientTransform="translate(-384.57,-515.8)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3889e9"
+         offset="0"
+         id="stop1" />
+      <stop
+         stop-color="#5ea5fb"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g4"
+     transform="matrix(0.73333333,0,0,0.73333333,-0.73333328,-0.73333328)">
+    <rect
+       x="1"
+       y="1"
+       width="30"
+       height="30"
+       rx="8.181818"
+       ry="8.181818"
+       fill="#43d07c"
+       id="rect2" />
+    <g
+       fill="#ffffff"
+       id="g3">
+      <path
+         d="M 15.775,19.767 26.634,14.536 V 14.058 L 15.775,8.828 4.925,14.053 v 0.488 z"
+         id="path2" />
+      <path
+         d="m 8.685,17.304 v 3.127 l 6.54,3.15 h 1.1 l 6.523,-3.142 0.018,-0.041 v -3.094 l -7.09,3.416 z m 16.232,7.619 h 0.287 l 0.845,-1.132 -0.559,-1.704 v -6.082 l -0.859,0.433 v 5.649 l -0.56,1.704 z"
+         id="path3" />
+    </g>
+  </g>
+</svg>
