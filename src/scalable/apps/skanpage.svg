@@ -1,18 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="f" x1="3" x2="-1" y1="507.8" y2="503.8" gradientTransform="matrix(0,1.35,-1.35,0,50.9,53.6)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2f3943" offset="0"/>
-   <stop stop-color="#4d5662" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="8" y="5" width="48" height="54" rx="6" ry="6" fill="#d0d5d7" stroke-width="0" style="paint-order:stroke fill markers"/>
- <g transform="translate(-.1 -.65)" stroke-linejoin="round">
-  <path d="m51.1 53.65h-38v1.3c0 0.7479 0.30105 1.4229 0.78908 1.9109s1.163 0.78908 1.9109 0.78908h32.6c1.4958 0 2.7-1.2042 2.7-2.7z" fill="url(#f)" stroke-width="2.7"/>
-  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-55.408" cy="-47.342" r=".7575" fill="#11d116" stroke-linecap="round" stroke-width="3.03"/>
- </g>
- <rect x="9" y="11" width="46" height="42" fill="#eff0f1" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="8.3219"/>
- <rect x="10" y="12" width="44" height="40" fill="#237cc7" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="8.6895"/>
- <path d="m29.908 14.508 13.523 1.4e-5 6.7616 6.7587 1e-5 20.276h-20.285z" fill="#eff0f1" stroke="#808080" stroke-linecap="round" stroke-width="1.3151"/>
- <path d="m13.708 21.258 13.523 1.3e-5 6.7616 6.7587 1.3e-5 20.276h-20.285z" fill="#eff0f1" stroke="#808080" stroke-linecap="round" stroke-width="1.3151"/>
- <rect x="10" y="31" width="44" height="2" fill="#84cbfe" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="10.282"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><defs><linearGradient id="a" x1="3" x2="-1" y1="507.8" y2="503.8" gradientTransform="matrix(0 1.35 -1.35 0 50.9 53.6)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2f3943"/><stop offset="1" stop-color="#4d5662"/></linearGradient></defs><rect width="48" height="54" x="8" y="5" fill="#d0d5d7" rx="6" ry="6" style="paint-order:stroke fill markers"/><g stroke-linejoin="round" transform="translate(-.1 -.65)"><path fill="url(#a)" d="M51.1 53.65h-38v1.3a2.69 2.69 0 0 0 2.7 2.7h32.6c1.496 0 2.7-1.204 2.7-2.7z"/><circle cx="-55.408" cy="-47.342" r=".757" fill="#11d116" transform="scale(1 -1)rotate(90)"/></g><path fill="#eff0f1" d="M9 11h46v42H9z"/><path fill="#237cc7" d="M10 12h44v40H10z"/><path fill="#eff0f1" stroke="gray" stroke-linecap="round" stroke-width="1.315" d="M29.908 14.508h13.523l6.762 6.759v20.276H29.908z"/><path fill="#eff0f1" stroke="gray" stroke-linecap="round" stroke-width="1.315" d="M13.708 21.258h13.523l6.762 6.759v20.276H13.708z"/><path fill="#84cbfe" d="M10 31h44v2H10z"/></svg>
