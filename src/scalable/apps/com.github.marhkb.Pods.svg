@@ -1,0 +1,14 @@
+<svg width="64" height="64" image-rendering="optimizeSpeed" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#3d3846" stroke-linecap="round" stroke-width="2.1816" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(1.125 0 0 1.125 -3.9999 -3.9999)" stroke-width="1.3333">
+  <rect x="16" y="16" width="31.999" height="31.999" ry="2.6666" fill="#b1b7b9"/>
+  <path d="m18.666 18.666h26.666v9.3331l-13.333 2.6666-13.333-2.6666z" fill="#3b83d8"/>
+  <path d="m18.666 31.999 13.333-2.6666 13.333 2.6666v7.9998l-13.333 5.3332h-1.3333l-12-9.3331z" fill="#443f50"/>
+  <path d="m34.666 30.666h7.9998v9.3331l-3.9999 1.3333-3.9999-1.3333z" fill="#986a44"/>
+  <path d="m18.666 35.999v9.3331h12v-9.3331zm13.333 3.9999v5.3332h13.333v-5.3332z" fill="#b5835a"/>
+  <path d="m18.666 27.999h26.666v3.9999h-26.666z" fill="#ced3d4"/>
+  <path d="m18.666 19.999v1.3333h26.666v-1.3333zm0 2.6666v1.3333h26.666v-1.3333zm0 2.6666v1.3333h26.666v-1.3333z" fill="#ffffff" opacity=".1"/>
+  <path d="m37.332 39.999h2.6666v5.3332h-2.6666z" fill="#ffffff" opacity=".2"/>
+  <rect x="26.666" y="29.332" width="10.666" height="1.3333" ry=".66665" opacity=".3"/>
+ </g>
+</svg>
