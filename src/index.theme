@@ -26,8 +26,8 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 # Directory list
-Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/status,16/places,22/actions,22/categories,22/emblems,22/devices,22/mimetypes,22/panel,22/places,24/actions,24/panel,24/animations,24/devices,24/places,32/actions,32/categories,32/devices,32/status,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
-ScaledDirectories=16@2x/actions,16@2x/apps,16@2x/devices,16@2x/mimetypes,16@2x/panel,16@2x/status,16@2x/places,22@2x/actions,22@2x/categories,22@2x/devices,22@2x/emblems,22@2x/mimetypes,22@2x/panel,22@2x/places,24@2x/actions,24@2x/devices,24@2x/panel,24@2x/animations,24@2x/places,32@2x/actions,32@2x/categories,32@2x/devices,32@2x/status,scalable@2x/apps,scalable@2x/devices,scalable@2x/places,scalable@2x/mimetypes,16@3x/actions,16@3x/apps,16@3x/devices,16@3x/mimetypes,16@3x/panel,16@3x/status,16@3x/places,22@3x/actions,22@3x/devices,22@3x/emblems,22@3x/mimetypes,22@3x/panel,22@3x/places,24@3x/actions,24@3x/devices,24@3x/panel,24@3x/animations,24@3x/places,32@3x/actions,32@3x/categories,32@3x/devices,32@3x/status,scalable@3x/apps,scalable@3x/devices,scalable@3x/places,scalable@3x/mimetypes
+Directories=16/actions,16/apps,16/devices,16/panel,16/status,16/places,22/actions,22/categories,22/emblems,22/devices,22/panel,22/places,24/actions,24/panel,24/animations,24/devices,24/places,32/actions,32/categories,32/devices,32/status,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+ScaledDirectories=16@2x/actions,16@2x/apps,16@2x/devices,16@2x/panel,16@2x/status,16@2x/places,22@2x/actions,22@2x/categories,22@2x/devices,22@2x/emblems,22@2x/panel,22@2x/places,24@2x/actions,24@2x/devices,24@2x/panel,24@2x/animations,24@2x/places,32@2x/actions,32@2x/categories,32@2x/devices,32@2x/status,scalable@2x/apps,scalable@2x/devices,scalable@2x/places,scalable@2x/mimetypes,16@3x/actions,16@3x/apps,16@3x/devices,16@3x/panel,16@3x/status,16@3x/places,22@3x/actions,22@3x/devices,22@3x/emblems,22@3x/panel,22@3x/places,24@3x/actions,24@3x/devices,24@3x/panel,24@3x/animations,24@3x/places,32@3x/actions,32@3x/categories,32@3x/devices,32@3x/status,scalable@3x/apps,scalable@3x/devices,scalable@3x/places,scalable@3x/mimetypes
 
 # 16x16
 [16/actions]
@@ -44,11 +44,6 @@ Type=Scalable
 
 [16/devices]
 Context=Devices
-Size=16
-Type=Fixed
-
-[16/mimetypes]
-Context=MimeTypes
 Size=16
 Type=Fixed
 
@@ -89,11 +84,6 @@ Size=22
 MinSize=16
 MaxSize=48
 Type=Scalable
-
-[22/mimetypes]
-Context=MimeTypes
-Size=22
-Type=Fixed
 
 [22/panel]
 Context=Status
@@ -179,7 +169,7 @@ Type=Scalable
 [scalable/mimetypes]
 Context=MimeTypes
 Size=64
-MinSize=24
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -268,12 +258,6 @@ Scale=2
 Size=16
 Type=Fixed
 
-[16@2x/mimetypes]
-Context=MimeTypes
-Scale=2
-Size=16
-Type=Fixed
-
 [16@2x/status]
 Context=Status
 Scale=2
@@ -315,12 +299,6 @@ Type=Scalable
 
 [22@2x/devices]
 Context=Devices
-Scale=2
-Size=22
-Type=Fixed
-
-[22@2x/mimetypes]
-Context=MimeTypes
 Scale=2
 Size=22
 Type=Fixed
@@ -424,7 +402,7 @@ Type=Scalable
 Context=MimeTypes
 Scale=2
 Size=64
-MinSize=24
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -445,12 +423,6 @@ Type=Scalable
 
 [16@3x/devices]
 Context=Devices
-Scale=3
-Size=16
-Type=Fixed
-
-[16@3x/mimetypes]
-Context=MimeTypes
 Scale=3
 Size=16
 Type=Fixed
@@ -490,12 +462,6 @@ Type=Scalable
 
 [22@3x/devices]
 Context=Devices
-Scale=3
-Size=22
-Type=Fixed
-
-[22@3x/mimetypes]
-Context=MimeTypes
 Scale=3
 Size=22
 Type=Fixed
@@ -599,6 +565,6 @@ Type=Scalable
 Context=MimeTypes
 Scale=3
 Size=64
-MinSize=24
+MinSize=16
 MaxSize=512
 Type=Scalable

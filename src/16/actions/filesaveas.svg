@@ -1,8 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.9980469 1.0195312 L 5.9980469 7.0195312 L 3.6582031 7.0195312 L 7.9902344 13.324219 L 12.371094 7.0195312 L 9.9980469 7.0195312 L 9.9980469 1.0488281 L 5.9980469 1.0195312 z M 1 14.03125 L 1 16 L 15.005859 16 L 15 14.03125 L 1 14.03125 z"/>
+ <g class="ColorScheme-Text" fill="currentColor">
+  <rect transform="rotate(-45)" x="-3.5355" y="12.849" width="7" height="2" rx="0" ry="0"/>
+  <rect transform="matrix(-.70711 -.70711 -.70711 .70711 0 0)" x="-14.849" y="1.5357" width="7" height="2" rx="0" ry="0"/>
+  <rect x="7" y="1" width="2" height="10"/>
+  <rect x="1" y="14" width="14" height="2"/>
+ </g>
 </svg>
