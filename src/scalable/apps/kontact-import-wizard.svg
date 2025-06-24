@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)" paint-order="markers stroke fill">
+  <path d="M2.381 284.565h12.171c.44 0 .794.354.794.793v8.467c0 .44-.354.794-.794.794H2.382a.79.79 0 0 1-.795-.794v-8.467c0-.44.355-.793.794-.793" fill="#2f8dac"/>
+  <rect x="2.91" y="282.45" width="11.113" height="8.731" rx=".775" ry=".794" fill="#fff" stroke="#000" stroke-opacity=".059" stroke-width=".265"/>
+  <rect x="2.91" y="282.45" width="11.113" height="8.731" rx=".775" ry=".794" fill="#fff"/>
+  <path d="M15.181 284.878a.8.8 0 0 1 .165.48v8.467c0 .44-.354.794-.794.794H2.382a.8.8 0 0 1-.531-.206z" fill="#26a4ca"/>
+  <path d="M1.752 284.878a.8.8 0 0 0-.165.48v8.467c0 .44.355.794.794.794h12.171a.8.8 0 0 0 .53-.206z" fill="#49bde3"/>
+ </g>
+ <circle cx="12.964" cy="12.435" r="3.1749" fill="#666666" stroke-linecap="round" stroke-width=".55218"/>
+ <rect transform="rotate(-45)" x="-1.1225" y="16.464" width="2.6458" height=".52916" fill="#ffffff" stroke-linecap="round" stroke-width=".70994"/>
+ <rect transform="matrix(.70711 .70711 .70711 -.70711 0 0)" x="16.464" y="-1.1225" width="2.6458" height=".52916" fill="#ffffff" stroke-linecap="round" stroke-width=".70995"/>
+ <rect x="11.377" y="12.171" width="3.7041" height=".52916" fill="#ffffff" stroke-linecap="round" stroke-width=".51122"/>
+</svg>

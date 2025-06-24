@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="14.679" x2="2.293" y1="293.79" y2="282.98" gradientTransform="matrix(3.7795 0 0 3.9436 0 -1105.9)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#66bcff" offset="0"/>
+   <stop stop-color="#b29aff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4" y="8" width="55.999" height="48.001" rx="5" ry="5" fill="url(#a)"/>
+ <rect x="6.999" y="10" width="50" height="4" rx="2" ry="2" opacity=".35"/>
+ <rect x="8" y="11" width="3.999" height="1.999" ry="1.002" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="27.001" y="11" width="10.001" height="1.999" ry="1.002" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="53.999" y="11" width="1.999" height="1.999" ry="1.002" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="50" y="11" width="3.001" height="1.999" ry="1.002" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="46.999" y="11" width="1.999" height="1.999" ry="1.002" opacity=".35" style="paint-order:stroke markers fill"/>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #fcfcfc; }</style>
+ <g transform="translate(21.333 16.977)">
+  <path class="ColorScheme-Text" d="m18.426 6.7695c-1.593 0.86101-3.6605 2.0886-5.6602 3.8926-2.0124 1.8154-3.9107 4.1728-5.2012 7.2363-0.51101 1.2131-0.92082 2.5243-1.207 3.9414-0.084157-0.32056-0.16781-0.628-0.25391-0.92383-0.57612-1.9796-1.2442-3.4806-2.4004-4.627-0.18814-0.18611-0.44239-0.29006-0.70703-0.28906-0.26576 0.0011-0.52017 0.1079-0.70703 0.29688-0.38827 0.39266-0.38478 1.0257 0.00781 1.4141 0.81149 0.80458 1.3507 1.9218 1.8867 3.7637 0.52521 1.8047 1.0268 4.2558 1.7949 7.5488 0.039231 1.3402 2.039 1.3154 2.0449-0.02539 0.32677-4.103 1.5581-7.0645 3.082-9.1699 1.5173-2.0963 3.376-3.419 5.1133-4.2344 1.749-0.82085 3.4452-1.1578 4.6641-1.2031" fill="currentColor"/>
+  <circle cx="22" cy="10" r="8" fill="#ff5555" stroke-width="1.6" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

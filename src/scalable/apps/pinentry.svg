@@ -1,0 +1,5 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 4.0004c-8.864 0-16 7.1359-16 16v5.9999h6v-5.9999c0-5.5399 4.46-9.9998 10-9.9998 5.54 0 10 4.4599 10 9.9998v5.9999h6v-5.9999c0-8.8638-7.136-16-16-16z" fill="#d2d2d2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-54" width="33.999" height="44" rx="2.8" ry="2.8" fill="#ffb437"/>
+ <rect x="10" y="32" width="44" height="20" rx="0" ry="0" fill="#fed96a"/>
+</svg>
