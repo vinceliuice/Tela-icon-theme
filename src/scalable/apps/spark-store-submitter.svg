@@ -5,7 +5,7 @@
    viewBox="0 0 16.933 16.933"
    version="1.1"
    id="svg14"
-   sodipodi:docname="muondiscover.svg"
+   sodipodi:docname="spark-store1.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="-42.033898"
-     inkscape:cy="34.305085"
-     inkscape:window-width="1830"
-     inkscape:window-height="840"
-     inkscape:window-x="140"
-     inkscape:window-y="346"
+     inkscape:cx="29.694915"
+     inkscape:cy="34.440678"
+     inkscape:window-width="960"
+     inkscape:window-height="954"
+     inkscape:window-x="960"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg14" />
   <rect
@@ -54,10 +54,10 @@
      style="paint-order:stroke markers fill"
      id="path6" />
   <path
-     fill="#fff"
-     d="M5.292 3.969a3.175 3.175 0 0 0 3.175 3.175 3.175 3.175 0 0 0 3.175-3.175h-.794A2.38 2.38 0 0 1 8.467 6.35a2.38 2.38 0 0 1-2.382-2.381z"
-     style="paint-order:stroke markers fill"
-     id="path8" />
+     fill="#ffffff"
+     d="m 5.2915,3.9915 a 3.175,3.175 0 0 0 3.175,3.175 3.175,3.175 0 0 0 3.175,-3.175 h -0.794 a 2.38,2.38 0 0 1 -2.381,2.381 2.38,2.38 0 0 1 -2.382,-2.381 z m 2.381,9.524 v -2.646 h -1.323 l 2.117,-2.116 2.116,2.116 h -1.323 v 2.646 z"
+     style="display:inline;paint-order:stroke markers fill"
+     id="path805" />
   <circle
      cx="12.298345"
      cy="12.34762"
