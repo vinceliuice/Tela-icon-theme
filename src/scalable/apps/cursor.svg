@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26977"/>
+ <path transform="translate(.423 .423)scale(.25135)" d="m32 52 17-10-17-10-17 10z" fill="#838383"/>
+ <path transform="translate(.423 .423)scale(.25135)" d="M49 42V22L32 12v20z" fill="#545454"/>
+ <path transform="translate(.423 .423)scale(.25135)" d="m32 12-17 10v20l17-10z" fill="#6d6d6d"/>
+ <path transform="translate(.423 .423)scale(.25135)" d="M49 22 32 52V32Z" fill="#d1d1d1"/>
+ <path d="m12.74 5.953-4.275 2.514-4.271-2.514z" fill="#fff"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="a">
+   <circle cx="8.467" cy="288.53" r="6.879" fill="#d86eb0" stroke-opacity=".039" stroke-width=".491" style="paint-order:stroke markers fill"/>
+  </clipPath>
+ </defs>
+ <rect x="1.5875" y="1.5875" width="13.758" height="13.758" rx="2.1166" ry="2.1166" fill="#57b044" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26977"/>
+ <rect transform="scale(.99994)" x="6.879" y="5.291" width="3.175" height="5.292" rx="1.587" ry="1.587" fill="#fff" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.99994)" d="M6.218 8.863a.13.13 0 0 0-.133.133l.002.016a2.38 2.38 0 0 0 2.38 2.365 2.38 2.38 0 0 0 2.38-2.368v-.014a.13.13 0 0 0-.132-.132.13.13 0 0 0-.132.132 2.116 2.116 0 0 1-2.116 2.117 2.116 2.116 0 0 1-2.116-2.117h-.002a.13.13 0 0 0-.131-.132" fill="#fff" style="paint-order:stroke markers fill"/>
+ <path d="M1.588 7.237h13.757v4.761H1.588Z" fill="none"/>
+ <g transform="matrix(1 0 0 1.0384 -.00053811 -291.27)" clip-path="url(#a)" fill="none" stroke="#fff" stroke-opacity=".937" stroke-width=".127">
+  <path d="m1.485 287.74c0.72 0.155 1.391 0.625 1.983 1.98 0.674 1.545 1.623 2.23 2.772 2.284 1.48 0.07 2.673-1.226 3.459-2.385 1.602-2.362 4.519-2.136 5.816-1.251" opacity=".35"/>
+  <path d="m1.493 288.13c0.894-0.35 2.083-0.424 2.872 0.827 0.722 1.143 1.576 2.867 4.049 2.709 1.478-0.095 2.956-0.71 3.718-2.15 0.53-0.933 1.26-1.872 2.293-2.104 0.382-0.081 0.655-0.07 0.976 0.057" opacity=".35"/>
+  <path d="m1.775 290.25c0.947-0.444 2.745-0.953 4.197-0.53 1.297 0.38 2.937 1.847 6.056 1.504 0.824-0.09 1.522-0.563 2.183-1.464 0.478-0.652 0.75-1.02 1.306-1.167" opacity=".35"/>
+ </g>
+</svg>

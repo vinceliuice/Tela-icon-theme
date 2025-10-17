@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="7" y="4" width="50" height="56" rx="4" ry="4" fill="#62a0ea" stroke-width="1.3944"/>
+ <g stroke-width="1.4">
+  <rect x="11" y="8" width="42" height="12.6" fill="#3368aa"/>
+  <rect x="11" y="35" width="42" height="12.6" fill="#3368aa"/>
+  <rect x="27.8" y="39.2" width="25.2" height="16.8" fill="#d4a782"/>
+  <rect x="11" y="13.6" width="25.2" height="16.8" fill="#d4a782"/>
+  <rect x="13.8" y="16.4" width="8.4" height="2.8" fill="#ead3c1"/>
+  <rect x="36.2" y="19.2" width="16.8" height="11.2" fill="#b5835a"/>
+  <rect x="13.8" y="20.6" width="4.2" height="1.4" fill="#ead3c1"/>
+  <rect x="39" y="22" width="8.4" height="2.8" fill="#dac1ad"/>
+  <rect x="39" y="26.2" width="4.2" height="1.4" fill="#dac1ad"/>
+  <rect x="30.6" y="42" width="8.4" height="2.8" fill="#ead3c1"/>
+  <rect x="11" y="44.8" width="16.8" height="11.2" fill="#b5835a"/>
+  <rect x="30.6" y="46.2" width="4.2" height="1.4" fill="#ead3c1"/>
+  <rect x="13.8" y="47.6" width="8.4" height="2.8" fill="#dac1ad"/>
+  <rect x="13.8" y="51.8" width="4.2" height="1.4" fill="#dac1ad"/>
+ </g>
+</svg>
