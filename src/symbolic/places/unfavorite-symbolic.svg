@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="unfavorite-symbolic.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="47.875"
+     inkscape:cx="7.9895561"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <path
+     d="m8 0.023438c-0.43359 0.003907-0.81641 0.28125-0.94922 0.6875l-1.4023 4.2891-4.6562 0.015625c-0.97266 0.00391-1.3672 1.25-0.57422 1.8125l3.6406 2.5742-1.5 4.2891c-0.31641 0.90625 0.69531 1.6914 1.4961 1.1641l3.8984-2.5859 0.046875 0.03125 0.046875-0.03125 3.8984 2.5859c0.80078 0.52734 1.8125-0.25781 1.4961-1.1641l-1.5-4.2891 3.6406-2.5742c0.79297-0.5625 0.39844-1.8086-0.57422-1.8125l-4.6562-0.015625-1.4023-4.2891c-0.13281-0.40625-0.51563-0.68359-0.94922-0.6875zm0 4.2109 0.67578 2.0703c0.13281 0.41016 0.51562 0.6875 0.94531 0.69141l2.2539 0.00781-1.7031 1.2031c-0.36328 0.25781-0.51172 0.72266-0.36719 1.1445l0.76562 2.1914-1.9609-1.3008c-0.20312-0.058591-0.40625-0.11328-0.60938-0.16797-0.20312 0.054688-0.40625 0.10938-0.60938 0.16797l-1.9609 1.3008 0.76562-2.1914c0.14453-0.42187-0.00391-0.88672-0.36719-1.1445l-1.7031-1.2031 2.2539-0.00781c0.42969-0.00391 0.8125-0.28125 0.94531-0.69141l0.67578-2.0703z"
+     fill="#565656"
+     id="path1"
+     style="opacity:0.35" />
+</svg>
